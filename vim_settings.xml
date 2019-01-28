@@ -1,0 +1,342 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/Examples/src/Person.java" timestamp="1547570570737">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="42" column="28" />
+        <mark key="^" line="42" column="28" />
+        <mark key="." line="42" column="28" />
+      </file>
+      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/Main.kt" timestamp="1548689192689">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/example/Dave.kt" timestamp="1548353436406">
+        <mark key="'" line="28" column="37" />
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="27" column="12" />
+        <mark key="." line="27" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Examples/src/Person.kt" timestamp="1547571351821">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/KotlinLive/src/Ukesoppgaver.kt" timestamp="1547831749201">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/OceanForecastResponse.kt" timestamp="1548688545128">
+        <mark key="'" line="145" column="20" />
+        <mark key="[" line="14" column="101" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Examples/src/Examples.kt" timestamp="1547574681509">
+        <mark key="[" line="67" column="5" />
+        <mark key="]" line="68" column="3" />
+        <mark key="." line="68" column="3" />
+        <mark key="^" line="68" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/KotlinLive/src/ExamplesDone.kt" timestamp="1548334140955">
+        <mark key="[" line="57" column="5" />
+        <mark key="]" line="58" column="3" />
+        <mark key="." line="58" column="3" />
+        <mark key="^" line="58" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/KotlinLive/pom.xml" timestamp="1548545945005">
+        <mark key="[" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Examples/src/HelloWorld.java" timestamp="1547570898222">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="38" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="5" column="31" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/KotlinLive/src/Parallelism.kt" timestamp="1548545440373">
+        <mark key="'" line="4" column="15" />
+        <mark key="[" line="6" column="92" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/KotlinLive/src/Test.java" timestamp="1547826804026">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="6" column="5" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Examples/src/java/HelloWorld.java" timestamp="1547560477175">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/KotlinLive/src/Examples.kt" timestamp="1548344489063">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="41" column="6" />
+      </file>
+      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/MetnoOceanForecast.kt" timestamp="1548676996616">
+        <mark key="[" line="4" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Robocode/src/main/java/uio/gauteab/rambobot/MyRobot.kt" timestamp="1548345191680">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/example/ExampleRobot.kt" timestamp="1548350124498">
+        <mark key="[" line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/SimpleOceanForecastResponse.kt" timestamp="1548683212531">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="6" column="8" />
+      </file>
+      <file name="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/daveogco/StalkerDave.kt" timestamp="1548354488305">
+        <mark key="[" line="33" column="16" />
+        <mark key="]" line="33" column="16" />
+        <mark key="." line="33" column="16" />
+        <mark key="^" line="33" column="15" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.robocode/robocode.api/1.9.2.1/b59cc39c5b02225f9a63741a1e2ee83f23e06c97/robocode.api-1.9.2.1-sources.jar!/robocode/robotinterfaces/peer/IBasicRobotPeer.java" timestamp="1548354201543">
+        <mark key="'" line="737" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Robocode/pom.xml" timestamp="1548346754811">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="/" timestamp="1548683852791">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/KotlinLive/src/main/java/Parallelism.kt" timestamp="1548556542554">
+        <mark key="'" line="27" column="15" />
+        <mark key="[" line="72" column="18" />
+        <mark key="]" line="72" column="18" />
+        <mark key="." line="72" column="18" />
+        <mark key="^" line="109" column="27" />
+      </file>
+      <file name="$USER_HOME$/in2000/case_test/build.gradle" timestamp="1548687524065">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="27" />
+      </file>
+      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/OceanForecast.kt" timestamp="1548677280166">
+        <mark key="'" line="9" column="24" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+      </file>
+      <file name="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/uio/daveogco/StalkerDave.kt" timestamp="1548353589371">
+        <mark key="]" line="9" column="29" />
+        <mark key="^" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+      </file>
+      <file name="/fragment.java" timestamp="1548689232065">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Examples/src/StringUtils.java" timestamp="1547573942130">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/OceanForecastResponse.kt" timestamp="1548699274297">
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="18" column="4" />
+        <mark key="." line="18" column="4" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="32" column="23" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Examples.kt" />
+      <jump line="35" column="8" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Examples.kt" />
+      <jump line="13" column="19" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Parallelism.kt" />
+      <jump line="30" column="21" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Parallelism.kt" />
+      <jump line="31" column="25" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Parallelism.kt" />
+      <jump line="32" column="12" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Parallelism.kt" />
+      <jump line="34" column="47" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Parallelism.kt" />
+      <jump line="37" column="21" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Parallelism.kt" />
+      <jump line="38" column="39" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Parallelism.kt" />
+      <jump line="46" column="8" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Parallelism.kt" />
+      <jump line="53" column="8" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Parallelism.kt" />
+      <jump line="4" column="15" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Parallelism.kt" />
+      <jump line="21" column="0" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Examples.kt" />
+      <jump line="22" column="0" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Examples.kt" />
+      <jump line="16" column="103" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Examples.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Examples.kt" />
+      <jump line="10" column="4" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Examples.kt" />
+      <jump line="24" column="36" filename="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/example/Dave.kt" />
+      <jump line="25" column="37" filename="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/example/Dave.kt" />
+      <jump line="708" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.robocode/robocode.api/1.9.2.1/b59cc39c5b02225f9a63741a1e2ee83f23e06c97/robocode.api-1.9.2.1-sources.jar!/robocode/robotinterfaces/peer/IBasicRobotPeer.java" />
+      <jump line="737" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.robocode/robocode.api/1.9.2.1/b59cc39c5b02225f9a63741a1e2ee83f23e06c97/robocode.api-1.9.2.1-sources.jar!/robocode/robotinterfaces/peer/IBasicRobotPeer.java" />
+      <jump line="23" column="18" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/main/java/Parallelism.kt" />
+      <jump line="19" column="16" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/main/java/Parallelism.kt" />
+      <jump line="31" column="22" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/main/java/Parallelism.kt" />
+      <jump line="42" column="8" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/main/java/Parallelism.kt" />
+      <jump line="53" column="22" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/main/java/Parallelism.kt" />
+      <jump line="24" column="4" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/main/java/Parallelism.kt" />
+      <jump line="27" column="15" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/main/java/Parallelism.kt" />
+      <jump line="1" column="69" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/Main.kt" />
+      <jump line="4054" column="0" filename="/" />
+      <jump line="11" column="29" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/OceanForecast.kt" />
+      <jump line="9" column="24" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/OceanForecast.kt" />
+      <jump line="17" column="39" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/OceanForecastResponse.kt" />
+      <jump line="15" column="25" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/OceanForecastResponse.kt" />
+      <jump line="13" column="25" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/OceanForecastResponse.kt" />
+      <jump line="46" column="31" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/OceanForecastResponse.kt" />
+      <jump line="119" column="33" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/OceanForecastResponse.kt" />
+      <jump line="112" column="33" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/OceanForecastResponse.kt" />
+      <jump line="34" column="13" filename="/" />
+      <jump line="38" column="13" filename="/" />
+      <jump line="42" column="13" filename="/" />
+      <jump line="46" column="13" filename="/" />
+      <jump line="50" column="13" filename="/" />
+      <jump line="55" column="13" filename="/" />
+      <jump line="66" column="13" filename="/" />
+      <jump line="74" column="13" filename="/" />
+      <jump line="78" column="13" filename="/" />
+      <jump line="82" column="13" filename="/" />
+      <jump line="86" column="13" filename="/" />
+      <jump line="90" column="13" filename="/" />
+      <jump line="95" column="13" filename="/" />
+      <jump line="106" column="13" filename="/" />
+      <jump line="114" column="13" filename="/" />
+      <jump line="118" column="13" filename="/" />
+      <jump line="122" column="13" filename="/" />
+      <jump line="126" column="13" filename="/" />
+      <jump line="130" column="13" filename="/" />
+      <jump line="135" column="13" filename="/" />
+      <jump line="146" column="13" filename="/" />
+      <jump line="154" column="13" filename="/" />
+      <jump line="158" column="13" filename="/" />
+      <jump line="162" column="13" filename="/" />
+      <jump line="166" column="13" filename="/" />
+      <jump line="170" column="13" filename="/" />
+      <jump line="175" column="13" filename="/" />
+      <jump line="186" column="13" filename="/" />
+      <jump line="194" column="13" filename="/" />
+      <jump line="198" column="13" filename="/" />
+      <jump line="202" column="13" filename="/" />
+      <jump line="206" column="13" filename="/" />
+      <jump line="210" column="13" filename="/" />
+      <jump line="133" column="20" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/OceanForecastResponse.kt" />
+      <jump line="7" column="22" filename="/" />
+      <jump line="0" column="0" filename="/" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2Fsb21vbmJyeXMua290c29uLmZyb21Kc29uCmltcG9ydCBjb20uZ29vZ2xlLmdzb24uR3NvbgppbXBvcnQga2h0dHAuZ2V0Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">ICAgICA=</text>
+      </register>
+      <register name="/" type="4">
+        <text>gml:id</text>
+      </register>
+      <register name="0" type="4">
+        <text>mox:Forecasts</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2Fsb21vbmJyeXMua290c29uLmZyb21Kc29uCmltcG9ydCBjb20uZ29vZ2xlLmdzb24uR3NvbgppbXBvcnQga2h0dHAuZ2V0Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IG1vZGVsLm9jZWFuX2ZvcmVjYXN0LlNpbXBsZU9jZWFuRm9yZWNhc3RSZXNwb25zZQppbXBvcnQgb3JnLmpzb24uWE1MCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LyogICAgdmFsIHJlcyA9IGdldCgiaHR0cHM6Ly9hcGkubWV0Lm5vL3dlYXRoZXJhcGkvb2NlYW5mb3JlY2FzdC8wLjkvP2xhdD02MC4xMCZsb249NSIpCiAgICB2YWwganNvbiA9IFhNTC50b0pTT05PYmplY3QocmVzLnRleHQpLnRvU3RyaW5nKCkKICAgIHByaW50bG4oanNvbikqLwovLyAgICB2YWwgZm9yZWNhc3QgPSBHc29uKCkuZnJvbUpzb248U2ltcGxlT2NlYW5Gb3JlY2FzdFJlc3BvbnNlPihqc29uKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtodHRwLmdldCgiaHR0cHM6Ly9hcGkubWV0Lm5vL3dlYXRoZXJhcGkvb2NlYW5mb3JlY2FzdC8wLjkvP2xhdD0kbGF0Jmxvbj0kbG9uIikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dmFsIHBlcnNvblN0cmluZyA9CiIiIgo8cGVyc29uIGRvYj0xIGdlbmRlcj0ibWFsZSI+CiAgPG5hbWU+Sm9objwvbmFtZT4KICBMaWtlcyB0cmF2ZWxpbmcuCjwvcGVyc29uPgoiIiIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qva2h0dHAva2h0dHA6Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CkBTZXJpYWwK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vdmFsIHBlcnNvbiA9IEpzb24ucGFyc2UoUGVyc29uUmVzcG9uc2Uuc2VyaWFsaXplcigpLCBwZXJzb25Kc29uKQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/Int/Double/g</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>gml:id</last-search>
+      <last-offset />
+      <last-pattern>gml:id</last-pattern>
+      <last-replace>Double</last-replace>
+      <last-substitute>Int</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>&quot;</entry>
+        <entry>y</entry>
+        <entry>fun</entry>
+        <entry>other</entry>
+        <entry>package</entry>
+        <entry>;</entry>
+        <entry>0</entry>
+        <entry>data</entry>
+        <entry>a</entry>
+        <entry>da</entry>
+        <entry>kht</entry>
+        <entry encoding="base64">bW94OiA=</entry>
+        <entry encoding="base64">Z21sOiA=</entry>
+        <entry>\\n</entry>
+        <entry>\n</entry>
+        <entry>mox:fore</entry>
+        <entry>content</entry>
+        <entry>Int</entry>
+        <entry>glm:id</entry>
+        <entry>gml:id</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/data/0..size/g</entry>
+        <entry>%s/data/(0..size)/g</entry>
+        <entry>%s/mox: //g</entry>
+        <entry>%s/gml: //g</entry>
+        <entry>%s/Int/String/g</entry>
+        <entry>%s/Int/Double/g</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

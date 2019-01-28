@@ -1,0 +1,44 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Material Oceanic" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="server status&#10;sync&#10;ide se&#10;share se&#10;json" />
+    <property name="KEYMAP" value="comment" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="SettingsSearchHistory" value="server status&#10;login&#10;enable setting sync&#10;keymap" />
+    <property name="TrendingPluginsSearchHistory" value="ide setting sync&#10;share setting&#10;json&#10;jsontoko&#10;json data" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="evlsprt3.183" value="19" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/in2000/case_test&#10;/home/gaute/Downloads/robocode-templates-master/robocode-kotlin&#10;/usr/lib/jvm/jdk-u8191" />
+    <property name="file.gist.reindex.count" value="7" />
+    <property name="fileTypeChangedCounter" value="8" />
+    <property name="ideavim.statistics.timestamp" value="1548665054448" />
+    <property name="installed.kotlin.plugin.version" value="1.3.20-release-IJ2018.3-1" />
+    <property name="java.module.default.source.root" value="src" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="jsonToKotlin_user_custom_json_lib_annotation_import_class" value="import kotlinx.serialization.SerialName&#10;import kotlinx.serialization.Serializable" />
+    <property name="jsonToKotlin_user_uuid_value_key" value="b5a37b1c-c184-426d-9503-5a2d9cf78851" />
+    <property name="jsontokotlin_inner_class_model_key" value="true" />
+    <property name="jsontokotlin_is_property_property_type_strategy_key" value="NotNullable" />
+    <property name="jsontokotlin_user_custom_json_lib_annotation_format_string" value="@SerialName(&quot;%s&quot;)" />
+    <property name="jsontokotlin_user_custom_json_lib_class_annotation_format_string" value="@Serializable" />
+    <property name="kotlin.lastUpdateCheck" value="1548665527867" />
+    <property name="lastTip" value="1" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="param.hints.settings.last.edited.language" value="kotlin" />
+    <property name="project.wizard.group" value="org.jetbrains.plugins.gradle.service.project.wizard.GradleModuleBuilder" />
+    <property name="project.wizard.template" value="Kotlin/JVM" />
+    <property name="target_json_converter_lib_key" value="Custom" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>

@@ -9,16 +9,10 @@
         <mark key="^" line="42" column="28" />
         <mark key="." line="42" column="28" />
       </file>
-      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/Main.kt" timestamp="1548749592250">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="19" />
-        <mark key="." line="6" column="19" />
-      </file>
-      <file name="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/example/Dave.kt" timestamp="1548353436406">
-        <mark key="'" line="28" column="37" />
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="27" column="12" />
-        <mark key="." line="27" column="12" />
+      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/Main.kt" timestamp="1548753621277">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ProbablilityForecast.kt" timestamp="1548748953749">
         <mark key="[" line="14" column="12" />
@@ -142,6 +136,9 @@
         <mark key="." line="72" column="18" />
         <mark key="^" line="109" column="27" />
       </file>
+      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/SpotwindResponse.kt" timestamp="1548753546169">
+        <mark key="[" line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/in2000/case_test/build.gradle" timestamp="1548687524065">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -160,11 +157,12 @@
         <mark key="^" line="9" column="29" />
         <mark key="." line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/Client.kt" timestamp="1548749642482">
-        <mark key="[" line="13" column="102" />
-        <mark key="]" line="13" column="102" />
-        <mark key="." line="13" column="102" />
-        <mark key="^" line="13" column="96" />
+      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/Client.kt" timestamp="1548753608454">
+        <mark key="'" line="20" column="19" />
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="3" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="3" />
       </file>
       <file name="/fragment.java" timestamp="1548689232065">
         <mark key="[" line="0" column="0" />
@@ -258,55 +256,56 @@
       <jump line="0" column="0" filename="/" />
       <jump line="87" column="27" filename="/" />
       <jump line="4747" column="0" filename="/" />
+      <jump line="20" column="19" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/model/Client.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>70</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGtodHRwLmdldCgiaHR0cHM6Ly9hcGkubWV0Lm5vL3dlYXRoZXJhcGkvc3BvdHdpbmQvMS4wLz8iKS5hbHNvIHsKICAgICAgICBwcmludGxuKFhNTC50b0pTT05PYmplY3QoaXRrLnRleHQpKQogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>70</text>
+        <text>lat: Double, lon: Double, msl: Int</text>
       </register>
       <register name="/" type="4">
-        <text>gml:id</text>
+        <text>Prob</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGtodHRwLmdldCgiaHR0cHM6Ly9hcGkubWV0Lm5vL3dlYXRoZXJhcGkvcHJvYmFiaWxpdHlmb3JlY2FzdC8xLjEvP2xhdD02MC4xMCZsb249OS41OCZtc2w9NzAiKQogICAgICAgIC5sZXQgewogICAgICAgICAgICBwcmludGxuKFhNTC50b0pTT05PYmplY3QoaXQudGV4dCkpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ZnVuIFByb2JhYmlsaXR5Rm9yZWNhc3RSZXNwb25zZS5Db21wYW5pb24uZ2V0KGxhdDogRG91YmxlLCBsb246IERvdWJsZSwgbXNsOiBJbnQpOiBQcm9iYWJpbGl0eUZvcmVjYXN0UmVzcG9uc2UgPQogICAgZ2V0UmVzcG9uc2VPYmplY3QoIndlYXRoZXJhcGkvcHJvYmFiaWxpdHlmb3JlY2FzdC8xLjEvP2xhdD0kbGF0Jmxvbj0kbG9uJm1zbD0kbXNsIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGtodHRwLmdldCgiaHR0cHM6Ly9hcGkubWV0Lm5vL3dlYXRoZXJhcGkvcHJvYmFiaWxpdHlmb3JlY2FzdC8xLjEvP2xhdD02MC4xMCZsb249OS41OCZtc2w9NzAiKQogICAgICAgIC5sZXQgewogICAgICAgICAgICBwcmludGxuKFhNTC50b0pTT05PYmplY3QoaXQudGV4dCkpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGtodHRwLmdldCgiaHR0cHM6Ly9hcGkubWV0Lm5vL3dlYXRoZXJhcGkvc3BvdHdpbmQvMS4wLz8iKS5hbHNvIHsKICAgICAgICBwcmludGxuKFhNTC50b0pTT05PYmplY3QoaXRrLnRleHQpKQogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAubGV0IHsKICAgICAgICAgICAgcHJpbnRsbihYTUwudG9KU09OT2JqZWN0KGl0LnRleHQpKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhbCBmb3JlY2FzdCA9IFByb2JhYmlsaXR5Rm9yZWNhc3RSZXNwb25zZS5nZXQoNjAuMSwgOS41OCwgNzApCiAgICBwcmludGxuKGZvcmVjYXN0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXMgPSBraHR0cC5nZXQoImh0dHBzOi8vYXBpLm1ldC5uby93ZWF0aGVyYXBpL29jZWFuZm9yZWNhc3QvMC45Lz9sYXQ9JGxhdCZsb249JGxvbiIpCiAgICB2YWwganNvbiA9IFhNTC50b0pTT05PYmplY3QocmVzLnRleHQpLnRvU3RyaW5nKCkKICAgIHJldHVybiBHc29uKCkuZnJvbUpzb24oanNvbikK</text>
+        <text encoding="base64">aW1wb3J0IG1vZGVsLk9jZWFuRm9yZWNhc3RSZXNwb25zZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG1vZGVsLlByb2JhYmxpbGl0eUZvcmVjYXN0UmVzcG9uc2UK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLlhNTAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuIFByb2JhYmlsaXR5Rm9yZWNhc3RSZXNwb25zZS5Db21wYW5pb24uZ2V0KGxhdDogRG91YmxlLCBsb246IERvdWJsZSk6IFByb2JhYmlsaXR5Rm9yZWNhc3RSZXNwb25zZSB7CiAgICB2YWwgcmVzID0ga2h0dHAuZ2V0KCJodHRwczovL2FwaS5tZXQubm8vd2VhdGhlcmFwaS9vY2VhbmZvcmVjYXN0LzAuOS8/bGF0PSRsYXQmbG9uPSRsb24iKQogICAgdmFsIGpzb24gPSBYTUwudG9KU09OT2JqZWN0KHJlcy50ZXh0KS50b1N0cmluZygpCiAgICByZXR1cm4gR3NvbigpLmZyb21Kc29uKGpzb24pCn0K</text>
+        <text encoding="base64">aW1wb3J0IGtodHRwLnJlc3BvbnNlcy5SZXNwb25zZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCByZXMgPSBraHR0cC5nZXQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gZ2V0KGxhdDogRG91YmxlLCBsb246IERvdWJsZSk6IE9jZWFuRm9yZWNhc3RSZXNwb25zZSB7CiAgICAgICAgICAgIHZhbCByZXMgPSBraHR0cC5nZXQoImh0dHBzOi8vYXBpLm1ldC5uby93ZWF0aGVyYXBpL29jZWFuZm9yZWNhc3QvMC45Lz9sYXQ9JGxhdCZsb249JGxvbiIpCiAgICAgICAgICAgIHZhbCBqc29uID0gWE1MLnRvSlNPTk9iamVjdChyZXMudGV4dCkudG9TdHJpbmcoKQogICAgICAgICAgICByZXR1cm4gR3NvbigpLmZyb21Kc29uKGpzb24pCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCBqc29uID0gWE1MLnRvSlNPTk9iamVjdChyZXMudGV4dCkudG9TdHJpbmcoKQogICAgcmV0dXJuIEdzb24oKS5mcm9tSnNvbihqc29uKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oc2VhQm90dG9tVG9wb2dyYXBoeSkK</text>
+        <text encoding="base64">ewogICAgdmFsIHJlcyA9IGtodHRwLmdldCgpCiAgICB2YWwganNvbiA9IFhNTC50b0pTT05PYmplY3QocmVzLnRleHQpLnRvU3RyaW5nKCkKICAgIHJldHVybiBHc29uKCkuZnJvbUpzb24oanNvbikKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Int/Double/g</text>
       </register>
     </registers>
     <search>
-      <last-search>gml:id</last-search>
+      <last-search>Prob</last-search>
       <last-offset />
-      <last-pattern>gml:id</last-pattern>
+      <last-pattern>Prob</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -314,7 +313,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
         <entry>y</entry>
         <entry>fun</entry>
         <entry>other</entry>
@@ -334,6 +332,7 @@
         <entry>Int</entry>
         <entry>glm:id</entry>
         <entry>gml:id</entry>
+        <entry>Prob</entry>
       </history-search>
       <history-cmd>
         <entry>%s/data/0..size/g</entry>

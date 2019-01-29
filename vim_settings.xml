@@ -9,16 +9,21 @@
         <mark key="^" line="42" column="28" />
         <mark key="." line="42" column="28" />
       </file>
-      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/Main.kt" timestamp="1548689192689">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/Main.kt" timestamp="1548749592250">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
       </file>
       <file name="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/example/Dave.kt" timestamp="1548353436406">
         <mark key="'" line="28" column="37" />
         <mark key="[" line="7" column="9" />
         <mark key="]" line="27" column="12" />
         <mark key="." line="27" column="12" />
+      </file>
+      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ProbablilityForecast.kt" timestamp="1548748953749">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="95" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/Person.kt" timestamp="1547571351821">
         <mark key="[" line="9" column="35" />
@@ -31,6 +36,9 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
         <mark key="^" line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ProbabilityForecastResponse.kt" timestamp="1548749483118">
+        <mark key="[" line="7" column="3" />
       </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/OceanForecastResponse.kt" timestamp="1548688545128">
         <mark key="'" line="145" column="20" />
@@ -120,12 +128,12 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="/" timestamp="1548683852791">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="3" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/" timestamp="1548749287455">
+        <mark key="'" line="4747" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="87" column="27" />
+        <mark key="^" line="87" column="27" />
+        <mark key="." line="87" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/KotlinLive/src/main/java/Parallelism.kt" timestamp="1548556542554">
         <mark key="'" line="27" column="15" />
@@ -152,6 +160,12 @@
         <mark key="^" line="9" column="29" />
         <mark key="." line="9" column="29" />
       </file>
+      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/Client.kt" timestamp="1548749642482">
+        <mark key="[" line="13" column="102" />
+        <mark key="]" line="13" column="102" />
+        <mark key="." line="13" column="102" />
+        <mark key="^" line="13" column="96" />
+      </file>
       <file name="/fragment.java" timestamp="1548689232065">
         <mark key="[" line="0" column="0" />
       </file>
@@ -161,10 +175,10 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/OceanForecastResponse.kt" timestamp="1548699274297">
-        <mark key="]" line="18" column="4" />
-        <mark key="^" line="18" column="4" />
-        <mark key="." line="18" column="4" />
+      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/OceanForecastResponse.kt" timestamp="1548749463768">
+        <mark key="[" line="10" column="3" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -242,46 +256,48 @@
       <jump line="133" column="20" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/OceanForecastResponse.kt" />
       <jump line="7" column="22" filename="/" />
       <jump line="0" column="0" filename="/" />
+      <jump line="87" column="27" filename="/" />
+      <jump line="4747" column="0" filename="/" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2Fsb21vbmJyeXMua290c29uLmZyb21Kc29uCmltcG9ydCBjb20uZ29vZ2xlLmdzb24uR3NvbgppbXBvcnQga2h0dHAuZ2V0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>70</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICA=</text>
+        <text>70</text>
       </register>
       <register name="/" type="4">
         <text>gml:id</text>
       </register>
-      <register name="0" type="4">
-        <text>mox:Forecasts</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGtodHRwLmdldCgiaHR0cHM6Ly9hcGkubWV0Lm5vL3dlYXRoZXJhcGkvcHJvYmFiaWxpdHlmb3JlY2FzdC8xLjEvP2xhdD02MC4xMCZsb249OS41OCZtc2w9NzAiKQogICAgICAgIC5sZXQgewogICAgICAgICAgICBwcmludGxuKFhNTC50b0pTT05PYmplY3QoaXQudGV4dCkpCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2Fsb21vbmJyeXMua290c29uLmZyb21Kc29uCmltcG9ydCBjb20uZ29vZ2xlLmdzb24uR3NvbgppbXBvcnQga2h0dHAuZ2V0Cg==</text>
+        <text encoding="base64">ICAgIGtodHRwLmdldCgiaHR0cHM6Ly9hcGkubWV0Lm5vL3dlYXRoZXJhcGkvcHJvYmFiaWxpdHlmb3JlY2FzdC8xLjEvP2xhdD02MC4xMCZsb249OS41OCZtc2w9NzAiKQogICAgICAgIC5sZXQgewogICAgICAgICAgICBwcmludGxuKFhNTC50b0pTT05PYmplY3QoaXQudGV4dCkpCiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG1vZGVsLm9jZWFuX2ZvcmVjYXN0LlNpbXBsZU9jZWFuRm9yZWNhc3RSZXNwb25zZQppbXBvcnQgb3JnLmpzb24uWE1MCg==</text>
+        <text encoding="base64">ICAgICAgICAubGV0IHsKICAgICAgICAgICAgcHJpbnRsbihYTUwudG9KU09OT2JqZWN0KGl0LnRleHQpKQogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyogICAgdmFsIHJlcyA9IGdldCgiaHR0cHM6Ly9hcGkubWV0Lm5vL3dlYXRoZXJhcGkvb2NlYW5mb3JlY2FzdC8wLjkvP2xhdD02MC4xMCZsb249NSIpCiAgICB2YWwganNvbiA9IFhNTC50b0pTT05PYmplY3QocmVzLnRleHQpLnRvU3RyaW5nKCkKICAgIHByaW50bG4oanNvbikqLwovLyAgICB2YWwgZm9yZWNhc3QgPSBHc29uKCkuZnJvbUpzb248U2ltcGxlT2NlYW5Gb3JlY2FzdFJlc3BvbnNlPihqc29uKQo=</text>
+        <text encoding="base64">ICAgIHZhbCByZXMgPSBraHR0cC5nZXQoImh0dHBzOi8vYXBpLm1ldC5uby93ZWF0aGVyYXBpL29jZWFuZm9yZWNhc3QvMC45Lz9sYXQ9JGxhdCZsb249JGxvbiIpCiAgICB2YWwganNvbiA9IFhNTC50b0pTT05PYmplY3QocmVzLnRleHQpLnRvU3RyaW5nKCkKICAgIHJldHVybiBHc29uKCkuZnJvbUpzb24oanNvbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtodHRwLmdldCgiaHR0cHM6Ly9hcGkubWV0Lm5vL3dlYXRoZXJhcGkvb2NlYW5mb3JlY2FzdC8wLjkvP2xhdD0kbGF0Jmxvbj0kbG9uIikK</text>
+        <text encoding="base64">aW1wb3J0IG1vZGVsLlByb2JhYmxpbGl0eUZvcmVjYXN0UmVzcG9uc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuIFByb2JhYmlsaXR5Rm9yZWNhc3RSZXNwb25zZS5Db21wYW5pb24uZ2V0KGxhdDogRG91YmxlLCBsb246IERvdWJsZSk6IFByb2JhYmlsaXR5Rm9yZWNhc3RSZXNwb25zZSB7CiAgICB2YWwgcmVzID0ga2h0dHAuZ2V0KCJodHRwczovL2FwaS5tZXQubm8vd2VhdGhlcmFwaS9vY2VhbmZvcmVjYXN0LzAuOS8/bGF0PSRsYXQmbG9uPSRsb24iKQogICAgdmFsIGpzb24gPSBYTUwudG9KU09OT2JqZWN0KHJlcy50ZXh0KS50b1N0cmluZygpCiAgICByZXR1cm4gR3NvbigpLmZyb21Kc29uKGpzb24pCn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFsIHBlcnNvblN0cmluZyA9CiIiIgo8cGVyc29uIGRvYj0xIGdlbmRlcj0ibWFsZSI+CiAgPG5hbWU+Sm9objwvbmFtZT4KICBMaWtlcyB0cmF2ZWxpbmcuCjwvcGVyc29uPgoiIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qva2h0dHAva2h0dHA6Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CkBTZXJpYWwK</text>
+        <text encoding="base64">ICAgICAgICBmdW4gZ2V0KGxhdDogRG91YmxlLCBsb246IERvdWJsZSk6IE9jZWFuRm9yZWNhc3RSZXNwb25zZSB7CiAgICAgICAgICAgIHZhbCByZXMgPSBraHR0cC5nZXQoImh0dHBzOi8vYXBpLm1ldC5uby93ZWF0aGVyYXBpL29jZWFuZm9yZWNhc3QvMC45Lz9sYXQ9JGxhdCZsb249JGxvbiIpCiAgICAgICAgICAgIHZhbCBqc29uID0gWE1MLnRvSlNPTk9iamVjdChyZXMudGV4dCkudG9TdHJpbmcoKQogICAgICAgICAgICByZXR1cm4gR3NvbigpLmZyb21Kc29uKGpzb24pCiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vdmFsIHBlcnNvbiA9IEpzb24ucGFyc2UoUGVyc29uUmVzcG9uc2Uuc2VyaWFsaXplcigpLCBwZXJzb25Kc29uKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oc2VhQm90dG9tVG9wb2dyYXBoeSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Int/Double/g</text>

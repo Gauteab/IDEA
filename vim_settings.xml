@@ -86,7 +86,7 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="41" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550139572178">
+      <file name="/Dummy.txt" timestamp="1550140652057">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/untitled/src/main.rs" timestamp="1548704755743">
@@ -113,11 +113,11 @@
       <file name="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/example/ExampleRobot.kt" timestamp="1548350124498">
         <mark key="[" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/AOC18/src/main.rs" timestamp="1550139951179">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="7" column="11" />
-        <mark key="." line="7" column="11" />
-        <mark key="^" line="7" column="11" />
+      <file name="$USER_HOME$/CLionProjects/AOC18/src/main.rs" timestamp="1550140966134">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="5" column="19" />
       </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/SimpleOceanForecastResponse.kt" timestamp="1548683212531">
         <mark key="[" line="6" column="8" />
@@ -282,64 +282,64 @@
       <jump line="6" column="0" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/Main.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/Main.kt" />
       <jump line="1" column="12" filename="$USER_HOME$/CLionProjects/AOC18/src/day1.rs" />
+      <jump line="1" column="0" filename="$USER_HOME$/CLionProjects/AOC18/src/main.rs" />
+      <jump line="2" column="0" filename="$USER_HOME$/CLionProjects/AOC18/src/main.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCB4ID0gcy5saW5lcygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>lat: Double, lon: Double, msl: Int</text>
       </register>
       <register name="/" type="4">
-        <text>s</text>
+        <text>\.\.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnVuIFByb2JhYmlsaXR5Rm9yZWNhc3RSZXNwb25zZS5Db21wYW5pb24uZ2V0KGxhdDogRG91YmxlLCBsb246IERvdWJsZSwgbXNsOiBJbnQpOiBQcm9iYWJpbGl0eUZvcmVjYXN0UmVzcG9uc2UgPQogICAgZ2V0UmVzcG9uc2VPYmplY3QoIndlYXRoZXJhcGkvcHJvYmFiaWxpdHlmb3JlY2FzdC8xLjEvP2xhdD0kbGF0Jmxvbj0kbG9uJm1zbD0kbXNsIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCB4ID0gcy5saW5lcygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAubGluZXMoKTsK</text>
+        <text encoding="base64">ICAgIG1hdGNoICgwLi4pIHsKICAgICAgICBfID0+IHt9CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuaW5zcGVjdGRkKHx4fCBwcmludGxuISgiezo/fSIsIHgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJIZWxsbywgd29ybGQhIik7Cg==</text>
+        <text encoding="base64">dXNlIHN0ZDo6aXRlcjo6RmlsdGVyOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAubGluZXMK</text>
+        <text encoding="base64">ICAgIGxldCB4ID0gcy5saW5lcygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBzID0gU3RyaW5nOjpmcm9tKCJIZWxsbyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAubGluZXMoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCB4ID0gczsK</text>
+        <text encoding="base64">ICAgICAgICAuaW5zcGVjdGRkKHx4fCBwcmludGxuISgiezo/fSIsIHgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBtdXQgeCA9IDE7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4hKCJIZWxsbywgd29ybGQhIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIHN0ZAoK</text>
+        <text encoding="base64">ICAgICAgICAubGluZXMK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Int/Double/g</text>
       </register>
     </registers>
     <search>
-      <last-search>s</last-search>
+      <last-search>\.\.</last-search>
       <last-offset />
-      <last-pattern>s</last-pattern>
+      <last-pattern>\.\.</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fun</entry>
-        <entry>other</entry>
         <entry>package</entry>
         <entry>;</entry>
         <entry>0</entry>
@@ -358,6 +358,8 @@
         <entry>gml:id</entry>
         <entry>Prob</entry>
         <entry>s</entry>
+        <entry>..</entry>
+        <entry>\.\.</entry>
       </history-search>
       <history-cmd>
         <entry>%s/data/0..size/g</entry>

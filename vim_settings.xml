@@ -86,6 +86,9 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="41" column="6" />
       </file>
+      <file name="/Dummy.txt" timestamp="1550138629781">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/untitled/src/main.rs" timestamp="1548704755743">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="29" />
@@ -95,6 +98,13 @@
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/MetnoOceanForecast.kt" timestamp="1548676996616">
         <mark key="[" line="4" column="9" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/AOC18/src/day1.rs" timestamp="1550138975389">
+        <mark key="'" line="1" column="12" />
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="64" />
+        <mark key="." line="1" column="64" />
+        <mark key="^" line="1" column="64" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/Robocode/src/main/java/uio/gauteab/rambobot/MyRobot.kt" timestamp="1548345191680">
         <mark key="[" line="8" column="21" />
         <mark key="]" line="14" column="0" />
@@ -103,6 +113,11 @@
       </file>
       <file name="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/example/ExampleRobot.kt" timestamp="1548350124498">
         <mark key="[" line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/AOC18/src/main.rs" timestamp="1550138659425">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/SimpleOceanForecastResponse.kt" timestamp="1548683212531">
         <mark key="[" line="6" column="8" />
@@ -116,13 +131,16 @@
         <mark key="." line="33" column="16" />
         <mark key="^" line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.robocode/robocode.api/1.9.2.1/b59cc39c5b02225f9a63741a1e2ee83f23e06c97/robocode.api-1.9.2.1-sources.jar!/robocode/robotinterfaces/peer/IBasicRobotPeer.java" timestamp="1548354201543">
-        <mark key="'" line="737" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/Robocode/pom.xml" timestamp="1548346754811">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/AOC18/input/day1.txt" timestamp="1550138334509">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="950" column="5" />
+        <mark key="^" line="950" column="5" />
+        <mark key="." line="950" column="5" />
       </file>
       <file name="/" timestamp="1548749287455">
         <mark key="'" line="4747" column="0" />
@@ -263,63 +281,63 @@
       <jump line="15" column="0" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/Main.kt" />
       <jump line="6" column="0" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/Main.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/Main.kt" />
+      <jump line="1" column="12" filename="$USER_HOME$/CLionProjects/AOC18/src/day1.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE9jZWFuRm9yZWNhc3RSZXNwb25zZS5oZWxsbygpCg==</text>
+        <text encoding="base64">ICAgICAgICAubGluZXMoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>lat: Double, lon: Double, msl: Int</text>
       </register>
       <register name="/" type="4">
-        <text>Prob</text>
+        <text>s</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnVuIFByb2JhYmlsaXR5Rm9yZWNhc3RSZXNwb25zZS5Db21wYW5pb24uZ2V0KGxhdDogRG91YmxlLCBsb246IERvdWJsZSwgbXNsOiBJbnQpOiBQcm9iYWJpbGl0eUZvcmVjYXN0UmVzcG9uc2UgPQogICAgZ2V0UmVzcG9uc2VPYmplY3QoIndlYXRoZXJhcGkvcHJvYmFiaWxpdHlmb3JlY2FzdC8xLjEvP2xhdD0kbGF0Jmxvbj0kbG9uJm1zbD0kbXNsIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE9jZWFuRm9yZWNhc3RSZXNwb25zZS5oZWxsbygpCg==</text>
+        <text encoding="base64">ICAgICAgICAubGluZXMoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGtrawo=</text>
+        <text encoding="base64">ICAgICAgICAuaW5zcGVjdGRkKHx4fCBwcmludGxuISgiezo/fSIsIHgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlzRGlnaXQoeCkK</text>
+        <text encoding="base64">ICAgIHByaW50bG4hKCJIZWxsbywgd29ybGQhIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2Fsb21vbmJyeXMua290c29uLmZyb21Kc29uCg==</text>
+        <text encoding="base64">ICAgICAgICAubGluZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuIDxGIDogTGlzdDxGPiwgQSxCPiBmbWFwKGw6IExpc3Q8QT4sIGY6IChBKSAtPiBCKTogTGlzdDxCPiB7CiAgICAKfQoKRnVuY3RvciBmID0+IGYgYSAtPiAoYSAtPiBiKSAtPiBmIGIKW2FdIC0+IChhIC0+IGIpIC0+IFtiXQpNYXliZSBhIC0+IChhIC0+IGIpIC0+IE1heWJlIGIKCjxGIDogRnVuY3Rvcj4gZm1hcChGPEE+IGZtYXApCgoK</text>
+        <text encoding="base64">ICAgIGxldCBzID0gU3RyaW5nOjpmcm9tKCJIZWxsbyIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLlhNTAo=</text>
+        <text encoding="base64">ICAgIGxldCB4ID0gczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2Fsb21vbmJyeXMua290c29uLmZyb21Kc29uCmltcG9ydCBjb20uZ29vZ2xlLmdzb24uR3Nvbgo=</text>
+        <text encoding="base64">ICAgIGxldCBtdXQgeCA9IDE7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLlhNTAo=</text>
+        <text encoding="base64">dXNlIHN0ZAoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGtodHRwLmdldCgiaHR0cHM6Ly9hcGkubWV0Lm5vL3dlYXRoZXJhcGkvc3BvdHdpbmQvMS4wLz8iKS5hbHNvIHsKICAgICAgICBwcmludGxuKFhNTC50b0pTT05PYmplY3QoaXRrLnRleHQpKQogICAgfQo=</text>
+        <text encoding="base64">ICAgIE9jZWFuRm9yZWNhc3RSZXNwb25zZS5oZWxsbygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Int/Double/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Prob</last-search>
+      <last-search>s</last-search>
       <last-offset />
-      <last-pattern>Prob</last-pattern>
+      <last-pattern>s</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>y</entry>
         <entry>fun</entry>
         <entry>other</entry>
         <entry>package</entry>
@@ -339,6 +357,7 @@
         <entry>glm:id</entry>
         <entry>gml:id</entry>
         <entry>Prob</entry>
+        <entry>s</entry>
       </history-search>
       <history-cmd>
         <entry>%s/data/0..size/g</entry>

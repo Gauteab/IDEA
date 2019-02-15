@@ -22,11 +22,11 @@
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ProbabilityForecastResponse.kt" timestamp="1548749483118">
         <mark key="[" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/token.rs" timestamp="1550228235509">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="7" column="8" />
-        <mark key="^" line="7" column="8" />
-        <mark key="." line="7" column="8" />
+      <file name="$USER_HOME$/git/Rasp/src/scanner/token.rs" timestamp="1550232335917">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/KotlinLive/src/ExamplesDone.kt" timestamp="1548334140955">
         <mark key="[" line="57" column="5" />
@@ -72,8 +72,8 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/mod.rs" timestamp="1550225222807">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/Rasp/src/scanner/mod.rs" timestamp="1550232099871">
+        <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -98,12 +98,12 @@
       <file name="$USER_HOME$/CLionProjects/aoc18/Cargo.lock" timestamp="1550141701549">
         <mark key="[" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1550226213535">
+      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1550232552481">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="4" />
-        <mark key="." line="5" column="4" />
-        <mark key="^" line="2" column="26" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/Person.kt" timestamp="1547571351821">
         <mark key="[" line="9" column="35" />
@@ -135,12 +135,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550231702477">
-        <mark key="'" line="8" column="45" />
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="16" column="10" />
-        <mark key="." line="16" column="10" />
-        <mark key="^" line="16" column="10" />
+      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550232815812">
+        <mark key="'" line="4" column="25" />
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="10" column="48" />
+        <mark key="." line="10" column="48" />
+        <mark key="^" line="10" column="48" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/java/HelloWorld.java" timestamp="1547560477175">
         <mark key="[" line="6" column="0" />
@@ -330,10 +330,11 @@
       <jump line="1" column="3" filename="$USER_HOME$/git/Rasp/src/main.rs" />
       <jump line="2" column="0" filename="$USER_HOME$/git/Rasp/src/main.rs" />
       <jump line="8" column="45" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
+      <jump line="3" column="25" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dXNlIHNjYW5uZXI6OnRva2VuOjpUb2tlbjsK</text>
       </register>
       <register name="-" type="4">
         <text>return</text>
@@ -345,31 +346,31 @@
         <text encoding="base64">eDogTWFwPExpbmVzLCBmbigmc3RyKSAtPiBpMzI+IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dXNlIHNjYW5uZXI6OnRva2VuOjpUb2tlbjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBieXRlcyA9IGxpbmUuYXNfYnl0ZXMoKTsK</text>
+        <text encoding="base64">bW9kIHNjYW5uZXI6OnRva2VuOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwCiAgICAgICAgcAo=</text>
+        <text encoding="base64">dXNlIHNjYW5uZXI6OnRva2VuOjpUb2tlbjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGxpbmUuaXNfZW1wdHkoKSB8fCBsaW5lLnN0YXJ0c193aXRoKCIjIikgeyByZXR1cm47IH0K</text>
+        <text encoding="base64">dXNlIHRva2VuOjpUb2tlbjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxpbmUuYXNfYnl0ZXMoKS5pdGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgibGluZToge306IHt9IiwgaSwgbGluZT8pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3RydWN0IFNjYW5uZXIgewogICAgZmlsZW5hbWU6IHN0ciwKICAgIAp9Cg==</text>
+        <text encoding="base64">ICAgIGxldCBieXRlcyA9IGxpbmUuYXNfYnl0ZXMoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YiBmb286IHUzMiwK</text>
+        <text encoding="base64">ICAgICAgICBwCiAgICAgICAgcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGV0IHggPSB2ZWMhWzA7MTAwXTsKCg==</text>
+        <text encoding="base64">ICAgIGlmIGxpbmUuaXNfZW1wdHkoKSB8fCBsaW5lLnN0YXJ0c193aXRoKCIjIikgeyByZXR1cm47IH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/Int/Double/g</text>

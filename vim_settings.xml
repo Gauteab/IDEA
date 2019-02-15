@@ -83,11 +83,12 @@
       <file name="$USER_HOME$/IdeaProjects/Examples/src/java/HelloWorld.java" timestamp="1547560477175">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/rust-test/src/main.rs" timestamp="1550154724820">
-        <mark key="[" line="4" column="47" />
-        <mark key="]" line="4" column="48" />
-        <mark key="." line="4" column="48" />
-        <mark key="^" line="4" column="49" />
+      <file name="$USER_HOME$/CLionProjects/rust-test/src/main.rs" timestamp="1550222112920">
+        <mark key="'" line="4" column="35" />
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="38" />
+        <mark key="." line="4" column="38" />
+        <mark key="^" line="3" column="39" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/KotlinLive/src/Examples.kt" timestamp="1548344489063">
         <mark key="[" line="39" column="0" />
@@ -204,12 +205,8 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/rust-test/src/day1.rs" timestamp="1550221519752">
+      <file name="$USER_HOME$/CLionProjects/rust-test/src/day1.rs" timestamp="1550222208822">
         <mark key="'" line="1" column="29" />
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="23" column="26" />
-        <mark key="." line="23" column="26" />
-        <mark key="^" line="23" column="26" />
       </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/Client.kt" timestamp="1548770895927">
         <mark key="'" line="20" column="19" />
@@ -325,46 +322,49 @@
       <jump line="16" column="19" filename="$USER_HOME$/CLionProjects/rust-test/src/day1.rs" />
       <jump line="18" column="0" filename="$USER_HOME$/CLionProjects/rust-test/src/day1.rs" />
       <jump line="1" column="29" filename="$USER_HOME$/CLionProjects/rust-test/src/day1.rs" />
+      <jump line="4" column="35" filename="$USER_HOME$/CLionProjects/rust-test/src/main.rs" />
+      <jump line="5" column="35" filename="$USER_HOME$/CLionProjects/rust-test/src/main.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZyZXEK</text>
+      <register name="&quot;" type="4">
+        <text>day1::solve_b());</text>
       </register>
       <register name="-" type="4">
-        <text>fun</text>
+        <text>day1::solve_b());</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGZzOjpyZWFkX3RvX3N0cmluZygiaW5wdXQvZGF5MS5pbiIpLnVud3JhcCgpCiAgICAgICAgLmxpbmVzKCkKICAgICAgICAubWFwKHxzfCBzLnBhcnNlOjo8aTMyPigpLnVud3JhcCgpKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">eDogTWFwPExpbmVzLCBmbigmc3RyKSAtPiBpMzI+IA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZyZXEK</text>
+      <register name="1" type="8">
+        <text>d
+d</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvKgogICAgICAgIC5saW5lcygpCiAgICAgICAgLm1hcCh8c3wgcy5wYXJzZTo6PGkzMj4oKS51bndyYXAoKSkKICAgICAgICAuc3VtKCkqLwo=</text>
+        <text encoding="base64">ICAgICAgICBmczo6cmVhZF90b19zdHJpbmcoImlucHV0L2RheTEuaW4iKS51bndyYXAoKQogICAgICAgICAgICAubGluZXMoKQogICAgICAgICAgICAubWFwKHxzfCBzLnBhcnNlOjo8aTMyPigpLnVud3JhcCgpKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZzOjpyZQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIGZzOjpyZWFkX3RvX3N0cmluZygiaW5wdXQvZGF5MS5pbiIpLnVud3JhcCgpCiAgICAgICAgLmxpbmVzKCkKICAgICAgICAubWFwKHxzfCBzLnBhcnNlOjo8aTMyPigpLnVud3JhcCgpKQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEZpbGU6Om9wZW4oIiIpCg==</text>
+        <text encoding="base64">ICAgIGZyZXEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBkMWEgPSBkYXkxOjpzb2x2ZV9hKCk7Cg==</text>
+        <text encoding="base64">ICAgIGZyZXEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBkMWIgPSBkYXkxOjpzb2x2ZV9iKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBmcmVxcy5jb250YWlucygmZnJlcSkgeyBicmVhazsgfQogICAgICAgIGZyZXFzLmluc2VydChmcmVxKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBwID0gUG9pbnQ6Om5ldygxMCwyMCk7CiAgICBwcmludGxuISgiezo/fSIsIHApOwo=</text>
+        <text encoding="base64">ICAgICAgICBmcmVxcy4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/Int/Double/g</text>

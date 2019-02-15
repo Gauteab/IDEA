@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="createimage" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="asp" type="PLAIN_TEXT" />
       <mapping pattern="HelloWorld" type="Kotlin" />
     </extensionMap>
   </component>

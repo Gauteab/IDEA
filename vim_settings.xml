@@ -135,12 +135,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550228449646">
-        <mark key="'" line="5" column="26" />
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="24" />
-        <mark key="^" line="13" column="24" />
+      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550231702477">
+        <mark key="'" line="8" column="45" />
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="10" />
+        <mark key="." line="16" column="10" />
+        <mark key="^" line="16" column="10" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/java/HelloWorld.java" timestamp="1547560477175">
         <mark key="[" line="6" column="0" />
@@ -329,55 +329,56 @@
       <jump line="4" column="26" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="1" column="3" filename="$USER_HOME$/git/Rasp/src/main.rs" />
       <jump line="2" column="0" filename="$USER_HOME$/git/Rasp/src/main.rs" />
+      <jump line="8" column="45" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>unwrap();</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
-        <text>}</text>
+        <text>ret</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">eDogTWFwPExpbmVzLCBmbigmc3RyKSAtPiBpMzI+IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3RydWN0IFNjYW5uZXIgewogICAgZmlsZW5hbWU6IHN0ciwKICAgIAp9Cg==</text>
+        <text encoding="base64">ICAgIGxldCBieXRlcyA9IGxpbmUuYXNfYnl0ZXMoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YiBmb286IHUzMiwK</text>
+        <text encoding="base64">ICAgICAgICBwCiAgICAgICAgcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGV0IHggPSB2ZWMhWzA7MTAwXTsKCg==</text>
+        <text encoding="base64">ICAgIGlmIGxpbmUuaXNfZW1wdHkoKSB8fCBsaW5lLnN0YXJ0c193aXRoKCIjIikgeyByZXR1cm47IH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICBsZXQgbXV0IGxpbmUgPSBTdHJpbmc6Om5ldygpOwogICAgbGV0IGxlbiA9IHJlYWRlci5yZWFkX2xpbmUoJm11dCBsaW5lKT87CiAgICBwcmludGxuISgiezo/fSIsIGxpbmUpOwogICAgcHJpbnRsbiEoIkZpcnN0IGxpbmUgaXMge30gYnl0ZXMgbG9uZyIsIGxlbik7Ki8K</text>
+        <text encoding="base64">ICAgIGxpbmUuYXNfYnl0ZXMoKS5pdGVyKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlYWRlci5saW5lcygpLmVudW1lcmF0ZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlYWRlci5yZQo=</text>
+        <text encoding="base64">c3RydWN0IFNjYW5uZXIgewogICAgZmlsZW5hbWU6IHN0ciwKICAgIAp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIHN0ZDo6aW87Cg==</text>
+        <text encoding="base64">ICAgIHB1YiBmb286IHUzMiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIHN0ZDo6aW86OkJ1ZlJlYWQ7Cg==</text>
+        <text encoding="base64">bGV0IHggPSB2ZWMhWzA7MTAwXTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Int/Double/g</text>
       </register>
     </registers>
     <search>
-      <last-search>}</last-search>
+      <last-search>ret</last-search>
       <last-offset />
-      <last-pattern>}</last-pattern>
+      <last-pattern>ret</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -385,7 +386,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
         <entry>a</entry>
         <entry>da</entry>
         <entry>kht</entry>
@@ -405,6 +405,7 @@
         <entry encoding="base64">diA=</entry>
         <entry encoding="base64">XDw7XD4=</entry>
         <entry>}</entry>
+        <entry>ret</entry>
       </history-search>
       <history-cmd>
         <entry>%s/data/0..size/g</entry>

@@ -37,8 +37,7 @@
       <file name="$USER_HOME$/IdeaProjects/KotlinLive/pom.xml" timestamp="1548545945005">
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/Cargo.toml" timestamp="1550223715719">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/git/Rasp/Cargo.toml" timestamp="1550242201847">
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
@@ -72,11 +71,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/mod.rs" timestamp="1550232099871">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+      <file name="$USER_HOME$/git/Rasp/src/scanner/mod.rs" timestamp="1550242531442">
+        <mark key="'" line="1" column="13" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Robocode/pom.xml" timestamp="1548346754811">
         <mark key="[" line="45" column="0" />
@@ -98,12 +97,11 @@
       <file name="$USER_HOME$/CLionProjects/aoc18/Cargo.lock" timestamp="1550141701549">
         <mark key="[" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1550232552481">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1550242553621">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/Person.kt" timestamp="1547571351821">
         <mark key="[" line="9" column="35" />
@@ -135,11 +133,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550235505786">
-        <mark key="[" line="41" column="16" />
-        <mark key="]" line="26" column="17" />
-        <mark key="." line="26" column="17" />
-        <mark key="^" line="26" column="17" />
+      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550242667510">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="44" column="13" />
+        <mark key="]" line="44" column="12" />
+        <mark key="." line="44" column="12" />
+        <mark key="^" line="44" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/java/HelloWorld.java" timestamp="1547560477175">
         <mark key="[" line="6" column="0" />
@@ -157,7 +156,7 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="41" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550149573250">
+      <file name="/Dummy.txt" timestamp="1550242417477">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/untitled/src/main.rs" timestamp="1548704755743">
@@ -230,10 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="25" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Parallelism.kt" />
-      <jump line="32" column="12" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Parallelism.kt" />
-      <jump line="34" column="47" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Parallelism.kt" />
-      <jump line="37" column="21" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Parallelism.kt" />
       <jump line="38" column="39" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Parallelism.kt" />
       <jump line="46" column="8" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Parallelism.kt" />
       <jump line="53" column="8" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/Parallelism.kt" />
@@ -330,46 +325,50 @@
       <jump line="6" column="35" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="18" column="25" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="45" column="4" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
+      <jump line="1" column="13" filename="$USER_HOME$/git/Rasp/src/scanner/mod.rs" />
+      <jump line="44" column="41" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
+      <jump line="36" column="0" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
+      <jump line="3" column="0" filename="$USER_HOME$/git/Rasp/src/main.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyogKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>scan_name(c.unwrap(),char_iter)</text>
       </register>
       <register name="/" type="4">
         <text>\/*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbXV0IHRva2VuID0gbWF0Y2ggeCB7CiAgICAgICAgICAgICc9JyA9PiBTb21lKFRva2VuOjpFcXVhbCksCiAgICAgICAgICAgICcsJyA9PiBTb21lKFRva2VuOjpDb21tYSksCiAgICAgICAgICAgICdfJyAgICAgICB8CiAgICAgICAgICAgICdhJy4uLid6JyB8CiAgICAgICAgICAgICdBJy4uLidaJyA9PiBTb21lKFRva2VuOjpOYW1lKFN0cmluZzo6ZnJvbSgibiIpKSksCiAgICAgICAgICAgICBfICA9PiBOb25lLAogICAgICAgIH07CiAgICAgICAgaWYgdG9rZW4uaXNfbm9uZSgpIHsgY29udGludWUgfQogICAgICAgIHByaW50bG4hKCJ7Oj99IiwgdG9rZW4udW53cmFwKCkpOwo=</text>
+        <text encoding="base64">IyFbZmVhdHVyZShyYW5nZV9jb250YWlucyldCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyogKi8K</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgZm9yIHggaW4gY2hhcl9pdGVyIHsKICAgICAgICBsZXQgbXV0IHRva2VuID0gbWF0Y2ggeCB7CiAgICAgICAgICAgICc9JyA9PiBTb21lKFRva2VuOjpFcXVhbCksCiAgICAgICAgICAgICcsJyA9PiBTb21lKFRva2VuOjpDb21tYSksCiAgICAgICAgICAgICdfJyAgICAgICB8CiAgICAgICAgICAgICdhJy4uLid6JyB8CiAgICAgICAgICAgICdBJy4uLidaJyA9PiBTb21lKFRva2VuOjpOYW1lKFN0cmluZzo6ZnJvbSgibiIpKSksCiAgICAgICAgICAgICBfICA9PiBOb25lLAogICAgICAgIH07CiAgICAgICAgaWYgdG9rZW4uaXNfbm9uZSgpIHsgY29udGludWUgfQogICAgICAgIHByaW50bG4hKCJ7Oj99IiwgdG9rZW4udW53cmFwKCkpOwogICAgfQ==</text>
-      </register>
-      <register name="3" type="4">
-        <text>}</text>
-      </register>
-      <register name="4" type="4">
-        <text>*</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjID0gY2hhcl9pdGVyLm5leHQoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjID0gY2hhcl9pdGVyLm5leHQoKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU29tZShjKSA9PiBjCiAgICAgICAgICAgIE5vbmUgPQogICAgICAgIH07Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">IyFbZmVhdHVyZShyYW5nZV9jb250YWlucyldCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgbGV0IG11dCBpID0gMDsKLyogICAgd2hpbGUgaSA8IGxpbmUubGVuKCkgewogICAgICAgIGxldCB0b2tlbiA9IG1hdGNoICB7CiAgICAgICAgICAgICc9JyA9PiBUb2tlbjo6RXF1YWwsCiAgICAgICAgICAgICcsJyA9PiBUb2tlbjo6Q29tbWEsCiAgICAgICAgICAgICBfICA9PiBwYW5pYyEoIlVucmVjb2duaXplZCBUb2tlbiIpCiAgICAgICAgfTsKICAgICAgICBwcmludGxuISgiezo/fSIsIHRva2VuKTsKICAgIH0qLwo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">IyFbZmVhdHVyZShyYW5nZV9jb250YWlucyldCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyFbZmVhdHVyZShyYW5nZV9jb250YWlucyldCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyFbZmVhdHVyZShyYW5nZV9jb250YWlucyldCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LyogKi8K</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgZm9yIHggaW4gY2hhcl9pdGVyIHsKICAgICAgICBsZXQgbXV0IHRva2VuID0gbWF0Y2ggeCB7CiAgICAgICAgICAgICc9JyA9PiBTb21lKFRva2VuOjpFcXVhbCksCiAgICAgICAgICAgICcsJyA9PiBTb21lKFRva2VuOjpDb21tYSksCiAgICAgICAgICAgICdfJyAgICAgICB8CiAgICAgICAgICAgICdhJy4uLid6JyB8CiAgICAgICAgICAgICdBJy4uLidaJyA9PiBTb21lKFRva2VuOjpOYW1lKFN0cmluZzo6ZnJvbSgibiIpKSksCiAgICAgICAgICAgICBfICA9PiBOb25lLAogICAgICAgIH07CiAgICAgICAgaWYgdG9rZW4uaXNfbm9uZSgpIHsgY29udGludWUgfQogICAgICAgIHByaW50bG4hKCJ7Oj99IiwgdG9rZW4udW53cmFwKCkpOwogICAgfQ==</text>
+      </register>
+      <register name="8" type="4">
+        <text>}</text>
+      </register>
+      <register name="9" type="4">
+        <text>*</text>
       </register>
       <register name=":" type="4">
         <text>%s/Int/Double/g</text>
@@ -433,6 +432,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

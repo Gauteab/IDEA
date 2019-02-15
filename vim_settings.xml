@@ -83,16 +83,23 @@
       <file name="$USER_HOME$/IdeaProjects/Examples/src/java/HelloWorld.java" timestamp="1547560477175">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/rust-test/src/main.rs" timestamp="1550150802376">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/CLionProjects/rust-test/src/main.rs" timestamp="1550154724820">
+        <mark key="[" line="4" column="47" />
+        <mark key="]" line="4" column="48" />
+        <mark key="." line="4" column="48" />
+        <mark key="^" line="4" column="49" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/KotlinLive/src/Examples.kt" timestamp="1548344489063">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="41" column="6" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/rust-test/Cargo.toml" timestamp="1550153210145">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1550149573250">
         <mark key="[" line="0" column="0" />
@@ -102,6 +109,12 @@
         <mark key="]" line="1" column="29" />
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/rust-test/input/day1.in" timestamp="1550154927494">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="950" column="5" />
+        <mark key="^" line="950" column="5" />
+        <mark key="." line="950" column="5" />
       </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/MetnoOceanForecast.kt" timestamp="1548676996616">
         <mark key="[" line="4" column="9" />
@@ -191,13 +204,19 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="1" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/rust-test/src/day1.rs" timestamp="1550221519752">
+        <mark key="'" line="1" column="29" />
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+        <mark key="^" line="23" column="26" />
+      </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/Client.kt" timestamp="1548770895927">
         <mark key="'" line="20" column="19" />
         <mark key="[" line="14" column="35" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/rust-test/.git/info/exclude" timestamp="1550149388769" />
       <file name="/fragment.java" timestamp="1548689232065">
         <mark key="[" line="0" column="0" />
       </file>
@@ -299,64 +318,69 @@
       <jump line="1" column="12" filename="$USER_HOME$/CLionProjects/AOC18/src/day1.rs" />
       <jump line="1" column="0" filename="$USER_HOME$/CLionProjects/AOC18/src/main.rs" />
       <jump line="2" column="0" filename="$USER_HOME$/CLionProjects/AOC18/src/main.rs" />
+      <jump line="8" column="36" filename="$USER_HOME$/CLionProjects/rust-test/src/main.rs" />
+      <jump line="9" column="17" filename="$USER_HOME$/CLionProjects/rust-test/src/main.rs" />
+      <jump line="3" column="0" filename="$USER_HOME$/CLionProjects/rust-test/src/day1.rs" />
+      <jump line="6" column="0" filename="$USER_HOME$/CLionProjects/rust-test/src/day1.rs" />
+      <jump line="16" column="19" filename="$USER_HOME$/CLionProjects/rust-test/src/day1.rs" />
+      <jump line="18" column="0" filename="$USER_HOME$/CLionProjects/rust-test/src/day1.rs" />
+      <jump line="1" column="29" filename="$USER_HOME$/CLionProjects/rust-test/src/day1.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIGNyYXRlOjpQb2ludDsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZyZXEK</text>
       </register>
       <register name="-" type="4">
-        <text>lat: Double, lon: Double, msl: Int</text>
+        <text>fun</text>
       </register>
       <register name="/" type="4">
-        <text>\.\.</text>
+        <text encoding="base64">XDw7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuIFByb2JhYmlsaXR5Rm9yZWNhc3RSZXNwb25zZS5Db21wYW5pb24uZ2V0KGxhdDogRG91YmxlLCBsb246IERvdWJsZSwgbXNsOiBJbnQpOiBQcm9iYWJpbGl0eUZvcmVjYXN0UmVzcG9uc2UgPQogICAgZ2V0UmVzcG9uc2VPYmplY3QoIndlYXRoZXJhcGkvcHJvYmFiaWxpdHlmb3JlY2FzdC8xLjEvP2xhdD0kbGF0Jmxvbj0kbG9uJm1zbD0kbXNsIikK</text>
+        <text encoding="base64">ICAgIGZzOjpyZWFkX3RvX3N0cmluZygiaW5wdXQvZGF5MS5pbiIpLnVud3JhcCgpCiAgICAgICAgLmxpbmVzKCkKICAgICAgICAubWFwKHxzfCBzLnBhcnNlOjo8aTMyPigpLnVud3JhcCgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIGNyYXRlOjpQb2ludDsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZyZXEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBmb29iYXI6IGkzMiA9IDU7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJ7Oj99IiwgZm9vYmFyKTsK</text>
+        <text encoding="base64">ICAgICAgICAvKgogICAgICAgIC5saW5lcygpCiAgICAgICAgLm1hcCh8c3wgcy5wYXJzZTo6PGkzMj4oKS51bndyYXAoKSkKICAgICAgICAuc3VtKCkqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIHN0ZDo6ZnM6OkZpbGU7Cgo=</text>
+        <text encoding="base64">ICAgIGZzOjpyZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEZpbGVrZAo=</text>
+        <text encoding="base64">ICAgIEZpbGU6Om9wZW4oIiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIHN0ZDo6ZnM6OkZpbGU7CnVzZSBzdGQ6OmZzOjpGaWxlOwp1c2Ugc3RkOjpmczo6RmlsZTsKdXNlIHN0ZDo6ZnM6OkZpbGU7CnVzZSBzdGQ6OmZzOjpGaWxlOwp1c2Ugc3RkOjpmczo6RmlsZTsKdXNlIHN0ZDo6ZnM6OkZpbGU7CnVzZSBzdGQ6OmZzOjpGaWxlOwp1c2Ugc3RkOjpmczo6RmlsZTsKdXNlIHN0ZDo6ZnM6OkZpbGU7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIHN0ZDo6ZnM6OkZpbGU7Cg==</text>
+        <text encoding="base64">ICAgIGxldCBkMWEgPSBkYXkxOjpzb2x2ZV9hKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICB4Y25idmRrawo=</text>
+        <text encoding="base64">ICAgIGxldCBkMWIgPSBkYXkxOjpzb2x2ZV9iKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHguc2QuZnJzY2EK</text>
+        <text encoding="base64">ICAgIGxldCBwID0gUG9pbnQ6Om5ldygxMCwyMCk7CiAgICBwcmludGxuISgiezo/fSIsIHApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Int/Double/g</text>
       </register>
     </registers>
     <search>
-      <last-search>\.\.</last-search>
+      <last-search encoding="base64">XDw7XD4=</last-search>
       <last-offset />
-      <last-pattern>\.\.</last-pattern>
+      <last-pattern encoding="base64">XDw7XD4=</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>package</entry>
-        <entry>;</entry>
         <entry>0</entry>
         <entry>data</entry>
         <entry>a</entry>
@@ -375,6 +399,8 @@
         <entry>s</entry>
         <entry>..</entry>
         <entry>\.\.</entry>
+        <entry encoding="base64">diA=</entry>
+        <entry encoding="base64">XDw7XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/data/0..size/g</entry>
@@ -399,6 +425,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

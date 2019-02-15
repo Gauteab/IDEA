@@ -133,12 +133,11 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550242667510">
+      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550243779186">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="44" column="13" />
-        <mark key="]" line="44" column="12" />
-        <mark key="." line="44" column="12" />
-        <mark key="^" line="44" column="12" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/java/HelloWorld.java" timestamp="1547560477175">
         <mark key="[" line="6" column="0" />
@@ -332,7 +331,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYmchKGMpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>scan_name(c.unwrap(),char_iter)</text>
@@ -344,31 +343,31 @@
         <text encoding="base64">IyFbZmVhdHVyZShyYW5nZV9jb250YWlucyldCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYmchKGMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyFbZmVhdHVyZShyYW5nZV9jb250YWlucyldCg==</text>
+        <text encoding="base64">ICAgIAogICAgZGJnIShuYW1lKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyFbZmVhdHVyZShyYW5nZV9jb250YWlucyldCg==</text>
+        <text encoding="base64">ICAgIGxldCB4OiBTdHJpbmcgPSBjcy50YWtlX3doaWxlKHwmaXR8CiAgICAgICAgaXQgPT0gJ18nIHx8CiAgICAgICAgKCdhJy4uPSd6JykuY29udGFpbnMoJmMpIHx8CiAgICAgICAgKCdBJy4uPSdaJykuY29udGFpbnMoJmMpKQogICAgICAgIC5jb2xsZWN0KCk7CiAgICBuYW1lLnB1c2hfc3RyKHguYXNfc3RyKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyFbZmVhdHVyZShyYW5nZV9jb250YWlucyldCg==</text>
+        <text encoding="base64">ICAgIG5hbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyFbZmVhdHVyZShyYW5nZV9jb250YWlucyldCg==</text>
+        <text encoding="base64">ICAgIGxldCBzID0gU3RyaW5nOjpmcm9tKHgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyogKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgZm9yIHggaW4gY2hhcl9pdGVyIHsKICAgICAgICBsZXQgbXV0IHRva2VuID0gbWF0Y2ggeCB7CiAgICAgICAgICAgICc9JyA9PiBTb21lKFRva2VuOjpFcXVhbCksCiAgICAgICAgICAgICcsJyA9PiBTb21lKFRva2VuOjpDb21tYSksCiAgICAgICAgICAgICdfJyAgICAgICB8CiAgICAgICAgICAgICdhJy4uLid6JyB8CiAgICAgICAgICAgICdBJy4uLidaJyA9PiBTb21lKFRva2VuOjpOYW1lKFN0cmluZzo6ZnJvbSgibiIpKSksCiAgICAgICAgICAgICBfICA9PiBOb25lLAogICAgICAgIH07CiAgICAgICAgaWYgdG9rZW4uaXNfbm9uZSgpIHsgY29udGludWUgfQogICAgICAgIHByaW50bG4hKCJ7Oj99IiwgdG9rZW4udW53cmFwKCkpOwogICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">IyFbZmVhdHVyZShyYW5nZV9jb250YWlucyldCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>}</text>
+      <register name="8" type="2">
+        <text encoding="base64">IyFbZmVhdHVyZShyYW5nZV9jb250YWlucyldCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>*</text>
+      <register name="9" type="2">
+        <text encoding="base64">IyFbZmVhdHVyZShyYW5nZV9jb250YWlucyldCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Int/Double/g</text>

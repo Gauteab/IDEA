@@ -22,11 +22,11 @@
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ProbabilityForecastResponse.kt" timestamp="1548749483118">
         <mark key="[" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/token.rs" timestamp="1550243980524">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="9" column="10" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="9" column="10" />
+      <file name="$USER_HOME$/git/Rasp/src/scanner/token.rs" timestamp="1550316790862">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/KotlinLive/src/ExamplesDone.kt" timestamp="1548334140955">
         <mark key="[" line="57" column="5" />
@@ -97,11 +97,11 @@
       <file name="$USER_HOME$/CLionProjects/aoc18/Cargo.lock" timestamp="1550141701549">
         <mark key="[" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1550246695836">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="12" />
-        <mark key="." line="4" column="12" />
-        <mark key="^" line="4" column="12" />
+      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1550315805694">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/Person.kt" timestamp="1547571351821">
         <mark key="[" line="9" column="35" />
@@ -136,11 +136,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550310464482">
-        <mark key="'" line="59" column="15" />
-        <mark key="[" line="56" column="37" />
-        <mark key="]" line="57" column="19" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550317105587">
+        <mark key="'" line="13" column="64" />
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="1" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/java/HelloWorld.java" timestamp="1547560477175">
         <mark key="[" line="6" column="0" />
@@ -231,7 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="69" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/Main.kt" />
       <jump line="4054" column="0" filename="/" />
       <jump line="11" column="29" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/OceanForecast.kt" />
       <jump line="9" column="24" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/OceanForecast.kt" />
@@ -331,13 +331,14 @@
       <jump line="41" column="24" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="62" column="4" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="58" column="15" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
+      <jump line="13" column="64" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudCArPSAxOwo=</text>
+      <register name="&quot;" type="4">
+        <text>index+</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>index+</text>
       </register>
       <register name="/" type="4">
         <text>dbg</text>
@@ -346,31 +347,31 @@
         <text encoding="base64">dmVjOiAmW2NoYXJdLCBpbmRleDogdXNpemU=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudCArPSAxOwo=</text>
+        <text encoding="base64">I1thbGxvdyhkZWFkX2NvZGUpXQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYmchKGMpOwo=</text>
+        <text encoding="base64">dXNlIHN0ZDo6c3RyOjpDaGFyczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBtdXQgYyA9IGNzLm5leHQoKTsKICAgIHdoaWxlIGMuaXNfc29tZSgpIHsKICAgICAgICBpZiBjLnVud3JhcCgpID09ICdcJycgeyBicmVhazsgfQogICAgICAgIG5hbWUucHVzaChjLnVud3JhcCgpKTsKICAgICAgICBjID0gY3MubmV4dCgpOwogICAgfQogICAgcmV0dXJuIG5hbWU7Cg==</text>
+        <text encoding="base64">Ly8gICAgbGV0IG11dCBidWY6IFZlYzxDaGFyPiA9IHZlYyFbXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBtdXQgbmFtZSA9IFN0cmluZzo6bmV3KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCArPSAxOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGluZGV4ID0gaTsK</text>
+        <text encoding="base64">ICAgICAgICBkYmchKGMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleCArPSAxOwo=</text>
+        <text encoding="base64">ICAgIGxldCBtdXQgYyA9IGNzLm5leHQoKTsKICAgIHdoaWxlIGMuaXNfc29tZSgpIHsKICAgICAgICBpZiBjLnVud3JhcCgpID09ICdcJycgeyBicmVhazsgfQogICAgICAgIG5hbWUucHVzaChjLnVud3JhcCgpKTsKICAgICAgICBjID0gY3MubmV4dCgpOwogICAgfQogICAgcmV0dXJuIG5hbWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0b2tlbi5pc19ub25lKCkgeyBjb250aW51ZSB9Cg==</text>
+        <text encoding="base64">ICAgIGxldCBtdXQgbmFtZSA9IFN0cmluZzo6bmV3KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjID0gY3MubmV4dCgpOwo=</text>
+        <text encoding="base64">ICAgIGluZGV4ID0gaTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNzLm5leHRfYmFjaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbmRleCArPSAxOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Int/Double/g</text>

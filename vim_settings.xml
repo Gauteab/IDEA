@@ -136,11 +136,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550253806477">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="6" />
-        <mark key="." line="22" column="6" />
-        <mark key="^" line="22" column="6" />
+      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550308789703">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="30" />
+        <mark key="." line="13" column="30" />
+        <mark key="^" line="13" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/java/HelloWorld.java" timestamp="1547560477175">
         <mark key="[" line="6" column="0" />
@@ -231,7 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="8" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/main/java/Parallelism.kt" />
       <jump line="53" column="22" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/main/java/Parallelism.kt" />
       <jump line="24" column="4" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/main/java/Parallelism.kt" />
       <jump line="27" column="15" filename="$USER_HOME$/IdeaProjects/KotlinLive/src/main/java/Parallelism.kt" />
@@ -310,7 +310,6 @@
       <jump line="5" column="0" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="6" column="35" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="18" column="25" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
-      <jump line="45" column="4" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="1" column="13" filename="$USER_HOME$/git/Rasp/src/scanner/mod.rs" />
       <jump line="44" column="41" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="36" column="0" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
@@ -318,7 +317,6 @@
       <jump line="11" column="14" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="27" column="20" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="29" column="55" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
-      <jump line="25" column="30" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="31" column="43" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="28" column="47" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="23" column="23" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
@@ -331,58 +329,64 @@
       <jump line="169" column="40" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libstd/io/buffered.rs" />
       <jump line="54" column="25" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="49" column="4" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
+      <jump line="25" column="31" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
+      <jump line="45" column="12" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>while</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgbGV0IG11dCBidWY6IFZlYzxDaGFyPiA9IHZlYyFbXTsK</text>
       </register>
       <register name="-" type="4">
-        <text>while</text>
+        <text encoding="base64">YzogY2hhciwgY3M6ICZtdXQgQ2hhcnM=</text>
       </register>
       <register name="/" type="4">
-        <text>dbg</text>
+        <text>unw</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRiZyEoY3MubmV4dF9iYWNrKCkpOwo=</text>
+      <register name="0" type="4">
+        <text>index+1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBtdXQgY2hhcl9pdGVyOiBDaGFycyA9IGxpbmUuY2hhcnMoKTsKICAgIGxldCBtdXQgYyA9IGNoYXJfaXRlci5uZXh0KCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgbGV0IG11dCBidWY6IFZlYzxDaGFyPiA9IHZlYyFbXTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNzLgo=</text>
+        <text encoding="base64">dXNlIHN0ZDo6cHJlbHVkZTo6djE6OlJlc3VsdDo6T2s7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRiZyEoKTsK</text>
+      <register name="3" type="8">
+        <text>Some(
+Some(
+Some(
+Some(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRiZyEoY3MubmV4dF9iYWNrKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjID0gY2hhcl9pdGVyLm5leHQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNzLm5leHRfYmFjaygpCg==</text>
+        <text encoding="base64">ICAgIGZvciAoaSx4KSBpbiB2ZWMuaXRlcigpLmVudW1lcmF0ZSgpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjLnVud3JhcCgpID09ICdcJycgeyBicmVhayB9Cg==</text>
+        <text encoding="base64">ICAgIHZlY1tpbmRleF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjLnVud3JhcCgpID09ICdcJycgeyBicmVhayB9Cg==</text>
+        <text encoding="base64">ICAgIGxldCBtdXQgY2hhcl9pdGVyOiBDaGFycyA9IGxpbmUuY2hhcnMoKTsKICAgIGxldCBtdXQgYyA9IGNoYXJfaXRlci5uZXh0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnN0cnVjdCBTY2FubmVyIHsKICAgIGN1cl9saW5lOiB1MzIsCiAgICByZWFkZXI6IEJ1ZlJlYWRlcjxGaWxlPgp9CgppbXBsIFNjYW5uZXIgewogICAgZm4gbmV3KGZpbGVuYW1lOiAmc3RyKSAtPiBTY2FubmVyIHsKICAgICAgICBTY2FubmVyIHsKICAgICAgICAgICAgY3VyX2xpbmU6IDAsCiAgICAgICAgICAgIHJlYWRlcjogQnVmUmVhZGVyOjpuZXcoRmlsZTo6b3BlbihmaWxlbmFtZSkudW53cmFwKCkpCiAgICAgICAgfQogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgIGNzLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIGNyYXRlOjpzY2FubmVyOjpzY2FubmVyOjpTY2FubmVyOwo=</text>
+        <text encoding="base64">ICAgIGRiZyEoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Int/Double/g</text>
       </register>
     </registers>
     <search>
-      <last-search>dbg</last-search>
+      <last-search>unw</last-search>
       <last-offset />
-      <last-pattern>dbg</last-pattern>
+      <last-pattern>unw</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -403,10 +407,10 @@
         <entry>\/*</entry>
         <entry>?</entry>
         <entry>Le</entry>
-        <entry>unw</entry>
         <entry>c</entry>
         <entry>new</entry>
         <entry>dbg</entry>
+        <entry>unw</entry>
       </history-search>
       <history-cmd>
         <entry>%s/data/0..size/g</entry>

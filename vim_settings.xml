@@ -22,11 +22,11 @@
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ProbabilityForecastResponse.kt" timestamp="1548749483118">
         <mark key="[" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/token.rs" timestamp="1550316790862">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/git/Rasp/src/scanner/token.rs" timestamp="1550331068629">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/KotlinLive/src/ExamplesDone.kt" timestamp="1548334140955">
         <mark key="[" line="57" column="5" />
@@ -97,10 +97,12 @@
       <file name="$USER_HOME$/CLionProjects/aoc18/Cargo.lock" timestamp="1550141701549">
         <mark key="[" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1550323081040">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1550330216222">
+        <mark key="'" line="2" column="23" />
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+        <mark key="^" line="9" column="10" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/Person.kt" timestamp="1547571351821">
         <mark key="[" line="9" column="35" />
@@ -135,12 +137,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550328664755">
-        <mark key="'" line="36" column="64" />
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-        <mark key="^" line="13" column="3" />
+      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550331039730">
+        <mark key="'" line="75" column="17" />
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="45" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/java/HelloWorld.java" timestamp="1547560477175">
         <mark key="[" line="6" column="0" />
@@ -234,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="29" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/OceanForecast.kt" />
       <jump line="9" column="24" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/OceanForecast.kt" />
       <jump line="17" column="39" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/OceanForecastResponse.kt" />
       <jump line="15" column="25" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/OceanForecastResponse.kt" />
@@ -301,7 +302,6 @@
       <jump line="1" column="15" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="4" column="26" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="1" column="3" filename="$USER_HOME$/git/Rasp/src/main.rs" />
-      <jump line="2" column="0" filename="$USER_HOME$/git/Rasp/src/main.rs" />
       <jump line="8" column="45" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="3" column="25" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="5" column="0" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
@@ -334,58 +334,60 @@
       <jump line="58" column="15" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="13" column="64" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="20" column="47" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
+      <jump line="2" column="23" filename="$USER_HOME$/git/Rasp/src/main.rs" />
+      <jump line="70" column="17" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxpbmVzOiBMaW5lczxTaXplZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmV4cGVjdCgmZm9ybWF0ISgiRmFpbGVkIHRvIHNjYW4gbGluZSB7fSAiLCBpKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>index+</text>
+        <text encoding="base64">UmVzdWx0PCgpLCgpPg==</text>
       </register>
       <register name="/" type="4">
-        <text>dbg</text>
+        <text>Res</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">dmVjOiAmW2NoYXJdLCBpbmRleDogdXNpemU=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxpbmVzOiBMaW5lczxTaXplZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmV4cGVjdCgmZm9ybWF0ISgiRmFpbGVkIHRvIHNjYW4gbGluZSB7fSAiLCBpKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHx8IGZpbGUK</text>
+        <text encoding="base64">CmltcGwgSXRlcmF0b3IgZm9yIFNjYW5uZXIgewogICAgdHlwZSBJdGVtID0gVG9rZW47CgogICAgZm4gbmV4dCgmbXV0IHNlbGYpIC0+IE9wdGlvbjxTZWxmOjpJdGVtPiB7CiAgICAgICAgdW5pbXBsZW1lbnRlZCEoKQogICAgfQp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlYWRlci5idWZmZXIoKS5pdAo=</text>
+        <text encoding="base64">ICAgIGxpbmVzOiBMaW5lczxTaXplZD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bW9kIHNjYW5uZXI7Cg==</text>
+        <text encoding="base64">ICAgIHx8IGZpbGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlYWRlci5idWZmZXIoKS5pdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCB4ID0gWzEsMiwzLDEwLDQsNSw2XS5pdGVyKCk7CiAgICBsZXQgeSA9ICZ4LnRha2Vfd2hpbGUofG58ICpuIDwgJjEwKTsKICAgIHByaW50bG4hKCJ7Oj99IiwgeSk7Cg==</text>
+        <text encoding="base64">bW9kIHNjYW5uZXI7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCB4ID0gWzEsMiwzLDEwLDQsNSw2XS5pdGVyKCk7CiAgICBsZXQgeSA9ICZ4LnRha2Vfd2hpbGUofG58ICpuIDwgJjEwKTsKICAgIHByaW50bG4hKCJ7Oj99IiwgeSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3JjL2xvZy8Kc3JjL3BhcnNlci8Kc3JjL3J1bnRpbWUvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
       </register>
     </registers>
     <search>
-      <last-search>dbg</last-search>
+      <last-search>Res</last-search>
       <last-offset />
-      <last-pattern>dbg</last-pattern>
+      <last-pattern>Res</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -399,7 +401,6 @@
         <entry encoding="base64">XDw7XD4=</entry>
         <entry>}</entry>
         <entry>ret</entry>
-        <entry>Res</entry>
         <entry>cs</entry>
         <entry>/*</entry>
         <entry>\/*</entry>
@@ -410,6 +411,7 @@
         <entry>unw</entry>
         <entry>str</entry>
         <entry>dbg</entry>
+        <entry>Res</entry>
       </history-search>
       <history-cmd>
         <entry>%s/data/0..size/g</entry>

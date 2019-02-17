@@ -189,11 +189,11 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/parser.rs" timestamp="1550433959704">
-        <mark key="[" line="12" column="47" />
-        <mark key="]" line="14" column="10" />
-        <mark key="." line="14" column="10" />
-        <mark key="^" line="14" column="10" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/parser.rs" timestamp="1550434931328">
+        <mark key="'" line="16" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/AOC18/input/day1.txt" timestamp="1550138334509">
         <mark key="[" line="0" column="0" />
@@ -244,7 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="13" filename="/" />
       <jump line="46" column="13" filename="/" />
       <jump line="50" column="13" filename="/" />
       <jump line="55" column="13" filename="/" />
@@ -344,10 +343,11 @@
       <jump line="35" column="63" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="34" column="16" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="59" column="12" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
+      <jump line="16" column="4" filename="$USER_HOME$/git/Rasp/src/parser/parser.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>interpret</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I1thbGxvdyhkZWFkX2NvZGUpXQo=</text>
       </register>
       <register name="-" type="4">
         <text>interpret</text>
@@ -359,31 +359,31 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi50b2tlbl9idWZmZXIucHVzaChFb0YpOwogICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I1thbGxvdyhkZWFkX2NvZGUpXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wbCBUb2tlbjo6TmFtZSB7CiAgICBmbiBsb29rdXAoJnNlbGYpIHsKICAgICAgICBwcmludGxuISgiVGVzdCIpCiAgICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wbCBUb2tlbjo6TmFtZSB7CiAgICBmbiBsb29rdXAoJnNlbGYpIHsKICAgICAgICBwcmludGxuISgiVGVzdCIpCiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZuIGZvbygmc2VsZikgewogICAgICAgIHNlbGYubmFtZS5sb29wdXAoKQogICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZuIGZvbygmc2VsZikK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZuIGZvbygmc2VsZikgewogICAgICAgIHNlbGYubmFtZS5sb29wdXAoKQogICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZuIGZvbygmc2VsZikK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGQyamZuIGludGVycHJldCgmc2VsZikgewogICAgICAgIHVuaW1wbGVtZW50ZWQhKCkKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbnMucHVzCg==</text>
+        <text encoding="base64">ICAgIGQyamZuIGludGVycHJldCgmc2VsZikgewogICAgICAgIHVuaW1wbGVtZW50ZWQhKCkKICAgIH0K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAgbGV0IHRva2VucyA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB0b2tlbnMucHVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

@@ -89,12 +89,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550413533216">
-        <mark key="'" line="77" column="17" />
-        <mark key="[" line="54" column="22" />
-        <mark key="]" line="48" column="17" />
-        <mark key="." line="48" column="17" />
-        <mark key="^" line="48" column="17" />
+      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550417232092">
+        <mark key="'" line="82" column="17" />
+        <mark key="[" line="38" column="28" />
+        <mark key="]" line="38" column="26" />
+        <mark key="." line="38" column="26" />
+        <mark key="^" line="38" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/java/HelloWorld.java" timestamp="1547560477175">
         <mark key="[" line="6" column="0" />
@@ -338,7 +338,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIGxpbmUuaXNfZW1wdHkoKSB7IHJldHVybiB0b2tlbnMgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkYmchKHIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHsgfQ==</text>
@@ -347,34 +347,34 @@
         <text>map</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCB0ID0gc2MubmV4dF90b2tlbigpOwogICAgcHJpbnRsbiEoIns6P30iLCB0KTsK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlYWRlci5yZWFkX2xpbmUoJm11dCBsaW5lKS5kYmcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIGxpbmUuaXNfZW1wdHkoKSB7IHJldHVybiB0b2tlbnMgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkYmchKHIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvb3AgewogICAgICAgIGxldCB0ID0gc2MubmV4dF90b2tlbigpOwogICAgICAgIHByaW50bG4hKCJ7Oj99IiwgdCk7CiAgICAgICAgaWYgdCA9PSBUb2tlbjo6RW9GIHsKICAgICAgICAgICAgYnJlYWsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZXQgRXJyKHgpID0gciB7CiAgICAgICAgICAgIHByaW50bG4hKCJSZWFkIHN0b3AiKTsKICAgICAgICAgICAgZXhpdCgwKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCB0ID0gc2MubmV4dF90b2tlbigpOwogICAgcHJpbnRsbiEoIns6P30iLCB0KTsK</text>
+        <text encoding="base64">dXNlIHRlcm06OnRlcm1pbmZvOjpFcnJvcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCkK</text>
+        <text encoding="base64">ICAgIGlmIGxpbmUuaXNfZW1wdHkoKSB7IHJldHVybiB0b2tlbnMgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBPaygoKSkK</text>
+        <text encoding="base64">ICAgIGxvb3AgewogICAgICAgIGxldCB0ID0gc2MubmV4dF90b2tlbigpOwogICAgICAgIHByaW50bG4hKCJ7Oj99IiwgdCk7CiAgICAgICAgaWYgdCA9PSBUb2tlbjo6RW9GIHsKICAgICAgICAgICAgYnJlYWsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYmchKCZsaW5lKTsK</text>
+        <text encoding="base64">ICAgIGxldCB0ID0gc2MubmV4dF90b2tlbigpOwogICAgcHJpbnRsbiEoIns6P30iLCB0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaW50bG4hKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvb3Agewo=</text>
+        <text encoding="base64">ICAgICAgICBPaygoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0ID09IFRva2VuOjpFb0YgeyBicmVhayB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYmchKCZsaW5lKTsK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

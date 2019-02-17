@@ -89,12 +89,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550422489513">
-        <mark key="'" line="34" column="16" />
-        <mark key="[" line="73" column="56" />
-        <mark key="]" line="86" column="23" />
-        <mark key="." line="86" column="23" />
-        <mark key="^" line="86" column="23" />
+      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550423143543">
+        <mark key="'" line="59" column="12" />
+        <mark key="[" line="70" column="12" />
+        <mark key="]" line="70" column="17" />
+        <mark key="." line="70" column="17" />
+        <mark key="^" line="70" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/java/HelloWorld.java" timestamp="1547560477175">
         <mark key="[" line="6" column="0" />
@@ -235,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="13" filename="/" />
       <jump line="42" column="13" filename="/" />
       <jump line="46" column="13" filename="/" />
       <jump line="50" column="13" filename="/" />
@@ -335,16 +334,17 @@
       <jump line="47" column="22" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="35" column="63" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="34" column="16" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
+      <jump line="59" column="12" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbnMucHVzCg==</text>
+      <register name="&quot;" type="4">
+        <text>count</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dG9rZW5zIA==</text>
+        <text>count</text>
       </register>
       <register name="/" type="4">
-        <text>,e</text>
+        <text>cont</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi50b2tlbl9idWZmZXIucHVzaChFb0YpOwogICAgICAgICAgICByZXR1cm47Cg==</text>
@@ -381,9 +381,9 @@
       </register>
     </registers>
     <search>
-      <last-search>,e</last-search>
+      <last-search>cont</last-search>
       <last-offset />
-      <last-pattern>,e</last-pattern>
+      <last-pattern>cont</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -391,7 +391,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">diA=</entry>
         <entry encoding="base64">XDw7XD4=</entry>
         <entry>}</entry>
         <entry>ret</entry>
@@ -411,6 +410,7 @@
         <entry>line</entry>
         <entry>sca</entry>
         <entry>,e</entry>
+        <entry>cont</entry>
       </history-search>
       <history-cmd>
         <entry>%s/data/0..size/g</entry>

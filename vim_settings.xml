@@ -9,7 +9,7 @@
         <mark key="^" line="42" column="28" />
         <mark key="." line="42" column="28" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/.gitignore" timestamp="1550322875106">
+      <file name="$USER_HOME$/git/Rasp/.gitignore" timestamp="1550435948584">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -189,11 +189,11 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/parser.rs" timestamp="1550434931328">
-        <mark key="'" line="16" column="4" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/parser.rs" timestamp="1550438308682">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+        <mark key="^" line="11" column="4" />
       </file>
       <file name="$USER_HOME$/CLionProjects/AOC18/input/day1.txt" timestamp="1550138334509">
         <mark key="[" line="0" column="0" />
@@ -244,12 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="13" filename="/" />
-      <jump line="50" column="13" filename="/" />
-      <jump line="55" column="13" filename="/" />
-      <jump line="66" column="13" filename="/" />
-      <jump line="74" column="13" filename="/" />
-      <jump line="78" column="13" filename="/" />
       <jump line="82" column="13" filename="/" />
       <jump line="86" column="13" filename="/" />
       <jump line="90" column="13" filename="/" />
@@ -344,64 +338,68 @@
       <jump line="34" column="16" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="59" column="12" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="16" column="4" filename="$USER_HOME$/git/Rasp/src/parser/parser.rs" />
+      <jump line="20" column="21" filename="$USER_HOME$/git/Rasp/src/parser/parser.rs" />
+      <jump line="21" column="4" filename="$USER_HOME$/git/Rasp/src/parser/parser.rs" />
+      <jump line="19" column="4" filename="$USER_HOME$/git/Rasp/src/parser/parser.rs" />
+      <jump line="5" column="4" filename="$USER_HOME$/git/Rasp/src/parser/parser.rs" />
+      <jump line="6" column="4" filename="$USER_HOME$/git/Rasp/src/parser/parser.rs" />
+      <jump line="15" column="4" filename="$USER_HOME$/git/Rasp/src/parser/parser.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I1thbGxvdyhkZWFkX2NvZGUpXQo=</text>
+        <text encoding="base64">ICAgIGZuIHBhcnNlKHNjOiAmbXV0IFNjYW5uZXIpIC0+IFNlbGY7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>interpret</text>
+        <text>sc.next_token()</text>
       </register>
       <register name="/" type="4">
-        <text>cont</text>
+        <text>fn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi50b2tlbl9idWZmZXIucHVzaChFb0YpOwogICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I1thbGxvdyhkZWFkX2NvZGUpXQo=</text>
+        <text encoding="base64">ICAgIGZuIHBhcnNlKHNjOiAmbXV0IFNjYW5uZXIpIC0+IFNlbGY7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZuIGV2YWwoJnNlbGYpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wbCBUb2tlbjo6TmFtZSB7CiAgICBmbiBsb29rdXAoJnNlbGYpIHsKICAgICAgICBwcmludGxuISgiVGVzdCIpCiAgICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZuIGV2YWwoJnNlbGYpIHsKICAgICAgICB1bmltcGxlbWVudGVkISgpCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZuIGZvbygmc2VsZikgewogICAgICAgIHNlbGYubmFtZS5sb29wdXAoKQogICAgfQo=</text>
+        <text encoding="base64">aW1wbCBBc3BTeW50YXggZm9yIEFzcEF0b20gewoKICAgIGZuIGV2YWwoJnNlbGYpIHsKICAgICAgICB1bmltcGxlbWVudGVkISgpCiAgICB9CgogICAgZm4gcGFyc2Uoc2M6ICZtdXQgU2Nhbm5lcikgLT4gU2VsZiB7CiAgICAgICAgdW5pbXBsZW1lbnRlZCEoKQogICAgfQp9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZuIGZvbygmc2VsZikK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">c3RydWN0IEFzcE5hbWUoU3RyaW5nKTsKCmltcGwgQXNwU3ludGF4IGZvciBBc3BOYW1lIHsKCiAgICBmbiBldmFsKCZzZWxmKSB7CiAgICAgICAgdW5pbXBsZW1lbnRlZCEoKQogICAgfQoKICAgIGZuIHBhcnNlKHNjOiAmbXV0IFNjYW5uZXIpIC0+IFNlbGYgewogICAgICAgIGlmIGxldCBUb2tlbjo6TmFtZShzKSA9IHNjLm5leHRfdG9rZW4oKSB7CiAgICAgICAgICAgIHJldHVybiBBc3BOYW1lKHMpOwogICAgICAgIH0KICAgICAgICBwYW5pYyEoKQogICAgfQp9CgpzdHJ1Y3QgQXNwU3RyaW5nTGl0ZXJhbChTdHJpbmcpOwoKZW51bSBBc3BBdG9tIHsKICAgIE5hbWUoU3RyaW5nKSwKICAgIFN0cmluZyhTdHJpbmcpCn0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGQyamZuIGludGVycHJldCgmc2VsZikgewogICAgICAgIHVuaW1wbGVtZW50ZWQhKCkKICAgIH0K</text>
+        <text encoding="base64">ICAgIHg6IHUzMiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbnMucHVzCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXRjaCBzYy5uZXh0X3Rva2VuKCkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
       </register>
     </registers>
     <search>
-      <last-search>cont</last-search>
+      <last-search>fn</last-search>
       <last-offset />
-      <last-pattern>cont</last-pattern>
+      <last-pattern>fn</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDw7XD4=</entry>
-        <entry>}</entry>
         <entry>ret</entry>
         <entry>cs</entry>
         <entry>/*</entry>
@@ -420,6 +418,8 @@
         <entry>sca</entry>
         <entry>,e</entry>
         <entry>cont</entry>
+        <entry>}</entry>
+        <entry>fn</entry>
       </history-search>
       <history-cmd>
         <entry>%s/data/0..size/g</entry>

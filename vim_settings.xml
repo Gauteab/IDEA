@@ -14,31 +14,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/aoc18/Cargo.lock" timestamp="1550141701549">
-        <mark key="[" line="1" column="11" />
-      </file>
-      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1550432184217">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="17" column="1" />
-        <mark key="." line="17" column="1" />
-        <mark key="^" line="17" column="1" />
-      </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ProbablilityForecast.kt" timestamp="1548748953749">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="95" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Examples/src/Person.kt" timestamp="1547571351821">
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="3" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/KotlinLive/src/Ukesoppgaver.kt" timestamp="1547831749201">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ProbabilityForecastResponse.kt" timestamp="1548749483118">
         <mark key="[" line="7" column="3" />
@@ -58,6 +37,87 @@
       <file name="$USER_HOME$/IdeaProjects/KotlinLive/pom.xml" timestamp="1548545945005">
         <mark key="[" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/git/Rasp/Cargo.toml" timestamp="1550242201847">
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/asp/mini.asp" timestamp="1550225355677">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/rust-test/Cargo.toml" timestamp="1550153210145">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/MetnoOceanForecast.kt" timestamp="1548676996616">
+        <mark key="[" line="4" column="9" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/AOC18/src/day1.rs" timestamp="1550139331567">
+        <mark key="'" line="1" column="12" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/example/ExampleRobot.kt" timestamp="1548350124498">
+        <mark key="[" line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/AOC18/src/main.rs" timestamp="1550141652857">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/scanner/mod.rs" timestamp="1550242531442">
+        <mark key="'" line="1" column="13" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Robocode/pom.xml" timestamp="1548346754811">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/parser/mod.rs" timestamp="1550432134654">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/Client.kt" timestamp="1548770895927">
+        <mark key="'" line="20" column="19" />
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/OceanForecastResponse.kt" timestamp="1548770862178">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/aoc18/Cargo.lock" timestamp="1550141701549">
+        <mark key="[" line="1" column="11" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1550432184217">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="17" column="1" />
+        <mark key="." line="17" column="1" />
+        <mark key="^" line="17" column="1" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Examples/src/Person.kt" timestamp="1547571351821">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/KotlinLive/src/Ukesoppgaver.kt" timestamp="1547831749201">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/Examples.kt" timestamp="1547574681509">
         <mark key="[" line="67" column="5" />
         <mark key="]" line="68" column="3" />
@@ -67,21 +127,11 @@
       <file name="$USER_HOME$/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libstd/io/buffered.rs" timestamp="1550252222841">
         <mark key="'" line="169" column="40" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/Cargo.toml" timestamp="1550242201847">
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/HelloWorld.java" timestamp="1547570898222">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="38" />
         <mark key="^" line="5" column="30" />
         <mark key="." line="5" column="31" />
-      </file>
-      <file name="$USER_HOME$/git/Rasp/asp/mini.asp" timestamp="1550225355677">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/KotlinLive/src/Test.java" timestamp="1547826804026">
         <mark key="[" line="2" column="4" />
@@ -89,12 +139,10 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550423143543">
-        <mark key="'" line="59" column="12" />
-        <mark key="[" line="70" column="12" />
-        <mark key="]" line="70" column="17" />
-        <mark key="." line="70" column="17" />
-        <mark key="^" line="70" column="17" />
+      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550481511385">
+        <mark key="[" line="34" column="37" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/java/HelloWorld.java" timestamp="1547560477175">
         <mark key="[" line="6" column="0" />
@@ -111,12 +159,6 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="41" column="6" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/rust-test/Cargo.toml" timestamp="1550153210145">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
       </file>
       <file name="/GDB" timestamp="1550332013513">
         <mark key="[" line="0" column="0" />
@@ -136,15 +178,6 @@
         <mark key="^" line="950" column="5" />
         <mark key="." line="950" column="5" />
       </file>
-      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/MetnoOceanForecast.kt" timestamp="1548676996616">
-        <mark key="[" line="4" column="9" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/AOC18/src/day1.rs" timestamp="1550139331567">
-        <mark key="'" line="1" column="12" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1550149669126">
         <mark key="[" line="4" column="3" />
       </file>
@@ -153,21 +186,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/example/ExampleRobot.kt" timestamp="1548350124498">
-        <mark key="[" line="4" column="14" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/AOC18/src/main.rs" timestamp="1550141652857">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/mod.rs" timestamp="1550242531442">
-        <mark key="'" line="1" column="13" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/SimpleOceanForecastResponse.kt" timestamp="1548683212531">
         <mark key="[" line="6" column="8" />
@@ -178,22 +196,17 @@
       <file name="$USER_HOME$/CLionProjects/aoc18/Cargo.toml" timestamp="1550141709256">
         <mark key="[" line="1" column="11" />
       </file>
+      <file name="$USER_HOME$/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libcore/str/mod.rs" timestamp="1550481032825" />
       <file name="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/daveogco/StalkerDave.kt" timestamp="1548354488305">
         <mark key="[" line="33" column="16" />
         <mark key="]" line="33" column="16" />
         <mark key="." line="33" column="16" />
         <mark key="^" line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Robocode/pom.xml" timestamp="1548346754811">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/parser.rs" timestamp="1550438308682">
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="4" />
-        <mark key="^" line="11" column="4" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/parser.rs" timestamp="1550438360800">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/AOC18/input/day1.txt" timestamp="1550138334509">
         <mark key="[" line="0" column="0" />
@@ -218,23 +231,8 @@
       <file name="$USER_HOME$/CLionProjects/rust-test/src/day1.rs" timestamp="1550222208822">
         <mark key="'" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/mod.rs" timestamp="1550432134654">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/Client.kt" timestamp="1548770895927">
-        <mark key="'" line="20" column="19" />
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1548689232065">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/OceanForecastResponse.kt" timestamp="1548770862178">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="21" />
-        <mark key="^" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/StringUtils.java" timestamp="1547573942130">
         <mark key="[" line="9" column="23" />
@@ -347,7 +345,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZuIHBhcnNlKHNjOiAmbXV0IFNjYW5uZXIpIC0+IFNlbGY7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRva2VuX2J1ZmZlci5iYWMK</text>
       </register>
       <register name="-" type="4">
         <text>sc.next_token()</text>
@@ -359,31 +357,31 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi50b2tlbl9idWZmZXIucHVzaChFb0YpOwogICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZuIHBhcnNlKHNjOiAmbXV0IFNjYW5uZXIpIC0+IFNlbGY7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRva2VuX2J1ZmZlci5iYWMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZuIGV2YWwoJnNlbGYpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZuIGV2YWwoJnNlbGYpIHsKICAgICAgICB1bmltcGxlbWVudGVkISgpCiAgICB9Cg==</text>
+        <text encoding="base64">dHJhaXQgQXNwU3ludGF4IHsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wbCBBc3BTeW50YXggZm9yIEFzcEF0b20gewoKICAgIGZuIGV2YWwoJnNlbGYpIHsKICAgICAgICB1bmltcGxlbWVudGVkISgpCiAgICB9CgogICAgZm4gcGFyc2Uoc2M6ICZtdXQgU2Nhbm5lcikgLT4gU2VsZiB7CiAgICAgICAgdW5pbXBsZW1lbnRlZCEoKQogICAgfQp9Cgo=</text>
+        <text encoding="base64">ICAgIGZuIHBhcnNlKHNjOiAmbXV0IFNjYW5uZXIpIC0+IFNlbGY7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZuIGV2YWwoJnNlbGYpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3RydWN0IEFzcE5hbWUoU3RyaW5nKTsKCmltcGwgQXNwU3ludGF4IGZvciBBc3BOYW1lIHsKCiAgICBmbiBldmFsKCZzZWxmKSB7CiAgICAgICAgdW5pbXBsZW1lbnRlZCEoKQogICAgfQoKICAgIGZuIHBhcnNlKHNjOiAmbXV0IFNjYW5uZXIpIC0+IFNlbGYgewogICAgICAgIGlmIGxldCBUb2tlbjo6TmFtZShzKSA9IHNjLm5leHRfdG9rZW4oKSB7CiAgICAgICAgICAgIHJldHVybiBBc3BOYW1lKHMpOwogICAgICAgIH0KICAgICAgICBwYW5pYyEoKQogICAgfQp9CgpzdHJ1Y3QgQXNwU3RyaW5nTGl0ZXJhbChTdHJpbmcpOwoKZW51bSBBc3BBdG9tIHsKICAgIE5hbWUoU3RyaW5nKSwKICAgIFN0cmluZyhTdHJpbmcpCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHg6IHUzMiwK</text>
+        <text encoding="base64">ICAgIGZuIGV2YWwoJnNlbGYpIHsKICAgICAgICB1bmltcGxlbWVudGVkISgpCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXRjaCBzYy5uZXh0X3Rva2VuKCkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wbCBBc3BTeW50YXggZm9yIEFzcEF0b20gewoKICAgIGZuIGV2YWwoJnNlbGYpIHsKICAgICAgICB1bmltcGxlbWVudGVkISgpCiAgICB9CgogICAgZm4gcGFyc2Uoc2M6ICZtdXQgU2Nhbm5lcikgLT4gU2VsZiB7CiAgICAgICAgdW5pbXBsZW1lbnRlZCEoKQogICAgfQp9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

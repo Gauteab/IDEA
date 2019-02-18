@@ -104,11 +104,10 @@
       <file name="$USER_HOME$/CLionProjects/aoc18/Cargo.lock" timestamp="1550141701549">
         <mark key="[" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1550502293942">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="10" column="11" />
-        <mark key="^" line="12" column="17" />
+      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1550505754191">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/Person.kt" timestamp="1547571351821">
         <mark key="[" line="9" column="35" />
@@ -208,12 +207,12 @@
         <mark key="." line="33" column="16" />
         <mark key="^" line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/parser.rs" timestamp="1550502655132">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="74" column="26" />
-        <mark key="]" line="74" column="24" />
-        <mark key="." line="74" column="24" />
-        <mark key="^" line="74" column="24" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/parser.rs" timestamp="1550506293149">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="113" column="41" />
+        <mark key="." line="113" column="41" />
+        <mark key="^" line="113" column="41" />
       </file>
       <file name="$USER_HOME$/CLionProjects/AOC18/input/day1.txt" timestamp="1550138334509">
         <mark key="[" line="0" column="0" />
@@ -249,13 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="13" filename="/" />
-      <jump line="90" column="13" filename="/" />
-      <jump line="95" column="13" filename="/" />
-      <jump line="106" column="13" filename="/" />
-      <jump line="114" column="13" filename="/" />
-      <jump line="118" column="13" filename="/" />
-      <jump line="122" column="13" filename="/" />
       <jump line="126" column="13" filename="/" />
       <jump line="130" column="13" filename="/" />
       <jump line="135" column="13" filename="/" />
@@ -349,55 +341,62 @@
       <jump line="15" column="4" filename="$USER_HOME$/git/Rasp/src/parser/parser.rs" />
       <jump line="33" column="0" filename="$USER_HOME$/git/Rasp/src/parser/parser.rs" />
       <jump line="16" column="14" filename="$USER_HOME$/git/Rasp/src/main.rs" />
+      <jump line="9" column="0" filename="$USER_HOME$/git/Rasp/src/parser/parser.rs" />
+      <jump line="14" column="4" filename="$USER_HOME$/git/Rasp/src/parser/parser.rs" />
+      <jump line="24" column="0" filename="$USER_HOME$/git/Rasp/src/parser/parser.rs" />
+      <jump line="39" column="0" filename="$USER_HOME$/git/Rasp/src/parser/parser.rs" />
+      <jump line="58" column="0" filename="$USER_HOME$/git/Rasp/src/parser/parser.rs" />
+      <jump line="75" column="0" filename="$USER_HOME$/git/Rasp/src/parser/parser.rs" />
+      <jump line="28" column="0" filename="$USER_HOME$/git/Rasp/src/parser/parser.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>next_token</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>next_token</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>der</text>
+        <text>enum</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldCBtdXQgc2MgPSBTY2FubmVyOjpuZXcoImFzcC9taW5pLmFzcCIpCiAgICAgICAgLmV4cGVjdCgiVW5hYmxlIHRvIG9wZW4gc2Nhbm5lciBmb3IgYXNwLm1pbmkiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBhYTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OnBhcnNlcjo6QXNwQXRvbTo6TmFtZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IG11dCB0ID0gZGJnIShzYy5uZXh0X3Rva2VuKCkpOwogICAgICAgICAgICBpZiB0ID09IFRva2VuOjpSaWdodFBhciB7Cg==</text>
+        <text encoding="base64">dXNlIHBhcnNlcjo6cGFyc2VyOjpBc3BFeHByOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRlc3Rfc2Nhbm5lcigpCg==</text>
+        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OnBhcnNlcjo6QXNwU3RtdDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFVua25vd24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYmchKHNjLmN1cl90b2tlbigpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBtdXQgc2MgPSBTY2FubmVyOjpuZXcoImFzcC9taW5pLmFzcCIpCiAgICAgICAgLmV4cGVjdCgiVW5hYmxlIHRvIG9wZW4gc2Nhbm5lciBmb3IgYXNwLm1pbmkiKTsKCiAgICBsZXQgcHJvZ3JhbSA9IEFzcFByb2dyYW06OnBhcnNlKCZtdXQgc2MpOwogICAgcHJpbnRsbiEoIns6P30iLCBwcm9ncmFtKTsK</text>
+        <text encoding="base64">ICAgICAgICBwYW5pYyEoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvb3AgewogICAgICAgIGxldCB0ID0gc2MubmV4dF90b2tlbigpOwogICAgICAgIHByaW50bG4hKCJ7Oj99IiwgdCk7CiAgICAgICAgaWYgdCA9PSBFb0YgeyBicmVhayB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHQgPSBzYy5jdXJfdG9rZW4oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNjLmN1cl90b2tlbigpID09ICB7IH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZGJnISh0KSAhPSAmVG9rZW46OkNvbW1hIHsKICAgICAgICAgICAgICAgIHNjLnNraXAoVG9rZW46OlJpZ2h0UGFyKTsKICAgICAgICAgICAgICAgIHJldHVybiBhYTsK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
       </register>
     </registers>
     <search>
-      <last-search>der</last-search>
+      <last-search>enum</last-search>
       <last-offset />
-      <last-pattern>der</last-pattern>
+      <last-pattern>enum</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>-1</last-dir>
@@ -405,7 +404,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cs</entry>
         <entry>/*</entry>
         <entry>\/*</entry>
         <entry>?</entry>
@@ -417,7 +415,6 @@
         <entry>dbg</entry>
         <entry>Res</entry>
         <entry>map</entry>
-        <entry>pub</entry>
         <entry>line</entry>
         <entry>sca</entry>
         <entry>,e</entry>
@@ -425,6 +422,8 @@
         <entry>}</entry>
         <entry>fn</entry>
         <entry>der</entry>
+        <entry>pub</entry>
+        <entry>enum</entry>
       </history-search>
       <history-cmd>
         <entry>%s/data/0..size/g</entry>

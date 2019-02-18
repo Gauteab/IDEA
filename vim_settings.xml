@@ -140,11 +140,10 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550482193187">
-        <mark key="[" line="62" column="12" />
-        <mark key="]" line="54" column="17" />
-        <mark key="." line="54" column="17" />
-        <mark key="^" line="54" column="17" />
+      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550485405557">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/java/HelloWorld.java" timestamp="1547560477175">
         <mark key="[" line="6" column="0" />
@@ -205,10 +204,11 @@
         <mark key="." line="33" column="16" />
         <mark key="^" line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/parser.rs" timestamp="1550484891491">
-        <mark key="[" line="17" column="49" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/parser.rs" timestamp="1550485697823">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="24" column="28" />
+        <mark key="." line="24" column="28" />
+        <mark key="^" line="24" column="28" />
       </file>
       <file name="$USER_HOME$/CLionProjects/AOC18/input/day1.txt" timestamp="1550138334509">
         <mark key="[" line="0" column="0" />
@@ -347,7 +347,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgeyBwYW5pYyEoIiIpIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>sc.next_token()</text>
@@ -359,31 +359,31 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi50b2tlbl9idWZmZXIucHVzaChFb0YpOwogICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgeyBwYW5pYyEoIiIpIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbmFtZSA9IGlmIGxldCBUb2tlbjo6TmFtZShzKSA9IHNjLm5leHRfdG9rZW4oKSB7CiAgICAgICAgICAgIHMK</text>
+        <text encoding="base64">ICAgICAgICBBc3BBc3NpZ25tZW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEFzcE5hbWUoU3RyaW5nKSwK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZXQgVG9rZW46Ok5hbWUobmFtZSkgPSB0IHsKICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3RydWN0IEFzcEV4cHIgCn0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZW51bSBBc3BFeHByIHsKICAgIAp9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0gCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YiBmbiBjdXJfdG9rZW4oJnNlbGYpIC0+IFRva2VuIHsKICAgICAgICBzZWxmLnRva2VuX2J1ZmZlclswXS5jb3B5KCkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZW51bSBBdG9tIHsKICAgIAp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXRjaCB0IHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIGNvcmU6OnBhbmlja2luZzo6cGFuaWNfZm10Owo=</text>
+        <text encoding="base64">CiAgICAgICAgKCkK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

@@ -37,7 +37,8 @@
       <file name="$USER_HOME$/IdeaProjects/KotlinLive/pom.xml" timestamp="1548545945005">
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/Cargo.toml" timestamp="1550242201847">
+      <file name="$USER_HOME$/git/Rasp/Cargo.toml" timestamp="1550485041047">
+        <mark key="[" line="6" column="14" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
@@ -204,10 +205,10 @@
         <mark key="." line="33" column="16" />
         <mark key="^" line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/parser.rs" timestamp="1550481719913">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/parser.rs" timestamp="1550484891491">
+        <mark key="[" line="17" column="49" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/AOC18/input/day1.txt" timestamp="1550138334509">
         <mark key="[" line="0" column="0" />
@@ -346,7 +347,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIGNvcmU6OnBhbmlja2luZzo6cGFuaWNfZm10Owo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgeyBwYW5pYyEoIiIpIH07Cg==</text>
       </register>
       <register name="-" type="4">
         <text>sc.next_token()</text>
@@ -358,31 +359,31 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi50b2tlbl9idWZmZXIucHVzaChFb0YpOwogICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIGNvcmU6OnBhbmlja2luZzo6cGFuaWNfZm10Owo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgeyBwYW5pYyEoIiIpIH07Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIGNyYXRlOjpzY2FubmVyOjp0b2tlbjo6VG9rZW47Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbmFtZSA9IGlmIGxldCBUb2tlbjo6TmFtZShzKSA9IHNjLm5leHRfdG9rZW4oKSB7CiAgICAgICAgICAgIHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIGNvcmU6OnBhbmlja2luZzo6cGFuaWNfZm10Owo=</text>
+        <text encoding="base64">ICAgIEFzcE5hbWUoU3RyaW5nKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIGNvcmU6OnBhbmlja2luZzo6cGFuaWNfZm10Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRva2VuX2J1ZmZlci5iYWMK</text>
+        <text encoding="base64">c3RydWN0IEFzcEV4cHIgCn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW51bSBBc3BFeHByIHsKICAgIAp9Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHJhaXQgQXNwU3ludGF4IHsKfQo=</text>
+        <text encoding="base64">ZW51bSBBdG9tIHsKICAgIAp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZuIHBhcnNlKHNjOiAmbXV0IFNjYW5uZXIpIC0+IFNlbGY7Cg==</text>
+        <text encoding="base64">dXNlIGNvcmU6OnBhbmlja2luZzo6cGFuaWNfZm10Owo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

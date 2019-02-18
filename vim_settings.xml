@@ -19,6 +19,9 @@
         <mark key="]" line="14" column="95" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1550494462691">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ProbabilityForecastResponse.kt" timestamp="1548749483118">
         <mark key="[" line="7" column="3" />
       </file>
@@ -205,12 +208,12 @@
         <mark key="." line="33" column="16" />
         <mark key="^" line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/parser.rs" timestamp="1550492172455">
+      <file name="$USER_HOME$/git/Rasp/src/parser/parser.rs" timestamp="1550495637397">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="65" column="46" />
-        <mark key="]" line="31" column="55" />
-        <mark key="." line="31" column="55" />
-        <mark key="^" line="31" column="55" />
+        <mark key="[" line="66" column="58" />
+        <mark key="]" line="66" column="34" />
+        <mark key="." line="66" column="34" />
+        <mark key="^" line="66" column="34" />
       </file>
       <file name="$USER_HOME$/CLionProjects/AOC18/input/day1.txt" timestamp="1550138334509">
         <mark key="[" line="0" column="0" />
@@ -352,7 +355,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zm9yIA==</text>
+        <text encoding="base64">IEFzcEF0b206OnBhcnNlKHNjKQ==</text>
       </register>
       <register name="/" type="4">
         <text>der</text>
@@ -364,28 +367,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBFeHByU3RtdChBc3BFeHByOjpwYXJzZShzYykpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWU6IEFzcFN0cmluZ0xpdGVyYWwoU3RyaW5nOjpmcm9tKCJyYW5kb20gbmFtZSIpKQogICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzYy5uZXh0X3Rva2VuKCk7CiAgICAgICAgRXhwclN0bXQoQXNwRXhwciB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRva2VuOjpMZWZ0UGFyID0+IEEKICAgICAgICAgICAgICAgIF8gPT4gQXNwQXRvbTo6cGFyc2Uoc2MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3BFeHByIHsKICAgICAgICAgICAgdmFsdWU6IG1hdGNoIHNjLmN1cl90b2tlbigpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYW5pYyEoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWU6IEFzcEF0b206OnBhcnNlKHNjKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaSBsZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUb2tlbjo6TmFtZSgiIgogICAgICAgIG1hdGNoICB7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRva2VuOjpTdHJpbmdMaXRlcmFsKHMpID0+IEFzcFN0cmluZyhzKSwKICAgICAgICAgICAgICAgIF8gPT4gQXNwU3RyaW5nKFN0cmluZzo6ZnJvbSgieWlrZXMiKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXyA9PiBwYW5pYyEoKQo=</text>
+        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OnBhcnNlcjo6QXNwQXRvbTo6QXNwU3RyaW5nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

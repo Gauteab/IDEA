@@ -45,7 +45,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/asp/mini.asp" timestamp="1550580481538">
+      <file name="$USER_HOME$/git/Rasp/asp/mini.asp" timestamp="1550583544827">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="16" />
         <mark key="^" line="3" column="16" />
@@ -103,7 +103,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/error.rs" timestamp="1550581903531">
+      <file name="$USER_HOME$/git/Rasp/src/parser/error.rs" timestamp="1550583354196">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -133,10 +133,11 @@
       <file name="$USER_HOME$/CLionProjects/aoc18/Cargo.lock" timestamp="1550141701549">
         <mark key="[" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1550580258331">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1550583404597">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="13" column="14" />
+        <mark key="." line="13" column="14" />
+        <mark key="^" line="13" column="14" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/asp_name.rs" timestamp="1550567144788">
         <mark key="[" line="1" column="0" />
@@ -186,12 +187,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550580169684">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="37" column="45" />
-        <mark key="]" line="37" column="7" />
-        <mark key="." line="37" column="7" />
-        <mark key="^" line="37" column="7" />
+      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550583771468">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="42" column="37" />
+        <mark key="]" line="42" column="36" />
+        <mark key="." line="42" column="36" />
+        <mark key="^" line="42" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/java/HelloWorld.java" timestamp="1547560477175">
         <mark key="[" line="6" column="0" />
@@ -416,11 +417,11 @@
       <jump line="90" column="0" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>bool</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RXhwZWN0ZWQ6IDx7Oj99PiwgYnV0IGZvdW5kIDx7Oj99PiBvbiBsaW5lOiB7fQ==</text>
+        <text>bool</text>
       </register>
       <register name="/" type="4">
         <text>RE</text>

@@ -36,8 +36,8 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/asp/mini.asp" timestamp="1550586510060">
-        <mark key="[" line="3" column="18" />
+      <file name="$USER_HOME$/git/Rasp/asp/mini.asp" timestamp="1550587627925">
+        <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="18" />
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
@@ -79,12 +79,12 @@
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/MetnoOceanForecast.kt" timestamp="1548676996616">
         <mark key="[" line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_atom.rs" timestamp="1550581844556">
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_atom.rs" timestamp="1550587555269">
         <mark key="'" line="4" column="3" />
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="15" />
-        <mark key="." line="21" column="15" />
-        <mark key="^" line="21" column="15" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="71" />
+        <mark key="." line="18" column="70" />
+        <mark key="^" line="18" column="70" />
       </file>
       <file name="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/example/ExampleRobot.kt" timestamp="1548350124498">
         <mark key="[" line="4" column="14" />
@@ -164,12 +164,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550585898747">
+      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550587223213">
         <mark key="'" line="93" column="0" />
-        <mark key="[" line="39" column="35" />
-        <mark key="]" line="42" column="36" />
-        <mark key="." line="42" column="36" />
-        <mark key="^" line="42" column="36" />
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="25" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/java/HelloWorld.java" timestamp="1547560477175">
         <mark key="[" line="6" column="0" />
@@ -180,12 +180,12 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="41" column="6" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_assignment.rs" timestamp="1550579185065">
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_assignment.rs" timestamp="1550587558041">
         <mark key="'" line="4" column="3" />
-        <mark key="[" line="13" column="58" />
-        <mark key="]" line="13" column="58" />
-        <mark key="." line="13" column="45" />
-        <mark key="^" line="13" column="44" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="71" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="43" />
       </file>
       <file name="$USER_HOME$/git/Rasp/asp/expr.asp" timestamp="1550577190979">
         <mark key="[" line="0" column="0" />
@@ -390,43 +390,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIHN0ZDo6Zm10OjpGb3JtYXR0ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogR2VuZXJhbGl6ZSBwYXJzZSBlcnJvci4gRG9udCBoYXJkIGNvZGUgVG9rZW46Ok5hbWUK</text>
       </register>
       <register name="-" type="4">
-        <text>program_name</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>red</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZSEoZiwgIkV4cGVjdGVkOiA8ezo/fT4sIGJ1dCBmb3VuZCA8ezo/fT4gb24gbGluZToge30iLAogICAgICAgICAgICAgICBzZWxmLmV4cGVjdGVkLAogICAgICAgICAgICAgICBzZWxmLmZvdW5kLAogICAgICAgICAgICAgICBzZWxmLmxpbmVfbnVtYmVyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogR2VuZXJhbGl6ZSBwYXJzZSBlcnJvci4gRG9udCBoYXJkIGNvZGUgVG9rZW46Ok5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIHN0ZDo6Zm10OjpGb3JtYXR0ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYXRvbSA9IG1hdGNoIHNjLmN1cl90b2tlbigpIHsKICAgICAgICAgICAgXyA9PiBwYW5pYyEoKQogICAgICAgIH07CiAgICAgICAgc2MubmV4dF90b2tlbigpOwogICAgICAgIE9rKGF0b20pCiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIHN0ZDo6ZXJyb3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRXJyKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIGNvcmU6OmZtdDo6RGVidWc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVG9rZW46Ok5hbWUodmFsKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVG9rZW46Ok5hbWUodmFsdWUpID0+IEFzcEF0b206Ok5hbWUoQXNwTmFtZSh2YWx1ZS5jbG9uZSgpKSksCiAgICAgICAgICAgIFRva2VuOjpTdHJpbmdMaXRlcmFsKHZhbHVlKSA9PiBBc3BBdG9tOjpTdHJpbmcoQXNwU3RyaW5nKHZhbHVlLmNsb25lKCkpKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9pbXBsIGVycm9yOjpFcnJvciBmb3IgUGFyc2VFcnJvciB7Ci8vCi8vfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZXQgVG9rZW46Ok5hbWUodmFsdWUpID0gc2MubmV4dF90b2tlbigpIHsKICAgICAgICAgICAgbGV0IG5hbWUgPSBBc3BOYW1lKHZhbHVlKTsKICAgICAgICAgICAgc2Muc2tpcChUb2tlbjo6RXF1YWwpPzsKICAgICAgICAgICAgbGV0IGV4cHIgPSBBc3BFeHByOjpwYXJzZShzYyk/OwogICAgICAgICAgICBzYy5za2lwKFRva2VuOjpOZXdsaW5lKT87CiAgICAgICAgICAgIHJldHVybiBPayhBc3BBc3NpZ25tZW50IHtuYW1lLGV4cHJ9KTsKICAgICAgICB9CiAgICAgICAgRXJyKFBhcnNlRXJyb3I6Om5ldygpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBwcm9ncmFtX25hbWUgPSA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYW5pYyEoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIGNvbG9yZWQ6OkNvbG9yZWRTdHJpbmc7Cg==</text>
+        <text encoding="base64">dXNlIHN0ZDo6Zm10OjpGb3JtYXR0ZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHdyaXRlIShmLCAiUGFyc2VFcnJvciBhdCBsaW5lIHt9OiIsIHNlbGYubGluZV9udW1iZXIpCg==</text>
+        <text encoding="base64">dXNlIHN0ZDo6ZXJyb3I7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

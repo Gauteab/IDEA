@@ -99,11 +99,10 @@
       <file name="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/example/ExampleRobot.kt" timestamp="1548350124498">
         <mark key="[" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/mod.rs" timestamp="1550570847347">
-        <mark key="[" line="25" column="20" />
-        <mark key="]" line="26" column="9" />
-        <mark key="." line="26" column="9" />
-        <mark key="^" line="26" column="9" />
+      <file name="$USER_HOME$/git/Rasp/src/scanner/mod.rs" timestamp="1550575887249">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Robocode/pom.xml" timestamp="1548346754811">
         <mark key="[" line="45" column="0" />
@@ -115,10 +114,10 @@
         <mark key="]" line="1" column="25" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/mod.rs" timestamp="1550571866336">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/mod.rs" timestamp="1550575042492">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/OceanForecastResponse.kt" timestamp="1548770862178">
         <mark key="[" line="9" column="20" />
@@ -182,11 +181,11 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550571969849">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="52" column="3" />
+      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550575723610">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="15" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/java/HelloWorld.java" timestamp="1547560477175">
         <mark key="[" line="6" column="0" />
@@ -410,10 +409,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlOjpvcGVuKCIiKS51bndyYXAoKS4uOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRfZXEhKHRva2Vucywg</text>
+        <text>&quot;Hello World!&quot;</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -422,31 +421,31 @@
         <text encoding="base64">ICAgIGxvb3AgewogICAgICAgIGxldCB0ID0gc2MubmV4dF90b2tlbigpOwogICAgICAgIHByaW50bG4hKCJ7Oj99IiwgdCk7CiAgICAgICAgaWYgdCA9PSBFb0YgeyBicmVhayB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlOjpvcGVuKCIiKS51bndyYXAoKS4uOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OmFzcF9wcm9ncmFtOjpBc3BQcm9ncmFtOwp1c2UgY3JhdGU6OnBhcnNlcjo6YXNwX3N5bnRheDo6QXNwU3ludGF4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIGNyYXRlOjpzY2FubmVyOjpzY2FubmVyOjpTY2FubmVyOwp1c2UgY3JhdGU6OnNjYW5uZXI6OnRva2VuOjpUb2tlbjo6RW9GOwo=</text>
+        <text encoding="base64">ICAgICAgICB2ZWMhWwogICAgICAgICAgICBOYW1lKFN0cmluZzo6ZnJvbSgibmF2biIpKSwKICAgICAgICAgICAgRXF1YWwsCiAgICAgICAgICAgIFN0cmluZ0xpdGVyYWwoU3RyaW5nOjpmcm9tKCJEYWciKSksCiAgICAgICAgICAgIE5ld2xpbmUsCiAgICAgICAgICAgIE5hbWUoU3RyaW5nOjpmcm9tKCJwcmludCIpKSwKICAgICAgICAgICAgTGVmdFBhciwKICAgICAgICAgICAgU3RyaW5nTGl0ZXJhbChTdHJpbmc6OmZyb20oIkhlaSwiKSksCiAgICAgICAgICAgIENvbW1hLAogICAgICAgICAgICBOYW1lKFN0cmluZzo6ZnJvbSgibmF2biIpKSwKICAgICAgICAgICAgUmlnaHRQYXIsCiAgICAgICAgICAgIE5ld2xpbmUsCiAgICAgICAgICAgIEVvRgogICAgICAgIF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgiSGVsbG8iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRlc3RfcGFyc2VyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm4gdGVzdF9wYXJzZXIoKSB7Cn0K</text>
+        <text encoding="base64">ICAgIHZlYyFbCiAgICBOYW1lKFN0cmluZzo6ZnJvbSgibmF2biIpKSwKICAgIEVxdWFsLAogICAgU3RyaW5nTGl0ZXJhbChTdHJpbmc6OmZyb20oIkRhZyIpKSwKICAgIE5ld2xpbmUsCiAgICBOYW1lKFN0cmluZzo6ZnJvbSgicHJpbnQiKSksCiAgICBMZWZ0UGFyLAogICAgU3RyaW5nTGl0ZXJhbChTdHJpbmc6OmZyb20oIkhlaSwiKSksCiAgICBDb21tYSwKICAgIE5hbWUoU3RyaW5nOjpmcm9tKCJuYXZuIikpLAogICAgUmlnaHRQYXIsCiAgICBOZXdsaW5lLAogICAgRW9GCl07Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmV4cGVjdCgiVW5hYmxlIHRvIG9wZW4gc2Nhbm5lciBmb3IgYXNwLm1pbmkiKTsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdG9rZW5zOiBWZWM8VG9rZW4+ID0gdmVjIVsKICAgICAgICAgICAgTmFtZShTdHJpbmc6OmZyb20oIm5hdm4iKSksCiAgICAgICAgICAgIEVxdWFsLAogICAgICAgICAgICBTdHJpbmdMaXRlcmFsKFN0cmluZzo6ZnJvbSgiRGFnIikpLAogICAgICAgICAgICBOZXdsaW5lLAogICAgICAgICAgICBOYW1lKFN0cmluZzo6ZnJvbSgicHJpbnQiKSksCiAgICAgICAgICAgIExlZnRQYXIsCiAgICAgICAgICAgIFN0cmluZ0xpdGVyYWwoU3RyaW5nOjpmcm9tKCJIZWksIikpLAogICAgICAgICAgICBDb21tYSwKICAgICAgICAgICAgTmFtZShTdHJpbmc6OmZyb20oIm5hdm4iKSksCiAgICAgICAgICAgIFJpZ2h0UGFyLAogICAgICAgICAgICBOZXdsaW5lLAogICAgICAgICAgICBFb0YKICAgICAgICBdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

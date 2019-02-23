@@ -42,11 +42,11 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_stmt.rs" timestamp="1550579167936">
-        <mark key="[" line="19" column="42" />
-        <mark key="]" line="19" column="8" />
-        <mark key="." line="19" column="8" />
-        <mark key="^" line="19" column="16" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_stmt.rs" timestamp="1550939304521">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="39" column="41" />
+        <mark key="." line="35" column="2" />
+        <mark key="^" line="35" column="2" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/asp_arguments.rs" timestamp="1550580541732">
         <mark key="[" line="13" column="31" />
@@ -60,10 +60,9 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/asp_program.rs" timestamp="1550579080125">
-        <mark key="[" line="15" column="49" />
-        <mark key="]" line="17" column="18" />
-        <mark key="^" line="17" column="10" />
-        <mark key="." line="17" column="11" />
+        <mark key="]" line="4" column="18" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="4" column="11" />
       </file>
       <file name="$USER_HOME$/CLionProjects/rust-test/Cargo.toml" timestamp="1550153210145">
         <mark key="[" line="6" column="14" />
@@ -81,10 +80,6 @@
       </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/asp_atom.rs" timestamp="1550587555269">
         <mark key="'" line="4" column="3" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="71" />
-        <mark key="." line="18" column="70" />
-        <mark key="^" line="18" column="70" />
       </file>
       <file name="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/example/ExampleRobot.kt" timestamp="1548350124498">
         <mark key="[" line="4" column="14" />
@@ -114,12 +109,9 @@
       <file name="$USER_HOME$/CLionProjects/aoc18/Cargo.lock" timestamp="1550141701549">
         <mark key="[" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1550586525366">
-        <mark key="'" line="18" column="15" />
-        <mark key="[" line="17" column="52" />
-        <mark key="]" line="17" column="43" />
-        <mark key="." line="17" column="43" />
-        <mark key="^" line="17" column="43" />
+      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1550938908328">
+        <mark key="[" line="25" column="61" />
+        <mark key="n" line="12" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/Person.kt" timestamp="1547571351821">
         <mark key="[" line="9" column="35" />
@@ -135,10 +127,9 @@
       </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/asp_expr.rs" timestamp="1550579565677">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="15" column="37" />
-        <mark key="]" line="20" column="31" />
-        <mark key="." line="20" column="31" />
-        <mark key="^" line="20" column="31" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+        <mark key="^" line="5" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/Examples.kt" timestamp="1547574681509">
         <mark key="[" line="67" column="5" />
@@ -164,6 +155,13 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
+      <file name="$USER_HOME$/git/Rasp/src/log/logger.rs" timestamp="1550939541391">
+        <mark key="'" line="4" column="23" />
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="13" column="22" />
+      </file>
       <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550587223213">
         <mark key="'" line="93" column="0" />
         <mark key="[" line="26" column="8" />
@@ -182,10 +180,6 @@
       </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/asp_assignment.rs" timestamp="1550587558041">
         <mark key="'" line="4" column="3" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="71" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="43" />
       </file>
       <file name="$USER_HOME$/git/Rasp/asp/expr.asp" timestamp="1550577190979">
         <mark key="[" line="0" column="0" />
@@ -285,9 +279,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/git/Rasp/src/log/mod.rs" timestamp="1550938974275">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="20" filename="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/OceanForecastResponse.kt" />
       <jump line="7" column="22" filename="/" />
       <jump line="0" column="0" filename="/" />
       <jump line="87" column="27" filename="/" />
@@ -387,46 +383,47 @@
       <jump line="26" column="37" filename="$USER_HOME$/git/Rasp/src/scanner/mod.rs" />
       <jump line="90" column="0" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="18" column="15" filename="$USER_HOME$/git/Rasp/src/main.rs" />
+      <jump line="2" column="23" filename="$USER_HOME$/git/Rasp/src/log/logger.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogR2VuZXJhbGl6ZSBwYXJzZSBlcnJvci4gRG9udCBoYXJkIGNvZGUgVG9rZW46Ok5hbWUK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;{}&quot;, name.as_ref()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>&quot;{}&quot;, name.as_ref()</text>
       </register>
       <register name="/" type="4">
         <text>red</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogR2VuZXJhbGl6ZSBwYXJzZSBlcnJvci4gRG9udCBoYXJkIGNvZGUgVG9rZW46Ok5hbWUK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgXyBpbiAwLi4oaW5kZW50YXRpb24gKiAyKSB7IGZpbGUud3JpdGUoYiIgIik/OyB9CiAgICAgICAgZmlsZS53cml0ZShiIjxBc3BTdG10IGVudW0+XG4iKT87Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYXRvbSA9IG1hdGNoIHNjLmN1cl90b2tlbigpIHsKICAgICAgICAgICAgXyA9PiBwYW5pYyEoKQogICAgICAgIH07CiAgICAgICAgc2MubmV4dF90b2tlbigpOwogICAgICAgIE9rKGF0b20pCiAgICB9Cg==</text>
+        <text encoding="base64">dXNlIHN0ZDo6aW86OkJ1ZlJlYWRlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXJyKCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9rZW46Ok5hbWUodmFsKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9rZW46Ok5hbWUodmFsdWUpID0+IEFzcEF0b206Ok5hbWUoQXNwTmFtZSh2YWx1ZS5jbG9uZSgpKSksCiAgICAgICAgICAgIFRva2VuOjpTdHJpbmdMaXRlcmFsKHZhbHVlKSA9PiBBc3BBdG9tOjpTdHJpbmcoQXNwU3RyaW5nKHZhbHVlLmNsb25lKCkpKSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZXQgVG9rZW46Ok5hbWUodmFsdWUpID0gc2MubmV4dF90b2tlbigpIHsKICAgICAgICAgICAgbGV0IG5hbWUgPSBBc3BOYW1lKHZhbHVlKTsKICAgICAgICAgICAgc2Muc2tpcChUb2tlbjo6RXF1YWwpPzsKICAgICAgICAgICAgbGV0IGV4cHIgPSBBc3BFeHByOjpwYXJzZShzYyk/OwogICAgICAgICAgICBzYy5za2lwKFRva2VuOjpOZXdsaW5lKT87CiAgICAgICAgICAgIHJldHVybiBPayhBc3BBc3NpZ25tZW50IHtuYW1lLGV4cHJ9KTsKICAgICAgICB9CiAgICAgICAgRXJyKFBhcnNlRXJyb3I6Om5ldygpKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIHN0ZDo6aW86OkJ1ZlJlYWQ7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIHN0ZAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgYXRvbSA9IG1hdGNoIHNjLmN1cl90b2tlbigpIHsKICAgICAgICAgICAgXyA9PiBwYW5pYyEoKQogICAgICAgIH07CiAgICAgICAgc2MubmV4dF90b2tlbigpOwogICAgICAgIE9rKGF0b20pCiAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRXJyKCkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYW5pYyEoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVG9rZW46Ok5hbWUodmFsKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIHN0ZDo6Zm10OjpGb3JtYXR0ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVG9rZW46Ok5hbWUodmFsdWUpID0+IEFzcEF0b206Ok5hbWUoQXNwTmFtZSh2YWx1ZS5jbG9uZSgpKSksCiAgICAgICAgICAgIFRva2VuOjpTdHJpbmdMaXRlcmFsKHZhbHVlKSA9PiBBc3BBdG9tOjpTdHJpbmcoQXNwU3RyaW5nKHZhbHVlLmNsb25lKCkpKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIHN0ZDo6ZXJyb3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZXQgVG9rZW46Ok5hbWUodmFsdWUpID0gc2MubmV4dF90b2tlbigpIHsKICAgICAgICAgICAgbGV0IG5hbWUgPSBBc3BOYW1lKHZhbHVlKTsKICAgICAgICAgICAgc2Muc2tpcChUb2tlbjo6RXF1YWwpPzsKICAgICAgICAgICAgbGV0IGV4cHIgPSBBc3BFeHByOjpwYXJzZShzYyk/OwogICAgICAgICAgICBzYy5za2lwKFRva2VuOjpOZXdsaW5lKT87CiAgICAgICAgICAgIHJldHVybiBPayhBc3BBc3NpZ25tZW50IHtuYW1lLGV4cHJ9KTsKICAgICAgICB9CiAgICAgICAgRXJyKFBhcnNlRXJyb3I6Om5ldygpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
@@ -503,6 +500,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

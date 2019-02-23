@@ -42,7 +42,7 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_stmt.rs" timestamp="1550939304521">
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_stmt.rs" timestamp="1550939974790">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="39" column="41" />
         <mark key="." line="35" column="2" />
@@ -109,9 +109,12 @@
       <file name="$USER_HOME$/CLionProjects/aoc18/Cargo.lock" timestamp="1550141701549">
         <mark key="[" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1550938908328">
+      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1550940090694">
         <mark key="[" line="25" column="61" />
+        <mark key="]" line="25" column="69" />
         <mark key="n" line="12" column="28" />
+        <mark key="^" line="25" column="69" />
+        <mark key="." line="25" column="69" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/Person.kt" timestamp="1547571351821">
         <mark key="[" line="9" column="35" />
@@ -155,12 +158,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/log/logger.rs" timestamp="1550939541391">
-        <mark key="'" line="4" column="23" />
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="13" column="28" />
-        <mark key="." line="13" column="28" />
-        <mark key="^" line="13" column="22" />
+      <file name="$USER_HOME$/git/Rasp/src/log/logger.rs" timestamp="1550940162778">
+        <mark key="'" line="5" column="23" />
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="9" />
+        <mark key="." line="15" column="9" />
+        <mark key="^" line="15" column="9" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1550587223213">
         <mark key="'" line="93" column="0" />
@@ -387,43 +390,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;{}&quot;, name.as_ref()</text>
+        <text>::</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;{}&quot;, name.as_ref()</text>
+        <text>::</text>
       </register>
       <register name="/" type="4">
         <text>red</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgXyBpbiAwLi4oaW5kZW50YXRpb24gKiAyKSB7IGZpbGUud3JpdGUoYiIgIik/OyB9CiAgICAgICAgZmlsZS53cml0ZShiIjxBc3BTdG10IGVudW0+XG4iKT87Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgXyBpbiAwLi4oc2VsZi5pbmRlbnQgKiAyKSB7IHNlbGYuZmlsZS53cml0ZShiIiAiKT87IH0KICAgICAgICBzZWxmLmZpbGUud3JpdGVfZm10KGZvcm1hdF9hcmdzISgiPHt9PiIsbmFtZSkpPzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIHN0ZDo6aW86OkJ1ZlJlYWRlcjsK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluZGVudCAtPSAxOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluZGVudCArPSAxOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIHN0ZDo6aW86OkJ1ZlJlYWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZTogRmlsZTo6b3BlbihmaWxlbmFtZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIHN0ZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYXRvbSA9IG1hdGNoIHNjLmN1cl90b2tlbigpIHsKICAgICAgICAgICAgXyA9PiBwYW5pYyEoKQogICAgICAgIH07CiAgICAgICAgc2MubmV4dF90b2tlbigpOwogICAgICAgIE9rKGF0b20pCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgXyBpbiAwLi4oc2VsZi5pbmRlbnQgKiAyKSB7IHNlbGYuZmlsZS53cml0ZShiIiAiKT87IH0KICAgICAgICBzZWxmLmZpbGUud3JpdGVfZm10KGZvcm1hdF9hcmdzISgiPC97fT4iLG5hbWUpKT87Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXJyKCkK</text>
+        <text encoding="base64">dXNlIHN0ZDo6aW86OkJ1ZlJlYWRlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9rZW46Ok5hbWUodmFsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9rZW46Ok5hbWUodmFsdWUpID0+IEFzcEF0b206Ok5hbWUoQXNwTmFtZSh2YWx1ZS5jbG9uZSgpKSksCiAgICAgICAgICAgIFRva2VuOjpTdHJpbmdMaXRlcmFsKHZhbHVlKSA9PiBBc3BBdG9tOjpTdHJpbmcoQXNwU3RyaW5nKHZhbHVlLmNsb25lKCkpKSwK</text>
+        <text encoding="base64">dXNlIHN0ZDo6aW86OkJ1ZlJlYWQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZXQgVG9rZW46Ok5hbWUodmFsdWUpID0gc2MubmV4dF90b2tlbigpIHsKICAgICAgICAgICAgbGV0IG5hbWUgPSBBc3BOYW1lKHZhbHVlKTsKICAgICAgICAgICAgc2Muc2tpcChUb2tlbjo6RXF1YWwpPzsKICAgICAgICAgICAgbGV0IGV4cHIgPSBBc3BFeHByOjpwYXJzZShzYyk/OwogICAgICAgICAgICBzYy5za2lwKFRva2VuOjpOZXdsaW5lKT87CiAgICAgICAgICAgIHJldHVybiBPayhBc3BBc3NpZ25tZW50IHtuYW1lLGV4cHJ9KTsKICAgICAgICB9CiAgICAgICAgRXJyKFBhcnNlRXJyb3I6Om5ldygpKQo=</text>
+        <text encoding="base64">dXNlIHN0ZAo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

@@ -42,11 +42,12 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_stmt.rs" timestamp="1551008621485">
-        <mark key="u" line="51" column="43" />
-        <mark key="[" line="28" column="43" />
-        <mark key="]" line="28" column="43" />
-        <mark key="." line="28" column="43" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_stmt.rs" timestamp="1551010177902">
+        <mark key="u" line="52" column="43" />
+        <mark key="[" line="24" column="58" />
+        <mark key="]" line="23" column="19" />
+        <mark key="^" line="23" column="19" />
+        <mark key="." line="23" column="19" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/asp_arguments.rs" timestamp="1551008581668">
         <mark key="[" line="30" column="43" />
@@ -86,12 +87,12 @@
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/MetnoOceanForecast.kt" timestamp="1548676996616">
         <mark key="[" line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_atom.rs" timestamp="1551009426740">
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_atom.rs" timestamp="1551010266602">
         <mark key="'" line="4" column="3" />
-        <mark key="[" line="22" column="93" />
-        <mark key="]" line="22" column="64" />
-        <mark key="." line="22" column="64" />
-        <mark key="^" line="22" column="64" />
+        <mark key="[" line="29" column="11" />
+        <mark key="]" line="29" column="19" />
+        <mark key="." line="29" column="11" />
+        <mark key="^" line="29" column="10" />
       </file>
       <file name="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/example/ExampleRobot.kt" timestamp="1548350124498">
         <mark key="[" line="4" column="14" />
@@ -161,12 +162,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_expr.rs" timestamp="1551008813419">
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_expr.rs" timestamp="1551010322874">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="15" />
-        <mark key="^" line="27" column="39" />
-        <mark key="." line="19" column="15" />
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="35" />
+        <mark key="^" line="27" column="35" />
+        <mark key="." line="27" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/Examples.kt" timestamp="1547574681509">
         <mark key="[" line="67" column="5" />
@@ -215,12 +216,12 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="41" column="6" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_assignment.rs" timestamp="1551008592050">
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_assignment.rs" timestamp="1551009896236">
         <mark key="'" line="4" column="3" />
-        <mark key="[" line="33" column="44" />
-        <mark key="]" line="33" column="44" />
-        <mark key="." line="33" column="44" />
-        <mark key="^" line="21" column="25" />
+        <mark key="[" line="23" column="53" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="24" />
+        <mark key="^" line="22" column="24" />
       </file>
       <file name="$USER_HOME$/git/Rasp/asp/expr.asp" timestamp="1550577190979">
         <mark key="[" line="0" column="0" />
@@ -428,10 +429,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>StringLiteral</text>
+        <text>AspAtom</text>
       </register>
       <register name="-" type="4">
-        <text>StringLiteral</text>
+        <text>AspAtom</text>
       </register>
       <register name="/" type="4">
         <text>Sc</text>
@@ -440,31 +441,31 @@
         <text>Attempted to parse AspString, but no StringLiteral was found</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIGNvcmU6OnBhbmlja2luZzo6cGFuaWNfZm10Owo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXJyKFBhcnNlRXJyb3IpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgYXNwX2V4cHIgPSBBc3BFeHByOjpwYXJzZShzYywgbG9nZ2VyKT87Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIGNvcmU6OnBhbmlja2luZzo6cGFuaWNfZm10Owo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBFcnIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRXJyKFBhcnNlRXJyb3IpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBPayhFeHByU3RtdChBc3BFeHByOjpwYXJzZShzYywgbG9nZ2VyKT8pKQo=</text>
+        <text encoding="base64">ICAgICAgICBFcnIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPayhFeHByU3RtdChBc3BFeHByOjpwYXJzZShzYywgbG9nZ2VyKT8pKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIubGVhdmVfcGFyc2VyKCJBc3BTdG10IGVudW0iKT87Cg==</text>
+        <text encoding="base64">ICAgICAgICBPayhFeHByU3RtdChBc3BFeHByOjpwYXJzZShzYywgbG9nZ2VyKT8pKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIubGVhdmVfcGFyc2VyKCJBc3BTdG10IGVudW0iKTsK</text>
+        <text encoding="base64">ICAgICAgICBPayhFeHByU3RtdChBc3BFeHByOjpwYXJzZShzYywgbG9nZ2VyKT8pKQo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

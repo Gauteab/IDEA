@@ -74,11 +74,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/KtorTest/src/Application.kt" timestamp="1551534201097">
+      <file name="$USER_HOME$/IdeaProjects/KtorTest/src/Application.kt" timestamp="1551537846343">
         <mark key="'" line="79" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="41" column="43" />
+        <mark key="]" line="41" column="40" />
+        <mark key="." line="41" column="40" />
+        <mark key="^" line="41" column="40" />
       </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/MetnoOceanForecast.kt" timestamp="1548676996616">
         <mark key="[" line="4" column="9" />
@@ -420,11 +421,11 @@
       <jump line="79" column="0" filename="$USER_HOME$/IdeaProjects/KtorTest/src/Application.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1234</text>
       </register>
       <register name="-" type="4">
-        <text>com.company.application.Main</text>
+        <text>1234</text>
       </register>
       <register name="/" type="4">
         <text>Sc</text>

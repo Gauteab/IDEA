@@ -109,6 +109,12 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/BigKtorTest/src/Application.kt" timestamp="1551633904500">
+        <mark key="[" line="68" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/BigKtorTest/src/hello.js" timestamp="1551633949751">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/mod.rs" timestamp="1551264848699">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -122,10 +128,6 @@
       </file>
       <file name="$USER_HOME$/CLionProjects/aoc18/Cargo.lock" timestamp="1550141701549">
         <mark key="[" line="1" column="11" />
-      </file>
-      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1551049225010">
-        <mark key="'" line="42" column="31" />
-        <mark key="n" line="13" column="28" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/asp_name.rs" timestamp="1551049116401">
         <mark key="[" line="14" column="42" />
@@ -239,7 +241,7 @@
       <file name="/GDB" timestamp="1551263573472">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551628774598">
+      <file name="/Dummy.txt" timestamp="1551634121870">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/untitled/src/main.rs" timestamp="1548704755743">

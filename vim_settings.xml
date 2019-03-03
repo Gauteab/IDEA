@@ -56,8 +56,12 @@
         <mark key="^" line="18" column="41" />
         <mark key="." line="18" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LectureApp/build.gradle" timestamp="1551603018742">
-        <mark key="'" line="4" column="1" />
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/build.gradle" timestamp="1551604059566">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/KtorTest/build.gradle" timestamp="1551534057355">
         <mark key="[" line="29" column="0" />
@@ -253,8 +257,12 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LectureApp/src/jvmMain/kotlin/sample/SampleJvm.kt" timestamp="1551603352653">
-        <mark key="[" line="46" column="25" />
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/src/jvmMain/kotlin/sample/SampleJvm.kt" timestamp="1551604732167">
+        <mark key="'" line="54" column="16" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="52" column="16" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/SimpleOceanForecastResponse.kt" timestamp="1548683212531">
         <mark key="[" line="6" column="8" />
@@ -318,9 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/CLionProjects/rust-test/src/day1.rs" />
-      <jump line="1" column="29" filename="$USER_HOME$/CLionProjects/rust-test/src/day1.rs" />
-      <jump line="4" column="35" filename="$USER_HOME$/CLionProjects/rust-test/src/main.rs" />
       <jump line="5" column="35" filename="$USER_HOME$/CLionProjects/rust-test/src/main.rs" />
       <jump line="0" column="10" filename="$USER_HOME$/git/Rasp/src/main.rs" />
       <jump line="1" column="15" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
@@ -418,10 +423,13 @@
       <jump line="37" column="0" filename="$USER_HOME$/IdeaProjects/KtorTest/src/Application.kt" />
       <jump line="79" column="0" filename="$USER_HOME$/IdeaProjects/KtorTest/src/Application.kt" />
       <jump line="4" column="1" filename="$USER_HOME$/IdeaProjects/LectureApp/build.gradle" />
+      <jump line="24" column="26" filename="$USER_HOME$/IdeaProjects/LectureApp/build.gradle" />
+      <jump line="14" column="0" filename="$USER_HOME$/IdeaProjects/LectureApp/build.gradle" />
+      <jump line="54" column="16" filename="$USER_HOME$/IdeaProjects/LectureApp/src/jvmMain/kotlin/sample/SampleJvm.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1234</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgY3VycmVudERpciA9IEZpbGUoIi4iKS5hYnNvbHV0ZUZpbGUKICAgICAgICBlbnZpcm9ubWVudC5sb2cuaW5mbygiQ3VycmVudCBkaXJlY3Rvcnk6ICRjdXJyZW50RGlyIikKCiAgICAgICAgdmFsIHdlYkRpciA9IGxpc3RPZigKICAgICAgICAgICAgIndlYiIsCiAgICAgICAgICAgICIuLi9zcmMvanNNYWluL3dlYiIsCiAgICAgICAgICAgICJzcmMvanNNYWluL3dlYiIKICAgICAgICApLm1hcCB7CiAgICAgICAgICAgIEZpbGUoY3VycmVudERpciwgaXQpCiAgICAgICAgfS5maXJzdE9yTnVsbCB7IGl0LmlzRGlyZWN0b3J5IH0/LmFic29sdXRlRmlsZSA/OiBlcnJvcigiQ2FuJ3QgZmluZCAnd2ViJyBmb2xkZXIgZm9yIHRoaXMgc2FtcGxlIikKCiAgICAgICAgZW52aXJvbm1lbnQubG9nLmluZm8oIldlYiBkaXJlY3Rvcnk6ICR3ZWJEaXIiKQo=</text>
       </register>
       <register name="-" type="4">
         <text>1234</text>
@@ -433,31 +441,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYSgiJHJvb3QvcGVvcGxlLzEiKSB7ICsicGVyc29uIDEiIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY3VycmVudERpciA9IEZpbGUoIi4iKS5hYnNvbHV0ZUZpbGUKICAgICAgICBlbnZpcm9ubWVudC5sb2cuaW5mbygiQ3VycmVudCBkaXJlY3Rvcnk6ICRjdXJyZW50RGlyIikKCiAgICAgICAgdmFsIHdlYkRpciA9IGxpc3RPZigKICAgICAgICAgICAgIndlYiIsCiAgICAgICAgICAgICIuLi9zcmMvanNNYWluL3dlYiIsCiAgICAgICAgICAgICJzcmMvanNNYWluL3dlYiIKICAgICAgICApLm1hcCB7CiAgICAgICAgICAgIEZpbGUoY3VycmVudERpciwgaXQpCiAgICAgICAgfS5maXJzdE9yTnVsbCB7IGl0LmlzRGlyZWN0b3J5IH0/LmFic29sdXRlRmlsZSA/OiBlcnJvcigiQ2FuJ3QgZmluZCAnd2ViJyBmb2xkZXIgZm9yIHRoaXMgc2FtcGxlIikKCiAgICAgICAgZW52aXJvbm1lbnQubG9nLmluZm8oIldlYiBkaXJlY3Rvcnk6ICR3ZWJEaXIiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEp2bQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluLWRjZS1qcycK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gSW5jbHVkZSBkZXBlbmRlbnQgbGlicmFyaWVzIGluIGFyY2hpdmUuCm1haW5DbGFzc05hbWUgPSAiY29tLmV4YW1wbGUuQXBwbGljYXRpb24iCgpqYXIgewogICAgbWFuaWZlc3QgewogICAgICAgIGF0dHJpYnV0ZXMgIk1haW4tQ2xhc3MiOiAiJG1haW5DbGFzc05hbWUiCiAgICB9CgogICAgZnJvbSB7CiAgICAgICAgY29uZmlndXJhdGlvbnMuY29tcGlsZS5jb2xsZWN0IHsgaXQuaXNEaXJlY3RvcnkoKSA/IGl0IDogemlwVHJlZShpdCkgfQogICAgfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">amFyIHsKICAgIAp9Cg==</text>
+        <text encoding="base64">QEp2bQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICsiSGVpIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQoIkhlaSIpCg==</text>
+        <text encoding="base64">Ly8gSW5jbHVkZSBkZXBlbmRlbnQgbGlicmFyaWVzIGluIGFyY2hpdmUuCm1haW5DbGFzc05hbWUgPSAiY29tLmV4YW1wbGUuQXBwbGljYXRpb24iCgpqYXIgewogICAgbWFuaWZlc3QgewogICAgICAgIGF0dHJpYnV0ZXMgIk1haW4tQ2xhc3MiOiAiJG1haW5DbGFzc05hbWUiCiAgICB9CgogICAgZnJvbSB7CiAgICAgICAgY29uZmlndXJhdGlvbnMuY29tcGlsZS5jb2xsZWN0IHsgaXQuaXNEaXJlY3RvcnkoKSA/IGl0IDogemlwVHJlZShpdCkgfQogICAgfQp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQoIkhlaSIpCg==</text>
+        <text encoding="base64">amFyIHsKICAgIAp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1dHRvbiB7ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICsiSGVpIgo=</text>
       </register>
       <register name=":" type="4">
         <text>e main.rs</text>

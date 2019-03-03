@@ -42,13 +42,6 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_stmt.rs" timestamp="1551049083177">
-        <mark key="u" line="52" column="43" />
-        <mark key="[" line="29" column="43" />
-        <mark key="]" line="29" column="43" />
-        <mark key="^" line="29" column="43" />
-        <mark key="." line="29" column="43" />
-      </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/asp_arguments.rs" timestamp="1551049171426">
         <mark key="[" line="30" column="43" />
         <mark key="]" line="13" column="43" />
@@ -62,6 +55,9 @@
         <mark key="]" line="18" column="41" />
         <mark key="^" line="18" column="41" />
         <mark key="." line="18" column="41" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/build.gradle" timestamp="1551603018742">
+        <mark key="'" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/KtorTest/build.gradle" timestamp="1551534057355">
         <mark key="[" line="29" column="0" />
@@ -257,6 +253,9 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/src/jvmMain/kotlin/sample/SampleJvm.kt" timestamp="1551602869461">
+        <mark key="[" line="28" column="13" />
+      </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/SimpleOceanForecastResponse.kt" timestamp="1548683212531">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="8" />
@@ -319,7 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="19" filename="$USER_HOME$/CLionProjects/rust-test/src/day1.rs" />
       <jump line="18" column="0" filename="$USER_HOME$/CLionProjects/rust-test/src/day1.rs" />
       <jump line="1" column="29" filename="$USER_HOME$/CLionProjects/rust-test/src/day1.rs" />
       <jump line="4" column="35" filename="$USER_HOME$/CLionProjects/rust-test/src/main.rs" />
@@ -419,6 +417,7 @@
       <jump line="8" column="34" filename="$USER_HOME$/IdeaProjects/KtorTest/src/Application.kt" />
       <jump line="37" column="0" filename="$USER_HOME$/IdeaProjects/KtorTest/src/Application.kt" />
       <jump line="79" column="0" filename="$USER_HOME$/IdeaProjects/KtorTest/src/Application.kt" />
+      <jump line="4" column="1" filename="$USER_HOME$/IdeaProjects/LectureApp/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -428,7 +427,7 @@
         <text>1234</text>
       </register>
       <register name="/" type="4">
-        <text>Sc</text>
+        <text>web</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYSgiJHJvb3QvcGVvcGxlLzEiKSB7ICsicGVyc29uIDEiIH0K</text>
@@ -465,9 +464,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Sc</last-search>
+      <last-search>web</last-search>
       <last-offset />
-      <last-pattern>Sc</last-pattern>
+      <last-pattern>web</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>red</last-substitute>
       <last-dir>1</last-dir>
@@ -475,7 +474,6 @@
     </search>
     <history>
       <history-search>
-        <entry>line</entry>
         <entry>sca</entry>
         <entry>,e</entry>
         <entry>cont</entry>
@@ -495,6 +493,7 @@
         <entry>red</entry>
         <entry>::</entry>
         <entry>Sc</entry>
+        <entry>web</entry>
       </history-search>
       <history-cmd>
         <entry>%s/data/0..size/g</entry>

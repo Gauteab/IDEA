@@ -12,11 +12,14 @@
       <file name="/a.dummy" timestamp="1550494462691">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/my-app/src/index/index.kt" timestamp="1551699629740">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/my-app/src/index/index.kt" timestamp="1551710031430">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/my-app/src/index/index.css" timestamp="1551702415761">
+        <mark key="[" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ProbabilityForecastResponse.kt" timestamp="1548749483118">
         <mark key="[" line="7" column="3" />
@@ -126,6 +129,9 @@
         <mark key="[" line="68" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/BigKtorTest/src/hello.js" timestamp="1551633949751">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/" timestamp="1551701408015">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/mod.rs" timestamp="1551264848699">
@@ -238,6 +244,9 @@
         <mark key="]" line="87" column="44" />
         <mark key="." line="87" column="44" />
         <mark key="^" line="87" column="44" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1551701406196">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AnotherTest/resources/static/hello.js" timestamp="1551645654531">
         <mark key="[" line="1" column="21" />
@@ -362,6 +371,12 @@
         <mark key="]" line="24" column="9" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/my-app/src/slider/App.kt" timestamp="1551710426872">
+        <mark key="[" line="34" column="60" />
+        <mark key="]" line="34" column="59" />
+        <mark key="." line="34" column="59" />
+        <mark key="^" line="34" column="59" />
+      </file>
       <file name="$USER_HOME$/in2000/case_test/build.gradle" timestamp="1548687524065">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -397,7 +412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="25" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="1" column="13" filename="$USER_HOME$/git/Rasp/src/scanner/mod.rs" />
       <jump line="36" column="0" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="3" column="0" filename="$USER_HOME$/git/Rasp/src/main.rs" />
@@ -497,13 +511,14 @@
       <jump line="22" column="21" filename="$USER_HOME$/IdeaProjects/JSJVMTest/src/jvmMain/kotlin/sample/SampleJvm.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/JSJVMTest/src/jvmMain/kotlin/sample/SampleJvm.kt" />
       <jump line="19" column="0" filename="$USER_HOME$/IdeaProjects/my-app/src/index/index.kt" />
+      <jump line="45" column="23" filename="$USER_HOME$/IdeaProjects/my-app/src/slider/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBldmVudC4K</text>
+      <register name="&quot;" type="4">
+        <text>Unhandled event target: ${event.target}</text>
       </register>
       <register name="-" type="4">
-        <text>input</text>
+        <text>Unhandled event target: ${event.target}</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
@@ -512,31 +527,31 @@
         <text>loadStudentClient</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBldmVudC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF0dHJzLnR5cGUgPSBJbnB1dFR5cGUucmFuZ2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKChldmVudC50YXJnZXQgYXMgSFRNTElucHV0RWxlbWVudCkudmFsdWUpCg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguaHRtbC5pZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbmV4dC5qcy4qCmltcG9ydCBrb3RsaW54Lmh0bWwuSU5QVVQK</text>
+        <text encoding="base64">ZnVuIFJCdWlsZGVyLmFwcCgpID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguaHRtbC5vbkNsaWNrCmltcG9ydCBrb3RsaW54Lmh0bWwuc3R5bGUKaW1wb3J0IG9yZy53M2MuZG9tLmV2ZW50cy5FdmVudAppbXBvcnQgb3JnLnczYy5kb20uZXZlbnRzLklucHV0RXZlbnQK</text>
+        <text encoding="base64">aW1wb3J0IHNsaWRlci5BcHAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0cnMuc3R5bGUgPSAiZGlzcGxheTpmbGV4Igo=</text>
+        <text encoding="base64">ICAgICAgICBjaGlsZChBcHA6OmNsYXNzKSB7fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZXZlbnQgaXMgSW5wdXRFdmVudCkgewo=</text>
+        <text encoding="base64">ICAgIHNldCh2YWx1ZSkgewogICAgICAgIHByaW50bG4odmFsdWUpCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbihldmVudCkKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZCA9IHZhbHVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>e main.rs</text>

@@ -12,10 +12,10 @@
       <file name="/a.dummy" timestamp="1550494462691">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/my-app/src/index/index.kt" timestamp="1551719090516">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/my-app/src/index/index.kt" timestamp="1551724593651">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/my-app/src/index/index.css" timestamp="1551702415761">
         <mark key="[" line="4" column="1" />
@@ -60,6 +60,11 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/my-app-backend/src/Utils.kt" timestamp="1551726735065">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/LectureApp/build.gradle" timestamp="1551604059566">
         <mark key="'" line="17" column="0" />
@@ -175,12 +180,10 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/my-app-backend/src/Application.kt" timestamp="1551724202781">
-        <mark key="'" line="59" column="45" />
-        <mark key="[" line="65" column="20" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="83" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/my-app-backend/src/Application.kt" timestamp="1551726864431">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/jstest/src/main/kotlin/App.kt" timestamp="1551629064000">
         <mark key="[" line="1" column="12" />
@@ -377,10 +380,11 @@
         <mark key="]" line="24" column="9" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/my-app/src/slider/App.kt" timestamp="1551719244206">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/my-app/src/slider/App.kt" timestamp="1551725081441">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="16" column="17" />
       </file>
       <file name="$USER_HOME$/in2000/case_test/build.gradle" timestamp="1548687524065">
         <mark key="[" line="28" column="0" />
@@ -397,7 +401,7 @@
       <file name="$USER_HOME$/git/Rasp/tests/main.rs" timestamp="1550568575459">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1548689232065">
+      <file name="/fragment.java" timestamp="1551725209721">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/ast.rs" timestamp="1550566254786">
@@ -417,13 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/git/Rasp/src/main.rs" />
-      <jump line="11" column="14" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
-      <jump line="27" column="20" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
-      <jump line="28" column="47" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
-      <jump line="55" column="11" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libstd/io/buffered.rs" />
-      <jump line="63" column="18" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libstd/io/buffered.rs" />
-      <jump line="74" column="36" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libstd/io/buffered.rs" />
       <jump line="84" column="6" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libstd/io/buffered.rs" />
       <jump line="126" column="36" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libstd/io/buffered.rs" />
       <jump line="147" column="40" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libstd/io/buffered.rs" />
@@ -517,55 +514,62 @@
       <jump line="45" column="23" filename="$USER_HOME$/IdeaProjects/my-app/src/slider/App.kt" />
       <jump line="72" column="4" filename="$USER_HOME$/IdeaProjects/my-app-backend/src/Application.kt" />
       <jump line="64" column="45" filename="$USER_HOME$/IdeaProjects/my-app-backend/src/Application.kt" />
+      <jump line="19" column="0" filename="$USER_HOME$/IdeaProjects/my-app/src/slider/App.kt" />
+      <jump line="20" column="8" filename="$USER_HOME$/IdeaProjects/my-app/src/slider/App.kt" />
+      <jump line="25" column="8" filename="$USER_HOME$/IdeaProjects/my-app/src/slider/App.kt" />
+      <jump line="29" column="8" filename="$USER_HOME$/IdeaProjects/my-app/src/slider/App.kt" />
+      <jump line="31" column="12" filename="$USER_HOME$/IdeaProjects/my-app/src/slider/App.kt" />
+      <jump line="34" column="8" filename="$USER_HOME$/IdeaProjects/my-app/src/slider/App.kt" />
+      <jump line="59" column="45" filename="$USER_HOME$/IdeaProjects/my-app-backend/src/Application.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS4qCg==</text>
       </register>
       <register name="-" type="4">
-        <text>event.target</text>
+        <text>testing: Boolean = false</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>sock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgICAgICAgICAgICAgdmFsIGZyYW1lID0gaW5jb21pbmcucmVjZWl2ZSgpCiAgICAgICAgICAgICAgICAgICAgcHJpbnRsbihmcmFtZSkKICAgICAgICAgICAgICAgICAgICBpZiAoZnJhbWUgaXMgRnJhbWUuVGV4dCkgewogICAgICAgICAgICAgICAgICAgICAgICBwcmludGxuKGZyYW1lLnJlYWRUZXh0KCkpCiAgICAgICAgICAgICAgICAgICAgICAgIHNlbmQoRnJhbWUuVGV4dCgiQ2xpZW50IHNhaWQ6ICIgKyBmcmFtZS5yZWFkVGV4dCgpKSkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gY2F0Y2ggKGU6IENsb3NlZFJlY2VpdmVDaGFubmVsRXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICBwcmludGxuKCJDb25uZWN0aW9uIGNsb3NlZCIpCiAgICAgICAgICAgIH0gY2F0Y2ggKGU6IFRocm93YWJsZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ZnVuIHN0YXJ0V2ViU29ja2V0KCkgPSBXZWJTb2NrZXQoIndzOi8vbG9jYWxob3N0OjgwODAvd3MiKSAuYXBwbHkgewoKICAgIG9ubWVzc2FnZSA9IHsgbXNnRXZlbnQgLT4KICAgICAgICBwcmludGxuKCJNZXNzYWdlISEhIikKICAgICAgICBwcmludGxuKG1zZ0V2ZW50LmRhdGEpCiAgICB9CgogICAgb25lcnJvciA9IHsKICAgICAgICBwcmludGxuKCJFcnJvciIpCiAgICB9CgogICAgb25vcGVuID0gewogICAgICAgIHByaW50bG4oIkNvbm5lY3RlZCEiKQogICAgICAgIHNlbmQoIllvISIpCiAgICB9CgogICAgb25jbG9zZSA9IHsKICAgICAgICBwcmludGxuKCJDbG9zZWQhIikKICAgIH0KCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS4qCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBibG9jaygpCg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5jaGFubmVscy5DbG9zZWRSZWNlaXZlQ2hhbm5lbEV4Y2VwdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">c3VzcGVuZCBmdW4gRGVmYXVsdFdlYlNvY2tldFNlcnZlclNlc3Npb24ucmVjZWl2ZUZvcmV2ZXIoYmxvY2s6IHN1c3BlbmQgRGVmYXVsdFdlYlNvY2tldFNlcnZlclNlc3Npb24uKCkgLT4gVW5pdCkgewogICAgdHJ5IHsKICAgICAgICB3aGlsZSAodHJ1ZSkgewogICAgICAgICAgICBibG9jaygpCiAgICAgICAgfQogICAgfSBjYXRjaCAoZTogQ2xvc2VkUmVjZWl2ZUNoYW5uZWxFeGNlcHRpb24pIHsKICAgICAgICBwcmludGxuKCJDb25uZWN0aW9uIENsb3NlZCIpCiAgICB9IGNhdGNoIChlOiBUaHJvd2FibGUpIHsKICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCiAgICB9Cn0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlICh0cnVlKSB7Cg==</text>
+        <text encoding="base64">QFN1cHByZXNzKCJ1bnVzZWQiKSAvLyBSZWZlcmVuY2VkIGluIGFwcGxpY2F0aW9uLmNvbmYKQGtvdGxpbi5qdm0uSnZtT3ZlcmxvYWRzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGtvdGxpbi5qdm0uSnZtT3ZlcmxvYWRzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgICAgICAgICAgICAgdmFsIGZyYW1lID0gaW5jb21pbmcucmVjZWl2ZSgpCiAgICAgICAgICAgICAgICAgICAgcHJpbnRsbihmcmFtZSkKICAgICAgICAgICAgICAgICAgICBpZiAoZnJhbWUgaXMgRnJhbWUuVGV4dCkgewogICAgICAgICAgICAgICAgICAgICAgICBwcmludGxuKGZyYW1lLnJlYWRUZXh0KCkpCiAgICAgICAgICAgICAgICAgICAgICAgIHNlbmQoRnJhbWUuVGV4dCgiQ2xpZW50IHNhaWQ6ICIgKyBmcmFtZS5yZWFkVGV4dCgpKSkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">QFN1cHByZXNzKCJ1bnVzZWQiKSAvLyBSZWZlcmVuY2VkIGluIGFwcGxpY2F0aW9uLmNvbmYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">aW1wb3J0IGlvLmt0b3Iuc2VydmVyLm5ldHR5LkVuZ2luZU1haW4ubWFpbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoZTogQ2xvc2VkUmVjZWl2ZUNoYW5uZWxFeGNlcHRpb24pIHsKICAgICAgICAgICAgICAgIHByaW50bG4oIkNvbm5lY3Rpb24gY2xvc2VkIikKICAgICAgICAgICAgfSBjYXRjaCAoZTogVGhyb3dhYmxlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAodHJ1ZSkgewogICAgICAgICAgICB2YWwgZnJhbWUgPSBpbmNvbWluZy5yZWNlaXZlKCkKICAgICAgICAgICAgcHJpbnRsbihmcmFtZSkKICAgICAgICAgICAgaWYgKGZyYW1lIGlzIEZyYW1lLlRleHQpIHsKICAgICAgICAgICAgICAgIHByaW50bG4oZnJhbWUucmVhZFRleHQoKSkKICAgICAgICAgICAgICAgIHNlbmQoRnJhbWUuVGV4dCgiQ2xpZW50IHNhaWQ6ICIgKyBmcmFtZS5yZWFkVGV4dCgpKSkKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvKiAgZ2V0KCIvc2Vzc2lvbi9pbmNyZW1lbnQiKSB7CiAgICAgICAgICAgIHZhbCBzZXNzaW9uID0gY2FsbC5zZXNzaW9ucy5nZXQ8TXlTZXNzaW9uPigpID86IE15U2Vzc2lvbigpCiAgICAgICAgICAgIGNhbGwuc2Vzc2lvbnMuc2V0KHNlc3Npb24uY29weShjb3VudCA9IHNlc3Npb24uY291bnQgKyAxKSkKICAgICAgICAgICAgY2FsbC5yZXNwb25kVGV4dCgiQ291bnRlciBpcyAke3Nlc3Npb24uY291bnR9LiBSZWZyZXNoIHRvIGluY3JlbWVudC4iKQogICAgICAgIH0qLwo=</text>
       </register>
       <register name=":" type="4">
         <text>e main.rs</text>
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>sock</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>sock</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>red</last-substitute>
       <last-dir>1</last-dir>
@@ -573,7 +577,6 @@
     </search>
     <history>
       <history-search>
-        <entry>,e</entry>
         <entry>cont</entry>
         <entry>}</entry>
         <entry>fn</entry>
@@ -593,6 +596,7 @@
         <entry>Sc</entry>
         <entry>web</entry>
         <entry>data</entry>
+        <entry>sock</entry>
       </history-search>
       <history-cmd>
         <entry>%s/data/0..size/g</entry>
@@ -641,6 +645,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

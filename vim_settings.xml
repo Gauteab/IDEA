@@ -12,13 +12,16 @@
       <file name="/a.dummy" timestamp="1550494462691">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/my-app/src/index/index.kt" timestamp="1551724593651">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/my-app/src/index/index.kt" timestamp="1551728815279">
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="34" column="3" />
+        <mark key="." line="34" column="3" />
+        <mark key="^" line="34" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/my-app/src/index/index.css" timestamp="1551702415761">
-        <mark key="[" line="4" column="1" />
+      <file name="$USER_HOME$/IdeaProjects/my-app/src/index/index.css" timestamp="1551728884865">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ProbabilityForecastResponse.kt" timestamp="1548749483118">
         <mark key="[" line="7" column="3" />
@@ -109,10 +112,10 @@
         <mark key="." line="18" column="38" />
         <mark key="^" line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/my-app-backend/test/ApplicationTest.kt" timestamp="1551727169974">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/my-app-backend/test/ApplicationTest.kt" timestamp="1551728735949">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/example/ExampleRobot.kt" timestamp="1548350124498">
         <mark key="[" line="4" column="14" />
@@ -186,11 +189,11 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/my-app-backend/src/Application.kt" timestamp="1551727542048">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="11" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/my-app-backend/src/Application.kt" timestamp="1551727919458">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="13" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/jstest/src/main/kotlin/App.kt" timestamp="1551629064000">
         <mark key="[" line="1" column="12" />
@@ -337,6 +340,12 @@
         <mark key="^" line="52" column="16" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/my-app/package.json" timestamp="1551729056427">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+      </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/SimpleOceanForecastResponse.kt" timestamp="1548683212531">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="8" />
@@ -387,10 +396,11 @@
         <mark key="]" line="24" column="9" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/my-app/src/slider/App.kt" timestamp="1551727000347">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/my-app/src/slider/App.kt" timestamp="1551729117997">
+        <mark key="[" line="26" column="52" />
+        <mark key="]" line="26" column="7" />
+        <mark key="." line="26" column="7" />
+        <mark key="^" line="26" column="7" />
       </file>
       <file name="$USER_HOME$/in2000/case_test/build.gradle" timestamp="1548687524065">
         <mark key="[" line="28" column="0" />
@@ -529,44 +539,44 @@
       <jump line="59" column="45" filename="$USER_HOME$/IdeaProjects/my-app-backend/src/Application.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y2F0Y2ggKGU6IFRocm93YWJsZSkgewogICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJzdHlsZWQtY29tcG9uZW50cyI6ICJeMy40LjEwIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>Connection Closed</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0U3RhdGUgeyBzbGlkZXJWYWx1ZSA9IHNsaWRlci52YWx1ZS50b0ludCgpIH0=</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuIHN0YXJ0V2ViU29ja2V0KCkgPSBXZWJTb2NrZXQoIndzOi8vbG9jYWxob3N0OjgwODAvd3MiKSAuYXBwbHkgewoKICAgIG9ubWVzc2FnZSA9IHsgbXNnRXZlbnQgLT4KICAgICAgICBwcmludGxuKCJNZXNzYWdlISEhIikKICAgICAgICBwcmludGxuKG1zZ0V2ZW50LmRhdGEpCiAgICB9CgogICAgb25lcnJvciA9IHsKICAgICAgICBwcmludGxuKCJFcnJvciIpCiAgICB9CgogICAgb25vcGVuID0gewogICAgICAgIHByaW50bG4oIkNvbm5lY3RlZCEiKQogICAgICAgIHNlbmQoIllvISIpCiAgICB9CgogICAgb25jbG9zZSA9IHsKICAgICAgICBwcmludGxuKCJDbG9zZWQhIikKICAgIH0KCn0K</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKG1heEZyYW1lU2l6ZSkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Y2F0Y2ggKGU6IFRocm93YWJsZSkgewogICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJzdHlsZWQtY29tcG9uZW50cyI6ICJeMy40LjEwIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmt0b3IuYXBwbGljYXRpb24uKgppbXBvcnQgaW8ua3Rvci5yZXNwb25zZS4qCmltcG9ydCBpby5rdG9yLnJlcXVlc3QuKgppbXBvcnQgaW8ua3Rvci5yb3V0aW5nLioK</text>
+        <text encoding="base64">LnZlcnRpY2FsIHsKICBmbGV4LWZsb3c6IGNvbHVtbjsKICBkaXNwbGF5OiBmbGV4OwogIGFsaWduLWl0ZW1zOiBmbGV4LXN0YXJ0Owp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmt0b3IuaHRtbC4qCmltcG9ydCBrb3RsaW54Lmh0bWwuKgppbXBvcnQgaW8ua3Rvci5zZXNzaW9ucy4qCmltcG9ydCBpby5rdG9yLmZlYXR1cmVzLioKaW1wb3J0IG9yZy5zbGY0ai5ldmVudC4qCmltcG9ydCBpby5rdG9yLndlYnNvY2tldC4qCmltcG9ydCBpby5rdG9yLmh0dHAuY2lvLndlYnNvY2tldC4qCmltcG9ydCBqYXZhLnRpbWUuKgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy53M2MuZG9tLk1lc3NhZ2VFdmVudAppbXBvcnQgb3JnLnczYy5kb20uV2ViU29ja2V0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmt0b3Iuc2Vzc2lvbnMuKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHNsaWRlci5zdGFydFdlYlNvY2tldAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGluc3RhbGwoU2Vzc2lvbnMpIHsKICAgICAgICBjb29raWU8TXlTZXNzaW9uPigiTVlfU0VTU0lPTiIpIHsKICAgICAgICAgICAgY29va2llLmV4dGVuc2lvbnNbIlNhbWVTaXRlIl0gPSAibGF4IgogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YSBjbGFzcyBNeVNlc3Npb24odmFsIGNvdW50OiBJbnQgPSAwKQo=</text>
+        <text encoding="base64">ZnVuIHN0YXJ0V2ViU29ja2V0KCkgPSBXZWJTb2NrZXQoIndzOi8vbG9jYWxob3N0OjgwODAvd3MiKS5hcHBseSB7CgogICAgb25tZXNzYWdlID0geyBtc2dFdmVudCAtPgogICAgICAgIHByaW50bG4oIk1lc3NhZ2UhISEiKQogICAgICAgIHByaW50bG4obXNnRXZlbnQuZGF0YSkKICAgIH0KCiAgICBvbmVycm9yID0gewogICAgICAgIHByaW50bG4oIkVycm9yIikKICAgIH0KCiAgICBvbm9wZW4gPSB7CiAgICAgICAgcHJpbnRsbigiQ29ubmVjdGVkISIpCiAgICAgICAgc2VuZCgiWW8hIikKICAgIH0KCiAgICBvbmNsb3NlID0gewogICAgICAgIHByaW50bG4oIkNsb3NlZCEiKQogICAgfQoKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>e main.rs</text>

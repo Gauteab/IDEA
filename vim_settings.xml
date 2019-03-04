@@ -61,10 +61,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/my-app-backend/src/Utils.kt" timestamp="1551726735065">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/my-app-backend/src/Utils.kt" timestamp="1551727496178">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+        <mark key="^" line="12" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/LectureApp/build.gradle" timestamp="1551604059566">
         <mark key="'" line="17" column="0" />
@@ -107,6 +108,11 @@
         <mark key="]" line="18" column="38" />
         <mark key="." line="18" column="38" />
         <mark key="^" line="18" column="38" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/my-app-backend/test/ApplicationTest.kt" timestamp="1551727169974">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/example/ExampleRobot.kt" timestamp="1548350124498">
         <mark key="[" line="4" column="14" />
@@ -180,10 +186,11 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/my-app-backend/src/Application.kt" timestamp="1551726864431">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/my-app-backend/src/Application.kt" timestamp="1551727542048">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="11" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/jstest/src/main/kotlin/App.kt" timestamp="1551629064000">
         <mark key="[" line="1" column="12" />
@@ -380,11 +387,10 @@
         <mark key="]" line="24" column="9" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/my-app/src/slider/App.kt" timestamp="1551725081441">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="16" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/my-app/src/slider/App.kt" timestamp="1551727000347">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/in2000/case_test/build.gradle" timestamp="1548687524065">
         <mark key="[" line="28" column="0" />
@@ -523,53 +529,53 @@
       <jump line="59" column="45" filename="$USER_HOME$/IdeaProjects/my-app-backend/src/Application.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS4qCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y2F0Y2ggKGU6IFRocm93YWJsZSkgewogICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>testing: Boolean = false</text>
+        <text>Connection Closed</text>
       </register>
       <register name="/" type="4">
-        <text>sock</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnVuIHN0YXJ0V2ViU29ja2V0KCkgPSBXZWJTb2NrZXQoIndzOi8vbG9jYWxob3N0OjgwODAvd3MiKSAuYXBwbHkgewoKICAgIG9ubWVzc2FnZSA9IHsgbXNnRXZlbnQgLT4KICAgICAgICBwcmludGxuKCJNZXNzYWdlISEhIikKICAgICAgICBwcmludGxuKG1zZ0V2ZW50LmRhdGEpCiAgICB9CgogICAgb25lcnJvciA9IHsKICAgICAgICBwcmludGxuKCJFcnJvciIpCiAgICB9CgogICAgb25vcGVuID0gewogICAgICAgIHByaW50bG4oIkNvbm5lY3RlZCEiKQogICAgICAgIHNlbmQoIllvISIpCiAgICB9CgogICAgb25jbG9zZSA9IHsKICAgICAgICBwcmludGxuKCJDbG9zZWQhIikKICAgIH0KCn0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS4qCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Y2F0Y2ggKGU6IFRocm93YWJsZSkgewogICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5jaGFubmVscy5DbG9zZWRSZWNlaXZlQ2hhbm5lbEV4Y2VwdGlvbgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">c3VzcGVuZCBmdW4gRGVmYXVsdFdlYlNvY2tldFNlcnZlclNlc3Npb24ucmVjZWl2ZUZvcmV2ZXIoYmxvY2s6IHN1c3BlbmQgRGVmYXVsdFdlYlNvY2tldFNlcnZlclNlc3Npb24uKCkgLT4gVW5pdCkgewogICAgdHJ5IHsKICAgICAgICB3aGlsZSAodHJ1ZSkgewogICAgICAgICAgICBibG9jaygpCiAgICAgICAgfQogICAgfSBjYXRjaCAoZTogQ2xvc2VkUmVjZWl2ZUNoYW5uZWxFeGNlcHRpb24pIHsKICAgICAgICBwcmludGxuKCJDb25uZWN0aW9uIENsb3NlZCIpCiAgICB9IGNhdGNoIChlOiBUaHJvd2FibGUpIHsKICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCiAgICB9Cn0KCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">QFN1cHByZXNzKCJ1bnVzZWQiKSAvLyBSZWZlcmVuY2VkIGluIGFwcGxpY2F0aW9uLmNvbmYKQGtvdGxpbi5qdm0uSnZtT3ZlcmxvYWRzCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">QGtvdGxpbi5qdm0uSnZtT3ZlcmxvYWRzCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">QFN1cHByZXNzKCJ1bnVzZWQiKSAvLyBSZWZlcmVuY2VkIGluIGFwcGxpY2F0aW9uLmNvbmYK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmt0b3Iuc2VydmVyLm5ldHR5LkVuZ2luZU1haW4ubWFpbgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGlvLmt0b3IuYXBwbGljYXRpb24uKgppbXBvcnQgaW8ua3Rvci5yZXNwb25zZS4qCmltcG9ydCBpby5rdG9yLnJlcXVlc3QuKgppbXBvcnQgaW8ua3Rvci5yb3V0aW5nLioK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGlvLmt0b3IuaHRtbC4qCmltcG9ydCBrb3RsaW54Lmh0bWwuKgppbXBvcnQgaW8ua3Rvci5zZXNzaW9ucy4qCmltcG9ydCBpby5rdG9yLmZlYXR1cmVzLioKaW1wb3J0IG9yZy5zbGY0ai5ldmVudC4qCmltcG9ydCBpby5rdG9yLndlYnNvY2tldC4qCmltcG9ydCBpby5rdG9yLmh0dHAuY2lvLndlYnNvY2tldC4qCmltcG9ydCBqYXZhLnRpbWUuKgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGlvLmt0b3Iuc2Vzc2lvbnMuKgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGluc3RhbGwoU2Vzc2lvbnMpIHsKICAgICAgICBjb29raWU8TXlTZXNzaW9uPigiTVlfU0VTU0lPTiIpIHsKICAgICAgICAgICAgY29va2llLmV4dGVuc2lvbnNbIlNhbWVTaXRlIl0gPSAibGF4IgogICAgICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKiAgZ2V0KCIvc2Vzc2lvbi9pbmNyZW1lbnQiKSB7CiAgICAgICAgICAgIHZhbCBzZXNzaW9uID0gY2FsbC5zZXNzaW9ucy5nZXQ8TXlTZXNzaW9uPigpID86IE15U2Vzc2lvbigpCiAgICAgICAgICAgIGNhbGwuc2Vzc2lvbnMuc2V0KHNlc3Npb24uY29weShjb3VudCA9IHNlc3Npb24uY291bnQgKyAxKSkKICAgICAgICAgICAgY2FsbC5yZXNwb25kVGV4dCgiQ291bnRlciBpcyAke3Nlc3Npb24uY291bnR9LiBSZWZyZXNoIHRvIGluY3JlbWVudC4iKQogICAgICAgIH0qLwo=</text>
+        <text encoding="base64">ZGF0YSBjbGFzcyBNeVNlc3Npb24odmFsIGNvdW50OiBJbnQgPSAwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>e main.rs</text>
       </register>
     </registers>
     <search>
-      <last-search>sock</last-search>
+      <last-search>}</last-search>
       <last-offset />
-      <last-pattern>sock</last-pattern>
+      <last-pattern>}</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>red</last-substitute>
       <last-dir>1</last-dir>
@@ -578,7 +584,6 @@
     <history>
       <history-search>
         <entry>cont</entry>
-        <entry>}</entry>
         <entry>fn</entry>
         <entry>der</entry>
         <entry>pub</entry>
@@ -597,6 +602,7 @@
         <entry>web</entry>
         <entry>data</entry>
         <entry>sock</entry>
+        <entry>}</entry>
       </history-search>
       <history-cmd>
         <entry>%s/data/0..size/g</entry>

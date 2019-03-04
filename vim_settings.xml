@@ -330,6 +330,13 @@
       <file name="$USER_HOME$/IdeaProjects/my-app/public/manifest.json" timestamp="1551699858119">
         <mark key="[" line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Utils.kt" timestamp="1551733225413">
+        <mark key="'" line="6" column="4" />
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/SpotwindResponse.kt" timestamp="1548753546169">
         <mark key="[" line="7" column="3" />
       </file>
@@ -379,7 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="6" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libstd/io/buffered.rs" />
       <jump line="126" column="36" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libstd/io/buffered.rs" />
       <jump line="147" column="40" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libstd/io/buffered.rs" />
       <jump line="169" column="40" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libstd/io/buffered.rs" />
@@ -479,34 +485,35 @@
       <jump line="31" column="12" filename="$USER_HOME$/IdeaProjects/my-app/src/slider/App.kt" />
       <jump line="34" column="8" filename="$USER_HOME$/IdeaProjects/my-app/src/slider/App.kt" />
       <jump line="59" column="45" filename="$USER_HOME$/IdeaProjects/my-app-backend/src/Application.kt" />
+      <jump line="10" column="4" filename="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Utils.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJDbG9zZWQgUmVjZWl2ZSBDaGFubmVsIikK</text>
       </register>
       <register name="-" type="4">
         <text>Yo!</text>
       </register>
       <register name="/" type="4">
-        <text>}</text>
+        <text>f</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGxuKG1heEZyYW1lU2l6ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJDbG9zZWQgUmVjZWl2ZSBDaGFubmVsIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsYXVuY2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsYXVuY2gK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvbm9wZW4gPSB7CiAgICAgICAgICAgIHByaW50bG4oIkNvbm5lY3RlZCB0byBzZXJ2ZXIhIikKICAgICAgICAgICAgc2VuZCgiSGVsbG8gZnJvbSB0aGUgQ2xpZW50ISIpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbm9wZW4gPSB7CiAgICAgICAgICAgIHByaW50bG4oIkNvbm5lY3RlZCB0byBzZXJ2ZXIhIikKICAgICAgICAgICAgc2VuZCgiSGVsbG8gZnJvbSB0aGUgQ2xpZW50ISIpCiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -518,24 +525,23 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0V2ViU29ja2V0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>e main.rs</text>
       </register>
     </registers>
     <search>
-      <last-search>}</last-search>
+      <last-search>f</last-search>
       <last-offset />
-      <last-pattern>}</last-pattern>
+      <last-pattern>f</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>red</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cont</entry>
         <entry>fn</entry>
         <entry>der</entry>
         <entry>pub</entry>
@@ -555,6 +561,7 @@
         <entry>data</entry>
         <entry>sock</entry>
         <entry>}</entry>
+        <entry>f</entry>
       </history-search>
       <history-cmd>
         <entry>%s/data/0..size/g</entry>

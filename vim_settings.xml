@@ -12,6 +12,12 @@
       <file name="/a.dummy" timestamp="1550494462691">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/my-app/src/index/index.kt" timestamp="1551699629740">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ProbabilityForecastResponse.kt" timestamp="1548749483118">
         <mark key="[" line="7" column="3" />
       </file>
@@ -345,6 +351,9 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/my-app/public/manifest.json" timestamp="1551699858119">
+        <mark key="[" line="6" column="23" />
+      </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/SpotwindResponse.kt" timestamp="1548753546169">
         <mark key="[" line="7" column="3" />
       </file>
@@ -388,7 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="35" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="18" column="25" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="1" column="13" filename="$USER_HOME$/git/Rasp/src/scanner/mod.rs" />
       <jump line="36" column="0" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
@@ -488,55 +496,56 @@
       <jump line="27" column="42" filename="$USER_HOME$/IdeaProjects/JSJVMTest/src/jvmMain/kotlin/sample/SampleJvm.kt" />
       <jump line="22" column="21" filename="$USER_HOME$/IdeaProjects/JSJVMTest/src/jvmMain/kotlin/sample/SampleJvm.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/JSJVMTest/src/jvmMain/kotlin/sample/SampleJvm.kt" />
+      <jump line="19" column="0" filename="$USER_HOME$/IdeaProjects/my-app/src/index/index.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QFN1cHByZXNzKCJ1bnVzZWQiKSAvLyBSZWZlcmVuY2VkIGluIGFwcGxpY2F0aW9uLmNvbmYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBldmVudC4K</text>
       </register>
       <register name="-" type="4">
-        <text>wdsl</text>
+        <text>input</text>
       </register>
       <register name="/" type="4">
-        <text>web</text>
+        <text>data</text>
       </register>
       <register name="0" type="4">
         <text>loadStudentClient</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFN1cHByZXNzKCJ1bnVzZWQiKSAvLyBSZWZlcmVuY2VkIGluIGFwcGxpY2F0aW9uLmNvbmYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBldmVudC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFN1cHByZXNzKCJ1bnVzZWQiKSAvLyBSZWZlcmVuY2VkIGluIGFwcGxpY2F0aW9uLmNvbmYKQGtvdGxpbi5qdm0uSnZtT3ZlcmxvYWRzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF0dHJzLnR5cGUgPSBJbnB1dFR5cGUucmFuZ2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmt0b3IucmVxdWVzdC4qCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmt0b3IucmVxdWVzdC4qCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKChldmVudC50YXJnZXQgYXMgSFRNTElucHV0RWxlbWVudCkudmFsdWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmt0b3IucmVxdWVzdC4qCg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbmV4dC5qcy4qCmltcG9ydCBrb3RsaW54Lmh0bWwuSU5QVVQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bG9nYmFja192ZXJzaW9uPTEuMi4xCg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguaHRtbC5vbkNsaWNrCmltcG9ydCBrb3RsaW54Lmh0bWwuc3R5bGUKaW1wb3J0IG9yZy53M2MuZG9tLmV2ZW50cy5FdmVudAppbXBvcnQgb3JnLnczYy5kb20uZXZlbnRzLklucHV0RXZlbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgImNoLnFvcy5sb2diYWNrOmxvZ2JhY2stY2xhc3NpYzokbG9nYmFja192ZXJzaW9uIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXR0cnMuc3R5bGUgPSAiZGlzcGxheTpmbGV4Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPik6IFVuaXQgPSBpby5rdG9yLnNlcnZlci5uZXR0eS5FbmdpbmVNYWluLm1haW4oYXJncykKCkBTdXBwcmVzcygidW51c2VkIikgLy8gUmVmZXJlbmNlZCBpbiBhcHBsaWNhdGlvbi5jb25mCkBrb3RsaW4uanZtLkp2bU92ZXJsb2FkcwpmdW4gQXBwbGljYXRpb24ubW9kdWxlKHRlc3Rpbmc6IEJvb2xlYW4gPSBmYWxzZSkgewp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZXZlbnQgaXMgSW5wdXRFdmVudCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbihldmVudCkKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>e main.rs</text>
       </register>
     </registers>
     <search>
-      <last-search>web</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern>web</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>red</last-substitute>
       <last-dir>1</last-dir>
@@ -544,7 +553,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sca</entry>
         <entry>,e</entry>
         <entry>cont</entry>
         <entry>}</entry>
@@ -564,6 +572,7 @@
         <entry>::</entry>
         <entry>Sc</entry>
         <entry>web</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry>%s/data/0..size/g</entry>

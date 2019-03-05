@@ -53,11 +53,10 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/index/index.kt" timestamp="1551779992951">
-        <mark key="[" line="18" column="50" />
-        <mark key="]" line="18" column="39" />
-        <mark key="." line="18" column="39" />
-        <mark key="^" line="18" column="39" />
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/index/index.kt" timestamp="1551786550694">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/asp_arguments.rs" timestamp="1551049171426">
         <mark key="[" line="30" column="43" />
@@ -65,11 +64,12 @@
         <mark key="^" line="13" column="43" />
         <mark key="." line="13" column="43" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/network/WsConnection.kt" timestamp="1551784171518">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="19" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/network/WsConnection.kt" timestamp="1551786523522">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/jstest/build.gradle" timestamp="1551630466381">
         <mark key="[" line="27" column="0" />
@@ -82,11 +82,11 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/slider/App.kt" timestamp="1551786333071">
-        <mark key="[" line="43" column="39" />
-        <mark key="]" line="15" column="22" />
-        <mark key="." line="15" column="22" />
-        <mark key="^" line="15" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/slider/App.kt" timestamp="1551787483032">
+        <mark key="[" line="40" column="34" />
+        <mark key="]" line="40" column="33" />
+        <mark key="." line="40" column="33" />
+        <mark key="^" line="40" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/KtorTest/build.gradle" timestamp="1551534057355">
         <mark key="[" line="29" column="0" />
@@ -242,6 +242,9 @@
         <mark key="]" line="6" column="5" />
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/frontend/.gitignore" timestamp="1551788119215">
+        <mark key="[" line="17" column="19" />
       </file>
       <file name="/JavaScript Console" timestamp="1551701406196">
         <mark key="[" line="0" column="0" />
@@ -414,7 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="4" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="25" column="31" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="45" column="12" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="0" column="0" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
@@ -514,63 +516,63 @@
       <jump line="39" column="33" filename="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/slider/App.kt" />
       <jump line="9" column="4" filename="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/slider/App.kt" />
       <jump line="15" column="0" filename="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/slider/App.kt" />
+      <jump line="17" column="4" filename="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/network/WsConnection.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;10&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy53M2MuZG9tLldlYlNvY2tldAo=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;10&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>St</text>
+        <text>open</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBjb21wb25lbnREaWRVcGRhdGUocHJldlByb3BzOiBSUHJvcHMsIHByZXZTdGF0ZTogU3RhdGUsIHNuYXBzaG90OiBBbnkpIHsKICAgICAgICB3cy5zZW5kKHN0YXRlLnNsaWRlclZhbHVlKQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBTdGF0ZS5pbml0KCkgewogICAgICAgIHNsaWRlclZhbHVlID0gIjUwIgogICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy53M2MuZG9tLldlYlNvY2tldAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBTdGF0ZS5pbml0KCkgewogICAgICAgIHNsaWRlclZhbHVlID0gIjUwIgogICAgfQoK</text>
+        <text encoding="base64">Ci8vICAgIFdlYlNvY2tldCgid3M6Ly9sb2NhbGhvc3Q6ODA4MC93cyIpLmFwcGx5IHsKLy8gICAgICAgIG9ub3BlbiA9IHsKLy8gICAgICAgICAgICBwcmludGxuKCJDb25uZWN0ZWQgdG8gc2VydmVyISIpCi8vICAgICAgICAgICAgc2VuZCgiSGkgZnJvbSBjbGllbnQhIikKLy8gICAgICAgIH0KLy8KLy8gICAgICAgIG9ubWVzc2FnZSA9IHsKLy8gICAgICAgICAgICBwcmludGxuKCJNZXNzYWdlIGZyb20gc2VydmVyOiAke2l0LmRhdGF9IikKLy8gICAgICAgIH0KLy8KLy8gICAgICAgIG9uY2xvc2UgPSB7Ci8vICAgICAgICAgICAgcHJpbnRsbigiQ29ubmVjdGlvbiB0byBzZXJ2ZXIgY2xvc2VkIikKLy8gICAgICAgIH0KLy8KLy8gICAgfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgQXBwU3RhdGUodmFyIHNsaWRlclZhbHVlOiBTdHJpbmcpIDogUlN0YXRlCgo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBTdGF0ZS5pbml0KCkgewogICAgICAgIHNsaWRlclZhbHVlID0gIjUwIgogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAp9Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBTdGF0ZS5pbml0KCkgewogICAgICAgIHNsaWRlclZhbHVlID0gIjUwIgogICAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUuc2xpZGVyVmFsdWUgPSAiMCIK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y2xhc3MgQXBwU3RhdGUodmFyIHNsaWRlclZhbHVlOiBTdHJpbmcpIDogUlN0YXRlCgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gY29tcG9uZW50RGlkVXBkYXRlKHByZXZQcm9wczogUlByb3BzLCBwcmV2U3RhdGU6IFN0YXRlLCBzbmFwc2hvdDogQW55KSB7Cg==</text>
+        <text encoding="base64">ICAgIAp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGludGVyZmFjZSBTdGF0ZSA6IFJTdGF0ZSB7CiAgICAgICAgdmFyIHNsaWRlclZhbHVlOiBTdHJpbmcKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUuc2xpZGVyVmFsdWUgPSAiMCIK</text>
       </register>
       <register name=":" type="4">
         <text>e main.rs</text>
       </register>
     </registers>
     <search>
-      <last-search>St</last-search>
+      <last-search>open</last-search>
       <last-offset />
-      <last-pattern>St</last-pattern>
+      <last-pattern>open</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>red</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>der</entry>
         <entry>pub</entry>
         <entry>enum</entry>
         <entry>test</entry>
@@ -590,6 +592,7 @@
         <entry>}</entry>
         <entry>f</entry>
         <entry>St</entry>
+        <entry>open</entry>
       </history-search>
       <history-cmd>
         <entry>%s/data/0..size/g</entry>

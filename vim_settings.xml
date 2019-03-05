@@ -53,10 +53,11 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/index/index.kt" timestamp="1551786550694">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/index/index.kt" timestamp="1551790255630">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="11" column="12" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/asp_arguments.rs" timestamp="1551049171426">
         <mark key="[" line="30" column="43" />
@@ -82,11 +83,12 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/slider/App.kt" timestamp="1551788937291">
-        <mark key="[" line="30" column="26" />
-        <mark key="]" line="31" column="23" />
-        <mark key="." line="31" column="23" />
-        <mark key="^" line="31" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/slider/App.kt" timestamp="1551790244783">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="48" column="13" />
+        <mark key="]" line="48" column="15" />
+        <mark key="." line="48" column="15" />
+        <mark key="^" line="48" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/KtorTest/build.gradle" timestamp="1551534057355">
         <mark key="[" line="29" column="0" />
@@ -342,10 +344,11 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" timestamp="1551780489876">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" timestamp="1551789470277">
+        <mark key="'" line="28" column="12" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/AOC18/input/day1.txt" timestamp="1550138334509">
         <mark key="[" line="0" column="0" />
@@ -417,10 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="31" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
-      <jump line="45" column="12" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
-      <jump line="41" column="24" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="62" column="4" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="58" column="15" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="13" column="64" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
@@ -517,55 +516,59 @@
       <jump line="9" column="4" filename="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/slider/App.kt" />
       <jump line="15" column="0" filename="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/slider/App.kt" />
       <jump line="17" column="4" filename="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/network/WsConnection.kt" />
+      <jump line="22" column="51" filename="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" />
+      <jump line="29" column="12" filename="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" />
+      <jump line="11" column="6" filename="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/slider/App.kt" />
+      <jump line="47" column="0" filename="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/slider/App.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlIC0+IHRocm93IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiVW5oYW5kbGVkIGV2ZW50IHRhcmdldDogJHtldmVudC50YXJnZXR9IikK</text>
+        <text encoding="base64">aW1wb3J0IHNsaWRlci5BcHAKaW1wb3J0IHNsaWRlci5TbGlkZXIK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;10&quot;</text>
+        <text>Slider</text>
       </register>
       <register name="/" type="4">
-        <text>open</text>
+        <text>req</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBjb21wb25lbnREaWRVcGRhdGUocHJldlByb3BzOiBSUHJvcHMsIHByZXZTdGF0ZTogU3RhdGUsIHNuYXBzaG90OiBBbnkpIHsKICAgICAgICB3cy5zZW5kKHN0YXRlLnNsaWRlclZhbHVlKQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlIC0+IHRocm93IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiVW5oYW5kbGVkIGV2ZW50IHRhcmdldDogJHtldmVudC50YXJnZXR9IikK</text>
+        <text encoding="base64">aW1wb3J0IHNsaWRlci5BcHAKaW1wb3J0IHNsaWRlci5TbGlkZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy53M2MuZG9tLldlYlNvY2tldAo=</text>
+        <text encoding="base64">ICAgICAgICBTbGlkZXIoKWMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ci8vICAgIFdlYlNvY2tldCgid3M6Ly9sb2NhbGhvc3Q6ODA4MC93cyIpLmFwcGx5IHsKLy8gICAgICAgIG9ub3BlbiA9IHsKLy8gICAgICAgICAgICBwcmludGxuKCJDb25uZWN0ZWQgdG8gc2VydmVyISIpCi8vICAgICAgICAgICAgc2VuZCgiSGkgZnJvbSBjbGllbnQhIikKLy8gICAgICAgIH0KLy8KLy8gICAgICAgIG9ubWVzc2FnZSA9IHsKLy8gICAgICAgICAgICBwcmludGxuKCJNZXNzYWdlIGZyb20gc2VydmVyOiAke2l0LmRhdGF9IikKLy8gICAgICAgIH0KLy8KLy8gICAgICAgIG9uY2xvc2UgPSB7Ci8vICAgICAgICAgICAgcHJpbnRsbigiQ29ubmVjdGlvbiB0byBzZXJ2ZXIgY2xvc2VkIikKLy8gICAgICAgIH0KLy8KLy8gICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJTZW5kaW5nOiAke3N0YXRlLnNsaWRlclZhbHVlfSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBTdGF0ZS5pbml0KCkgewogICAgICAgIHNsaWRlclZhbHVlID0gIjUwIgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBTdGF0ZS5pbml0KCkgewogICAgICAgIHNsaWRlclZhbHVlID0gIjUwIgogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgQXBwU3RhdGUodmFyIHNsaWRlclZhbHVlOiBTdHJpbmcpIDogUlN0YXRlCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlKGZyYW1lIGlzIEZyYW1lLlRleHQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3NlcnQoZnJhbWUgaXMgRnJhbWUuVGV4dCkgeyAiTm9uIFRleHQgRnJhbWUgUmVjZWl2ZWQiIH0K</text>
       </register>
       <register name=":" type="4">
         <text>e main.rs</text>
       </register>
     </registers>
     <search>
-      <last-search>open</last-search>
+      <last-search>req</last-search>
       <last-offset />
-      <last-pattern>open</last-pattern>
+      <last-pattern>req</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>red</last-substitute>
       <last-dir>-1</last-dir>
@@ -573,8 +576,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pub</entry>
-        <entry>enum</entry>
         <entry>test</entry>
         <entry>Asp</entry>
         <entry>Sca</entry>
@@ -593,6 +594,8 @@
         <entry>f</entry>
         <entry>St</entry>
         <entry>open</entry>
+        <entry>ass</entry>
+        <entry>req</entry>
       </history-search>
       <history-cmd>
         <entry>%s/data/0..size/g</entry>

@@ -53,7 +53,7 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/index/index.kt" timestamp="1551779181184">
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/index/index.kt" timestamp="1551779992951">
         <mark key="[" line="18" column="50" />
         <mark key="]" line="18" column="39" />
         <mark key="." line="18" column="39" />
@@ -65,6 +65,12 @@
         <mark key="^" line="13" column="43" />
         <mark key="." line="13" column="43" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/network/WsConnection.kt" timestamp="1551780220143">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="40" />
+        <mark key="^" line="18" column="40" />
+        <mark key="." line="18" column="40" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/jstest/build.gradle" timestamp="1551630466381">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -75,6 +81,12 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/slider/App.kt" timestamp="1551780290159">
+        <mark key="[" line="37" column="71" />
+        <mark key="]" line="38" column="42" />
+        <mark key="." line="38" column="42" />
+        <mark key="^" line="38" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/KtorTest/build.gradle" timestamp="1551534057355">
         <mark key="[" line="29" column="0" />
@@ -321,8 +333,10 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" timestamp="1551777904273">
-        <mark key="[" line="22" column="48" />
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" timestamp="1551780489876">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/AOC18/input/day1.txt" timestamp="1550138334509">
         <mark key="[" line="0" column="0" />
@@ -496,11 +510,11 @@
       <jump line="10" column="4" filename="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Utils.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHNyYyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZW5kKEZyYW1lLlRleHQoIkNsaWVudCBzYWlkOiEhISAiICsgZnJhbWUucmVhZFRleHQoKSkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNyYyA=</text>
+        <text>TODO()</text>
       </register>
       <register name="/" type="4">
         <text>f</text>
@@ -509,31 +523,35 @@
         <text encoding="base64">ICAgICAgICBwcmludGxuKG1heEZyYW1lU2l6ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwb3J0ID0gJHs/UE9SVH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZW5kKEZyYW1lLlRleHQoIkNsaWVudCBzYWlkOiEhISAiICsgZnJhbWUucmVhZFRleHQoKSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJDbG9zZWQgUmVjZWl2ZSBDaGFubmVsIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJSZWNpZXZlZCBmciIpCiAgICAgICAgICAgICAgICB3aGVuIChmcmFtZS5mcmFtZVR5cGUpIHsKICAgICAgICAgICAgICAgICAgICBGcmFtZVR5cGUuVEVYVCAgIC0+IHByaW50bG4oInRleHQiKQogICAgICAgICAgICAgICAgICAgIEZyYW1lVHlwZS5CSU5BUlkgLT4gcHJpbnRsbigiYmluYXJ5IikKICAgICAgICAgICAgICAgICAgICBGcmFtZVR5cGUuQ0xPU0UgIC0+IHByaW50bG4oImNsb3NlIikKICAgICAgICAgICAgICAgICAgICBGcmFtZVR5cGUuUElORyAgIC0+IHByaW50bG4oInBpbmciKQogICAgICAgICAgICAgICAgICAgIEZyYW1lVHlwZS5QT05HICAgLT4gcHJpbnRsbigicG9uZyIpCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text>TODO()
+TODO()
+TODO()
+TODO()
+TODO()</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsYXVuY2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHJlYWN0LmRvbS5kaXYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvbm9wZW4gPSB7CiAgICAgICAgICAgIHByaW50bG4oIkNvbm5lY3RlZCB0byBzZXJ2ZXIhIikKICAgICAgICAgICAgc2VuZCgiSGVsbG8gZnJvbSB0aGUgQ2xpZW50ISIpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3J0ID0gJHs/UE9SVH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJDbG9zZWQgUmVjZWl2ZSBDaGFubmVsIikK</text>
       </register>
       <register name=":" type="4">
         <text>e main.rs</text>

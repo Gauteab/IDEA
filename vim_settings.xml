@@ -65,11 +65,11 @@
         <mark key="^" line="13" column="43" />
         <mark key="." line="13" column="43" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/network/WsConnection.kt" timestamp="1551780220143">
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="18" column="40" />
-        <mark key="^" line="18" column="40" />
-        <mark key="." line="18" column="40" />
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/network/WsConnection.kt" timestamp="1551784171518">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="19" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/jstest/build.gradle" timestamp="1551630466381">
         <mark key="[" line="27" column="0" />
@@ -82,11 +82,11 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/slider/App.kt" timestamp="1551780290159">
-        <mark key="[" line="37" column="71" />
-        <mark key="]" line="38" column="42" />
-        <mark key="." line="38" column="42" />
-        <mark key="^" line="38" column="42" />
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/slider/App.kt" timestamp="1551786333071">
+        <mark key="[" line="43" column="39" />
+        <mark key="]" line="15" column="22" />
+        <mark key="." line="15" column="22" />
+        <mark key="^" line="15" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/KtorTest/build.gradle" timestamp="1551534057355">
         <mark key="[" line="29" column="0" />
@@ -106,6 +106,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$KOTLIN_BUNDLED$/lib/kotlin-stdlib-js-sources.jar!/org.w3c/org.khronos.webgl.kt" timestamp="1551783860644">
+        <mark key="[" line="925" column="72" />
+        <mark key="]" line="925" column="71" />
+        <mark key="^" line="925" column="71" />
+        <mark key="." line="925" column="71" />
       </file>
       <file name="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/example/ExampleRobot.kt" timestamp="1548350124498">
         <mark key="[" line="4" column="14" />
@@ -408,10 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="36" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libstd/io/buffered.rs" />
-      <jump line="147" column="40" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libstd/io/buffered.rs" />
-      <jump line="169" column="40" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libstd/io/buffered.rs" />
-      <jump line="54" column="25" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="49" column="4" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="25" column="31" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="45" column="12" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
@@ -508,67 +510,66 @@
       <jump line="34" column="8" filename="$USER_HOME$/IdeaProjects/my-app/src/slider/App.kt" />
       <jump line="59" column="45" filename="$USER_HOME$/IdeaProjects/my-app-backend/src/Application.kt" />
       <jump line="10" column="4" filename="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Utils.kt" />
+      <jump line="34" column="8" filename="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/slider/App.kt" />
+      <jump line="39" column="33" filename="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/slider/App.kt" />
+      <jump line="9" column="4" filename="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/slider/App.kt" />
+      <jump line="15" column="0" filename="$USER_HOME$/IdeaProjects/LectureApp/frontend/src/slider/App.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZW5kKEZyYW1lLlRleHQoIkNsaWVudCBzYWlkOiEhISAiICsgZnJhbWUucmVhZFRleHQoKSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;10&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>TODO()</text>
+        <text>&quot;10&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>f</text>
+        <text>St</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKG1heEZyYW1lU2l6ZSkK</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBjb21wb25lbnREaWRVcGRhdGUocHJldlByb3BzOiBSUHJvcHMsIHByZXZTdGF0ZTogU3RhdGUsIHNuYXBzaG90OiBBbnkpIHsKICAgICAgICB3cy5zZW5kKHN0YXRlLnNsaWRlclZhbHVlKQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZW5kKEZyYW1lLlRleHQoIkNsaWVudCBzYWlkOiEhISAiICsgZnJhbWUucmVhZFRleHQoKSkpCg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBTdGF0ZS5pbml0KCkgewogICAgICAgIHNsaWRlclZhbHVlID0gIjUwIgogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJSZWNpZXZlZCBmciIpCiAgICAgICAgICAgICAgICB3aGVuIChmcmFtZS5mcmFtZVR5cGUpIHsKICAgICAgICAgICAgICAgICAgICBGcmFtZVR5cGUuVEVYVCAgIC0+IHByaW50bG4oInRleHQiKQogICAgICAgICAgICAgICAgICAgIEZyYW1lVHlwZS5CSU5BUlkgLT4gcHJpbnRsbigiYmluYXJ5IikKICAgICAgICAgICAgICAgICAgICBGcmFtZVR5cGUuQ0xPU0UgIC0+IHByaW50bG4oImNsb3NlIikKICAgICAgICAgICAgICAgICAgICBGcmFtZVR5cGUuUElORyAgIC0+IHByaW50bG4oInBpbmciKQogICAgICAgICAgICAgICAgICAgIEZyYW1lVHlwZS5QT05HICAgLT4gcHJpbnRsbigicG9uZyIpCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBTdGF0ZS5pbml0KCkgewogICAgICAgIHNsaWRlclZhbHVlID0gIjUwIgogICAgfQoK</text>
       </register>
-      <register name="3" type="8">
-        <text>TODO()
-TODO()
-TODO()
-TODO()
-TODO()</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y2xhc3MgQXBwU3RhdGUodmFyIHNsaWRlclZhbHVlOiBTdHJpbmcpIDogUlN0YXRlCgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHJlYWN0LmRvbS5kaXYK</text>
+        <text encoding="base64">ICAgIAp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUuc2xpZGVyVmFsdWUgPSAiMCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwb3J0ID0gJHs/UE9SVH0K</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gY29tcG9uZW50RGlkVXBkYXRlKHByZXZQcm9wczogUlByb3BzLCBwcmV2U3RhdGU6IFN0YXRlLCBzbmFwc2hvdDogQW55KSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJDbG9zZWQgUmVjZWl2ZSBDaGFubmVsIikK</text>
+        <text encoding="base64">ICAgIGludGVyZmFjZSBTdGF0ZSA6IFJTdGF0ZSB7CiAgICAgICAgdmFyIHNsaWRlclZhbHVlOiBTdHJpbmcKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>e main.rs</text>
       </register>
     </registers>
     <search>
-      <last-search>f</last-search>
+      <last-search>St</last-search>
       <last-offset />
-      <last-pattern>f</last-pattern>
+      <last-pattern>St</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>red</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fn</entry>
         <entry>der</entry>
         <entry>pub</entry>
         <entry>enum</entry>
@@ -588,6 +589,7 @@ TODO()</text>
         <entry>sock</entry>
         <entry>}</entry>
         <entry>f</entry>
+        <entry>St</entry>
       </history-search>
       <history-cmd>
         <entry>%s/data/0..size/g</entry>

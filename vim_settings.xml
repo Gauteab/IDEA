@@ -82,10 +82,12 @@
       <file name="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/example/ExampleRobot.kt" timestamp="1548350124498">
         <mark key="[" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/mod.rs" timestamp="1551264188942">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/git/Rasp/src/scanner/mod.rs" timestamp="1551865056166">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="12" column="35" />
+        <mark key="." line="12" column="35" />
+        <mark key="^" line="12" column="35" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/error.rs" timestamp="1551049515128">
         <mark key="[" line="29" column="0" />
@@ -148,12 +150,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_expr.rs" timestamp="1551262750039">
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_expr.rs" timestamp="1551864800228">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="19" column="38" />
-        <mark key="]" line="27" column="35" />
-        <mark key="^" line="27" column="35" />
-        <mark key="." line="27" column="35" />
+        <mark key="[" line="38" column="70" />
+        <mark key="]" line="38" column="69" />
+        <mark key="^" line="38" column="69" />
+        <mark key="." line="38" column="69" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/Examples.kt" timestamp="1547574681509">
         <mark key="[" line="67" column="5" />
@@ -186,12 +188,11 @@
         <mark key="." line="14" column="21" />
         <mark key="^" line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1551264223137">
+      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1551864639273">
         <mark key="'" line="88" column="25" />
-        <mark key="[" line="87" column="46" />
-        <mark key="]" line="87" column="44" />
-        <mark key="." line="87" column="44" />
-        <mark key="^" line="87" column="44" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="47" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/java/HelloWorld.java" timestamp="1547560477175">
         <mark key="[" line="6" column="0" />
@@ -224,7 +225,7 @@
       <file name="/GDB" timestamp="1551263573472">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551264634148">
+      <file name="/Dummy.txt" timestamp="1551864858639">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/untitled/src/main.rs" timestamp="1548704755743">
@@ -307,7 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="36" filename="$USER_HOME$/CLionProjects/rust-test/src/main.rs" />
       <jump line="9" column="17" filename="$USER_HOME$/CLionProjects/rust-test/src/main.rs" />
       <jump line="3" column="0" filename="$USER_HOME$/CLionProjects/rust-test/src/day1.rs" />
       <jump line="6" column="0" filename="$USER_HOME$/CLionProjects/rust-test/src/day1.rs" />
@@ -407,63 +407,63 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/Rasp/src/parser/error.rs" />
       <jump line="18" column="0" filename="$USER_HOME$/git/Rasp/src/parser/asp_expr.rs" />
       <jump line="87" column="25" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
+      <jump line="55" column="0" filename="$USER_HOME$/git/Rasp/src/scanner/mod.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTmV3bGluZQo=</text>
+      <register name="&quot;" type="4">
+        <text>dbg!();</text>
       </register>
       <register name="-" type="4">
-        <text>offset</text>
+        <text>dbg!();</text>
       </register>
       <register name="/" type="4">
-        <text>Sc</text>
+        <text>dbg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsZXQgbXV0IHNjID0gU2Nhbm5lcjo6bmV3KCJhc3AvbWluaS5hc3AiKS51bndyYXAoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTmV3bGluZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJysnICAgICAgID0+IChUb2tlbjo6UGx1cywgICAgICAxKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbXV0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTmV3bGluZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbXV0IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtYmVyLnB1c2goYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtYmVyLnB1c2goYyk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8jW2Rlcml2ZShEZWJ1ZyxuZXcpXQovL3B1YiBzdHJ1Y3QgUGFyc2VFcnJvciB7Ci8vICAgIHB1YiBleHBlY3RlZDogVG9rZW4sCi8vICAgIHB1YiBmb3VuZDogVG9rZW4sCi8vICAgIHB1YiBsaW5lX251bWJlcjogdTMyCi8vfQovLwovL2ltcGwgRGlzcGxheSBmb3IgUGFyc2VFcnJvciB7Ci8vICAgIGZuIGZtdCgmc2VsZiwgZjogJm11dCBmbXQ6OkZvcm1hdHRlcikgLT4gZm10OjpSZXN1bHQgewovLyAgICAgICAgd3JpdGUhKGYsICJFeHBlY3RlZDogPHs6P30+LCBidXQgZm91bmQgPHs6P30+IG9uIGxpbmU6IHt9IiwKLy8gICAgICAgICAgICAgICBzZWxmLmV4cGVjdGVkLAovLyAgICAgICAgICAgICAgIHNlbGYuZm91bmQsCi8vICAgICAgICAgICAgICAgc2VsZi5saW5lX251bWJlcikKLy8gICAgfQovL30KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogR2VuZXJhbGl6ZSBwYXJzZSBlcnJvci4gUmVtb3ZlIGFsbCBwYW5pY3MK</text>
+        <text encoding="base64">Ly8jW2Rlcml2ZShEZWJ1ZyxuZXcpXQovL3B1YiBzdHJ1Y3QgUGFyc2VFcnJvciB7Ci8vICAgIHB1YiBleHBlY3RlZDogVG9rZW4sCi8vICAgIHB1YiBmb3VuZDogVG9rZW4sCi8vICAgIHB1YiBsaW5lX251bWJlcjogdTMyCi8vfQovLwovL2ltcGwgRGlzcGxheSBmb3IgUGFyc2VFcnJvciB7Ci8vICAgIGZuIGZtdCgmc2VsZiwgZjogJm11dCBmbXQ6OkZvcm1hdHRlcikgLT4gZm10OjpSZXN1bHQgewovLyAgICAgICAgd3JpdGUhKGYsICJFeHBlY3RlZDogPHs6P30+LCBidXQgZm91bmQgPHs6P30+IG9uIGxpbmU6IHt9IiwKLy8gICAgICAgICAgICAgICBzZWxmLmV4cGVjdGVkLAovLyAgICAgICAgICAgICAgIHNlbGYuZm91bmQsCi8vICAgICAgICAgICAgICAgc2VsZi5saW5lX251bWJlcikKLy8gICAgfQovL30KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXh0ZXJuIGNyYXRlIGNvbG9yZWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogR2VuZXJhbGl6ZSBwYXJzZSBlcnJvci4gUmVtb3ZlIGFsbCBwYW5pY3MK</text>
       </register>
       <register name=":" type="4">
         <text>e main.rs</text>
       </register>
     </registers>
     <search>
-      <last-search>Sc</last-search>
+      <last-search>dbg</last-search>
       <last-offset />
-      <last-pattern>Sc</last-pattern>
+      <last-pattern>dbg</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>red</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>line</entry>
         <entry>sca</entry>
         <entry>,e</entry>
         <entry>cont</entry>
@@ -483,6 +483,7 @@
         <entry>red</entry>
         <entry>::</entry>
         <entry>Sc</entry>
+        <entry>dbg</entry>
       </history-search>
       <history-cmd>
         <entry>%s/data/0..size/g</entry>

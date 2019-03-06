@@ -15,11 +15,11 @@
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ProbabilityForecastResponse.kt" timestamp="1548749483118">
         <mark key="[" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_comparison.rs" timestamp="1551867179972">
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="5" column="28" />
-        <mark key="^" line="5" column="28" />
-        <mark key="." line="5" column="28" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_comparison.rs" timestamp="1551868845759">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="13" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/scanner/token.rs" timestamp="1551262849195">
         <mark key="[" line="12" column="12" />
@@ -48,7 +48,7 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_stmt.rs" timestamp="1551865468435">
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_stmt.rs" timestamp="1551869069012">
         <mark key="u" line="52" column="43" />
         <mark key="'" line="34" column="12" />
         <mark key="[" line="29" column="43" />
@@ -62,10 +62,19 @@
         <mark key="^" line="13" column="43" />
         <mark key="." line="13" column="43" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_not_test.rs" timestamp="1551867091441">
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="4" column="28" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_not_test.rs" timestamp="1551868833424">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_program.rs" timestamp="1551869077454">
+        <mark key="a" line="4" column="0" />
+        <mark key="'" line="22" column="8" />
+        <mark key="[" line="25" column="41" />
+        <mark key="]" line="18" column="41" />
+        <mark key="^" line="18" column="41" />
+        <mark key="." line="18" column="41" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/runtime/mod.rs" timestamp="1551865664655">
         <mark key="[" line="13" column="24" />
@@ -81,6 +90,16 @@
       </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/MetnoOceanForecast.kt" timestamp="1548676996616">
         <mark key="[" line="4" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_atom.rs" timestamp="1551869091674">
+        <mark key="'" line="4" column="3" />
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="38" />
+        <mark key="." line="18" column="38" />
+        <mark key="^" line="18" column="38" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_subscription.rs" timestamp="1551868931431">
+        <mark key="[" line="2" column="9" />
       </file>
       <file name="$USER_HOME$/Downloads/robocode-templates-master/robocode-kotlin/src/main/kotlin/example/ExampleRobot.kt" timestamp="1548350124498">
         <mark key="[" line="4" column="14" />
@@ -98,21 +117,23 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_string.rs" timestamp="1551049183800">
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_string.rs" timestamp="1551869098486">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_primary_suffix.rs" timestamp="1551867440574">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_primary_suffix.rs" timestamp="1551868919660">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/mod.rs" timestamp="1551866926367">
+      <file name="$USER_HOME$/git/Rasp/src/parser/mod.rs" timestamp="1551868223845">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="19" column="25" />
-        <mark key="^" line="19" column="25" />
-        <mark key="." line="19" column="25" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/OceanForecastResponse.kt" timestamp="1548770862178">
         <mark key="[" line="9" column="20" />
@@ -135,14 +156,14 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_factor_opr.rs" timestamp="1551867576003">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_factor_opr.rs" timestamp="1551868896570">
+        <mark key="[" line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_factor.rs" timestamp="1551867590191">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="16" />
-        <mark key="^" line="7" column="16" />
-        <mark key="." line="7" column="16" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_factor.rs" timestamp="1551868891139">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/Person.kt" timestamp="1547571351821">
         <mark key="[" line="9" column="35" />
@@ -156,13 +177,14 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_expr.rs" timestamp="1551868166837">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_expr.rs" timestamp="1551868377307">
+        <mark key="[" line="18" column="87" />
+        <mark key="]" line="18" column="72" />
+        <mark key="." line="18" column="72" />
+        <mark key="^" line="18" column="72" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_term_opr.rs" timestamp="1551867339416">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_term_opr.rs" timestamp="1551868875802">
+        <mark key="[" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/Examples.kt" timestamp="1547574681509">
         <mark key="[" line="67" column="5" />
@@ -188,12 +210,6 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1551864639273">
-        <mark key="'" line="88" column="25" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="47" />
-        <mark key="." line="86" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/Examples/src/java/HelloWorld.java" timestamp="1547560477175">
         <mark key="[" line="6" column="0" />
       </file>
@@ -202,6 +218,13 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="41" column="6" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_assignment.rs" timestamp="1551868724306">
+        <mark key="'" line="4" column="3" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="93" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="19" column="44" />
       </file>
       <file name="$USER_HOME$/git/Rasp/asp/expr.asp" timestamp="1550577190979">
         <mark key="[" line="0" column="0" />
@@ -242,8 +265,8 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_factor_prefix.rs" timestamp="1551867361610">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_factor_prefix.rs" timestamp="1551868943155">
+        <mark key="[" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/in2000/case_test/src/main/kotlin/model/ocean_forecast/SimpleOceanForecastResponse.kt" timestamp="1548683212531">
         <mark key="[" line="6" column="8" />
@@ -278,26 +301,35 @@
       <file name="$USER_HOME$/git/Rasp/tests/lib.rs" timestamp="1550568610179">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_primary.rs" timestamp="1551868161517">
-        <mark key="'" line="13" column="17" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="18" column="3" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_primary.rs" timestamp="1551869029087">
+        <mark key="'" line="14" column="17" />
+        <mark key="[" line="25" column="51" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/parse_error.rs" timestamp="1550577413569">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_comp_opr.rs" timestamp="1551867189311">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_comp_opr.rs" timestamp="1551868863828">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/Rasp/tests/main.rs" timestamp="1550568575459">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_term.rs" timestamp="1551867330180">
-        <mark key="]" line="5" column="23" />
-        <mark key="^" line="5" column="23" />
-        <mark key="." line="5" column="23" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_term.rs" timestamp="1551868853602">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_and_test.rs" timestamp="1551868825916">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
       </file>
       <file name="/fragment.java" timestamp="1548689232065">
         <mark key="[" line="0" column="0" />
@@ -422,7 +454,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGF0b206IEFzcEF0b20sCiAgICBzdWZmaXg6IE9wdGlvbjxBc3BBcmd1bWVudHM+Cg==</text>
+        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OmFzcF9wcmltYXJ5X3N1ZmZpeDo6QXNwUHJpbWFyeVN1ZmZpeDsK</text>
       </register>
       <register name="-" type="4">
         <text>AspExpr</text>
@@ -431,34 +463,34 @@
         <text>Pa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbXV0IHNjID0gU2Nhbm5lcjo6bmV3KCJhc3AvbWluaS5hc3AiKS51bndyYXAoKTsK</text>
+        <text encoding="base64">ICAgIHB1YiBmbiBwYXJzZShzYzogJm11dCBTY2FubmVyLCBsb2dnZXI6ICZtdXQgTG9nZ2VyKSAtPiBSZXN1bHQ8QXNwQXNzaWdubWVudCxQYXJzZUVycm9yPiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF0b206IEFzcEF0b20sCiAgICBzdWZmaXg6IE9wdGlvbjxBc3BBcmd1bWVudHM+Cg==</text>
+        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OmFzcF9wcmltYXJ5X3N1ZmZpeDo6QXNwUHJpbWFyeVN1ZmZpeDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZuIHBhcnNlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wbCBBc3BFeHByIHsKICAgIHB1YiBmbiBwYXJzZShzYzogJm11dCBTY2FubmVyLCBsb2dnZXI6ICZtdXQgTG9nZ2VyKSAtPiBSZXN1bHQ8QXNwRXhwcixQYXJzZUVycm9yPiB7CgogICAgICAgIGxvZ2dlci5lbnRlcl9wYXJzZXIoIkFzcEV4cHIiKT87CgogICAgICAgIGxldCBhdG9tID0gQXNwQXRvbTo6cGFyc2Uoc2MsIGxvZ2dlcik/OwogICAgICAgIGxldCBzdWZmaXggPSBtYXRjaCBzYy5jdXJfdG9rZW4oKSB7CiAgICAgICAgICAgIFRva2VuOjpMZWZ0UGFyID0+IFNvbWUoQXNwQXJndW1lbnRzOjpwYXJzZShzYywgbG9nZ2VyKT8pLAogICAgICAgICAgICBfID0+IE5vbmUKICAgICAgICB9OwoKICAgICAgICBsb2dnZXIubGVhdmVfcGFyc2VyKCJBc3BFeHByIik/OwoKICAgICAgICBPayhBc3BFeHBye2F0b20sc3VmZml4fSkKICAgIH0KCiAgICBwdWIgZm4gZXZhbCgmc2VsZiwgY3VyX3Njb3BlOiAmbXV0IFNjb3BlKSAtPiBSdW50aW1lVmFsdWUgewogICAgICAgIGxldCBydiA9IFJ1bnRpbWVWYWx1ZTo6UnVudGltZU5vbmU7CgogICAgICAgIHJ2CiAgICB9CgogICAgcHViIGZuIHRlc3RfcGFyc2VyKCZzZWxmLCBsb2dnZXI6ICZtdXQgTG9nZ2VyKSAtPiBpbzo6UmVzdWx0PCgpPiB7CiAgICAgICAgbG9nZ2VyLmVudGVyX3BhcnNlcigiQXNwRXhwciIpPzsKICAgICAgICBzZWxmLmF0b20udGVzdF9wYXJzZXIobG9nZ2VyKT87CiAgICAgICAgbG9nZ2VyLmxlYXZlX3BhcnNlcigiQXNwRXhwciIpCiAgICB9Cn0K</text>
+        <text encoding="base64">cHViIG1vZCBhc3AK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJysnICAgICAgID0+IChUb2tlbjo6UGx1cywgICAgICAxKSwK</text>
+        <text encoding="base64">ICAgIGF0b206IEFzcEF0b20sCiAgICBzdWZmaXg6IE9wdGlvbjxBc3BBcmd1bWVudHM+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTmV3bGluZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbXV0IAo=</text>
+        <text encoding="base64">aW1wbCBBc3BFeHByIHsKICAgIHB1YiBmbiBwYXJzZShzYzogJm11dCBTY2FubmVyLCBsb2dnZXI6ICZtdXQgTG9nZ2VyKSAtPiBSZXN1bHQ8QXNwRXhwcixQYXJzZUVycm9yPiB7CgogICAgICAgIGxvZ2dlci5lbnRlcl9wYXJzZXIoIkFzcEV4cHIiKT87CgogICAgICAgIGxldCBhdG9tID0gQXNwQXRvbTo6cGFyc2Uoc2MsIGxvZ2dlcik/OwogICAgICAgIGxldCBzdWZmaXggPSBtYXRjaCBzYy5jdXJfdG9rZW4oKSB7CiAgICAgICAgICAgIFRva2VuOjpMZWZ0UGFyID0+IFNvbWUoQXNwQXJndW1lbnRzOjpwYXJzZShzYywgbG9nZ2VyKT8pLAogICAgICAgICAgICBfID0+IE5vbmUKICAgICAgICB9OwoKICAgICAgICBsb2dnZXIubGVhdmVfcGFyc2VyKCJBc3BFeHByIik/OwoKICAgICAgICBPayhBc3BFeHBye2F0b20sc3VmZml4fSkKICAgIH0KCiAgICBwdWIgZm4gZXZhbCgmc2VsZiwgY3VyX3Njb3BlOiAmbXV0IFNjb3BlKSAtPiBSdW50aW1lVmFsdWUgewogICAgICAgIGxldCBydiA9IFJ1bnRpbWVWYWx1ZTo6UnVudGltZU5vbmU7CgogICAgICAgIHJ2CiAgICB9CgogICAgcHViIGZuIHRlc3RfcGFyc2VyKCZzZWxmLCBsb2dnZXI6ICZtdXQgTG9nZ2VyKSAtPiBpbzo6UmVzdWx0PCgpPiB7CiAgICAgICAgbG9nZ2VyLmVudGVyX3BhcnNlcigiQXNwRXhwciIpPzsKICAgICAgICBzZWxmLmF0b20udGVzdF9wYXJzZXIobG9nZ2VyKT87CiAgICAgICAgbG9nZ2VyLmxlYXZlX3BhcnNlcigiQXNwRXhwciIpCiAgICB9Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJysnICAgICAgID0+IChUb2tlbjo6UGx1cywgICAgICAxKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtYmVyLnB1c2goYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTmV3bGluZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbXV0IAo=</text>
       </register>
       <register name=":" type="4">
         <text>e main.rs</text>

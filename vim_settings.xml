@@ -11,11 +11,11 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/test/helloworld/src/helloworld/core.clj" timestamp="1552209792994">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="6" column="17" />
+      <file name="$USER_HOME$/test/helloworld/src/helloworld/core.clj" timestamp="1552210701803">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -27,7 +27,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IChwcmludGxuIChzcWUgWzEgMiAzIDRdKSkp</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cgo=</text>
@@ -51,7 +51,7 @@
         <text encoding="base64">KHhzKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IChwcmludGxuIChzcWUgWzEgMiAzIDRdKSkp</text>
       </register>
     </registers>
     <search>

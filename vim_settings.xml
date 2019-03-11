@@ -52,11 +52,11 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/runtime/runtime.rs" timestamp="1552315144093">
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="17" column="61" />
-        <mark key="^" line="17" column="61" />
-        <mark key="." line="17" column="61" />
+      <file name="$USER_HOME$/git/Rasp/src/runtime/runtime.rs" timestamp="1552315758889">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="49" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/asp_integer.rs" timestamp="1552312247688">
         <mark key="[" line="5" column="9" />
@@ -72,7 +72,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ1bnRpbWVJbnRlZ2VyKHYyKSA9PiBSdW50aW1lSW50ZWdlcih2MSArIHYyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ1bnRpbWVJbnRlZ2VyKHYyKSA9PiBSdW50aW1lSW50ZWdlcih2MSArIHYyKSwK</text>
       </register>
       <register name="-" type="4">
         <text>{RuntimeInteger, RuntimeFloat};</text>
@@ -81,31 +81,31 @@
         <text encoding="base64">ICAgIFJ1bnRpbWVGbG9hdChmNjQpLAogICAgUnVudGltZUJvb2xlYW4oYm9vbCksCiAgICBSdW50aW1lU3RyaW5nKFN0cmluZyksCiAgICBSdW50aW1lTm9uZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ1bnRpbWVJbnRlZ2VyKHYyKSA9PiBSdW50aW1lSW50ZWdlcih2MSArIHYyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ1bnRpbWVJbnRlZ2VyKHYyKSA9PiBSdW50aW1lSW50ZWdlcih2MSArIHYyKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ1bnRpbWVGbG9hdChmNjQpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ1bnRpbWVJbnRlZ2VyKHYyKSA9PiBSdW50aW1lSW50ZWdlcih2MSArIHYyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ1bnRpbWVCb29sZWFuKGJvb2wpLAogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ1bnRpbWVGbG9hdChmNjQpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ1bnRpbWVTdHJpbmcoU3RyaW5nKSwKICAgICAgICAgICAgICAgIFJ1bnRpbWVOb25lLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ1bnRpbWVCb29sZWFuKGJvb2wpLAogICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZuIGV2YWwoKSAtPiBSdW50aW1lVmFsdWUgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ1bnRpbWVTdHJpbmcoU3RyaW5nKSwKICAgICAgICAgICAgICAgIFJ1bnRpbWVOb25lLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpbnRsbiEoIns6P30iLCBzYy5jdXJfdG9rZW4oKSk7Cg==</text>
+        <text encoding="base64">ICAgIGZuIGV2YWwoKSAtPiBSdW50aW1lVmFsdWUgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPayhtYXRjaCBzYy5uZXh0X3Rva2VuKCkgewo=</text>
+        <text encoding="base64">CiAgICAgICAgcHJpbnRsbiEoIns6P30iLCBzYy5jdXJfdG9rZW4oKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBsZXQgYSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBPayhtYXRjaCBzYy5uZXh0X3Rva2VuKCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3JzLnB1c2goQXNwRmFjdG9yOjpwYXJzZShzYywgbG9nZ2VyKT8pOwo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBsZXQgYSA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

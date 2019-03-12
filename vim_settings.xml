@@ -20,6 +20,12 @@
       <file name="$USER_HOME$/git/Rasp/src/parser/asp_factor.rs" timestamp="1552312493350">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_expr.rs" timestamp="1552409688910">
+        <mark key="[" line="27" column="67" />
+        <mark key="]" line="28" column="14" />
+        <mark key="^" line="28" column="14" />
+        <mark key="." line="28" column="14" />
+      </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/asp_term_opr.rs" timestamp="1552312943443">
         <mark key="[" line="15" column="15" />
         <mark key="]" line="15" column="15" />
@@ -30,11 +36,11 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="17" column="78" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_stmt.rs" timestamp="1552313304778">
-        <mark key="[" line="29" column="35" />
-        <mark key="]" line="29" column="35" />
-        <mark key="^" line="29" column="35" />
-        <mark key="." line="29" column="35" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_stmt.rs" timestamp="1552409623429">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="67" />
+        <mark key="." line="42" column="8" />
+        <mark key="^" line="42" column="8" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/asp_term.rs" timestamp="1552312826732">
         <mark key="[" line="37" column="40" />
@@ -45,24 +51,35 @@
       <file name="$USER_HOME$/git/Rasp/log/mini.log" timestamp="1552311487266">
         <mark key="'" line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/mod.rs" timestamp="1552312256756">
+      <file name="$USER_HOME$/git/Rasp/src/parser/mod.rs" timestamp="1552408968553">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="21" column="18" />
-        <mark key="^" line="21" column="18" />
-        <mark key="." line="21" column="18" />
-      </file>
-      <file name="$USER_HOME$/git/Rasp/src/runtime/runtime.rs" timestamp="1552315758889">
-        <mark key="[" line="18" column="21" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="49" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="36" column="71" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/asp_integer.rs" timestamp="1552312247688">
         <mark key="[" line="5" column="9" />
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_program.rs" timestamp="1552409104169">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="4" />
+        <mark key="." line="30" column="4" />
+        <mark key="^" line="30" column="4" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/runtime/mod.rs" timestamp="1552409002609">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="30" />
+        <mark key="." line="16" column="30" />
+        <mark key="^" line="16" column="30" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_and_test.rs" timestamp="1552409747686">
+        <mark key="[" line="25" column="37" />
+        <mark key="]" line="25" column="32" />
+        <mark key="^" line="25" column="32" />
+        <mark key="." line="25" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -72,43 +89,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ1bnRpbWVJbnRlZ2VyKHYyKSA9PiBSdW50aW1lSW50ZWdlcih2MSArIHYyKSwK</text>
+        <text encoding="base64">ICAgIHB1YiBmbiBldmFsKCZzZWxmLCBtdXQgY3VyX3Njb3BlOiAmbXV0IFNjb3BlKSAtPiBSdW50aW1lVmFsdWUgewo=</text>
       </register>
       <register name="-" type="4">
-        <text>{RuntimeInteger, RuntimeFloat};</text>
+        <text encoding="base64">bGV0IHJ2ID0g</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJ1bnRpbWVGbG9hdChmNjQpLAogICAgUnVudGltZUJvb2xlYW4oYm9vbCksCiAgICBSdW50aW1lU3RyaW5nKFN0cmluZyksCiAgICBSdW50aW1lTm9uZSwK</text>
+        <text encoding="base64">ICAgIHB1YiBmbiBldmFsKCZzZWxmLCBtdXQgY3VyX3Njb3BlOiAmbXV0IFNjb3BlKSAtPiBSdW50aW1lVmFsdWUgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ1bnRpbWVJbnRlZ2VyKHYyKSA9PiBSdW50aW1lSW50ZWdlcih2MSArIHYyKSwK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ1bnRpbWVJbnRlZ2VyKHYyKSA9PiBSdW50aW1lSW50ZWdlcih2MSArIHYyKQo=</text>
+        <text encoding="base64">ICAgIHB1YiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ1bnRpbWVGbG9hdChmNjQpLAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ1bnRpbWVCb29sZWFuKGJvb2wpLAogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">Ci8vICAgIC8vLyBTaW5jZSB0aGlzIGlzIHRoZSBtZXRob2QgY2FsbGVkLCBpdCB0YWtlcyBubyBhcmd1bWVudHMgYmV5b25kCi8vICAgIC8vLyBzZWxmLCBhbmQgdGhlbiBzZW5kcyB0aGUgd3JpdGVyIChhbmQgaW5kZW50YXRpb24gbGV2ZWwpIGRvd24KLy8gICAgLy8vIHRoZSBzdGFjay4KLy8gICAgcHViIGZuIHRlc3RfcGFyc2VyKCZzZWxmLCBsb2dnZXI6ICZtdXQgTG9nZ2VyKSAtPiBpbzo6UmVzdWx0PCgpPiB7Ci8vICAgICAgICBsb2dnZXIuZW50ZXJfcGFyc2VyKCJBc3BQcm9ncmFtIik/OwovLyAgICAgICAgZm9yIHMgaW4gJnNlbGYuc3RtdHMgewovLyAgICAgICAgICAgIHMudGVzdF9wYXJzZXIobG9nZ2VyKT87Ci8vICAgICAgICB9Ci8vICAgICAgICBsb2dnZXIubGVhdmVfcGFyc2VyKCJBc3BQcm9ncmFtIikKLy8gICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ1bnRpbWVTdHJpbmcoU3RyaW5nKSwKICAgICAgICAgICAgICAgIFJ1bnRpbWVOb25lLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZuIGV2YWwoKSAtPiBSdW50aW1lVmFsdWUgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdHJlZSA9IEFzcFByb2dyYW0gewogICAgICAgICAgICBzdG10czogdmVjIVsKICAgICAgICAgICAgICAgIEV4cHJTdG10IHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgXQogICAgICAgIH07Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpbnRsbiEoIns6P30iLCBzYy5jdXJfdG9rZW4oKSk7Cg==</text>
+      <register name="7" type="4">
+        <text>{
+                    atom: (),
+                    suffix: None
+                }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBPayhtYXRjaCBzYy5uZXh0X3Rva2VuKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdG9tOiAoKSwKICAgICAgICAgICAgICAgICAgICBzdWZmaXg6IE5vbmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBsZXQgYSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RtdHM6IHZlYyFbCiAgICAgICAgICAgICAgICBFeHByU3RtdChBc3BFeHByIHsKICAgICAgICAgICAgICAgICAgICBhdG9tOiAoKSwKICAgICAgICAgICAgICAgICAgICBzdWZmaXg6IE5vbmUKICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgIF0K</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>h ab</text>
       </register>
     </registers>
     <search>
@@ -119,6 +139,7 @@
       <history-search />
       <history-cmd>
         <entry>vs</entry>
+        <entry>h ab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -126,6 +147,15 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

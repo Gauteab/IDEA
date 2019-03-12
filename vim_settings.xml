@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1552311890552">
+      <file name="/Dummy.txt" timestamp="1552411331860">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1551973070453">
@@ -11,20 +11,32 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_atom.rs" timestamp="1552312313428">
-        <mark key="[" line="23" column="90" />
-        <mark key="]" line="23" column="89" />
-        <mark key="." line="23" column="89" />
-        <mark key="^" line="23" column="89" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_atom.rs" timestamp="1552410594782">
+        <mark key="'" line="26" column="11" />
+        <mark key="[" line="41" column="47" />
+        <mark key="]" line="42" column="23" />
+        <mark key="^" line="42" column="23" />
+        <mark key="." line="42" column="23" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_factor.rs" timestamp="1552312493350">
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_factor.rs" timestamp="1552410493254">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="30" column="39" />
+        <mark key="^" line="30" column="39" />
+        <mark key="." line="30" column="39" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_expr.rs" timestamp="1552409688910">
-        <mark key="[" line="27" column="67" />
-        <mark key="]" line="28" column="14" />
-        <mark key="^" line="28" column="14" />
-        <mark key="." line="28" column="14" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_expr.rs" timestamp="1552410208888">
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="29" column="40" />
+        <mark key="^" line="29" column="40" />
+        <mark key="." line="29" column="40" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_comparison.rs" timestamp="1552410417213">
+        <mark key="'" line="27" column="26" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="67" />
+        <mark key="^" line="27" column="36" />
+        <mark key="." line="27" column="36" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/asp_term_opr.rs" timestamp="1552312943443">
         <mark key="[" line="15" column="15" />
@@ -36,17 +48,31 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="17" column="78" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_stmt.rs" timestamp="1552409623429">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="67" />
-        <mark key="." line="42" column="8" />
-        <mark key="^" line="42" column="8" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_stmt.rs" timestamp="1552409980889">
+        <mark key="[" line="43" column="29" />
+        <mark key="]" line="43" column="29" />
+        <mark key="." line="43" column="29" />
+        <mark key="^" line="43" column="28" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_term.rs" timestamp="1552312826732">
-        <mark key="[" line="37" column="40" />
-        <mark key="]" line="38" column="7" />
-        <mark key="." line="38" column="7" />
-        <mark key="^" line="38" column="7" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_primary.rs" timestamp="1552410534030">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="63" />
+        <mark key="." line="36" column="31" />
+        <mark key="^" line="36" column="31" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_not_test.rs" timestamp="1552410284258">
+        <mark key="'" line="18" column="53" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="67" />
+        <mark key="^" line="26" column="37" />
+        <mark key="." line="26" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_term.rs" timestamp="1552410969964">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="48" column="64" />
+        <mark key="]" line="48" column="49" />
+        <mark key="." line="48" column="49" />
+        <mark key="^" line="48" column="49" />
       </file>
       <file name="$USER_HOME$/git/Rasp/log/mini.log" timestamp="1552311487266">
         <mark key="'" line="85" column="0" />
@@ -57,8 +83,14 @@
         <mark key="]" line="36" column="71" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_integer.rs" timestamp="1552312247688">
-        <mark key="[" line="5" column="9" />
+      <file name="$USER_HOME$/git/Rasp/src/runtime/runtime.rs" timestamp="1552411160410">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="15" column="7" />
+        <mark key="." line="4" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_integer.rs" timestamp="1552410614136">
+        <mark key="[" line="6" column="22" />
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="13" />
@@ -69,77 +101,96 @@
         <mark key="." line="30" column="4" />
         <mark key="^" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/runtime/mod.rs" timestamp="1552409002609">
-        <mark key="[" line="16" column="30" />
+      <file name="$USER_HOME$/git/Rasp/src/runtime/mod.rs" timestamp="1552411127299">
+        <mark key="[" line="16" column="31" />
         <mark key="]" line="16" column="30" />
         <mark key="." line="16" column="30" />
         <mark key="^" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_and_test.rs" timestamp="1552409747686">
-        <mark key="[" line="25" column="37" />
-        <mark key="]" line="25" column="32" />
-        <mark key="^" line="25" column="32" />
-        <mark key="." line="25" column="32" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_and_test.rs" timestamp="1552410241139">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="67" />
+        <mark key="." line="9" column="29" />
+        <mark key="^" line="9" column="29" />
       </file>
     </filemarks>
     <jumps>
       <jump line="85" column="0" filename="$USER_HOME$/git/Rasp/log/mini.log" />
       <jump line="6" column="0" filename="$USER_HOME$/git/Rasp/src/parser/mod.rs" />
       <jump line="0" column="0" filename="$USER_HOME$/git/Rasp/src/parser/asp_factor.rs" />
+      <jump line="26" column="13" filename="$USER_HOME$/git/Rasp/src/parser/asp_not_test.rs" />
+      <jump line="18" column="53" filename="$USER_HOME$/git/Rasp/src/parser/asp_not_test.rs" />
+      <jump line="8" column="11" filename="$USER_HOME$/git/Rasp/src/parser/asp_comparison.rs" />
+      <jump line="25" column="7" filename="$USER_HOME$/git/Rasp/src/parser/asp_comparison.rs" />
+      <jump line="9" column="11" filename="$USER_HOME$/git/Rasp/src/parser/asp_comparison.rs" />
+      <jump line="27" column="26" filename="$USER_HOME$/git/Rasp/src/parser/asp_comparison.rs" />
+      <jump line="10" column="11" filename="$USER_HOME$/git/Rasp/src/parser/asp_term.rs" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/Rasp/src/parser/asp_term.rs" />
+      <jump line="24" column="11" filename="$USER_HOME$/git/Rasp/src/parser/asp_atom.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YiBmbiBldmFsKCZzZWxmLCBtdXQgY3VyX3Njb3BlOiAmbXV0IFNjb3BlKSAtPiBSdW50aW1lVmFsdWUgewo=</text>
+      <register name="&quot;" type="4">
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGV0IHJ2ID0g</text>
+        <text>m</text>
+      </register>
+      <register name="/" type="4">
+        <text>AspT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YiBmbiBldmFsKCZzZWxmLCBtdXQgY3VyX3Njb3BlOiAmbXV0IFNjb3BlKSAtPiBSdW50aW1lVmFsdWUgewo=</text>
+        <text encoding="base64">ICAgIHB1YiBmbiBldmFsKCZzZWxmLCBjdXJfc2NvcGU6ICZtdXQgU2NvcGUpIC0+IFJ1bnRpbWVWYWx1ZSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcnYgPSBSdW50aW1lVmFsdWU6OlJ1bnRpbWVOb25lOwoKICAgICAgICBydgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YiAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ci8vICAgIC8vLyBTaW5jZSB0aGlzIGlzIHRoZSBtZXRob2QgY2FsbGVkLCBpdCB0YWtlcyBubyBhcmd1bWVudHMgYmV5b25kCi8vICAgIC8vLyBzZWxmLCBhbmQgdGhlbiBzZW5kcyB0aGUgd3JpdGVyIChhbmQgaW5kZW50YXRpb24gbGV2ZWwpIGRvd24KLy8gICAgLy8vIHRoZSBzdGFjay4KLy8gICAgcHViIGZuIHRlc3RfcGFyc2VyKCZzZWxmLCBsb2dnZXI6ICZtdXQgTG9nZ2VyKSAtPiBpbzo6UmVzdWx0PCgpPiB7Ci8vICAgICAgICBsb2dnZXIuZW50ZXJfcGFyc2VyKCJBc3BQcm9ncmFtIik/OwovLyAgICAgICAgZm9yIHMgaW4gJnNlbGYuc3RtdHMgewovLyAgICAgICAgICAgIHMudGVzdF9wYXJzZXIobG9nZ2VyKT87Ci8vICAgICAgICB9Ci8vICAgICAgICBsb2dnZXIubGVhdmVfcGFyc2VyKCJBc3BQcm9ncmFtIikKLy8gICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdHJlZSA9IEFzcFByb2dyYW0gewogICAgICAgICAgICBzdG10czogdmVjIVsKICAgICAgICAgICAgICAgIEV4cHJTdG10IHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgXQogICAgICAgIH07Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-                    atom: (),
-                    suffix: None
-                }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBSdW50aW1lVmFsdWU6OlJ1bnRpbWVOb25lCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YiAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdG9tOiAoKSwKICAgICAgICAgICAgICAgICAgICBzdWZmaXg6IE5vbmUK</text>
+        <text encoding="base64">Ci8vICAgIC8vLyBTaW5jZSB0aGlzIGlzIHRoZSBtZXRob2QgY2FsbGVkLCBpdCB0YWtlcyBubyBhcmd1bWVudHMgYmV5b25kCi8vICAgIC8vLyBzZWxmLCBhbmQgdGhlbiBzZW5kcyB0aGUgd3JpdGVyIChhbmQgaW5kZW50YXRpb24gbGV2ZWwpIGRvd24KLy8gICAgLy8vIHRoZSBzdGFjay4KLy8gICAgcHViIGZuIHRlc3RfcGFyc2VyKCZzZWxmLCBsb2dnZXI6ICZtdXQgTG9nZ2VyKSAtPiBpbzo6UmVzdWx0PCgpPiB7Ci8vICAgICAgICBsb2dnZXIuZW50ZXJfcGFyc2VyKCJBc3BQcm9ncmFtIik/OwovLyAgICAgICAgZm9yIHMgaW4gJnNlbGYuc3RtdHMgewovLyAgICAgICAgICAgIHMudGVzdF9wYXJzZXIobG9nZ2VyKT87Ci8vICAgICAgICB9Ci8vICAgICAgICBsb2dnZXIubGVhdmVfcGFyc2VyKCJBc3BQcm9ncmFtIikKLy8gICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RtdHM6IHZlYyFbCiAgICAgICAgICAgICAgICBFeHByU3RtdChBc3BFeHByIHsKICAgICAgICAgICAgICAgICAgICBhdG9tOiAoKSwKICAgICAgICAgICAgICAgICAgICBzdWZmaXg6IE5vbmUKICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>h ab</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>AspT</last-search>
+      <last-offset />
+      <last-pattern>AspT</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>AspCo</entry>
+        <entry>Sco</entry>
+        <entry>AspT</entry>
+      </history-search>
       <history-cmd>
         <entry>vs</entry>
         <entry>h ab</entry>
+        <entry>reg</entry>
+        <entry encoding="base64">YWJicmV2IGV2YWwgICAgIHB1YiBmbiBldmFsKCZzZWxmLCBtdXQgY3VyX3Njb3BlOiAmbXV0IFNjb3BlKSAtPiBSdW50aW1lVmFsdWUgeyA=</entry>
+        <entry>abbrev</entry>
       </history-cmd>
       <history-expr />
       <history-input />

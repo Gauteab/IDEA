@@ -6,6 +6,12 @@
       <file name="/Dummy.txt" timestamp="1551974667137">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" timestamp="1552387263105">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="17" column="35" />
+        <mark key="^" line="17" column="35" />
+        <mark key="." line="17" column="35" />
+      </file>
       <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1551973070453">
         <mark key="]" line="25" column="4" />
         <mark key="^" line="25" column="4" />
@@ -27,7 +33,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IChwcmludGxuIChzcWUgWzEgMiAzIDRdKSkp</text>
+        <text>val firstEdge: Edge</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cgo=</text>
@@ -51,7 +57,7 @@
         <text encoding="base64">KHhzKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IChwcmludGxuIChzcWUgWzEgMiAzIDRdKSkp</text>
+        <text>val firstEdge: Edge</text>
       </register>
     </registers>
     <search>

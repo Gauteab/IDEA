@@ -6,11 +6,12 @@
       <file name="/Dummy.txt" timestamp="1551974667137">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" timestamp="1552387263105">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="17" column="35" />
-        <mark key="^" line="17" column="35" />
-        <mark key="." line="17" column="35" />
+      <file name="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" timestamp="1552388924804">
+        <mark key="'" line="14" column="13" />
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="22" />
+        <mark key="^" line="16" column="22" />
+        <mark key="." line="16" column="22" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1551973070453">
         <mark key="]" line="25" column="4" />
@@ -24,48 +25,65 @@
         <mark key="." line="8" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="24" column="0" filename="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" />
+      <jump line="3" column="3" filename="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" />
+      <jump line="14" column="10" filename="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" />
+      <jump line="16" column="13" filename="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" />
+    </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dHlwZWFsaWFzIENpdHkgPSBHcmFwaC5Ob2RlCnR5cGVhbGlhcyBSb2FkID0gR3JhcGguRWRnZQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">aW5uZXIg</text>
+      </register>
+      <register name="/" type="4">
+        <text>City.</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">KC0+PiB4cyAoZmlsdGVyIGV2ZW4/KSAobWFwICMoKiAlICUpKSAocmVkdWNlICspKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>val firstEdge: Edge</text>
+        <text encoding="base64">dHlwZWFsaWFzIENpdHkgPSBHcmFwaC5Ob2RlCnR5cGVhbGlhcyBSb2FkID0gR3JhcGguRWRnZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KGRlZm4gc3FlIFt4c10KICAocmVkdWNlICsgCiAgICAgICAgICAoZmlsdGVyIGV2ZW4/CiAgICAgICAgICAgICAgICAgIChtYXAgIygqICUgJSkgeHMpKSkpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIF9uYW1lOiBTdHJpbmc/ID0gbnVsbAogICAgdmFyIENpdHkubmFtZQogICAgICAgIGdldCgpID0gX25hbWUKICAgICAgICBzZXQodmFsdWUpIHsKICAgICAgICAgICAgX25hbWUgPSB2YWx1ZQogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KC0+PiB4cyAoZmlsdGVyIGV2ZW4/KSAobWFwICMoKiAlICUpKSAocmVkdWNlICspKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGQgPSB2YWx1ZQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHR5cGVhbGlhcyBDaXR5ID0gR3JhcGguTm9kZQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">KGRlZm4gc3FlIFt4c10KICAoLT4geHMKICAgIChmaWx0ZXIgZXZlbj8pCiAgICAobWFwICgqIDIpKQogICAgKHJlZHVjZSArKSkp</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">KG1hcCBzcXJ0KQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KHhzKQo=</text>
+        <text encoding="base64">KGRlZm4gc3FlIFt4c10KICAocmVkdWNlICsgCiAgICAgICAgICAoZmlsdGVyIGV2ZW4/CiAgICAgICAgICAgICAgICAgIChtYXAgIygqICUgJSkgeHMpKSkpCg==</text>
       </register>
-      <register name="-" type="4">
-        <text>val firstEdge: Edge</text>
+      <register name="9" type="2">
+        <text encoding="base64">KC0+PiB4cyAoZmlsdGVyIGV2ZW4/KSAobWFwICMoKiAlICUpKSAocmVkdWNlICspKQo=</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>City.</last-search>
+      <last-offset />
+      <last-pattern>City.</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>inner</entry>
+        <entry>City.</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />

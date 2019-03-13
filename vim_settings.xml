@@ -3,20 +3,96 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1552485689890">
+      <file name="/Dummy.txt" timestamp="1552487164575">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/Rasp/asp/expressions.asp" timestamp="1552485851068">
         <mark key="[" line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1552486577008">
+        <mark key="[" line="37" column="37" />
+        <mark key="]" line="37" column="37" />
+        <mark key="." line="37" column="37" />
+        <mark key="^" line="37" column="43" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1552487806831">
+        <mark key="'" line="59" column="39" />
+        <mark key="[" line="50" column="28" />
+        <mark key="]" line="50" column="28" />
+        <mark key="." line="50" column="28" />
+        <mark key="^" line="67" column="26" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/runtime/mod.rs" timestamp="1552488037657">
+        <mark key="'" line="39" column="9" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="59" column="39" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
+      <jump line="32" column="29" filename="$USER_HOME$/git/Rasp/src/runtime/mod.rs" />
+      <jump line="30" column="17" filename="$USER_HOME$/git/Rasp/src/runtime/mod.rs" />
+      <jump line="42" column="9" filename="$USER_HOME$/git/Rasp/src/runtime/mod.rs" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2MuY3VyX3Rva2VuKCkgPT0gewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="-" type="4">
+        <text>sc.cur_token();</text>
+      </register>
+      <register name="/" type="4">
+        <text>do</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZuIGZpbGxfdG9rZW5fYnVmZmVyKCZtdXQgc2VsZikgewo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2MuY3VyX3Rva2VuKCkgPT0gewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndyaXRlKCZmb3JtYXQhKCJ7Oj99IiwgbGluZSkpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgIWxpbmUuaXNfZW1wdHkoKSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHQgPSBzYy5jdXJfdG9rZW4oKTsKICAgICAgICAgICAgaWYgdCA9PSAmRW9GIHsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHQgPSBzYy5jdXJfdG9rZW4oKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndyaXRlKCZmb3JtYXQhKCJ7Oj99IiwgbGluZSkpOwo=</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>do</last-search>
+      <last-offset />
+      <last-pattern>do</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry>cur_toke</entry>
+        <entry>do</entry>
+      </history-search>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>

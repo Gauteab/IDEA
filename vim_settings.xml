@@ -6,8 +6,11 @@
       <file name="/Dummy.txt" timestamp="1552496141553">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/asp/exprs.asp.rs" timestamp="1552489593482">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1552489117226">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="32" column="43" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/git/Rasp/asp/expressions.asp" timestamp="1552489562911">
         <mark key="[" line="1" column="0" />
@@ -15,11 +18,27 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1552489117226">
+      <file name="$USER_HOME$/test/helloworld/src/helloworld/core.clj" timestamp="1552210771775">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" timestamp="1552508231977">
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="23" column="23" />
+        <mark key="." line="23" column="23" />
+        <mark key="^" line="23" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" timestamp="1552399557865">
+        <mark key="'" line="14" column="13" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="0" />
-        <mark key="^" line="32" column="43" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/asp/exprs.asp.rs" timestamp="1552489593482">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1552495761566">
         <mark key="'" line="51" column="22" />
@@ -67,8 +86,8 @@
       <jump line="51" column="22" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -77,34 +96,34 @@
         <text>+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJysnICAgICAgID0+IChUb2tlbjo6UGx1cywgICAgICAxKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3NDb25uZWN0aW9ucyArPSB0aGlzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfID0+IHVuaW1wbGVtZW50ZWQhKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIHByb2dyYW0pOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHZhbCB3c0Nvbm5lY3Rpb25zID0gQ29sbGVjdGlvbnMuc3luY2hyb25pemVkU2V0KExpbmtlZEhhc2hTZXQ8RGVmYXVsdFdlYlNvY2tldFNlc3Npb24+KCkpCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIHByb2dyYW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfID0+IHVuaW1wbGVtZW50ZWQhKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">NDIgLSAzMgoxICsgNCAtIDIK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIHByb2dyYW0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">NDMgKyAxMDA1CjQyIC0gMTMK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIHByb2dyYW0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OmVycm9yOjpBc3BQYXJzZUVycm9yOwp1c2UgY3JhdGU6OnNjYW5uZXI6OnRva2VuOjpUb2tlbjo6RW9GOwo=</text>
+        <text encoding="base64">NDIgLSAzMgoxICsgNCAtIDIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OmFzcF9leHByOjpBc3BFeHByOwo=</text>
+        <text encoding="base64">NDMgKyAxMDA1CjQyIC0gMTMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIGNyYXRlOjpydW50aW1lOjpydW50aW1lOjpTY29wZTsK</text>
+        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OmVycm9yOjpBc3BQYXJzZUVycm9yOwp1c2UgY3JhdGU6OnNjYW5uZXI6OnRva2VuOjpUb2tlbjo6RW9GOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIGNyYXRlOjpzY2FubmVyOjp0b2tlbjo6VG9rZW47Cg==</text>
+        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OmFzcF9leHByOjpBc3BFeHByOwo=</text>
       </register>
     </registers>
     <search>
@@ -116,15 +135,20 @@
     </search>
     <history>
       <history-search>
-        <entry>cur_toke</entry>
-        <entry>do</entry>
-        <entry>+</entry>
+        <entry>inner</entry>
+        <entry>City.</entry>
       </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>

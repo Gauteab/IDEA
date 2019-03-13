@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1552487164575">
+      <file name="/Dummy.txt" timestamp="1552496141553">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/Rasp/asp/exprs.asp.rs" timestamp="1552489593482">
@@ -21,19 +21,41 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="32" column="43" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1552489038458">
-        <mark key="'" line="59" column="39" />
-        <mark key="[" line="55" column="24" />
-        <mark key="]" line="55" column="24" />
-        <mark key="." line="55" column="24" />
-        <mark key="^" line="67" column="26" />
+      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1552495761566">
+        <mark key="'" line="51" column="22" />
+        <mark key="[" line="93" column="45" />
+        <mark key="]" line="93" column="43" />
+        <mark key="." line="93" column="43" />
+        <mark key="^" line="93" column="43" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/runtime/mod.rs" timestamp="1552489053149">
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_term.rs" timestamp="1552496092028">
+        <mark key="[" line="43" column="22" />
+        <mark key="]" line="43" column="22" />
+        <mark key="^" line="43" column="27" />
+        <mark key="." line="43" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/parser/mod.rs" timestamp="1552495685864">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/runtime/runtime.rs" timestamp="1552495967789">
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="32" column="31" />
+        <mark key="^" line="32" column="31" />
+        <mark key="." line="32" column="31" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/runtime/mod.rs" timestamp="1552495194395">
         <mark key="'" line="40" column="9" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="21" column="7" />
+        <mark key="[" line="27" column="52" />
+        <mark key="]" line="27" column="47" />
+        <mark key="." line="27" column="47" />
+        <mark key="^" line="27" column="46" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/asp/expr.asp" timestamp="1552495221437">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -41,60 +63,66 @@
       <jump line="32" column="29" filename="$USER_HOME$/git/Rasp/src/runtime/mod.rs" />
       <jump line="30" column="17" filename="$USER_HOME$/git/Rasp/src/runtime/mod.rs" />
       <jump line="42" column="9" filename="$USER_HOME$/git/Rasp/src/runtime/mod.rs" />
+      <jump line="3" column="0" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
+      <jump line="51" column="22" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">NDMgKyAxMDA1CjQyIC0gMTMK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>do</text>
+        <text>+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZuIGZpbGxfdG9rZW5fYnVmZmVyKCZtdXQgc2VsZikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJysnICAgICAgID0+IChUb2tlbjo6UGx1cywgICAgICAxKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">NDMgKyAxMDA1CjQyIC0gMTMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfID0+IHVuaW1wbGVtZW50ZWQhKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OmVycm9yOjpBc3BQYXJzZUVycm9yOwp1c2UgY3JhdGU6OnNjYW5uZXI6OnRva2VuOjpUb2tlbjo6RW9GOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIHByb2dyYW0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OmFzcF9leHByOjpBc3BFeHByOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIHByb2dyYW0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIGNyYXRlOjpydW50aW1lOjpydW50aW1lOjpTY29wZTsK</text>
+        <text encoding="base64">NDIgLSAzMgoxICsgNCAtIDIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIGNyYXRlOjpzY2FubmVyOjp0b2tlbjo6VG9rZW47Cg==</text>
+        <text encoding="base64">NDMgKyAxMDA1CjQyIC0gMTMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYmchKHgpOwo=</text>
+        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OmVycm9yOjpBc3BQYXJzZUVycm9yOwp1c2UgY3JhdGU6OnNjYW5uZXI6OnRva2VuOjpUb2tlbjo6RW9GOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2MuY3VyX3Rva2VuKCkgPT0gewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OmFzcF9leHByOjpBc3BFeHByOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNlIGNyYXRlOjpydW50aW1lOjpydW50aW1lOjpTY29wZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndyaXRlKCZmb3JtYXQhKCJ7Oj99IiwgbGluZSkpOwo=</text>
+        <text encoding="base64">dXNlIGNyYXRlOjpzY2FubmVyOjp0b2tlbjo6VG9rZW47Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>do</last-search>
+      <last-search>+</last-search>
       <last-offset />
-      <last-pattern>do</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>+</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>cur_toke</entry>
         <entry>do</entry>
+        <entry>+</entry>
       </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">

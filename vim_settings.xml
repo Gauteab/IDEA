@@ -56,6 +56,7 @@
         <mark key="." line="42" column="4" />
         <mark key="^" line="42" column="4" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/gen/testParser.java" timestamp="1554496013772" />
       <file name="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" timestamp="1552399557865">
         <mark key="'" line="14" column="13" />
         <mark key="[" line="19" column="0" />
@@ -108,6 +109,12 @@
         <mark key="]" line="19" column="38" />
         <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="38" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/resources/test.g4" timestamp="1554495670197">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="4" column="10" />
       </file>
       <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/asmdefs.c" timestamp="1554378994957">
         <mark key="[" line="22" column="19" />

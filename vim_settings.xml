@@ -56,7 +56,6 @@
         <mark key="." line="42" column="4" />
         <mark key="^" line="42" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/gen/testParser.java" timestamp="1554496013772" />
       <file name="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" timestamp="1552399557865">
         <mark key="'" line="14" column="13" />
         <mark key="[" line="19" column="0" />
@@ -110,11 +109,10 @@
         <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/resources/test.g4" timestamp="1554495670197">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="10" />
-        <mark key="^" line="4" column="10" />
-        <mark key="." line="4" column="10" />
+      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/resources/test.g4" timestamp="1554496545916">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/asmdefs.c" timestamp="1554378994957">
         <mark key="[" line="22" column="19" />
@@ -162,8 +160,8 @@
       <jump line="3" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/Makefile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>all</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJ1bGU6ICdoZWxsbyAnKyBDSEFSOwo=</text>
       </register>
       <register name="-" type="4">
         <text>all</text>
@@ -175,31 +173,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJysnICAgICAgID0+IChUb2tlbjo6UGx1cywgICAgICAxKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhpdCgwKQo=</text>
+        <text encoding="base64">cHJ1bGU6ICdoZWxsbyAnKyBDSEFSOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKICBpbml0X3N5c2NhbGwoKQo=</text>
+        <text encoding="base64">cHJ1bGU6ICdoZWxsbyAnKyBDSEFSOwoKQ0hBUjogJ2EnLi4neic7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfID0+IHVuaW1wbGVtZW50ZWQhKCkK</text>
+        <text encoding="base64">ZXhpdCgwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIHByb2dyYW0pOwo=</text>
+        <text encoding="base64">ICAKICBpbml0X3N5c2NhbGwoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIHByb2dyYW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfID0+IHVuaW1wbGVtZW50ZWQhKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">NDIgLSAzMgoxICsgNCAtIDIK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIHByb2dyYW0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">NDMgKyAxMDA1CjQyIC0gMTMK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIHByb2dyYW0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OmVycm9yOjpBc3BQYXJzZUVycm9yOwp1c2UgY3JhdGU6OnNjYW5uZXI6OnRva2VuOjpUb2tlbjo6RW9GOwo=</text>
+        <text encoding="base64">NDIgLSAzMgoxICsgNCAtIDIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OmFzcF9leHByOjpBc3BFeHByOwo=</text>
+        <text encoding="base64">NDMgKyAxMDA1CjQyIC0gMTMK</text>
       </register>
       <register name=":" type="4">
         <text>action ToggleFullScreen</text>

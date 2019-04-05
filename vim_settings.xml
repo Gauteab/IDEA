@@ -13,19 +13,24 @@
       <file name="/Dummy.txt" timestamp="1552496141553">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1552489117226">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="32" column="43" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/git/Rasp/asp/expressions.asp" timestamp="1552489562911">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1552489117226">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="32" column="43" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy" timestamp="1554382340999">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/mbox.c" timestamp="1554385488724" />
       <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/Makefile" timestamp="1554385444420">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="186" column="7" />
@@ -33,7 +38,31 @@
         <mark key="." line="186" column="6" />
         <mark key="^" line="186" column="6" />
       </file>
-      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/paging.c" timestamp="1554385763341" />
+      <file name="$USER_HOME$/test/helloworld/src/helloworld/core.clj" timestamp="1552210771775">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ByteCodeTest/src/Main.java" timestamp="1554291693832">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" timestamp="1552508490431">
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="42" column="4" />
+        <mark key="." line="42" column="4" />
+        <mark key="^" line="42" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" timestamp="1552399557865">
+        <mark key="'" line="14" column="13" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="25" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/git/Rasp/asp/exprs.asp.rs" timestamp="1552489593482">
         <mark key="[" line="0" column="0" />
       </file>
@@ -61,12 +90,6 @@
         <mark key="^" line="32" column="31" />
         <mark key="." line="32" column="31" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy" timestamp="1554382340999">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="15" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-      </file>
       <file name="$USER_HOME$/git/Rasp/src/runtime/mod.rs" timestamp="1552495194395">
         <mark key="'" line="40" column="9" />
         <mark key="[" line="27" column="52" />
@@ -91,6 +114,12 @@
         <mark key="]" line="22" column="18" />
         <mark key="^" line="22" column="18" />
         <mark key="." line="22" column="18" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ByteCodeTest/src/Main.kt" timestamp="1554291838409">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -166,7 +195,7 @@
         <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OmFzcF9leHByOjpBc3BFeHByOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>action ToggleFullScreen</text>
       </register>
     </registers>
     <search>
@@ -178,52 +207,31 @@
     </search>
     <history>
       <history-search>
-        <entry>cur_toke</entry>
-        <entry>do</entry>
-        <entry>+</entry>
-        <entry>thread</entry>
-        <entry>:set hlsearch</entry>
-        <entry>int</entry>
-        <entry>static</entry>
-        <entry>push</entry>
+        <entry>inner</entry>
+        <entry>City.</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>dsafgh</entry>
-        <entry>set hlsearch</entry>
-        <entry>set incsearch</entry>
-        <entry>set nohlsearch</entry>
-        <entry>sp</entry>
-        <entry>vs</entry>
-        <entry>w</entry>
-        <entry>! python %</entry>
-        <entry>setlocal number! relativenumber!</entry>
-        <entry>e  $MYVIMRC</entry>
-        <entry>set rnu</entry>
-        <entry>set is</entry>
-        <entry>set rln</entry>
-        <entry>vs test</entry>
-        <entry>q</entry>
-        <entry>lines</entry>
-        <entry>list</entry>
-        <entry>set list</entry>
-        <entry>retab</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action ToggleFullScreen</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed H</text>
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
@@ -247,13 +255,13 @@
         <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
         <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

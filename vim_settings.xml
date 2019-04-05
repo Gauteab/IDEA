@@ -3,14 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/entry.S" timestamp="1554384672043">
+        <mark key="'" line="19" column="2" />
+        <mark key="[" line="81" column="37" />
+        <mark key="]" line="81" column="40" />
+        <mark key="." line="81" column="40" />
+        <mark key="^" line="81" column="40" />
+      </file>
       <file name="/Dummy.txt" timestamp="1552496141553">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1552489117226">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="32" column="43" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/git/Rasp/asp/expressions.asp" timestamp="1552489562911">
         <mark key="[" line="1" column="0" />
@@ -18,31 +19,21 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/test/helloworld/src/helloworld/core.clj" timestamp="1552210771775">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/ByteCodeTest/src/Main.java" timestamp="1554291693832">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-        <mark key="^" line="6" column="15" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" timestamp="1552508490431">
-        <mark key="[" line="34" column="24" />
-        <mark key="]" line="42" column="4" />
-        <mark key="." line="42" column="4" />
-        <mark key="^" line="42" column="4" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" timestamp="1552399557865">
-        <mark key="'" line="14" column="13" />
+      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1552489117226">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="0" />
+        <mark key="^" line="32" column="43" />
       </file>
+      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/mbox.c" timestamp="1554385488724" />
+      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/Makefile" timestamp="1554385444420">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="186" column="7" />
+        <mark key="]" line="186" column="6" />
+        <mark key="." line="186" column="6" />
+        <mark key="^" line="186" column="6" />
+      </file>
+      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/paging.c" timestamp="1554385763341" />
       <file name="$USER_HOME$/git/Rasp/asp/exprs.asp.rs" timestamp="1552489593482">
         <mark key="[" line="0" column="0" />
       </file>
@@ -70,6 +61,12 @@
         <mark key="^" line="32" column="31" />
         <mark key="." line="32" column="31" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy" timestamp="1554382340999">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+      </file>
       <file name="$USER_HOME$/git/Rasp/src/runtime/mod.rs" timestamp="1552495194395">
         <mark key="'" line="40" column="9" />
         <mark key="[" line="27" column="52" />
@@ -82,11 +79,18 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ByteCodeTest/src/Main.kt" timestamp="1554291838409">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-        <mark key="^" line="0" column="26" />
+      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" timestamp="1554383388345">
+        <mark key="'" line="52" column="7" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+        <mark key="^" line="19" column="38" />
+      </file>
+      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/asmdefs.c" timestamp="1554378994957">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="18" />
+        <mark key="^" line="22" column="18" />
+        <mark key="." line="22" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -96,79 +100,160 @@
       <jump line="42" column="9" filename="$USER_HOME$/git/Rasp/src/runtime/mod.rs" />
       <jump line="3" column="0" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
       <jump line="51" column="22" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
+      <jump line="199" column="41" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
+      <jump line="656" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
+      <jump line="2" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
+      <jump line="730" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
+      <jump line="243" column="2" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
+      <jump line="18" column="11" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
+      <jump line="19" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
+      <jump line="21" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
+      <jump line="24" column="25" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
+      <jump line="27" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
+      <jump line="31" column="18" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
+      <jump line="55" column="33" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
+      <jump line="59" column="18" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
+      <jump line="58" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
+      <jump line="52" column="7" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
+      <jump line="14" column="28" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/entry.S" />
+      <jump line="16" column="2" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/entry.S" />
+      <jump line="17" column="2" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/entry.S" />
+      <jump line="18" column="2" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/entry.S" />
+      <jump line="19" column="2" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/entry.S" />
+      <jump line="198" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/Makefile" />
+      <jump line="63" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/Makefile" />
+      <jump line="3" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/Makefile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9ICJod2xsbyI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>all</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXJnczogQXJyYXk8U3RyaW5nPg==</text>
+        <text>all</text>
       </register>
       <register name="/" type="4">
-        <text>+</text>
+        <text>push</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3NDb25uZWN0aW9ucyArPSB0aGlzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJysnICAgICAgID0+IChUb2tlbjo6UGx1cywgICAgICAxKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9ICJod2xsbyI7Cg==</text>
+        <text encoding="base64">ZXhpdCgwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICB2YWwgcyA9IiIK</text>
+        <text encoding="base64">ICAKICBpbml0X3N5c2NhbGwoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewoKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfID0+IHVuaW1wbGVtZW50ZWQhKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIHByb2dyYW0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuIHRlc3QoczogU3RyaW5nKSA9IHMubGVuZ3RoCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIHByb2dyYW0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcmludGxuKCJIZWxsbyIpCg==</text>
+        <text encoding="base64">NDIgLSAzMgoxICsgNCAtIDIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBzID0gIiIK</text>
+        <text encoding="base64">NDMgKyAxMDA1CjQyIC0gMTMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHMgKz0gMQo=</text>
+        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OmVycm9yOjpBc3BQYXJzZUVycm9yOwp1c2UgY3JhdGU6OnNjYW5uZXI6OnRva2VuOjpUb2tlbjo6RW9GOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciAoeCBpbiAwIC4uIDEwMCApIHsKICAgICAgICBzICs9IHgKICAgIH0K</text>
+        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OmFzcF9leHByOjpBc3BFeHByOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>+</last-search>
+      <last-search>push</last-search>
       <last-offset />
-      <last-pattern>+</last-pattern>
+      <last-pattern>push</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>inner</entry>
-        <entry>City.</entry>
+        <entry>cur_toke</entry>
+        <entry>do</entry>
+        <entry>+</entry>
+        <entry>thread</entry>
+        <entry>:set hlsearch</entry>
+        <entry>int</entry>
+        <entry>static</entry>
+        <entry>push</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>dsafgh</entry>
+        <entry>set hlsearch</entry>
+        <entry>set incsearch</entry>
+        <entry>set nohlsearch</entry>
+        <entry>sp</entry>
+        <entry>vs</entry>
+        <entry>w</entry>
+        <entry>! python %</entry>
+        <entry>setlocal number! relativenumber!</entry>
+        <entry>e  $MYVIMRC</entry>
+        <entry>set rnu</entry>
+        <entry>set is</entry>
+        <entry>set rln</entry>
+        <entry>vs test</entry>
+        <entry>q</entry>
+        <entry>lines</entry>
+        <entry>list</entry>
+        <entry>set list</entry>
+        <entry>retab</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed H</text>
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

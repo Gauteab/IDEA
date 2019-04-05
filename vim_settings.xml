@@ -24,11 +24,17 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" timestamp="1552508231977">
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="23" column="23" />
-        <mark key="." line="23" column="23" />
-        <mark key="^" line="23" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/ByteCodeTest/src/Main.java" timestamp="1554291693832">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" timestamp="1552508490431">
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="42" column="4" />
+        <mark key="." line="42" column="4" />
+        <mark key="^" line="42" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" timestamp="1552399557865">
         <mark key="'" line="14" column="13" />
@@ -76,6 +82,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ByteCodeTest/src/Main.kt" timestamp="1554291838409">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="59" column="39" filename="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" />
@@ -87,10 +99,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9ICJod2xsbyI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">YXJnczogQXJyYXk8U3RyaW5nPg==</text>
       </register>
       <register name="/" type="4">
         <text>+</text>
@@ -99,31 +111,31 @@
         <text encoding="base64">ICAgICAgICAgICAgd3NDb25uZWN0aW9ucyArPSB0aGlzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9ICJod2xsbyI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHZhbCB3c0Nvbm5lY3Rpb25zID0gQ29sbGVjdGlvbnMuc3luY2hyb25pemVkU2V0KExpbmtlZEhhc2hTZXQ8RGVmYXVsdFdlYlNvY2tldFNlc3Npb24+KCkpCgo=</text>
+        <text encoding="base64">CiAgICB2YWwgcyA9IiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfID0+IHVuaW1wbGVtZW50ZWQhKCkK</text>
+        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewoKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIHByb2dyYW0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIHByb2dyYW0pOwo=</text>
+        <text encoding="base64">ZnVuIHRlc3QoczogU3RyaW5nKSA9IHMubGVuZ3RoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">NDIgLSAzMgoxICsgNCAtIDIK</text>
+        <text encoding="base64">CiAgICBwcmludGxuKCJIZWxsbyIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">NDMgKyAxMDA1CjQyIC0gMTMK</text>
+        <text encoding="base64">ICAgIHZhciBzID0gIiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OmVycm9yOjpBc3BQYXJzZUVycm9yOwp1c2UgY3JhdGU6OnNjYW5uZXI6OnRva2VuOjpUb2tlbjo6RW9GOwo=</text>
+        <text encoding="base64">ICAgIHMgKz0gMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OmFzcF9leHByOjpBc3BFeHByOwo=</text>
+        <text encoding="base64">ICAgIGZvciAoeCBpbiAwIC4uIDEwMCApIHsKICAgICAgICBzICs9IHgKICAgIH0K</text>
       </register>
     </registers>
     <search>
@@ -151,6 +163,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

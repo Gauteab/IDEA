@@ -18,6 +18,9 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="32" column="43" />
       </file>
+      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/process4.c" timestamp="1554546584256">
+        <mark key="'" line="78" column="6" />
+      </file>
       <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/Makefile" timestamp="1554385444420">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="186" column="7" />
@@ -191,6 +194,7 @@
       <jump line="36" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/shell.c" />
       <jump line="39" column="10" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/shell.c" />
       <jump line="40" column="6" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/shell.c" />
+      <jump line="78" column="6" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/process4.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -233,7 +237,7 @@
         <text encoding="base64">ICAgIHByaW50bG4oCiAgICAgICAgcGFyc2UucGFyc2VMaXN0ZW5lcnMKICAgICkK</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleDistractionFreeMode</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -273,10 +277,10 @@
         <entry>set list</entry>
         <entry>retab</entry>
         <entry>qa</entry>
-        <entry>vs</entry>
         <entry>q</entry>
         <entry>action ToggleFullScreen</entry>
         <entry>action ToggleDistractionFreeMode</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />

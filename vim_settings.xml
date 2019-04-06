@@ -238,7 +238,7 @@
         <text encoding="base64">ICAgIHByaW50bG4oCiAgICAgICAgcGFyc2UucGFyc2VMaXN0ZW5lcnMKICAgICkK</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>action ToggleFullScreen</text>
       </register>
     </registers>
     <search>
@@ -279,9 +279,9 @@
         <entry>retab</entry>
         <entry>qa</entry>
         <entry>q</entry>
-        <entry>action ToggleFullScreen</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>vs</entry>
+        <entry>action ToggleFullScreen</entry>
       </history-cmd>
       <history-expr />
       <history-input />

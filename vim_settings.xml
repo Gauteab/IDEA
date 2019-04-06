@@ -13,17 +13,23 @@
       <file name="/Dummy.txt" timestamp="1552496141553">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1552489117226">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="32" column="43" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/git/Rasp/asp/expressions.asp" timestamp="1552489562911">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1552489117226">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="32" column="43" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy" timestamp="1554382340999">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/Makefile" timestamp="1554385444420">
         <mark key="'" line="3" column="0" />
@@ -31,6 +37,38 @@
         <mark key="]" line="186" column="6" />
         <mark key="." line="186" column="6" />
         <mark key="^" line="186" column="6" />
+      </file>
+      <file name="$USER_HOME$/test/helloworld/src/helloworld/core.clj" timestamp="1552210771775">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ByteCodeTest/src/Main.java" timestamp="1554291693832">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" timestamp="1552508490431">
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="42" column="4" />
+        <mark key="." line="42" column="4" />
+        <mark key="^" line="42" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" timestamp="1554538432909">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="33" column="16" />
+        <mark key="]" line="33" column="19" />
+        <mark key="." line="33" column="19" />
+        <mark key="^" line="33" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" timestamp="1552399557865">
+        <mark key="'" line="14" column="13" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="25" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/git/Rasp/asp/exprs.asp.rs" timestamp="1552489593482">
         <mark key="[" line="0" column="0" />
@@ -48,22 +86,11 @@
         <mark key="^" line="43" column="27" />
         <mark key="." line="43" column="22" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/mod.rs" timestamp="1552495685864">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
       <file name="$USER_HOME$/git/Rasp/src/runtime/runtime.rs" timestamp="1552495967789">
         <mark key="[" line="31" column="13" />
         <mark key="]" line="32" column="31" />
         <mark key="^" line="32" column="31" />
         <mark key="." line="32" column="31" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy" timestamp="1554382340999">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="15" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/runtime/mod.rs" timestamp="1552495194395">
         <mark key="'" line="40" column="9" />
@@ -72,11 +99,6 @@
         <mark key="." line="27" column="47" />
         <mark key="^" line="27" column="46" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/asp/expr.asp" timestamp="1552495221437">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" timestamp="1554383388345">
         <mark key="'" line="52" column="7" />
         <mark key="[" line="19" column="0" />
@@ -84,11 +106,23 @@
         <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="38" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/resources/test.g4" timestamp="1554498483992">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="10" column="12" />
+      </file>
       <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/asmdefs.c" timestamp="1554378994957">
         <mark key="[" line="22" column="19" />
         <mark key="]" line="22" column="18" />
         <mark key="^" line="22" column="18" />
         <mark key="." line="22" column="18" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ByteCodeTest/src/Main.kt" timestamp="1554291838409">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -122,13 +156,15 @@
       <jump line="198" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/Makefile" />
       <jump line="63" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/Makefile" />
       <jump line="3" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/Makefile" />
+      <jump line="2" column="12" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>all</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>all</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>push</text>
@@ -137,31 +173,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJysnICAgICAgID0+IChUb2tlbjo6UGx1cywgICAgICAxKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhpdCgwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKICBpbml0X3N5c2NhbGwoKQo=</text>
+        <text encoding="base64">ICAgIGxpc3RlbmVyLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfID0+IHVuaW1wbGVtZW50ZWQhKCkK</text>
+        <text encoding="base64">ICAgIGxpc3RlbmVyLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIHByb2dyYW0pOwo=</text>
+        <text encoding="base64">ICAgIHZhbCBsaXN0ZW5lciA9IExpc3BMaXN0ZW5lcigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIHByb2dyYW0pOwo=</text>
+        <text encoding="base64">ICAgIGxpc3RlbmVyLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">NDIgLSAzMgoxICsgNCAtIDIK</text>
+        <text encoding="base64">CiAgICB2YWwgbGlzcExpc3RlbmVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">NDMgKyAxMDA1CjQyIC0gMTMK</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OmVycm9yOjpBc3BQYXJzZUVycm9yOwp1c2UgY3JhdGU6OnNjYW5uZXI6OnRva2VuOjpUb2tlbjo6RW9GOwo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oCiAgICAgICAgcGFyc2UucGFyc2VMaXN0ZW5lcnMKICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIGNyYXRlOjpwYXJzZXI6OmFzcF9leHByOjpBc3BFeHByOwo=</text>
+        <text encoding="base64">ICAgIHBhcnNlLmxpc3AoKS5hbHNvIHsgcHJpbnRsbihpdCkgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ToggleFullScreen</text>
@@ -176,34 +212,10 @@
     </search>
     <history>
       <history-search>
-        <entry>cur_toke</entry>
-        <entry>do</entry>
-        <entry>+</entry>
-        <entry>thread</entry>
-        <entry>:set hlsearch</entry>
-        <entry>int</entry>
-        <entry>static</entry>
-        <entry>push</entry>
+        <entry>inner</entry>
+        <entry>City.</entry>
       </history-search>
       <history-cmd>
-        <entry>set hlsearch</entry>
-        <entry>set incsearch</entry>
-        <entry>set nohlsearch</entry>
-        <entry>sp</entry>
-        <entry>vs</entry>
-        <entry>w</entry>
-        <entry>! python %</entry>
-        <entry>setlocal number! relativenumber!</entry>
-        <entry>e  $MYVIMRC</entry>
-        <entry>set rnu</entry>
-        <entry>set is</entry>
-        <entry>set rln</entry>
-        <entry>vs test</entry>
-        <entry>q</entry>
-        <entry>lines</entry>
-        <entry>list</entry>
-        <entry>set list</entry>
-        <entry>retab</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ToggleFullScreen</entry>
       </history-cmd>
@@ -211,17 +223,20 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed H</text>
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
@@ -245,13 +260,13 @@
         <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
         <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

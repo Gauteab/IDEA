@@ -57,6 +57,12 @@
         <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/th1.c" timestamp="1554539017146" />
+      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/process1.c" timestamp="1554545235774">
+        <mark key="[" line="56" column="26" />
+        <mark key="]" line="56" column="25" />
+        <mark key="^" line="56" column="25" />
+        <mark key="." line="56" column="25" />
+      </file>
       <file name="$USER_HOME$/git/Rasp/src/runtime/mod.rs" timestamp="1552495194395">
         <mark key="'" line="40" column="9" />
         <mark key="[" line="27" column="52" />
@@ -87,8 +93,12 @@
       <file name="/Dummy.txt" timestamp="1552496141553">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/shell.c" timestamp="1554542643562">
-        <mark key="'" line="221" column="0" />
+      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/shell.c" timestamp="1554545071942">
+        <mark key="'" line="40" column="6" />
+        <mark key="[" line="207" column="2" />
+        <mark key="]" line="207" column="5" />
+        <mark key="." line="207" column="5" />
+        <mark key="^" line="207" column="5" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" timestamp="1552508490431">
         <mark key="[" line="34" column="24" />
@@ -178,16 +188,19 @@
       <jump line="730" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
       <jump line="70" column="40" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
       <jump line="221" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/shell.c" />
+      <jump line="36" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/shell.c" />
+      <jump line="39" column="10" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/shell.c" />
+      <jump line="40" column="6" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/shell.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3RhdGljIGZ1bmNfdCBzdGFydF9hZGRyW05VTV9USFJFQURTXSA9IHsKICAoZnVuY190KSBsb2FkZXJfdGhyZWFkLCAgLyogTG9hZHMgc2hlbGwgKi8KICAoZnVuY190KSBjbG9ja190aHJlYWQsICAvKiBSdW5uaW5nIGluZGVmaW5pdGVseSAqLwogIChmdW5jX3QpIHVzYl90aHJlYWQsIC8qIFNjYW5zIFVTQiBodWIgcG9ydCAqLwogIChmdW5jX3QpIHRocmVhZDIsICAvKiBUZXN0IHRocmVhZCAqLwogIChmdW5jX3QpIHRocmVhZDMgIC8qIFRlc3QgdGhyZWFkICovCn07Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RGVzY3JpcHRpb24g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>start_add</text>
+        <text>mbox</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c3RhdGljIGZ1bmNfdCBzdGFydF9hZGRyW05VTV9USFJFQURTXSA9IHsKICAoZnVuY190KSBsb2FkZXJfdGhyZWFkLCAgLyogTG9hZHMgc2hlbGwgKi8KICAoZnVuY190KSBjbG9ja190aHJlYWQsICAvKiBSdW5uaW5nIGluZGVmaW5pdGVseSAqLwogIChmdW5jX3QpIHVzYl90aHJlYWQsIC8qIFNjYW5zIFVTQiBodWIgcG9ydCAqLwogIChmdW5jX3QpIHRocmVhZDIsICAvKiBUZXN0IHRocmVhZCAqLwogIChmdW5jX3QpIHRocmVhZDMgIC8qIFRlc3QgdGhyZWFkICovCn07Cg==</text>
@@ -220,13 +233,13 @@
         <text encoding="base64">ICAgIHByaW50bG4oCiAgICAgICAgcGFyc2UucGFyc2VMaXN0ZW5lcnMKICAgICkK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>action ToggleDistractionFreeMode</text>
       </register>
     </registers>
     <search>
-      <last-search>start_add</last-search>
+      <last-search>mbox</last-search>
       <last-offset />
-      <last-pattern>start_add</last-pattern>
+      <last-pattern>mbox</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -241,6 +254,7 @@
         <entry>static</entry>
         <entry>push</entry>
         <entry>start_add</entry>
+        <entry>mbox</entry>
       </history-search>
       <history-cmd>
         <entry>set incsearch</entry>
@@ -258,11 +272,11 @@
         <entry>list</entry>
         <entry>set list</entry>
         <entry>retab</entry>
-        <entry>action ToggleFullScreen</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
         <entry>qa</entry>
         <entry>vs</entry>
         <entry>q</entry>
+        <entry>action ToggleFullScreen</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
       </history-cmd>
       <history-expr />
       <history-input />

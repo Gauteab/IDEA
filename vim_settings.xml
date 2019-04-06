@@ -241,7 +241,7 @@
         <text encoding="base64">ICAgIHByaW50bG4oCiAgICAgICAgcGFyc2UucGFyc2VMaXN0ZW5lcnMKICAgICkK</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleFullScreen</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
@@ -267,7 +267,6 @@
       <history-cmd>
         <entry>set incsearch</entry>
         <entry>set nohlsearch</entry>
-        <entry>sp</entry>
         <entry>w</entry>
         <entry>! python %</entry>
         <entry>setlocal number! relativenumber!</entry>
@@ -285,6 +284,7 @@
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>vs</entry>
         <entry>action ToggleFullScreen</entry>
+        <entry>sp</entry>
       </history-cmd>
       <history-expr />
       <history-input />

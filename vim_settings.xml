@@ -3,21 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/entry.S" timestamp="1554384672043">
-        <mark key="'" line="19" column="2" />
-        <mark key="[" line="81" column="37" />
-        <mark key="]" line="81" column="40" />
-        <mark key="." line="81" column="40" />
-        <mark key="^" line="81" column="40" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1552496141553">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1552489117226">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="32" column="43" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/common.h" timestamp="1554539849158">
+        <mark key="'" line="94" column="21" />
       </file>
       <file name="$USER_HOME$/git/Rasp/asp/expressions.asp" timestamp="1552489562911">
         <mark key="[" line="1" column="0" />
@@ -25,11 +12,11 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy" timestamp="1554382340999">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="15" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="15" />
+      <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1552489117226">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="32" column="43" />
       </file>
       <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/Makefile" timestamp="1554385444420">
         <mark key="'" line="3" column="0" />
@@ -49,6 +36,61 @@
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1552495761566">
+        <mark key="'" line="51" column="22" />
+        <mark key="[" line="93" column="45" />
+        <mark key="]" line="93" column="43" />
+        <mark key="." line="93" column="43" />
+        <mark key="^" line="93" column="43" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/runtime/runtime.rs" timestamp="1552495967789">
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="32" column="31" />
+        <mark key="^" line="32" column="31" />
+        <mark key="." line="32" column="31" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy" timestamp="1554382340999">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/th1.c" timestamp="1554539017146" />
+      <file name="$USER_HOME$/git/Rasp/src/runtime/mod.rs" timestamp="1552495194395">
+        <mark key="'" line="40" column="9" />
+        <mark key="[" line="27" column="52" />
+        <mark key="]" line="27" column="47" />
+        <mark key="." line="27" column="47" />
+        <mark key="^" line="27" column="46" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/asp/expr.asp" timestamp="1552495221437">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" timestamp="1554539361063">
+        <mark key="'" line="713" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+        <mark key="^" line="19" column="38" />
+      </file>
+      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/asmdefs.c" timestamp="1554378994957">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="18" />
+        <mark key="^" line="22" column="18" />
+        <mark key="." line="22" column="18" />
+      </file>
+      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/entry.S" timestamp="1554384672043">
+        <mark key="'" line="19" column="2" />
+        <mark key="[" line="81" column="37" />
+        <mark key="]" line="81" column="40" />
+        <mark key="." line="81" column="40" />
+        <mark key="^" line="81" column="40" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1552496141553">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" timestamp="1552508490431">
         <mark key="[" line="34" column="24" />
@@ -73,50 +115,22 @@
       <file name="$USER_HOME$/git/Rasp/asp/exprs.asp.rs" timestamp="1552489593482">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1552495761566">
-        <mark key="'" line="51" column="22" />
-        <mark key="[" line="93" column="45" />
-        <mark key="]" line="93" column="43" />
-        <mark key="." line="93" column="43" />
-        <mark key="^" line="93" column="43" />
-      </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/asp_term.rs" timestamp="1552496092028">
         <mark key="[" line="43" column="22" />
         <mark key="]" line="43" column="22" />
         <mark key="^" line="43" column="27" />
         <mark key="." line="43" column="22" />
       </file>
-      <file name="$USER_HOME$/git/Rasp/src/runtime/runtime.rs" timestamp="1552495967789">
-        <mark key="[" line="31" column="13" />
-        <mark key="]" line="32" column="31" />
-        <mark key="^" line="32" column="31" />
-        <mark key="." line="32" column="31" />
-      </file>
-      <file name="$USER_HOME$/git/Rasp/src/runtime/mod.rs" timestamp="1552495194395">
-        <mark key="'" line="40" column="9" />
-        <mark key="[" line="27" column="52" />
-        <mark key="]" line="27" column="47" />
-        <mark key="." line="27" column="47" />
-        <mark key="^" line="27" column="46" />
-      </file>
-      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" timestamp="1554383388345">
-        <mark key="'" line="52" column="7" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="38" />
-        <mark key="." line="19" column="38" />
-        <mark key="^" line="19" column="38" />
+      <file name="$USER_HOME$/git/Rasp/src/parser/mod.rs" timestamp="1552495685864">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/resources/test.g4" timestamp="1554498483992">
         <mark key="[" line="12" column="22" />
         <mark key="]" line="10" column="12" />
         <mark key="." line="10" column="12" />
         <mark key="^" line="10" column="12" />
-      </file>
-      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/asmdefs.c" timestamp="1554378994957">
-        <mark key="[" line="22" column="19" />
-        <mark key="]" line="22" column="18" />
-        <mark key="^" line="22" column="18" />
-        <mark key="." line="22" column="18" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ByteCodeTest/src/Main.kt" timestamp="1554291838409">
         <mark key="[" line="0" column="9" />
@@ -158,6 +172,11 @@
       <jump line="3" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/Makefile" />
       <jump line="2" column="12" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
       <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="713" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
+      <jump line="101" column="7" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/common.h" />
+      <jump line="106" column="21" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/common.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/common.h" />
+      <jump line="94" column="21" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/common.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -200,7 +219,7 @@
         <text encoding="base64">ICAgIHBhcnNlLmxpc3AoKS5hbHNvIHsgcHJpbnRsbihpdCkgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleFullScreen</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -212,31 +231,52 @@
     </search>
     <history>
       <history-search>
-        <entry>inner</entry>
-        <entry>City.</entry>
+        <entry>cur_toke</entry>
+        <entry>do</entry>
+        <entry>+</entry>
+        <entry>thread</entry>
+        <entry>:set hlsearch</entry>
+        <entry>int</entry>
+        <entry>static</entry>
+        <entry>push</entry>
       </history-search>
       <history-cmd>
-        <entry>action ToggleDistractionFreeMode</entry>
+        <entry>set incsearch</entry>
+        <entry>set nohlsearch</entry>
+        <entry>sp</entry>
+        <entry>w</entry>
+        <entry>! python %</entry>
+        <entry>setlocal number! relativenumber!</entry>
+        <entry>e  $MYVIMRC</entry>
+        <entry>set rnu</entry>
+        <entry>set is</entry>
+        <entry>set rln</entry>
+        <entry>vs test</entry>
+        <entry>lines</entry>
+        <entry>list</entry>
+        <entry>set list</entry>
+        <entry>retab</entry>
         <entry>action ToggleFullScreen</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
+        <entry>qa</entry>
+        <entry>q</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
@@ -258,6 +298,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed OPEN_BRACKET</text>

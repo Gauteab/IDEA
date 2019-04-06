@@ -94,9 +94,8 @@
         <mark key="." line="81" column="40" />
         <mark key="^" line="81" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552496141553">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/thread.c" timestamp="1554549363728" />
+      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/thread.h" timestamp="1554549184371" />
       <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/shell.c" timestamp="1554545071942">
         <mark key="'" line="40" column="6" />
         <mark key="[" line="207" column="2" />
@@ -126,9 +125,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/Rasp/asp/exprs.asp.rs" timestamp="1552489593482">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/parser/asp_term.rs" timestamp="1552496092028">
         <mark key="[" line="43" column="22" />

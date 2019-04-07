@@ -56,12 +56,12 @@
         <mark key="." line="42" column="4" />
         <mark key="^" line="42" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" timestamp="1554538432909">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="33" column="16" />
-        <mark key="]" line="33" column="19" />
-        <mark key="." line="33" column="19" />
-        <mark key="^" line="33" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" timestamp="1554620219893">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="33" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" timestamp="1552399557865">
         <mark key="'" line="14" column="13" />
@@ -161,10 +161,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB2aXNpdFRlcm1pbmFsKG5vZGU6IFRlcm1pbmFsTm9kZT8pIHsKICAgICAgICBwcmludGxuKG5vZGUpCiAgICAgICAgLy9zdXBlci52aXNpdFRlcm1pbmFsKG5vZGUpCiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ti</text>
       </register>
       <register name="/" type="4">
         <text>push</text>
@@ -173,31 +173,43 @@
         <text encoding="base64">ICAgICAgICAgICAgJysnICAgICAgID0+IChUb2tlbjo6UGx1cywgICAgICAxKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB2aXNpdFRlcm1pbmFsKG5vZGU6IFRlcm1pbmFsTm9kZT8pIHsKICAgICAgICBwcmludGxuKG5vZGUpCiAgICAgICAgLy9zdXBlci52aXNpdFRlcm1pbmFsKG5vZGUpCiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxpc3RlbmVyLgo=</text>
+        <text encoding="base64">ICAgICAgICB2aXNpdChjdHgubGlzdCgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxpc3RlbmVyLgo=</text>
+        <text encoding="base64">ICAgICAgICBjdHg/Lmxpc3QoKS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBsaXN0ZW5lciA9IExpc3BMaXN0ZW5lcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBjdHghIS5saXN0KCkuCiAgICAgICAgc3VwZXIudmlzaXRMaXNwKGN0eCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxpc3RlbmVyLgo=</text>
+        <text encoding="base64">ICAgICAgICBjdHg/LmNoaWxkcmVuLmFsc28gewogICAgICAgICAgICBwcmludGxuKGl0KQogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICB2YWwgbGlzcExpc3RlbmVyCg==</text>
+        <text encoding="base64">ICAgIHBhcnNlLmxpc3AoKS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBsaXN0ZW5lciA9IExpc3BMaXN0ZW5lcigpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oCiAgICAgICAgcGFyc2UucGFyc2VMaXN0ZW5lcnMKICAgICkK</text>
+      <register name="8" type="4">
+        <text>class LispListener : LispBaseListener() {
+
+    override fun enterEveryRule(ctx: ParserRuleContext?) {
+        println(&quot;!&quot;)
+        super.enterEveryRule(ctx)
+        println(ctx)
+    }
+
+    override fun enterLisp(ctx: LispParser.LispContext?) {
+        ctx.
+        super.enterLisp(ctx)
+    }
+}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcnNlLmxpc3AoKS5hbHNvIHsgcHJpbnRsbihpdCkgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCIhISEiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ToggleFullScreen</text>

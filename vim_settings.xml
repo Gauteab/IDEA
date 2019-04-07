@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/common.h" timestamp="1554539849158">
+      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/common.h" timestamp="1554628499311">
         <mark key="'" line="94" column="21" />
       </file>
       <file name="$USER_HOME$/git/Rasp/asp/expressions.asp" timestamp="1552489562911">
@@ -40,6 +40,7 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/createimage.c" timestamp="1554627794030" />
       <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1552495761566">
         <mark key="'" line="51" column="22" />
         <mark key="[" line="93" column="45" />
@@ -62,6 +63,11 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/th1.c" timestamp="1554628456092">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/process1.c" timestamp="1554545235774">
         <mark key="[" line="56" column="26" />
         <mark key="]" line="56" column="25" />
@@ -75,12 +81,12 @@
         <mark key="." line="27" column="47" />
         <mark key="^" line="27" column="46" />
       </file>
-      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" timestamp="1554622147652">
-        <mark key="'" line="724" column="0" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="64" column="2" />
-        <mark key="." line="89" column="11" />
-        <mark key="^" line="89" column="22" />
+      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" timestamp="1554629062133">
+        <mark key="'" line="712" column="4" />
+        <mark key="[" line="673" column="6" />
+        <mark key="]" line="673" column="5" />
+        <mark key="." line="673" column="5" />
+        <mark key="^" line="673" column="5" />
       </file>
       <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/asmdefs.c" timestamp="1554378994957">
         <mark key="[" line="22" column="19" />
@@ -185,7 +191,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/common.h" />
       <jump line="94" column="21" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/common.h" />
       <jump line="55" column="2" filename="$USER_HOME$/uio/michagu_gauteab/P4/4_pre/usb/scsi.c" />
-      <jump line="712" column="30" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
       <jump line="510" column="14" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
       <jump line="730" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
       <jump line="70" column="40" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
@@ -198,10 +203,11 @@
       <jump line="48" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/mbox.c" />
       <jump line="131" column="2" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
       <jump line="724" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
+      <jump line="712" column="4" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/kernel.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBhWzJdCiAgKihhKzIpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -213,34 +219,34 @@
         <text encoding="base64">c3RhdGljIGZ1bmNfdCBzdGFydF9hZGRyW05VTV9USFJFQURTXSA9IHsKICAoZnVuY190KSBsb2FkZXJfdGhyZWFkLCAgLyogTG9hZHMgc2hlbGwgKi8KICAoZnVuY190KSBjbG9ja190aHJlYWQsICAvKiBSdW5uaW5nIGluZGVmaW5pdGVseSAqLwogIChmdW5jX3QpIHVzYl90aHJlYWQsIC8qIFNjYW5zIFVTQiBodWIgcG9ydCAqLwogIChmdW5jX3QpIHRocmVhZDIsICAvKiBUZXN0IHRocmVhZCAqLwogIChmdW5jX3QpIHRocmVhZDMgIC8qIFRlc3QgdGhyZWFkICovCn07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBhWzJdCiAgKihhKzIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxpc3RlbmVyLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGxpc3RlbmVyLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBsaXN0ZW5lciA9IExpc3BMaXN0ZW5lcigpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGxpc3RlbmVyLgo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhbCBsaXN0ZW5lciA9IExpc3BMaXN0ZW5lcigpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICB2YWwgbGlzcExpc3RlbmVyCg==</text>
+        <text encoding="base64">ICAgIGxpc3RlbmVyLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIAo=</text>
+        <text encoding="base64">CiAgICB2YWwgbGlzcExpc3RlbmVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oCiAgICAgICAgcGFyc2UucGFyc2VMaXN0ZW5lcnMKICAgICkK</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -279,11 +285,11 @@
         <entry>set list</entry>
         <entry>retab</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>vs</entry>
         <entry>action ToggleFullScreen</entry>
         <entry>sp</entry>
         <entry>q</entry>
         <entry>qa</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />

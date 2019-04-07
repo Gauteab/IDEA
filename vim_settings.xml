@@ -3,16 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/entry.S" timestamp="1554384672043">
-        <mark key="'" line="19" column="2" />
-        <mark key="[" line="81" column="37" />
-        <mark key="]" line="81" column="40" />
-        <mark key="." line="81" column="40" />
-        <mark key="^" line="81" column="40" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1552496141553">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1552489117226">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -24,12 +14,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy" timestamp="1554382340999">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="15" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/Makefile" timestamp="1554385444420">
         <mark key="'" line="3" column="0" />
@@ -50,28 +34,11 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" timestamp="1552508490431">
-        <mark key="[" line="34" column="24" />
-        <mark key="]" line="42" column="4" />
-        <mark key="." line="42" column="4" />
-        <mark key="^" line="42" column="4" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" timestamp="1554648784136">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="41" column="9" />
-        <mark key="]" line="42" column="18" />
-        <mark key="." line="42" column="18" />
-        <mark key="^" line="42" column="18" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" timestamp="1552399557865">
-        <mark key="'" line="14" column="13" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="25" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/Rasp/asp/exprs.asp.rs" timestamp="1552489593482">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/resources/Lisp.g4" timestamp="1554655692622">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+        <mark key="^" line="6" column="18" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1552495761566">
         <mark key="'" line="51" column="22" />
@@ -79,12 +46,6 @@
         <mark key="]" line="93" column="43" />
         <mark key="." line="93" column="43" />
         <mark key="^" line="93" column="43" />
-      </file>
-      <file name="$USER_HOME$/git/Rasp/src/parser/asp_term.rs" timestamp="1552496092028">
-        <mark key="[" line="43" column="22" />
-        <mark key="]" line="43" column="22" />
-        <mark key="^" line="43" column="27" />
-        <mark key="." line="43" column="22" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/runtime/runtime.rs" timestamp="1552495967789">
         <mark key="[" line="31" column="13" />
@@ -106,17 +67,65 @@
         <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/resources/test.g4" timestamp="1554498483992">
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="10" column="12" />
-        <mark key="." line="10" column="12" />
-        <mark key="^" line="10" column="12" />
-      </file>
       <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/asmdefs.c" timestamp="1554378994957">
         <mark key="[" line="22" column="19" />
         <mark key="]" line="22" column="18" />
         <mark key="^" line="22" column="18" />
         <mark key="." line="22" column="18" />
+      </file>
+      <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/entry.S" timestamp="1554384672043">
+        <mark key="'" line="19" column="2" />
+        <mark key="[" line="81" column="37" />
+        <mark key="]" line="81" column="40" />
+        <mark key="." line="81" column="40" />
+        <mark key="^" line="81" column="40" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1552496141553">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.kt" timestamp="1554658055280">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy" timestamp="1554382340999">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" timestamp="1552508490431">
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="42" column="4" />
+        <mark key="." line="42" column="4" />
+        <mark key="^" line="42" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" timestamp="1554657998769">
+        <mark key="'" line="43" column="26" />
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="5" />
+        <mark key="^" line="10" column="58" />
+        <mark key="." line="11" column="5" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" timestamp="1552399557865">
+        <mark key="'" line="14" column="13" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="25" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/asp/exprs.asp.rs" timestamp="1552489593482">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/Rasp/src/parser/asp_term.rs" timestamp="1552496092028">
+        <mark key="[" line="43" column="22" />
+        <mark key="]" line="43" column="22" />
+        <mark key="^" line="43" column="27" />
+        <mark key="." line="43" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/resources/test.g4" timestamp="1554498483992">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="10" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ByteCodeTest/src/Main.kt" timestamp="1554291838409">
         <mark key="[" line="0" column="9" />
@@ -158,67 +167,73 @@
       <jump line="3" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/Makefile" />
       <jump line="2" column="12" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
       <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="38" column="36" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="9" column="5" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="43" column="26" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY3R4Lmxpc3QoKS5tYXAgeyBpdCBhcyBMaXN0PEFueT4KICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>print</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>print</text>
       </register>
       <register name="/" type="4">
-        <text>push</text>
+        <text>when</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJysnICAgICAgID0+IChUb2tlbjo6UGx1cywgICAgICAxKSwK</text>
+        <text encoding="base64">ICAgICJwcmludCIgdG8ge3hzOiBMaXNwLkxpc3QgLT4geHMudmFsdWUuZm9yRWFjaCg6OnByaW50KX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY3R4Lmxpc3QoKS5tYXAgeyBpdCBhcyBMaXN0PEFueT4KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXNwLlVuaXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmlubGluZSBjbGFzcyBMaXNwTGlzdCh2YWwgeHM6IExpc3Q8QW55PikK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL3ByaW50bG4oIiEhISIpCiAgICAgICAgLy9jdHghIS50ZXh0LmFsc28geyBwcmludGxuKGl0KSB9Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTGlzcC5MaXN0KGN0eC5leHByKCkubWFwIHsgdmlzaXRFeHByKGl0KSB9KQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgb3ZlcnJpZGUgZnVuIHZpc2l0UHJvZ3JhbShjdHg6IExpc3BQYXJzZXIuUHJvZ3JhbUNvbnRleHQpIHsKLy8KLy8gICAgfQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB2aXNpdExpc3QoY3R4OiBMaXNwUGFyc2VyLkxpc3RDb250ZXh0PykgewogICAgICAgIGN0eCEhLgogICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHByaW50bG4oY3R4LnN0b3AudHlwZSA9PSBMaXNwUGFyc2VyLklOVCkKLy8gICAgICAgIHN1cGVyLnZpc2l0RXhwcihjdHgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bWJvbC4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2aXNpdExpc3QoY3R4Lmxpc3QoMCkpCiAgICAgICAgdGhpcy52aXNpdChjdHguZ2V0Q2hpbGQoMCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB2aXNpdFRlcm1pbmFsKG5vZGU6IFRlcm1pbmFsTm9kZT8pIHsKICAgICAgICBwcmludGxuKG5vZGUpCiAgICAgICAgLy9zdXBlci52aXNpdFRlcm1pbmFsKG5vZGUpCiAgICB9Cg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">ZGF0YSAKZGF0YSAKZGF0YSAKZGF0YSA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2aXNpdChjdHgubGlzdCgpKQo=</text>
+        <text encoding="base64">ICAgIGlubGluZSBjbGFzcyBGdW48VDogTGlzcCwgUjogTGlzcD4odmFsIHZhbHVlOiAgICAoVCkgLT4gUikgICAgOiBMaXNwKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>action ToggleFullScreen</text>
       </register>
     </registers>
     <search>
-      <last-search>push</last-search>
+      <last-search>when</last-search>
       <last-offset />
-      <last-pattern>push</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>when</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>inner</entry>
         <entry>City.</entry>
+        <entry>whe</entry>
+        <entry>when</entry>
       </history-search>
       <history-cmd>
+        <entry>vs</entry>
+        <entry>action TogglePresentationMode</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ToggleFullScreen</entry>
-        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />

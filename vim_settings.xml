@@ -34,8 +34,8 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/resources/Lisp.g4" timestamp="1554655692622">
-        <mark key="[" line="10" column="14" />
+      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/resources/Lisp.g4" timestamp="1554661214097">
+        <mark key="[" line="13" column="15" />
         <mark key="]" line="6" column="18" />
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
@@ -98,12 +98,12 @@
         <mark key="." line="42" column="4" />
         <mark key="^" line="42" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" timestamp="1554660079973">
-        <mark key="'" line="54" column="26" />
-        <mark key="[" line="15" column="60" />
-        <mark key="]" line="17" column="10" />
-        <mark key="^" line="14" column="69" />
-        <mark key="." line="17" column="10" />
+      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" timestamp="1554661555179">
+        <mark key="'" line="55" column="26" />
+        <mark key="[" line="63" column="12" />
+        <mark key="]" line="63" column="33" />
+        <mark key="^" line="63" column="33" />
+        <mark key="." line="63" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" timestamp="1552399557865">
         <mark key="'" line="14" column="13" />
@@ -172,11 +172,11 @@
       <jump line="43" column="26" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiKyIgICAgIHRvIHtsOiBMaXN0PExpc3A+IC0+IGwuZm9sZCgwKSB7IGEsIHggLT4gYSArIHguaW50IH19LAo=</text>
+      <register name="&quot;" type="4">
+        <text>.trimIndent()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5saW5lIA==</text>
+        <text>.trimIndent()</text>
       </register>
       <register name="/" type="4">
         <text>when</text>

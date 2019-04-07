@@ -56,12 +56,12 @@
         <mark key="." line="42" column="4" />
         <mark key="^" line="42" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" timestamp="1554620219893">
+      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" timestamp="1554648784136">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="33" column="21" />
+        <mark key="[" line="41" column="9" />
+        <mark key="]" line="42" column="18" />
+        <mark key="." line="42" column="18" />
+        <mark key="^" line="42" column="18" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" timestamp="1552399557865">
         <mark key="'" line="14" column="13" />
@@ -161,10 +161,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB2aXNpdFRlcm1pbmFsKG5vZGU6IFRlcm1pbmFsTm9kZT8pIHsKICAgICAgICBwcmludGxuKG5vZGUpCiAgICAgICAgLy9zdXBlci52aXNpdFRlcm1pbmFsKG5vZGUpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY3R4Lmxpc3QoKS5tYXAgeyBpdCBhcyBMaXN0PEFueT4KICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ti</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>push</text>
@@ -173,46 +173,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJysnICAgICAgID0+IChUb2tlbjo6UGx1cywgICAgICAxKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB2aXNpdFRlcm1pbmFsKG5vZGU6IFRlcm1pbmFsTm9kZT8pIHsKICAgICAgICBwcmludGxuKG5vZGUpCiAgICAgICAgLy9zdXBlci52aXNpdFRlcm1pbmFsKG5vZGUpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY3R4Lmxpc3QoKS5tYXAgeyBpdCBhcyBMaXN0PEFueT4KICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2aXNpdChjdHgubGlzdCgpKQo=</text>
+        <text encoding="base64">CmlubGluZSBjbGFzcyBMaXNwTGlzdCh2YWwgeHM6IExpc3Q8QW55PikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjdHg/Lmxpc3QoKS4K</text>
+        <text encoding="base64">ICAgICAgICAvL3ByaW50bG4oIiEhISIpCiAgICAgICAgLy9jdHghIS50ZXh0LmFsc28geyBwcmludGxuKGl0KSB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjdHghIS5saXN0KCkuCiAgICAgICAgc3VwZXIudmlzaXRMaXNwKGN0eCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjdHg/LmNoaWxkcmVuLmFsc28gewogICAgICAgICAgICBwcmludGxuKGl0KQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB2aXNpdExpc3QoY3R4OiBMaXNwUGFyc2VyLkxpc3RDb250ZXh0PykgewogICAgICAgIGN0eCEhLgogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhcnNlLmxpc3AoKS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bWJvbC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBsaXN0ZW5lciA9IExpc3BMaXN0ZW5lcigpCg==</text>
+        <text encoding="base64">ICAgICAgICB2aXNpdExpc3QoY3R4Lmxpc3QoMCkpCiAgICAgICAgdGhpcy52aXNpdChjdHguZ2V0Q2hpbGQoMCkpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>class LispListener : LispBaseListener() {
-
-    override fun enterEveryRule(ctx: ParserRuleContext?) {
-        println(&quot;!&quot;)
-        super.enterEveryRule(ctx)
-        println(ctx)
-    }
-
-    override fun enterLisp(ctx: LispParser.LispContext?) {
-        ctx.
-        super.enterLisp(ctx)
-    }
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB2aXNpdFRlcm1pbmFsKG5vZGU6IFRlcm1pbmFsTm9kZT8pIHsKICAgICAgICBwcmludGxuKG5vZGUpCiAgICAgICAgLy9zdXBlci52aXNpdFRlcm1pbmFsKG5vZGUpCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCIhISEiKQo=</text>
+        <text encoding="base64">ICAgICAgICB2aXNpdChjdHgubGlzdCgpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleFullScreen</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -230,6 +218,7 @@
       <history-cmd>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ToggleFullScreen</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -98,12 +98,11 @@
         <mark key="." line="42" column="4" />
         <mark key="^" line="42" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" timestamp="1554661555179">
-        <mark key="'" line="55" column="26" />
-        <mark key="[" line="63" column="12" />
-        <mark key="]" line="63" column="33" />
-        <mark key="^" line="63" column="33" />
-        <mark key="." line="63" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" timestamp="1554730511277">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" timestamp="1552399557865">
         <mark key="'" line="14" column="13" />
@@ -166,60 +165,90 @@
       <jump line="63" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/Makefile" />
       <jump line="3" column="0" filename="$USER_HOME$/uio/michagu_gauteab/P4/solution/Makefile" />
       <jump line="2" column="12" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
-      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
       <jump line="38" column="36" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
       <jump line="9" column="5" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
       <jump line="43" column="26" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="60" column="21" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="63" column="19" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="76" column="85" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="80" column="19" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="81" column="47" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="100" column="0" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="85" column="19" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="67" column="34" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="59" column="35" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="55" column="48" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="78" column="0" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="70" column="13" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="48" column="26" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="35" column="34" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="13" column="8" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="22" column="8" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="25" column="8" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="42" column="12" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="54" column="14" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="109" column="61" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="101" column="61" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="104" column="48" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="24" column="0" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="40" column="12" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="47" column="18" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="52" column="24" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="69" column="60" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="23" column="5" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
+      <jump line="84" column="0" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.trimIndent()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CnNlYWxlZCBjbGFzcyBMaXNwVmFsdWUgewogICAgZGF0YSBjbGFzcyBJbnQodmFsIHZhbHVlOiBrb3RsaW4uSW50KSA6IExpc3BWYWx1ZSgpIHsKICAgICAgICAKICAgIH0KfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.trimIndent()</text>
+        <text>val x = eval(exp, lib).value</text>
       </register>
       <register name="/" type="4">
-        <text>when</text>
+        <text>nil</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiKyIgICAgIHRvIHtsOiBMaXN0PExpc3A+IC0+IGwuZm9sZCgwKSB7IGEsIHggLT4gYSArIHguaW50IH19LAo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB2aXNpdExpc3QoY3R4OiBMaXNwUGFyc2VyLkxpc3RDb250ZXh0KTogTGlzcCB7CiAgICAgICAgdmFsIGZpcnN0ID0gY3R4LmV4cHIoMCkKCiAgICAgICAgLyogU3BlY2lhbCBmb3JtcyAqLwogICAgICAgIHdoZW4gKGZpcnN0LnRleHQpIHsKICAgICAgICAgICAgImlmIiAtPiByZXR1cm4gaWYgKGV2YWwoY3R4LmV4cHIoMSkpLmludCAhPSAwKSBldmFsKGN0eC5leHByKDIpKSBlbHNlIGV2YWwoY3R4LmV4cHIoMykpCiAgICAgICAgICAgICJmbiIgLT4gVE9ETygpCiAgICAgICAgfQoKICAgICAgICB2YWwgZiA9IGV2YWwoZmlyc3QpLmZ1bmMKICAgICAgICB2YWwgYXJncyA9IGN0eC5leHByKCkuZHJvcCgxKS5tYXAoOjpldmFsKQogICAgICAgIHJldHVybiBMaXNwKGYoYXJncykpCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci8vc2VhbGVkIGNsYXNzIExpc3AgewovLyAgICBkYXRhIGNsYXNzIFN0cmluZyh2YWwgdmFsdWU6IGtvdGxpbi5TdHJpbmcpICAgICAgICAgICAgICAgICA6IExpc3AoKQovLyAgICBkYXRhIGNsYXNzIEludCh2YWwgdmFsdWU6ICAgIGtvdGxpbi5JbnQpICAgICAgICAgICAgICAgICAgICA6IExpc3AoKQovLyAgICBkYXRhIGNsYXNzIExpc3QodmFsIHZhbHVlOiAgIGtvdGxpbi5jb2xsZWN0aW9ucy5MaXN0PExpc3A+KSA6IExpc3AoKQovLyAgICBkYXRhIGNsYXNzIEZ1bjxUOiBMaXNwLCBSOiBMaXNwPih2YWwgdmFsdWU6ICAgIChUKSAtPiBSKSAgICA6IExpc3AoKQovLyAgICBkYXRhIGNsYXNzIEFueSh2YWwgdmFsdWU6IGtvdGxpbi5BbnkpOiBMaXNwKCkKLy8gICAgb2JqZWN0IFVuaXQgOiBMaXNwKCkKLy99Cg==</text>
+        <text encoding="base64">CnNlYWxlZCBjbGFzcyBMaXNwVmFsdWUgewogICAgZGF0YSBjbGFzcyBJbnQodmFsIHZhbHVlOiBrb3RsaW4uSW50KSA6IExpc3BWYWx1ZSgpIHsKICAgICAgICAKICAgIH0KfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTGlzcChjdHguZXhwcigpLm1hcCB7IHZpc2l0RXhwcihpdCkgfSkK</text>
+        <text encoding="base64">Cih0YWlsICh0YWlsIHgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFsIGxpYiA9IG11dGFibGVNYXBPZjxTdHJpbmcsIEFueT4gKAogICAgInByaW50IiB0byB7bDogTGlzdDxMaXNwPiAtPiBsLmZvckVhY2goOjpwcmludCl9LAogICAgIisiICAgICB0byB7bDogTGlzdDxMaXNwPiAtPiBsLmZvbGQoMCkgeyBhLCB4IC0+IGEgKyB4LmludCB9fQopCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hlbiAoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXNwLlVuaXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzIEZ1bmN0aW9uPCo+IC0+IAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihldmFsKGV4cCwgbGliKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzcC5MaXN0KGN0eC5leHByKCkubWFwIHsgdmlzaXRFeHByKGl0KSB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgb3ZlcnJpZGUgZnVuIHZpc2l0UHJvZ3JhbShjdHg6IExpc3BQYXJzZXIuUHJvZ3JhbUNvbnRleHQpIHsKLy8KLy8gICAgfQo=</text>
+        <text encoding="base64">KGxldCBwcmludGwKICAoZm4gKHhzKQogICAgICAoYmVnaW4KICAgICAgICAocHJpbnQgIlsiKQogICAgICAgIChwcmludC1saXN0IHhzKQogICAgICAgIChwcmludGxuICJdIikpKSkKCihsZXQgcHJpbnQtbGlzdAogIChmbiAobCkKICAgICAgKGlmICg9IGwgbmlsKQogICAgICAgIG5pbAogICAgICAgIChiZWdpbgogICAgICAgICAgKHByaW50IChoZWFkIGwpKQogICAgICAgICAgKHByaW50LWxpc3QgKHRhaWwgbCkpKSkpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaW50bG4oY3R4LnN0b3AudHlwZSA9PSBMaXNwUGFyc2VyLklOVCkKLy8gICAgICAgIHN1cGVyLnZpc2l0RXhwcihjdHgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihleHAudGV4dCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiZiA9ICRpdCIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleFullScreen</text>
+        <text>action ToggleDistractionFreeMode</text>
       </register>
     </registers>
     <search>
-      <last-search>when</last-search>
+      <last-search>nil</last-search>
       <last-offset />
-      <last-pattern>when</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>nil</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -228,12 +257,19 @@
         <entry>City.</entry>
         <entry>whe</entry>
         <entry>when</entry>
+        <entry>: L</entry>
+        <entry>visitExpr</entry>
+        <entry>visitL</entry>
+        <entry>lib</entry>
+        <entry>?</entry>
+        <entry>zero</entry>
+        <entry>nil</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
         <entry>action TogglePresentationMode</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ToggleFullScreen</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
       </history-cmd>
       <history-expr />
       <history-input />

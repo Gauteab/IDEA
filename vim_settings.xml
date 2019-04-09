@@ -59,6 +59,12 @@
         <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="22" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Nasm.kt" timestamp="1554841400210">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+      </file>
       <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1552495761566">
         <mark key="'" line="51" column="22" />
         <mark key="[" line="93" column="45" />
@@ -99,11 +105,11 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="22" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/test/kotlin/HelloWorld.kt" timestamp="1554764612379">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="26" column="14" />
+      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/test/kotlin/HelloWorld.kt" timestamp="1554841442416">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+        <mark key="^" line="15" column="18" />
       </file>
       <file name="$USER_HOME$/uio/michagu_gauteab/P4/solution/entry.S" timestamp="1554384672043">
         <mark key="'" line="19" column="2" />
@@ -130,11 +136,11 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" timestamp="1554839318192">
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="15" />
-        <mark key="." line="16" column="15" />
-        <mark key="^" line="16" column="15" />
+      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" timestamp="1554842725680">
+        <mark key="'" line="49" column="4" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" timestamp="1552508490431">
         <mark key="[" line="34" column="24" />
@@ -142,11 +148,10 @@
         <mark key="." line="42" column="4" />
         <mark key="^" line="42" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/NasmBuilder.kt" timestamp="1554839216107">
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="12" column="21" />
-        <mark key="." line="12" column="21" />
-        <mark key="^" line="12" column="21" />
+      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/NasmBuilder.kt" timestamp="1554842702578">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" timestamp="1554730511277">
         <mark key="'" line="92" column="0" />
@@ -270,13 +275,17 @@
       <jump line="84" column="0" filename="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" />
       <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/antlr/Expr.g4" />
       <jump line="37" column="11" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/antlr/com/example/Mikkro.g4" />
+      <jump line="48" column="37" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" />
+      <jump line="15" column="0" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" />
+      <jump line="43" column="46" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" />
+      <jump line="49" column="4" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>nasmBuilder</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGdldCgpOlN0cmluZyA9ICIiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>nasmBuilder</text>
+        <text>Int</text>
       </register>
       <register name="/" type="4">
         <text>nil</text>
@@ -285,34 +294,34 @@
         <text encoding="base64">ICAgICAgICAgICAgc3ViIHJzcCAkezQgKiBsb2NhbFZhcnMuc2l6ZX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGdldCgpOlN0cmluZyA9ICIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbGFiZWwgPSBsYWJlbAo=</text>
+        <text encoding="base64">ICAgIHZhbCBmdW5jdGlvbnMgPSBzZXRPZigKICAgICAgICAicHJpbnRmIgogICAgKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAicHJpbnQiIHRvICJwcmludGYiCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY29kZSA9ICIiCiAgICAgICAgdmFyIGRhdGEgPSAiIgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IAogICAg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLkFzdAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29kZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi5tYXRoLmV4cAo=</text>
+        <text encoding="base64">ICAgIHZhbCBzY29wZSA9IG11dGFibGVNYXBPZjxTdHJpbmcsIEludD4oKQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlKG5hbWUgIWluIGRhdGEpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzY29wZSA9IG11dGFibGVNYXBPZjxTdHJpbmcsIEludD4oKQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbFZhcmlhYmxlc1thc3NpZ25tZW50Lm5hbWUubmFtZV0gPSBhc3NpZ25tZW50LmV4cHIgYXMgTGl0ZXJhbAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleFullScreen</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -338,9 +347,9 @@
       </history-search>
       <history-cmd>
         <entry>action TogglePresentationMode</entry>
-        <entry>vs</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ToggleFullScreen</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -390,6 +399,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

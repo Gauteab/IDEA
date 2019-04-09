@@ -130,11 +130,11 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" timestamp="1554764955740">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="29" />
-        <mark key="." line="23" column="29" />
-        <mark key="^" line="23" column="29" />
+      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" timestamp="1554838577023">
+        <mark key="[" line="47" column="41" />
+        <mark key="]" line="48" column="18" />
+        <mark key="." line="48" column="18" />
+        <mark key="^" line="48" column="18" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" timestamp="1552508490431">
         <mark key="[" line="34" column="24" />
@@ -142,11 +142,11 @@
         <mark key="." line="42" column="4" />
         <mark key="^" line="42" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/NasmBuilder.kt" timestamp="1554797371976">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="23" />
-        <mark key="^" line="15" column="23" />
-        <mark key="." line="15" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/NasmBuilder.kt" timestamp="1554809148236">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+        <mark key="." line="16" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/antlrtest/src/main/kotlin/Main.kt" timestamp="1554730511277">
         <mark key="'" line="92" column="0" />
@@ -273,43 +273,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">OiBTdHJpbmcg</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">OiBTdHJpbmcg</text>
       </register>
       <register name="/" type="4">
         <text>nil</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1biBkYXRhKG5hbWU6IFN0cmluZywgdmFsdWU6IFN0cmluZykgewogICAgICAgIHJlcXVpcmUobmFtZSAhaW4gZGF0YSkKICAgICAgICBkYXRhW25hbWVdID0gIiIiJG5hbWU6IGRiICIkdmFsdWUiLCAwIiIiCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3ViIHJzcCAkezQgKiBsb2NhbFZhcnMuc2l6ZX0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hcCB7IChrLHYpIC0+ICIkazogZGIgIiB9Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">cmdzLm1hcCB7IGNvbXBpbGUoaXQpIH0pCiAgICAgICAgICAgIC5qb2luVG9TdHJpbmcoIlxuIikgeyAgfQogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZ1biBhZGRWYXJpYWJsZShuYW1lOiBTdHJpbmcpIHsKICAgICAgICBsbwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuICgpCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBmdW4gZGF0YShuYW1lOiBTdHJpbmcsIHZhbHVlOiBJbnQpIHsKICAgICAgICByZXF1aXJlKG5hbWUgIWluIGRhdGEpCiAgICAgICAgZGF0YVtuYW1lXSA9ICIiIiRuYW1lOiAiJHZhbHVlIiwgMCIiIgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGF0YSBjbGFzcyBEYXRhRW50cnkodmFsIGxhYmVsOiBTdHJpbmcsIHZhbCBkczogRGF0YVNpemUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW51bSBjbGFzcyBEYXRhU2l6ZShuYW1lOiBTdHJpbmcpIHsKICAgIEJ5dGUoImRiIiksCiAgICBXb3JkKCJkdyIpLAogICAgUXVhZCgiZHEiKQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnZvY2F0aW9uLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cn0K</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLkFzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2RlICs9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>action ToggleFullScreen</text>

@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="HelloWorld" type="Kotlin" />
       <mapping pattern="createimage" type="PLAIN_TEXT" />
+      <mapping ext="mkr" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
     </extensionMap>

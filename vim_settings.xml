@@ -59,11 +59,11 @@
         <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Nasm.kt" timestamp="1554857673465">
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
-        <mark key="^" line="55" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Nasm.kt" timestamp="1554897622560">
+        <mark key="'" line="38" column="43" />
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="4" column="4" />
+        <mark key="." line="4" column="4" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1552495761566">
         <mark key="'" line="51" column="22" />
@@ -136,12 +136,12 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" timestamp="1554857649641">
+      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" timestamp="1554896798933">
         <mark key="'" line="39" column="13" />
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="22" />
-        <mark key="." line="12" column="22" />
-        <mark key="^" line="12" column="22" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="12" />
+        <mark key="." line="23" column="12" />
+        <mark key="^" line="20" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" timestamp="1552508490431">
         <mark key="[" line="34" column="24" />
@@ -160,6 +160,12 @@
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/test/kotlin/Test.kt" timestamp="1554897570727">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+        <mark key="." line="12" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" timestamp="1552399557865">
         <mark key="'" line="14" column="13" />
@@ -288,56 +294,60 @@
       <jump line="43" column="46" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" />
       <jump line="49" column="4" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" />
       <jump line="39" column="13" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" />
+      <jump line="54" column="0" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Nasm.kt" />
+      <jump line="19" column="17" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Nasm.kt" />
+      <jump line="17" column="20" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Nasm.kt" />
+      <jump line="18" column="43" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Nasm.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Int(5))</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>Int(5))</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>nil</text>
+        <text>\\t</text>
       </register>
-      <register name="0" type="4">
-        <text>[rbp+${4*it}]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZ1biBwdXNoKHJlZzogU3RyaW5nKSA9IGFsc28geyArInB1c2ggJHJlZyIgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJZGVudGlmaWVyKCJhZ2UiKSkK</text>
+        <text encoding="base64">ICAgIG5hc20K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLkFzdAo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpOiBTdHJpbmcgewogICAgICAgIHJldHVybiBzdXBlci50b1N0cmluZygpCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cigiRGFnIikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuYXNtICs9ICJcdG1vdiBbcmJwKyR7NCppdH1dLCAke2NvbXBpbGUoYXNzaWdubWVudC5leHByLCBuYXNtKX0iCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbmFzbSA9IE5hc20oKQogICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIudHJpbU1hcmdpbigpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9wZXJhdG9yIGZ1biBwbHVzQXNzaWduKGNvZGU6IFN0cmluZykgPSBpbnN0cnVjdGlvbihjb2RlKQoK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKHJlZyBpbiByZWdzKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAvL29wZXJhdG9yIGZ1biBwbHVzQXNzaWduKGNvZGU6IFN0cmluZykgPSBpbnN0cnVjdGlvbihjb2RlKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKHIgaW4gcmVncykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>nil</last-search>
+      <last-search>\\t</last-search>
       <last-offset />
-      <last-pattern>nil</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>\\t</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -353,6 +363,7 @@
         <entry>?</entry>
         <entry>zero</entry>
         <entry>nil</entry>
+        <entry>\\t</entry>
       </history-search>
       <history-cmd>
         <entry>action TogglePresentationMode</entry>

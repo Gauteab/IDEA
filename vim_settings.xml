@@ -59,12 +59,12 @@
         <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Nasm.kt" timestamp="1554898937169">
-        <mark key="'" line="25" column="12" />
-        <mark key="[" line="39" column="8" />
-        <mark key="]" line="39" column="13" />
-        <mark key="." line="39" column="13" />
-        <mark key="^" line="39" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Nasm.kt" timestamp="1554903517608">
+        <mark key="'" line="37" column="12" />
+        <mark key="[" line="83" column="36" />
+        <mark key="]" line="63" column="12" />
+        <mark key="." line="63" column="12" />
+        <mark key="^" line="63" column="12" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1552495761566">
         <mark key="'" line="51" column="22" />
@@ -162,11 +162,11 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/test/kotlin/Test.kt" timestamp="1554898968765">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="9" column="7" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/test/kotlin/Test.kt" timestamp="1554903461833">
+        <mark key="[" line="13" column="52" />
+        <mark key="]" line="14" column="34" />
+        <mark key="." line="14" column="34" />
+        <mark key="^" line="14" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TemplateTest/src/Main.kt" timestamp="1552399557865">
         <mark key="'" line="14" column="13" />
@@ -303,46 +303,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>call</text>
       </register>
       <register name="/" type="4">
         <text>als</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0cnVjdGlvbnMgKz0gbmFzbS5pbnN0cnVjdGlvbnMKICAgICAgICBkYXRhICs9IG5hc20uZGF0YQo=</text>
+        <text encoding="base64">ICAgIGZ1biB3aXRoRXh0ZXJuKG5hbWU6IFN0cmluZykgPSBhbHNvIHsgZXh0ZXJucyArPSAiZXh0ZXJuICRuYW1lIiB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5hc20ucHJlc2VydmluZygicmF4IiwgInJieCIpIHsKICAgICAgICBjYWxsKCJmdW5jdGlvbiIpCiAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5TdHJpbmdCdWlsZGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0cnVjdGlvbnMgKz0gbmFzbS5pbnN0cnVjdGlvbnMKICAgICAgICBkYXRhICs9IG5hc20uZGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXMuYXBwZW5kbG4oaW5zdHJ1Y3Rpb25zKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbmFzbSA9IE5hc20oKQoK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcmVzID0gIiIKICAgICAgICByZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5hc20K</text>
+        <text encoding="base64">ICAgICAgICBnbG9iYWxzLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpOiBTdHJpbmcgewogICAgICAgIHJldHVybiBzdXBlci50b1N0cmluZygpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIG5hc20uZGF0YSgibXNnIikKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>action ToggleFullScreen</text>
       </register>
     </registers>
     <search>
@@ -370,9 +370,9 @@
       </history-search>
       <history-cmd>
         <entry>action TogglePresentationMode</entry>
-        <entry>action ToggleFullScreen</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>vs</entry>
+        <entry>action ToggleFullScreen</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -137,12 +137,12 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" timestamp="1555016460801">
-        <mark key="'" line="35" column="13" />
-        <mark key="[" line="46" column="32" />
-        <mark key="]" line="46" column="34" />
-        <mark key="^" line="46" column="34" />
-        <mark key="." line="46" column="34" />
+      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" timestamp="1555744942514">
+        <mark key="'" line="53" column="32" />
+        <mark key="[" line="53" column="20" />
+        <mark key="]" line="53" column="24" />
+        <mark key="." line="53" column="24" />
+        <mark key="^" line="53" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" timestamp="1552508490431">
         <mark key="[" line="34" column="24" />
@@ -301,56 +301,57 @@
       <jump line="18" column="43" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Nasm.kt" />
       <jump line="26" column="12" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Nasm.kt" />
       <jump line="48" column="8" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Nasm.kt" />
+      <jump line="53" column="32" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>expr.value.toString()</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>expr.value.toString()</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>align</text>
+        <text>add</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpcyBMaXRlcmFsLlN0ciAtPiBuYXNtLmRhdGEoZXhwci52YWx1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVW5pdAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLkFzdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb2RlICs9IG5hc20uY29kZQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobmFtZSBpbiBkZWNscykgZXJyb3IoIlZhcmlhYmxlIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICArInN1YiAgcnNwLCAke25hc20ubG9jYWxEYXRhUG9vbFNpemV9Igo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5FeGNlcHRpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICArImFkZCAgcnNwLCAke25hc20ubG9jYWxEYXRhUG9vbFNpemV9Igo=</text>
+        <text encoding="base64">ICAgICAgICB9KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBmdW4gbmVzdGVkKGJsb2NrOiBOYXNtLigpIC0+IEFueT8pID0gYWxzbyB7CiAgICAgICAgdmFsIG5hc20gPSBOYXNtKCkKICAgICAgICBuYXNtLmJsb2NrKCkKICAgICAgICBjb2RlICs9IG5hc20uY29kZQogICAgICAgIGRhdGEgKz0gbmFzbS5kYXRhCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigpCiAgICAgICAgICAgIGV4aXRQcm9jZXNzKDApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhICs9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IEV4Y2VwdGlvbigiIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LyoqCiAqIEBwYXJhbSBhZGRyIG9mZnNldCBmcm9tIHJicAogKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHlwZWFsaWFzIE5hc21GdW5jdGlvbiA9IChOYXNtLigpIC0+IEFueT8pCg==</text>
+        <text encoding="base64">dHlwZWFsaWFzIFNjb3BlID0gTXV0YWJsZU1hcDxTdHJpbmcsIE1rVmFsdWU+Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHR5cGVhbGlhcyBOYXNtRnVuY3Rpb24gPSAoTmFzbS4oKSAtPiBBbnk/KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVW5pdAo=</text>
       </register>
       <register name=":" type="4">
         <text>action ToggleDistractionFreeMode</text>
       </register>
     </registers>
     <search>
-      <last-search>align</last-search>
+      <last-search>add</last-search>
       <last-offset />
-      <last-pattern>align</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>add</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -369,6 +370,7 @@
         <entry>\\t</entry>
         <entry>als</entry>
         <entry>align</entry>
+        <entry>add</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>

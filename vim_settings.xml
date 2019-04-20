@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/Main.kt" timestamp="1554764410091">
-        <mark key="[" line="34" column="62" />
-        <mark key="]" line="37" column="37" />
-        <mark key="." line="37" column="37" />
+      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/Main.kt" timestamp="1555747498676">
+        <mark key="[" line="41" column="29" />
+        <mark key="]" line="41" column="29" />
+        <mark key="." line="41" column="29" />
         <mark key="^" line="37" column="37" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/main.rs" timestamp="1552489117226">
@@ -59,12 +59,12 @@
         <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Nasm.kt" timestamp="1555016856551">
-        <mark key="'" line="48" column="8" />
-        <mark key="[" line="48" column="9" />
-        <mark key="]" line="49" column="7" />
-        <mark key="." line="49" column="7" />
-        <mark key="^" line="49" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Nasm.kt" timestamp="1555749495449">
+        <mark key="'" line="64" column="8" />
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+        <mark key="^" line="14" column="7" />
       </file>
       <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1552495761566">
         <mark key="'" line="51" column="22" />
@@ -137,12 +137,12 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" timestamp="1555744942514">
+      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" timestamp="1555747942317">
         <mark key="'" line="53" column="32" />
-        <mark key="[" line="53" column="20" />
-        <mark key="]" line="53" column="24" />
-        <mark key="." line="53" column="24" />
-        <mark key="^" line="53" column="24" />
+        <mark key="[" line="68" column="39" />
+        <mark key="]" line="68" column="39" />
+        <mark key="." line="68" column="39" />
+        <mark key="^" line="58" column="51" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" timestamp="1552508490431">
         <mark key="[" line="34" column="24" />
@@ -305,46 +305,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>Register</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Register</text>
       </register>
       <register name="/" type="4">
         <text>add</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpcyBMaXRlcmFsLlN0ciAtPiBuYXNtLmRhdGEoZXhwci52YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBjbGFzcyBSZWdpc3Rlcih2YWx1ZTogU3RyaW5nKSAgICA6IE9wZXJhbmQodmFsdWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLkFzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmFtZSBpbiBkZWNscykgZXJyb3IoIlZhcmlhYmxlIikK</text>
+        <text encoding="base64">ICAgICAgICBjbGFzcyBTdGFja1ZhcmlhYmxlKG9mZnNldDogSW50KSA6IE9wZXJhbmQoIltyYnArJG9mZnNldCIpCiAgICAgICAgY2xhc3MgTGl0ZXJhbCh2YWx1ZTogU3RyaW5nKSA6IE9wZXJhbmQodmFsdWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5FeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgICAgICBjbGFzcyBMaXRlcmFsKHZhbHVlOiBTdHJpbmcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9KCkK</text>
+        <text encoding="base64">ZGF0YSBjbGFzcyBOYXNtVmFsdWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigpCiAgICAgICAgICAgIGV4aXRQcm9jZXNzKDApCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbERhdGFQb29sU2l6ZSArPSA4Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IEV4Y2VwdGlvbigiIikK</text>
+        <text encoding="base64">ICAgIAp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIEBwYXJhbSBhZGRyIG9mZnNldCBmcm9tIHJicAogKi8K</text>
+        <text encoding="base64">ICAgIGZ1biBjb21waWxlKCkgPSAiIgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dHlwZWFsaWFzIFNjb3BlID0gTXV0YWJsZU1hcDxTdHJpbmcsIE1rVmFsdWU+Cgo=</text>
+      <register name="8" type="8">
+        <text>nasm.
+nasm.
+nasm.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVW5pdAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLkFzdAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleDistractionFreeMode</text>
+        <text>action ToggleFullScreen</text>
       </register>
     </registers>
     <search>
@@ -375,8 +377,8 @@
       <history-cmd>
         <entry>vs</entry>
         <entry>action TogglePresentationMode</entry>
-        <entry>action ToggleFullScreen</entry>
         <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action ToggleFullScreen</entry>
       </history-cmd>
       <history-expr />
       <history-input />

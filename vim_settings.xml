@@ -59,6 +59,12 @@
         <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="22" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Nasm.kt" timestamp="1555765195398">
+        <mark key="[" line="29" column="58" />
+        <mark key="]" line="29" column="61" />
+        <mark key="." line="29" column="61" />
+        <mark key="^" line="29" column="61" />
+      </file>
       <file name="$USER_HOME$/git/Rasp/src/scanner/scanner.rs" timestamp="1552495761566">
         <mark key="'" line="51" column="22" />
         <mark key="[" line="93" column="45" />
@@ -129,6 +135,13 @@
         <mark key="]" line="1" column="15" />
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" timestamp="1555765580670">
+        <mark key="'" line="41" column="12" />
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="36" column="24" />
+        <mark key="^" line="36" column="24" />
+        <mark key="." line="36" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/LectureApp/backend/src/Application.kt" timestamp="1552508490431">
         <mark key="[" line="34" column="24" />
@@ -289,57 +302,56 @@
       <jump line="48" column="8" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Nasm.kt" />
       <jump line="53" column="32" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" />
       <jump line="15" column="11" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Nasm.kt" />
+      <jump line="40" column="12" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZW51bSBjbGFzcyBJbnN0ciB7CiAgICBQdXNoKCkKfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>also { +&quot;mov  $to, $from&quot; }</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>Oper</text>
+        <text>stmt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGFzbSh2YWx1ZTogQXNtKSA9IGFsc28geyBhc20gKz0gdmFsdWUgfQo=</text>
+        <text encoding="base64">ICAgICAgICArInN1YiAgcnNwLCAkYnl0ZXMiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW51bSBjbGFzcyBJbnN0ciB7CiAgICBQdXNoKCkKfQo=</text>
+        <text encoding="base64">ICAgICAgICBibG9jaygpCg==</text>
       </register>
-      <register name="2" type="8">
-        <text>String
-String
-String</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBvcGVyYXRvciBmdW4gZ2V0KGluZGV4OiBJbnQpID0gIltyYnAgKyAkezggKiBpbmRleH1dIgo=</text>
+        <text encoding="base64">ICAgIGZ1biByZXNlcnZlU3BhY2UoYnl0ZXM6IEludCkgPSBhbHNvIHsgCiAgICAgICAgKyJzdWIgIHJzcCwgJGJ5dGVzIgogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9wZXJhdG9yIGZ1biBwbHVzQXNzaWduKGNvZGU6IFN0cmluZykgPSBpbnN0cnVjdGlvbihjb2RlKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5zdHJ1Y3Rpb24oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlKG5hc20ubG9jYWxEYXRhUG9vbFNpemUgIT0gbnVsbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXQodmFsdWUpID0gZmllbGQgPSB2YQoK</text>
+        <text encoding="base64">ICAgICAgICArInBvcCAgcmJwIgogICAgICAgICsicmV0Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBsb2NhbERhdGFQb29sU2l6ZTogSW50ID0gMAo=</text>
+        <text encoding="base64">CiAgICAgICAgdmFsIG5hc20gPSBOYXNtKCkKICAgICAgICBuYXNtLmJsb2NrKCkKICAgICAgICByZXNlcnZpbmdMb2NhbFNwYWNlKG5hc20ubG9jYWxEYXRhUG9vbFNpemUpIHsKICAgICAgICAgICAgY29kZSAgICArPSBuYXNtLmNvZGUKICAgICAgICAgICAgZGF0YSAgICArPSBuYXNtLmRhdGEKICAgICAgICAgICAgZXh0ZXJucyArPSBuYXNtLmV4dGVybnMKICAgICAgICAgICAgZ2xvYmFscyArPSBuYXNtLmdsb2JhbHMKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29kZSAgICArPSBuYXNtLmNvZGUKICAgICAgICAgICAgZGF0YSAgICArPSBuYXNtLmRhdGEKICAgICAgICAgICAgZXh0ZXJucyArPSBuYXNtLmV4dGVybnMKICAgICAgICAgICAgZ2xvYmFscyArPSBuYXNtLmdsb2JhbHMK</text>
+        <text encoding="base64">ICAgIHZhciBsb2NhbERhdGFQb29sU2l6ZSA9IDAK</text>
       </register>
       <register name=":" type="4">
         <text>action ToggleFullScreen</text>
       </register>
     </registers>
     <search>
-      <last-search>Oper</last-search>
+      <last-search>stmt</last-search>
       <last-offset />
-      <last-pattern>Oper</last-pattern>
+      <last-pattern>stmt</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -361,6 +373,7 @@ String</text>
         <entry>align</entry>
         <entry>add</entry>
         <entry>Oper</entry>
+        <entry>stmt</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
@@ -419,6 +432,9 @@ String</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

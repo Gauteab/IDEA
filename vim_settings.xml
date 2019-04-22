@@ -78,6 +78,11 @@
         <mark key="^" line="32" column="31" />
         <mark key="." line="32" column="31" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Mikkro/src/main/kotlin/com/example/compiler/backend/asm/Reg.kt" timestamp="1555904704602">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/Mikkro/src/main/kotlin/com/example/compiler/backend/types.kt" timestamp="1555880489166">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="48" />
@@ -124,8 +129,11 @@
         <mark key="." line="34" column="46" />
         <mark key="^" line="34" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Mikkro/src/main/kotlin/com/example/compiler/backend/asm/Mem.kt" timestamp="1555904256341">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/Mikkro/src/main/kotlin/com/example/compiler/backend/asm/Mem.kt" timestamp="1555905293346">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/settings.gradle" timestamp="1555879041892">
         <mark key="[" line="0" column="31" />
@@ -299,18 +307,11 @@
       <jump line="23" column="15" filename="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Main.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>AX
-AX
-AX
-AX
-AX
-AX
-AX
-AX</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>stmt</text>
@@ -318,7 +319,28 @@ AX</text>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJBWCg2NCkK</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CgoKICAgIGNsYXNzIFJlZ1JlZih2YWwgcmVnOiBSZWcsIHZhbCBpbmRleDogSW50KTogTWVtKCkgewogICAgICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpID0gIlskcmVnKyRpbmRleF0iCiAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZ1biBkZXJlZigpOiBNZW0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CmVudW0gY2xhc3MgUmVmIHsKICAgIAogICAgUmVnKHZhbCByZWc6IFJlZykKICAgIAp9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CmludGVyZmFjZSBYIHt9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">c2VhbGVkIGNsYXNzIFJlZwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CmVudW0gY2xhc3MgUmVmKCkK</text>
+      </register>
+      <register name="8" type="8">
         <text>AX
 AX
 AX
@@ -328,29 +350,8 @@ AX
 AX
 AX</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIFJBWCg2NCkKICAgIFJBWCg2NCkKICAgIFJBWCg2NCkKICAgIFJBWCg2NCkKICAgIFJBWCg2NCkKICAgIFJBWCg2NCkKICAgIFJBWCg2NCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CmRhdGEgY2xhc3MgVHlwZSh2YWwgbmFtZTogU3RyaW5nLCB2YWwgc2l6ZTogSW50KQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CmRhdGEgY2xhc3MgVHlwZSh2YWwgbmFtZTogU3RyaW5nLCB2YWwgc2l6ZTogSW50KQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1biBhZGQobmFtZTogU3RyaW5nLCB2YWx1ZTogTWtWYWx1ZSkgewogICAgICAgIGRlY2xzW25hbWVdID0gdmFsdWUKICAgIH0KCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gYWRkciA9IG9mZnNldCBmcm9tIFJCUAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CmltcG9ydCBjb20uZXhhbXBsZS5jb21waWxlci5Bc3QuRXhwci5JZGVudGlmaWVyCg==</text>
+        <text encoding="base64">ICAgIFJBWCg2NCkKICAgIFJBWCg2NCkKICAgIFJBWCg2NCkKICAgIFJBWCg2NCkKICAgIFJBWCg2NCkKICAgIFJBWCg2NCkKICAgIFJBWCg2NCkK</text>
       </register>
       <register name=":" type="4">
         <text>action ToggleDistractionFreeMode</text>

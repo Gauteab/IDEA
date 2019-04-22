@@ -72,11 +72,17 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Mikkro/src/main/kotlin/com/example/compiler/backend/Types.kt" timestamp="1555908540707">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/Mikkro/src/main/kotlin/com/example/compiler/backend/Types.kt" timestamp="1555909054950">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="16" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="16" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Mikkro/src/main/kotlin/com/example/compiler/backend/Type.kt" timestamp="1555909941789">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="14" column="36" />
+        <mark key="^" line="14" column="36" />
+        <mark key="." line="14" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Nasm.kt" timestamp="1555844991128">
         <mark key="[" line="25" column="35" />
@@ -101,6 +107,12 @@
         <mark key="]" line="22" column="48" />
         <mark key="." line="22" column="48" />
         <mark key="^" line="22" column="48" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Mikkro/src/main/kotlin/com/example/compiler/backend/MkValue.kt" timestamp="1555909532378">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="8" />
+        <mark key="." line="11" column="8" />
+        <mark key="^" line="8" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Mikkro/src/main/kotlin/com/example/compiler/backend/types.kt" timestamp="1555880489166">
         <mark key="[" line="2" column="0" />
@@ -140,13 +152,6 @@
         <mark key="]" line="1" column="15" />
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Compiler.kt" timestamp="1555844844161">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="34" column="34" />
-        <mark key="]" line="34" column="46" />
-        <mark key="." line="34" column="46" />
-        <mark key="^" line="34" column="46" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Mikkro/src/main/kotlin/com/example/compiler/backend/asm/Mem.kt" timestamp="1555906221021">
         <mark key="[" line="8" column="98" />
@@ -224,6 +229,12 @@
         <mark key="]" line="10" column="12" />
         <mark key="." line="10" column="12" />
         <mark key="^" line="10" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Mikkro/src/main/kotlin/com/example/compiler/backend/Compiler.kt" timestamp="1555909953512">
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="31" column="26" />
+        <mark key="^" line="31" column="26" />
+        <mark key="." line="31" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/test/kotlin/NasmTest.kt" timestamp="1554761848012">
         <mark key="[" line="15" column="0" />
@@ -330,43 +341,44 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>U64</text>
       </register>
       <register name="/" type="4">
         <text>stmt</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gaGVsbG8oKSA9IHByaW50bG4oIlgiKQo=</text>
+      <register name="0" type="4">
+        <text>(val name: String, val size: Int)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vZGF0YSBjbGFzcyBUeXBlKHZhbCBuYW1lOiBTdHJpbmcsIHZhbCBzaXplOiBJbnQpCi8vCi8vdmFsIHR5cGVzID0gbGlzdE9mKAovLyAgICBUeXBlKCJJbnQiLCA4KSwKLy8gICAgVHlwZSgiU3RyIiwgOCkKLy8pLmFzc29jaWF0ZUJ5IHsgaXQubmFtZSB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGdldCgpID0gd2hlbiAodHlwZS5uYW1lKSB7Ci8vICAgICAgICAgICAgIkludCIgLT4gIlskZmllbGRdIgovLyAgICAgICAgICAgIGVsc2UgIC0+IGZpZWxkCi8vICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBvcGVyYXRvciBmdW4gZ2V0KGluZGV4OiBJbnQpID0gIltyYnAgKyAkezggKiBpbmRleH1dIgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpID0gbmFtZS50b0xvd2VyQ2FzZSgpCg==</text>
+      <register name="5" type="8">
+        <text>Type
+Type</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlJlZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVyYXRvciBmdW4gZ2UK</text>
+        <text encoding="base64">ICAgIG9iamVjdCBVNjQgIDogVHlwZSgidTY0IiAsICA4KQogICAgb2JqZWN0IENoYXIgOiBUeXBlKCJjaGFyIiwgIDEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmZ1biByZWYocmVnOiBSZWcsIGluZGV4OiBJbnQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleDistractionFreeMode</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -397,12 +409,14 @@
         <entry>stmt</entry>
       </history-search>
       <history-cmd>
-        <entry>vs</entry>
         <entry>action TogglePresentationMode</entry>
         <entry>action ToggleFullScreen</entry>
         <entry>w</entry>
-        <entry>q</entry>
         <entry>action ToggleDistractionFreeMode</entry>
+        <entry>sp</entry>
+        <entry>q</entry>
+        <entry>qa</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />

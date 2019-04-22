@@ -72,6 +72,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Mikkro/src/main/kotlin/com/example/compiler/backend/Types.kt" timestamp="1555908540707">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Nasm.kt" timestamp="1555844991128">
         <mark key="[" line="25" column="35" />
         <mark key="]" line="9" column="3" />
@@ -83,6 +89,12 @@
         <mark key="]" line="32" column="31" />
         <mark key="^" line="32" column="31" />
         <mark key="." line="32" column="31" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Mikkro/src/test/kotlin/Test.kt" timestamp="1555908987350">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="14" />
+        <mark key="." line="18" column="14" />
+        <mark key="^" line="18" column="14" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Mikkro/src/main/kotlin/com/example/compiler/backend/asm/Reg.kt" timestamp="1555906268930">
         <mark key="[" line="22" column="49" />
@@ -218,7 +230,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1555880779322">
+      <file name="/fragment.java" timestamp="1555908911739">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ByteCodeTest/src/Main.kt" timestamp="1554291838409">
@@ -318,40 +330,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Reg</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>stmt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1biBtb3YgKHRvOiBSZWcsIGZyb206IFJlZykgPSArIm1vdiAgJHRvLCAkZnJvbSIK</text>
+        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gaGVsbG8oKSA9IHByaW50bG4oIlgiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBvcGVyYXRvciBmdW4gZ2V0KGluZGV4OiBJbnQpID0gIltyYnAgKyAkezggKiBpbmRleH1dIgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpID0gbmFtZS50b0xvd2VyQ2FzZSgpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlJlZgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVyYXRvciBmdW4gZ2UK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CmZ1biByZWYocmVnOiBSZWcsIGluZGV4OiBJbnQpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBvcGVyYXRvciBmdW4gZ2V0KGluZGV4OiBJbnQpID0gIltyYnAgKyAkezggKiBpbmRleH1dIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpID0gbmFtZS50b0xvd2VyQ2FzZSgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlJlZgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBvcGVyYXRvciBmdW4gZ2UK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIE9wZXJhbmQgewogICAgb3BlcmF0b3IgZnVuIGdldChpbmRleDogSW50KTogTWVtCn0K</text>
+        <text encoding="base64">CmZ1biByZWYocmVnOiBSZWcsIGluZGV4OiBJbnQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gdG9TdHJpbmcoKSA9ICJbJHJlZyskaW5kZXhdIgogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ToggleDistractionFreeMode</text>

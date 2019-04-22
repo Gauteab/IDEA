@@ -78,11 +78,11 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Mikkro/src/main/kotlin/com/example/compiler/backend/Type.kt" timestamp="1555909941789">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="14" column="36" />
-        <mark key="^" line="14" column="36" />
-        <mark key="." line="14" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/Mikkro/src/main/kotlin/com/example/compiler/backend/Type.kt" timestamp="1555911552905">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/main/kotlin/com/example/compiler/Nasm.kt" timestamp="1555844991128">
         <mark key="[" line="25" column="35" />
@@ -108,11 +108,10 @@
         <mark key="." line="22" column="48" />
         <mark key="^" line="22" column="48" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Mikkro/src/main/kotlin/com/example/compiler/backend/MkValue.kt" timestamp="1555909532378">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="8" />
-        <mark key="." line="11" column="8" />
-        <mark key="^" line="8" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/Mikkro/src/main/kotlin/com/example/compiler/backend/MkValue.kt" timestamp="1555911558638">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Mikkro/src/main/kotlin/com/example/compiler/backend/types.kt" timestamp="1555880489166">
         <mark key="[" line="2" column="0" />
@@ -230,11 +229,11 @@
         <mark key="." line="10" column="12" />
         <mark key="^" line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Mikkro/src/main/kotlin/com/example/compiler/backend/Compiler.kt" timestamp="1555909953512">
-        <mark key="[" line="31" column="17" />
-        <mark key="]" line="31" column="26" />
-        <mark key="^" line="31" column="26" />
-        <mark key="." line="31" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/Mikkro/src/main/kotlin/com/example/compiler/backend/Compiler.kt" timestamp="1555911088508">
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="26" column="7" />
+        <mark key="^" line="26" column="7" />
+        <mark key="." line="26" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AntlrGradleTest/src/test/kotlin/NasmTest.kt" timestamp="1554761848012">
         <mark key="[" line="15" column="0" />
@@ -338,7 +337,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>U64</text>
@@ -350,35 +349,35 @@
         <text>(val name: String, val size: Int)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ci8vZGF0YSBjbGFzcyBUeXBlKHZhbCBuYW1lOiBTdHJpbmcsIHZhbCBzaXplOiBJbnQpCi8vCi8vdmFsIHR5cGVzID0gbGlzdE9mKAovLyAgICBUeXBlKCJJbnQiLCA4KSwKLy8gICAgVHlwZSgiU3RyIiwgOCkKLy8pLmFzc29jaWF0ZUJ5IHsgaXQubmFtZSB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIGZ1biBOYXNtLmNyZWF0ZSh0eXBlOiBUeXBlLCB2YWx1ZTogU3RyaW5nKWpqa2oKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGdldCgpID0gd2hlbiAodHlwZS5uYW1lKSB7Ci8vICAgICAgICAgICAgIkludCIgLT4gIlskZmllbGRdIgovLyAgICAgICAgICAgIGVsc2UgIC0+IGZpZWxkCi8vICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzIEFycmF5KHZhbCB0eXBlOiBUeXBlLCB2YWwgbGVuOiBJbnQpIDogVHlwZSgpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>Type
-Type</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ci8vZGF0YSBjbGFzcyBUeXBlKHZhbCBuYW1lOiBTdHJpbmcsIHZhbCBzaXplOiBJbnQpCi8vCi8vdmFsIHR5cGVzID0gbGlzdE9mKAovLyAgICBUeXBlKCJJbnQiLCA4KSwKLy8gICAgVHlwZSgiU3RyIiwgOCkKLy8pLmFzc29jaWF0ZUJ5IHsgaXQubmFtZSB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGdldCgpID0gd2hlbiAodHlwZS5uYW1lKSB7Ci8vICAgICAgICAgICAgIkludCIgLT4gIlskZmllbGRdIgovLyAgICAgICAgICAgIGVsc2UgIC0+IGZpZWxkCi8vICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9iamVjdCBVNjQgIDogVHlwZSgidTY0IiAsICA4KQogICAgb2JqZWN0IENoYXIgOiBUeXBlKCJjaGFyIiwgIDEpCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="8">
+        <text>Type
+Type</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>action ToggleFullScreen</text>
       </register>
     </registers>
     <search>
@@ -410,13 +409,13 @@ Type</text>
       </history-search>
       <history-cmd>
         <entry>action TogglePresentationMode</entry>
-        <entry>action ToggleFullScreen</entry>
         <entry>w</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
         <entry>sp</entry>
         <entry>q</entry>
         <entry>qa</entry>
         <entry>vs</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action ToggleFullScreen</entry>
       </history-cmd>
       <history-expr />
       <history-input />

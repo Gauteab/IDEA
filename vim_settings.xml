@@ -33,7 +33,7 @@
         <text encoding="base64">CiAgICBSdW50aW1lLmdldFJ1bnRpbWUoKS5leGVjKCJnaXQgc3RhdHVzIikK</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist</text>
+        <text>q</text>
       </register>
       <register name="-" type="4">
         <text>nsm HeiDag</text>
@@ -48,6 +48,7 @@
       <history-cmd>
         <entry>source ~/.ideavim</entry>
         <entry>actionlist</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />

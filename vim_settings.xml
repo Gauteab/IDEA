@@ -205,7 +205,7 @@
         <text encoding="base64">ICAgIEBUaHJvd3MoUnVudGltZVJldHVyblZhbHVlOjpjbGFzcykKICAgIG92ZXJyaWRlIGZ1biBldmFsKGN1clNjb3BlOiBSdW50aW1lU2NvcGUpOiBSdW50aW1lVmFsdWU/IHsKICAgICAgICB2YWwgaWQgPSAoYXRvbSBhcyBBc3BOYW1lKS52YWx1ZQogICAgICAgIHZhbCBmdW5jID0gY3VyU2NvcGUuZmluZChpZCwgdGhpcykKICAgICAgICB2YWwgdmFsdWVzID0gQXJyYXlMaXN0PFJ1bnRpbWVWYWx1ZT4oKQogICAgICAgIGZvciAoZXhwciBpbiBleHBycykKICAgICAgICAgICAgdmFsdWVzLmFkZChleHByLmV2YWwoY3VyU2NvcGUpKQogICAgICAgIHRyYWNlKAogICAgICAgICAgICBTdHJpbmcuZm9ybWF0KAogICAgICAgICAgICAgICAgIkNhbGwgZnVuY3Rpb24gJXMgd2l0aCBwYXJhbXMgWyVzXSIsIGlkLAogICAgICAgICAgICAgICAgdmFsdWVzLmpvaW5Ub1N0cmluZygiLCAiKSkKICAgICAgICApCiAgICAgICAgcmV0dXJuIGZ1bmMhIS5ldmFsRnVuY0NhbGwodmFsdWVzLCB0aGlzKQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>source ~/.ideavim</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -221,9 +221,10 @@
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
-        <entry>q</entry>
         <entry>vs</entry>
         <entry>source ~/.ideavim</entry>
+        <entry>q</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />

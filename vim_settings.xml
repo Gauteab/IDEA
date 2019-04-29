@@ -280,14 +280,18 @@
         <mark key="^" line="26" column="5" />
         <mark key="." line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/runtime/RuntimeDictValue.kt" timestamp="1556534802962">
-        <mark key="[" line="15" column="29" />
-        <mark key="]" line="15" column="27" />
-        <mark key="^" line="15" column="27" />
-        <mark key="." line="15" column="27" />
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/runtime/RuntimeDictValue.kt" timestamp="1556571083227">
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="12" />
+        <mark key="^" line="30" column="15" />
+        <mark key="." line="29" column="12" />
       </file>
-      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/runtime/RuntimeLibrary.kt" timestamp="1556539205536" />
-      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/runtime/RuntimeBoolValue.kt" timestamp="1556560510701" />
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/runtime/RuntimeBoolValue.kt" timestamp="1556572486601">
+        <mark key="[" line="44" column="81" />
+        <mark key="]" line="44" column="78" />
+        <mark key="." line="44" column="78" />
+        <mark key="^" line="44" column="78" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspFuncDef.kt" timestamp="1556551542200">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -311,11 +315,11 @@
       <jump line="6" column="4" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/scanner/Token.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ArrayList</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbCAgLy8gUmVxdWlyZWQgYnkgdGhlIGNvbXBpbGVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ArrayList</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>\.kind</text>
@@ -324,31 +328,31 @@
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBldmFsKGN1clNjb3BlOiBSdW50aW1lU2NvcGUpOiBSdW50aW1lVmFsdWUgewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbCAgLy8gUmVxdWlyZWQgYnkgdGhlIGNvbXBpbGVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcnNlckVycm9yKCJFeHBlY3RlZCAkdGsxIG9yICR0azIgYnV0IGZvdW5kICR7cy5jdXJUb2tlbigpfSEiLCBzLmN1ckxpbmVOdW0oKSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcnNlckVycm9yKCJFeHBlY3RlZCAkdGsxIG9yICR0azIgYnV0IGZvdW5kICR7cy5jdXJUb2tlbigpfSEiLCBzLmN1ckxpbmVOdW0oKSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcnNlckVycm9yKCJFeHBlY3RlZCAkdGsgYnV0IGZvdW5kICR7cy5jdXJUb2tlbigpfSEiLCBzLmN1ckxpbmVOdW0oKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG0gPSAiQXNwIHBhcnNlciBlcnJvciIKICAgICAgICAgICAgaWYgKGxpbmVOdW0gPiAwKSBtICs9ICIgb24gbGluZSAkbGluZU51bSIKICAgICAgICAgICAgbSArPSAiOiAkbWVzc2FnZSIKICAgICAgICAgICAgcHJpbnRsbihtKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcnNlckVycm9yKCJFeHBlY3RlZCAkdGsgYnV0IGZvdW5kICR7cy5jdXJUb2tlbigpfSEiLCBzLmN1ckxpbmVOdW0oKSkK</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>

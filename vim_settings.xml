@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/literals/AspStringLiteral.kt" timestamp="1556552066898">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="11" column="41" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/scanner/TokenKind.kt" timestamp="1556558508092">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspFactor.kt" timestamp="1556552594314">
         <mark key="'" line="9" column="18" />
@@ -77,12 +76,6 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/literals/AspListDisplay.kt" timestamp="1556552063591">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="17" column="53" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspSuite.kt" timestamp="1556551916092">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -107,23 +100,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="55" />
       </file>
-      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspAssignment.kt" timestamp="1556551376746">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="22" column="52" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspNotTest.kt" timestamp="1556538257235">
-        <mark key="[" line="25" column="62" />
-        <mark key="]" line="25" column="104" />
-        <mark key="^" line="25" column="104" />
-        <mark key="." line="25" column="104" />
-      </file>
-      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/literals/AspBooleanLiteral.kt" timestamp="1556552046635">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="12" column="22" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspAssignment.kt" timestamp="1556557939200">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="14" column="52" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/main/Main.kt" timestamp="1556541711154">
         <mark key="[" line="148" column="5" />
@@ -136,18 +117,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="13" column="17" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/Mikkro/src/main/kotlin/com/example/compiler/backend/MkValue.kt" timestamp="1556469107590">
-        <mark key="[" line="13" column="1" />
-        <mark key="]" line="9" column="28" />
-        <mark key="." line="9" column="28" />
-        <mark key="^" line="9" column="28" />
-      </file>
-      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/literals/AspFloatLiteral.kt" timestamp="1556552051937">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="11" column="20" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspAtom.kt" timestamp="1556552380703">
         <mark key="[" line="7" column="47" />
@@ -172,12 +141,6 @@
         <mark key="]" line="27" column="7" />
         <mark key="." line="27" column="7" />
         <mark key="^" line="27" column="7" />
-      </file>
-      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspExprStmt.kt" timestamp="1556551387146">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="5" column="16" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspArguments.kt" timestamp="1556552301403">
         <mark key="'" line="10" column="31" />
@@ -240,11 +203,10 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/scanner/Scanner.kt" timestamp="1556537143796">
-        <mark key="[" line="173" column="49" />
-        <mark key="]" line="257" column="50" />
-        <mark key="^" line="257" column="50" />
-        <mark key="." line="257" column="50" />
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/scanner/Scanner.kt" timestamp="1556558987706">
+        <mark key="[" line="314" column="0" />
+        <mark key="]" line="314" column="0" />
+        <mark key="." line="314" column="0" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/runtime/RuntimeDictValue.kt" timestamp="1556534802962">
         <mark key="[" line="15" column="29" />
@@ -277,7 +239,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIi5hcwo=</text>
       </register>
       <register name="-" type="4">
         <text>constructor</text>
@@ -289,38 +251,31 @@
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBldmFsKGN1clNjb3BlOiBSdW50aW1lU2NvcGUpOiBSdW50aW1lVmFsdWUgewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIi5hcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFVuaXQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBraW5kOiBUb2tlbktpbmQK</text>
+        <text encoding="base64">aW1wb3J0IG5vLnVpby5pZmkuYXNwLm1haW4uTWFpbgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-            enterParser(&quot;term opr&quot;)
-            val ato = AspTermOpr(s.curLineNum())
-            ato.kind = s.curToken().kind
-            s.readNextToken()
-            leaveParser(&quot;term opr&quot;)
-            return ato
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IG5vLnVpby5pZmkuYXNwLnNjYW5uZXIuVG9rZW5LaW5kLmVxdWFsVG9rZW4KaW1wb3J0IG5vLnVpby5pZmkuYXNwLnNjYW5uZXIuVG9rZW5LaW5kLm5ld0xpbmVUb2tlbgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZW50ZXJQYXJzZXIoInRlcm0gb3ByIikKICAgICAgICAgICAgdmFsIGF0byA9IEFzcFRlcm1PcHIocy5jdXJMaW5lTnVtKCkpCiAgICAgICAgICAgIGF0by5raW5kID0gcy5jdXJUb2tlbigpLmtpbmQKICAgICAgICAgICAgcy5yZWFkTmV4dFRva2VuKCkKICAgICAgICAgICAgbGVhdmVQYXJzZXIoInRlcm0gb3ByIikKICAgICAgICAgICAgcmV0dXJuIGF0bw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3QKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wb3J0IG5vLnVpby5pZmkuYXNwLnJ1bnRpbWUuUnVudGltZVNjb3BlCmltcG9ydCBuby51aW8uaWZpLmFzcC5ydW50aW1lLlJ1bnRpbWVWYWx1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUaHJvd3MoUnVudGltZVJldHVyblZhbHVlOjpjbGFzcykKICAgIG92ZXJyaWRlIGZ1biBldmFsKGN1clNjb3BlOiBSdW50aW1lU2NvcGUpOiBSdW50aW1lVmFsdWU/IHsKICAgICAgICByZXR1cm4gbnVsbAogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBvdmVycmlkZSBmdW4gcHJldHR5UHJpbnQoKSB7CiAgICAgICAgTWFpbi5sb2chIS5wcmV0dHlXcml0ZSgiICRraW5kICIpCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>

@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspArguments.kt" timestamp="1556534370996">
+        <mark key="[" line="45" column="8" />
+        <mark key="]" line="45" column="8" />
+        <mark key="^" line="38" column="40" />
+        <mark key="." line="45" column="8" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspSyntax.kt" timestamp="1556534442475">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="52" column="17" />
+        <mark key="^" line="52" column="17" />
+        <mark key="." line="52" column="17" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro/src/main/kotlin/com/example/compiler/backend/MkValue.kt" timestamp="1556469107590">
         <mark key="[" line="13" column="1" />
         <mark key="]" line="9" column="28" />
@@ -21,22 +33,25 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLmNvbXBpbGVyLmJhY2tlbmQuYXNtLk5hc20K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHJlYW0oKQogICAgICAgICAgICAgICAgICAgIC5tYXA8U3RyaW5nPihGdW5jdGlvbjxSdW50aW1lVmFsdWUsIFN0cmluZz4geyBpdC50b1N0cmluZygpIH0pCiAgICAgICAgICAgICAgICAgICAgLmNvbGxlY3Q8U3RyaW5nLCAqPihDb2xsZWN0b3JzLmpvaW5pbmcoIiwgIikpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLmNvbXBpbGVyLmJhY2tlbmQuYXNtLk5hc20K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">b3ZlcnJpZGUg</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLmNvbXBpbGVyLmJhY2tlbmQuYXNtLk5hc20K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLmNvbXBpbGVyLmJhY2tlbmQuYXNtLk5hc20K</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CiAgICBSdW50aW1lLmdldFJ1bnRpbWUoKS5leGVjKCJnaXQgc3RhdHVzIikK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
       <register name="-" type="4">
-        <text>nsm HeiDag</text>
+        <text encoding="base64">b3ZlcnJpZGUg</text>
       </register>
     </registers>
     <search>

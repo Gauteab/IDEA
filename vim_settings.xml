@@ -21,6 +21,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="75" column="29" />
       </file>
+      <file name="$USER_HOME$/work/Calculeese/calc/mini.cal" timestamp="1556621142994">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="2" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspFactor.kt" timestamp="1556552594314">
         <mark key="'" line="9" column="18" />
         <mark key="[" line="14" column="0" />
@@ -59,6 +65,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="13" column="13" />
       </file>
+      <file name="$USER_HOME$/work/Calculeese/src/Main.kt" timestamp="1556619317526">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspName.kt" timestamp="1556552821348">
         <mark key="[" line="9" column="31" />
         <mark key="]" line="10" column="13" />
@@ -82,6 +94,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="34" />
+      </file>
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/scanner/Scanner.java" timestamp="1556619763751">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspInnerExpr.kt" timestamp="1556538213594">
         <mark key="[" line="24" column="8" />
@@ -175,6 +193,12 @@
         <mark key="." line="13" column="34" />
         <mark key="^" line="13" column="34" />
       </file>
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/scanner/Scanner.kt" timestamp="1556621342258">
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="34" column="17" />
+        <mark key="." line="34" column="17" />
+        <mark key="^" line="40" column="36" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspWhileStmt.kt" timestamp="1556552009246">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="14" column="18" />
@@ -255,6 +279,12 @@
         <mark key="." line="10" column="19" />
         <mark key="^" line="10" column="19" />
       </file>
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/scanner/Token.kt" timestamp="1556620393321">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="5" column="37" />
+        <mark key="." line="5" column="37" />
+        <mark key="^" line="5" column="37" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspPrimary.kt" timestamp="1556552898190">
         <mark key="'" line="13" column="19" />
         <mark key="[" line="17" column="0" />
@@ -315,44 +345,44 @@
       <jump line="6" column="4" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/scanner/Token.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbCAgLy8gUmVxdWlyZWQgYnkgdGhlIGNvbXBpbGVyCg==</text>
+      <register name="&quot;" type="4">
+        <text>nput.prev().toString()</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>nput.prev().toString()</text>
       </register>
       <register name="/" type="4">
         <text>\.kind</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBldmFsKGN1clNjb3BlOiBSdW50aW1lU2NvcGUpOiBSdW50aW1lVmFsdWUgewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQo=</text>
+        <text encoding="base64">ICAgIG9iamVjdCBMZWZ0UGFyIDogVG9rZW4oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbCAgLy8gUmVxdWlyZWQgYnkgdGhlIGNvbXBpbGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcyArPSBpbnB1dC5uZXh0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkgYnJlYWsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CjEgPQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGMgPSBpbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcnNlckVycm9yKCJFeHBlY3RlZCAkdGsxIG9yICR0azIgYnV0IGZvdW5kICR7cy5jdXJUb2tlbigpfSEiLCBzLmN1ckxpbmVOdW0oKSkK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgYyA9IGlucHV0Lm5leHQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmdW4gYmFjawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgYyA9ICcgJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcnNlckVycm9yKCJFeHBlY3RlZCAkdGsgYnV0IGZvdW5kICR7cy5jdXJUb2tlbigpfSEiLCBzLmN1ckxpbmVOdW0oKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYyA9IGlucHV0Lm5leHQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>

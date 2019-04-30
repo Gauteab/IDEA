@@ -101,11 +101,11 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556625073201">
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="20" column="35" />
-        <mark key="." line="20" column="35" />
-        <mark key="^" line="20" column="35" />
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556625750939">
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="30" column="16" />
+        <mark key="." line="30" column="16" />
+        <mark key="^" line="30" column="16" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/test/ScannerTest.kt" timestamp="1556622875031">
         <mark key="[" line="8" column="17" />
@@ -205,6 +205,12 @@
         <mark key="." line="13" column="34" />
         <mark key="^" line="13" column="34" />
       </file>
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/parser/Expr.kt" timestamp="1556627070403">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="36" />
+        <mark key="^" line="21" column="36" />
+      </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/scanner/Scanner.kt" timestamp="1556621342258">
         <mark key="[" line="34" column="17" />
         <mark key="]" line="34" column="17" />
@@ -242,10 +248,10 @@
         <mark key="^" line="15" column="51" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" timestamp="1556624865116">
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" timestamp="1556627005709">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="24" column="29" />
+        <mark key="." line="24" column="29" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/Main.kt" timestamp="1556623259489">
         <mark key="[" line="7" column="29" />
@@ -382,11 +388,11 @@
       <jump line="6" column="4" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/scanner/Token.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gcHJldigpID0gaW5wdXRbaW5kZXggLSAxXQogICAgICAgIGZ1biBiYWNrKCkgPSBpbnB1dFstLWluZGV4XQo=</text>
+      <register name="&quot;" type="4">
+        <text>when (val c = input.next()) {</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+        <text>when (val c = input.next()) {</text>
       </register>
       <register name="/" type="4">
         <text>\.kind</text>
@@ -395,31 +401,31 @@
         <text encoding="base64">ICAgIG9iamVjdCBMZWZ0UGFyIDogVG9rZW4oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gcHJldigpID0gaW5wdXRbaW5kZXggLSAxXQogICAgICAgIGZ1biBiYWNrKCkgPSBpbnB1dFstLWluZGV4XQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICBmdW4gaGFzTmV4dCgpID0gaW5wdXQuaGFzTmV4dCgpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnICcsICdcdCcsICdcbicgLT4gbmV4dFRva2VuKCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHMuCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBudWxsIC0+IFRva2VuLkVvZgogICAgICAgIC8vIFNraXAKICAgICAgICAnICcgLAogICAgICAgICdcdCcsCiAgICAgICAgJ1xuJywKICAgICAgICAnXHInIC0+IG5leHRUb2tlbigpCiAgICAgICAgJysnICAtPiBUb2tlbi5QbHVzCiAgICAgICAgJy0nICAtPiBUb2tlbi5NaW51cwogICAgICAgICcqJyAgLT4gVG9rZW4uTXVsdAogICAgICAgICcvJyAgLT4gVG9rZW4uRGl2CiAgICAgICAgJz0nICAtPiBUb2tlbi5FcQogICAgICAgIGluICcwJyAuLiAnOScgLT4gc2NhbkludExpdChjLCBpbnB1dCkKICAgICAgICBlbHNlICAgICAgICAgIC0+IHNjYW5uZXJFcnJvcigiVW5rbm93biBTeW1ib2w6ICRjIikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnVuIHggKCkgewp9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEV4cHIoKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIChzLmhhc05leHQoKSkgewogICAgICAgIHByaW50bG4ocy5uZXh0VG9rZW4oKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewp9Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzIEludEV4cHIodmFsIHZhbHVlOiBJbnQpIDogRXhwcigpCiAgICBjbGFzcyBCb29sRXhwcih2YWwgdmFsdWU6IEJvb2xlYW4pIDogRXhwcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuIG1haW4oKSB7CiAgICB2YWwgcyA9IFNjYW5uZXIoImNhbGMvbWluaS5jYWwiKQogICAgd2hpbGUgKHMuaGFzTmV4dCgpKSB7CiAgICAgICAgcHJpbnRsbihzLm5leHRUb2tlbigpKQogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmdW4gcHJldigpID0gaW5wdXRbaW5kZXggLSAxXQogICAgICAgIGZ1biBiYWNrKCkgPSBpbnB1dFstLWluZGV4XQo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavim</text>

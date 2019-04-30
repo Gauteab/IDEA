@@ -183,10 +183,12 @@
         <mark key="^" line="11" column="20" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/parser/Expr.kt" timestamp="1556628451901">
-        <mark key="[" line="33" column="39" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/parser/Expr.kt" timestamp="1556632827940">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="52" column="61" />
+        <mark key="]" line="52" column="61" />
+        <mark key="." line="52" column="42" />
+        <mark key="^" line="52" column="41" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/scanner/Scanner.kt" timestamp="1556621342258">
         <mark key="[" line="34" column="17" />
@@ -225,11 +227,11 @@
         <mark key="." line="46" column="31" />
         <mark key="^" line="46" column="31" />
       </file>
-      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/Main.kt" timestamp="1556631468022">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="16" />
-        <mark key="^" line="8" column="16" />
-        <mark key="." line="8" column="16" />
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/Main.kt" timestamp="1556632735943">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="4" />
+        <mark key="^" line="8" column="4" />
+        <mark key="." line="8" column="4" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/Scanner.kt" timestamp="1556622446106">
         <mark key="[" line="5" column="30" />
@@ -348,47 +350,48 @@
       <jump line="9" column="0" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" />
       <jump line="58" column="4" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" />
       <jump line="62" column="0" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" />
+      <jump line="24" column="0" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/parser/Expr.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGVlc2UubWFpbi5zY2FubmVyLlRva2VuLkZhY3Rvck9wci5NdWx0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>T::class.simpleName</text>
       </register>
       <register name="-" type="4">
-        <text>Div</text>
+        <text>T::class.simpleName</text>
       </register>
       <register name="/" type="4">
         <text>\.kind</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAodG9rZW5zLmlzRW1wdHkoKSkgcmVhZExpbmUoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIiR7IiAgIi5yZXBlYXQoaW5kZW50KyspfTwkbmFtZT4iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGVlc2UubWFpbi5zY2FubmVyLlRva2VuLkZhY3Rvck9wci5NdWx0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">dmFyIGluZGVudCA9IDAKZnVuIDxUPiBsb2cobmFtZTogU3RyaW5nLCBibG9jazogKCkgLT4gVCk6IFQgewogICAgcHJpbnRsbigiJHsiICAiLnJlcGVhdChpbmRlbnQrKyl9PCRuYW1lPiIpCiAgICB2YWwgdCA9IGJsb2NrKCkKICAgIHByaW50bG4oIiR7IiAgIi5yZXBlYXQoaW5kZW50LS0pfTwvJG5hbWU+IikKICAgIHJldHVybiB0Cn0KCmZ1biBwYXJzZUVycm9yKG1zZzogU3RyaW5nKTogTm90aGluZyB7CiAgICBwcmludGxuKCJQYXJzZSBFcnJvcjogJG1zZyIpCiAgICBleGl0UHJvY2VzcygtMSkKfQoK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB0Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNhbGN1bGVlc2UubWFpbi5zY2FubmVyLlRva2VuLkZhY3Rvck9wci5NdWx0Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGNhbGN1bGVlc2UubWFpbi5zY2FubmVyLlRva2VuLlRlcm1PcHIuUGx1cwo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="6" type="8">
         <text>Token
 Token</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG9iamVjdCBQbHVzICA6IFRva2VuKCkKICAgIG9iamVjdCBNaW51cyA6IFRva2VuKCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICBjb21wYW5pb24gb2JqZWN0IHsKCiAgICAgICAgdmFsIFRFUk1fT1BSUyA9IHNldE9mKAogICAgICAgICAgICBQbHVzLAogICAgICAgICAgICBNaW51cwogICAgICAgICkKCiAgICAgICAgdmFsIEZBQ1RPUl9PUFJTID0gc2V0T2YoCiAgICAgICAgICAgIE11bHQsCiAgICAgICAgICAgIERpdgogICAgICAgICkKICAgIH0K</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgRkFDVE9SX09QUlMgPSBzZXRPZigKICAgICAgICAgICAgTXVsdCwKICAgICAgICAgICAgRGl2CiAgICAgICAgKQogICAgfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9iamVjdCBQbHVzICA6IFRva2VuKCkKICAgIG9iamVjdCBNaW51cyA6IFRva2VuKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9iamVjdCBNdWx0ICA6IFRva2VuKCkKICAgIG9iamVjdCBEaXYgICA6IFRva2VuKCkK</text>
+        <text encoding="base64">CiAgICBjb21wYW5pb24gb2JqZWN0IHsKCiAgICAgICAgdmFsIFRFUk1fT1BSUyA9IHNldE9mKAogICAgICAgICAgICBQbHVzLAogICAgICAgICAgICBNaW51cwogICAgICAgICkKCiAgICAgICAgdmFsIEZBQ1RPUl9PUFJTID0gc2V0T2YoCiAgICAgICAgICAgIE11bHQsCiAgICAgICAgICAgIERpdgogICAgICAgICkKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>

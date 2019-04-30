@@ -101,6 +101,18 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556622772997">
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+        <mark key="^" line="18" column="27" />
+      </file>
+      <file name="$USER_HOME$/work/Calculeese/src/test/ScannerTest.kt" timestamp="1556622875031">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+        <mark key="^" line="6" column="33" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspInnerExpr.kt" timestamp="1556538213594">
         <mark key="[" line="24" column="8" />
         <mark key="]" line="24" column="9" />
@@ -230,6 +242,24 @@
         <mark key="^" line="15" column="51" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" timestamp="1556623418025">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="28" column="37" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/Main.kt" timestamp="1556623259489">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+      </file>
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/Scanner.kt" timestamp="1556622446106">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspIfStmt.kt" timestamp="1556551624680">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -248,6 +278,11 @@
         <mark key="]" line="2" column="4" />
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/ScannerTest.kt" timestamp="1556623142045">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspCompOpr.kt" timestamp="1556552460048">
         <mark key="[" line="10" column="17" />
@@ -328,6 +363,9 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="49" />
       </file>
+      <file name="/fragment.java" timestamp="1556623177096">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="56" column="0" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspSyntax.kt" />
@@ -345,11 +383,11 @@
       <jump line="6" column="4" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/scanner/Token.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>nput.prev().toString()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnICcsICdcdCcsICdcbicgLT4gbmV4dFRva2VuKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>nput.prev().toString()</text>
+        <text encoding="base64">ZWxzZSA=</text>
       </register>
       <register name="/" type="4">
         <text>\.kind</text>
@@ -358,34 +396,34 @@
         <text encoding="base64">ICAgIG9iamVjdCBMZWZ0UGFyIDogVG9rZW4oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcyArPSBpbnB1dC5uZXh0KCkK</text>
+        <text encoding="base64">ICAgICAgICAnICcsICdcdCcsICdcbicgLT4gbmV4dFRva2VuKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkgYnJlYWsK</text>
+        <text encoding="base64">ICAgIHMuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CjEgPQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGMgPSBpbgo=</text>
+        <text encoding="base64">ICAgIHdoaWxlIChzLmhhc05leHQoKSkgewogICAgICAgIHByaW50bG4ocy5uZXh0VG9rZW4oKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYyA9IGlucHV0Lm5leHQoKQo=</text>
+        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gYmFjawo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZnVuIG1haW4oKSB7CiAgICB2YWwgcyA9IFNjYW5uZXIoImNhbGMvbWluaS5jYWwiKQogICAgd2hpbGUgKHMuaGFzTmV4dCgpKSB7CiAgICAgICAgcHJpbnRsbihzLm5leHRUb2tlbigpKQogICAgfQp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYyA9ICcgJwo=</text>
+        <text encoding="base64">ZnVuIG1haW4oKSB7CiAgICB2YWwgcyA9IFNjYW5uZXIoImNhbGMvbWluaS5jYWwiKQogICAgd2hpbGUgKHMuaGFzTmV4dCgpKSB7CiAgICAgICAgcHJpbnRsbihzLm5leHRUb2tlbigpKQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYyA9IGlucHV0Lm5leHQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWlucHV0Lmhhc05leHQoKSkgVG9rZW4uRW9mIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>source ~/.ideavim</text>
       </register>
     </registers>
     <search>
@@ -403,10 +441,10 @@
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
-        <entry>vs</entry>
-        <entry>source ~/.ideavim</entry>
         <entry>q</entry>
         <entry>qa</entry>
+        <entry>vs</entry>
+        <entry>source ~/.ideavim</entry>
       </history-cmd>
       <history-expr />
       <history-input />

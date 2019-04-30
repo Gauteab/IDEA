@@ -63,6 +63,12 @@
         <mark key="." line="10" column="13" />
         <mark key="^" line="10" column="13" />
       </file>
+      <file name="$USER_HOME$/work/Calculeese/.gitignore" timestamp="1556632093769">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="28" column="4" />
+        <mark key="^" line="28" column="4" />
+        <mark key="." line="28" column="4" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspSubscription.kt" timestamp="1556553037060">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -87,11 +93,11 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556625750939">
-        <mark key="[" line="30" column="16" />
-        <mark key="]" line="30" column="16" />
-        <mark key="." line="30" column="16" />
-        <mark key="^" line="30" column="16" />
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/test/ScannerTest.kt" timestamp="1556622875031">
         <mark key="[" line="8" column="17" />
@@ -212,17 +218,18 @@
         <mark key="^" line="5" column="16" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" timestamp="1556629915388">
-        <mark key="[" line="24" column="36" />
-        <mark key="]" line="33" column="50" />
-        <mark key="." line="33" column="50" />
-        <mark key="^" line="33" column="50" />
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" timestamp="1556631911261">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="36" column="38" />
+        <mark key="]" line="46" column="31" />
+        <mark key="." line="46" column="31" />
+        <mark key="^" line="46" column="31" />
       </file>
-      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/Main.kt" timestamp="1556623259489">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="8" column="11" />
-        <mark key="^" line="8" column="11" />
-        <mark key="." line="8" column="11" />
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/Main.kt" timestamp="1556631468022">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+        <mark key="." line="8" column="16" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/Scanner.kt" timestamp="1556622446106">
         <mark key="[" line="5" column="30" />
@@ -337,48 +344,51 @@
       <jump line="28" column="28" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspSyntax.kt" />
       <jump line="17" column="29" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspAtom.kt" />
       <jump line="6" column="4" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/scanner/Token.kt" />
+      <jump line="22" column="25" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" />
+      <jump line="9" column="0" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" />
+      <jump line="58" column="4" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" />
+      <jump line="62" column="0" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tokens.push(Token.Eof)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNhbGN1bGVlc2UubWFpbi5zY2FubmVyLlRva2VuLkZhY3Rvck9wci5NdWx0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>tokens.push(Token.Eof)</text>
+        <text>Div</text>
       </register>
       <register name="/" type="4">
         <text>\.kind</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9iamVjdCBMZWZ0UGFyIDogVG9rZW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAodG9rZW5zLmlzRW1wdHkoKSkgcmVhZExpbmUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhbGN1bGVlc2UubWFpbi5zY2FubmVyLlRva2VuLkZhY3Rvck9wci5NdWx0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBmdW4gbmV4dFRva2VuKCk6IFRva2VuID0gdG9rZW5pemUoaW5wdXQubmV4dCgpLCBpbnB1dCkK</text>
+        <text encoding="base64">aW1wb3J0IGNhbGN1bGVlc2UubWFpbi5zY2FubmVyLlRva2VuLlRlcm1PcHIuUGx1cwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGZ1biBjdXJUb2tlbigpOiBUb2tlbiA9IHRva2VuaXplKGlucHV0LmN1cigpLCBpbnB1dCkK</text>
+      <register name="3" type="8">
+        <text>Token
+Token</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlubmVyIGNsYXNzIENoYXJJbnB1dChmaWxlbmFtZTogU3RyaW5nKSB7CiAgICAgICAgdmFsIGlucHV0ID0gRmlsZShmaWxlbmFtZSkucmVhZFRleHQoKQogICAgICAgIHZhciBpbmRleCA9IDAKICAgICAgICBmdW4gaGFzTmV4dCgpID0gaW5wdXQubGVuZ3RoIDwgaW5kZXgrMQogICAgICAgIGZ1biBuZXh0KCkgPSBpZiAoIWhhc05leHQoKSkgaW5wdXRbaW5kZXgrK10gZWxzZSBudWxsCiAgICAgICAgZnVuIGN1cigpID0gaW5wdXRbaW5kZXhdCiAgICB9CgogICAgdmFsIGlucHV0ID0gQ2hhcklucHV0KGZpbGVuYW1lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCB0ID0gcy5uZXh0VG9rZW4oKQogICAgaWYgKHQgaW4gVG9rZW4uVEVSTV9PUFJTKSByZXR1cm4gVGVybU9wcih0KQogICAgZWxzZSAgICAgICAgICAgICAgICAgICAgICBwYXJzZUVycm9yKCJJbnZhbGlkIFRlcm1PcHI6ICR0IikK</text>
+        <text encoding="base64">ICAgIG9iamVjdCBQbHVzICA6IFRva2VuKCkKICAgIG9iamVjdCBNaW51cyA6IFRva2VuKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlzCg==</text>
+        <text encoding="base64">CiAgICBjb21wYW5pb24gb2JqZWN0IHsKCiAgICAgICAgdmFsIFRFUk1fT1BSUyA9IHNldE9mKAogICAgICAgICAgICBQbHVzLAogICAgICAgICAgICBNaW51cwogICAgICAgICkKCiAgICAgICAgdmFsIEZBQ1RPUl9PUFJTID0gc2V0T2YoCiAgICAgICAgICAgIE11bHQsCiAgICAgICAgICAgIERpdgogICAgICAgICkKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAp9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgRkFDVE9SX09QUlMgPSBzZXRPZigKICAgICAgICAgICAgTXVsdCwKICAgICAgICAgICAgRGl2CiAgICAgICAgKQogICAgfQp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGVlc2UubWFpbi5wYXJzZXIuRXhwci4qCmltcG9ydCBjYWxjdWxlZXNlLm1haW4ucGFyc2VyLkV4cHIuKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>Atom
-Atom
-Term</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG9iamVjdCBNdWx0ICA6IFRva2VuKCkKICAgIG9iamVjdCBEaXYgICA6IFRva2VuKCkK</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
@@ -446,6 +456,9 @@ Term</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

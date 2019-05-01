@@ -21,11 +21,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="75" column="29" />
       </file>
-      <file name="$USER_HOME$/work/Calculeese/calc/mini.cal" timestamp="1556624398481">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="2" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/work/Calculeese/calc/mini.cal" timestamp="1556731745368">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspProgram.kt" timestamp="1556551684660">
         <mark key="[" line="11" column="0" />
@@ -123,6 +123,9 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="15" column="34" />
       </file>
+      <file name="/fragment.kt" timestamp="1556731461491">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspName.kt" timestamp="1556538108915">
         <mark key="[" line="24" column="62" />
         <mark key="]" line="24" column="63" />
@@ -183,12 +186,12 @@
         <mark key="^" line="11" column="20" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/parser/Expr.kt" timestamp="1556729246047">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="24" column="39" />
-        <mark key="]" line="54" column="14" />
-        <mark key="." line="54" column="14" />
-        <mark key="^" line="54" column="14" />
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/parser/Expr.kt" timestamp="1556731748028">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="63" column="20" />
+        <mark key="]" line="56" column="3" />
+        <mark key="." line="56" column="3" />
+        <mark key="^" line="56" column="3" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/scanner/Scanner.kt" timestamp="1556621342258">
         <mark key="[" line="34" column="17" />
@@ -220,17 +223,18 @@
         <mark key="^" line="5" column="16" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" timestamp="1556728990383">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" timestamp="1556731224009">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="50" column="8" />
+        <mark key="]" line="50" column="27" />
+        <mark key="." line="50" column="27" />
+        <mark key="^" line="50" column="27" />
       </file>
-      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/Main.kt" timestamp="1556632735943">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="4" />
-        <mark key="^" line="8" column="4" />
-        <mark key="." line="8" column="4" />
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/Main.kt" timestamp="1556731937783">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="29" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/Scanner.kt" timestamp="1556622446106">
         <mark key="[" line="5" column="30" />
@@ -353,45 +357,54 @@
       <jump line="26" column="0" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/parser/Expr.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCBzID0gU2Nhbm5lcihmaWxlbmFtZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>&quot;calc/mini.cal&quot;</text>
       </register>
       <register name="/" type="4">
         <text>\.kind</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIiR7IiAgIi5yZXBlYXQoaW5kZW50KyspfTwkbmFtZT4iKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBzID0gU2Nhbm5lcihmaWxlbmFtZSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1biBza2lwKHRva2VuOiBUb2tlbikgewogICAgICAgIAogICAgfQoK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHZhbCBlOiBFeHByID0gcGFyc2VUZXJtKHMpCiAgICBwcmludGxuKGUp</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIGluZGVudCA9IDAKZnVuIDxUPiBsb2cobmFtZTogU3RyaW5nLCBibG9jazogKCkgLT4gVCk6IFQgewogICAgcHJpbnRsbigiJHsiICAiLnJlcGVhdChpbmRlbnQrKyl9PCRuYW1lPiIpCiAgICB2YWwgdCA9IGJsb2NrKCkKICAgIHByaW50bG4oIiR7IiAgIi5yZXBlYXQoaW5kZW50LS0pfTwvJG5hbWU+IikKICAgIHJldHVybiB0Cn0KCmZ1biBwYXJzZUVycm9yKG1zZzogU3RyaW5nKTogTm90aGluZyB7CiAgICBwcmludGxuKCJQYXJzZSBFcnJvcjogJG1zZyIpCiAgICBleGl0UHJvY2VzcygtMSkKfQoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0Cg==</text>
+      <register name="4" type="8">
+        <text>//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGVlc2UubWFpbi5zY2FubmVyLlRva2VuLkZhY3Rvck9wci5NdWx0Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzID0gU2Nhbm5lcigiY2FsYy9taW5pLmNhbCIpCiAgICAvL3doaWxlICh0cnVlKSB7CiAgICAvLyAgICBwcmludGxuKCJQZWVrOiAke3MuY3VyVG9rZW4oKX0iKQogICAgLy8gICAgdmFsIHQgPSBzLm5leHRUb2tlbigpCiAgICAvLyAgICBwcmludGxuKHQpCiAgICAvLyAgICBpZiAodCA9PSBUb2tlbi5Fb2YpIGJyZWFrCiAgICAvL30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGVlc2UubWFpbi5zY2FubmVyLlRva2VuLlRlcm1PcHIuUGx1cwo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocGFyc2VUZXJtKHMpKQo=</text>
       </register>
-      <register name="7" type="8">
-        <text>Token
-Token</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4ocGFyc2VUZXJtKHMpKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="8">
+        <text>//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9iamVjdCBQbHVzICA6IFRva2VuKCkKICAgIG9iamVjdCBNaW51cyA6IFRva2VuKCkK</text>
+        <text encoding="base64">ICAgIFRPRE8oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
@@ -412,8 +425,10 @@ Token</text>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
-        <entry>vs</entry>
         <entry>source ~/.ideavim</entry>
+        <entry>w</entry>
+        <entry>vs</entry>
+        <entry>source ~/.ideavimrc</entry>
         <entry>q</entry>
         <entry>qa</entry>
       </history-cmd>

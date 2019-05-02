@@ -75,6 +75,12 @@
         <mark key="^" line="28" column="4" />
         <mark key="." line="28" column="4" />
       </file>
+      <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Asm.kt" timestamp="1556790668316">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+        <mark key="^" line="12" column="37" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspSubscription.kt" timestamp="1556553037060">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -328,6 +334,9 @@
         <mark key="." line="25" column="23" />
         <mark key="^" line="25" column="23" />
       </file>
+      <file name="/Dummy.txt" timestamp="1556790267978">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/runtime/RuntimeValue.kt" timestamp="1556568763042">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -393,10 +402,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBpbXVsKHMxOiBTdHJpbmcsIHMyOiBTdHJpbmcpID0gKyIiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;calc/mini.cal&quot;</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>\.kind</text>
@@ -405,31 +414,31 @@
         <text encoding="base64">ICAgIHZhbCBzID0gU2Nhbm5lcihmaWxlbmFtZSkKICAgIHZhbCBlOiBFeHByID0gcGFyc2VUZXJtKHMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBpbXVsKHMxOiBTdHJpbmcsIHMyOiBTdHJpbmcpID0gKyIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdoZW4gKHZhbCBhcmcgPSBhcmdzLmZpcnN0T3JOdWxsKCkpIHsKICAgICAgICBudWxsIC0+IAogICAgICAgIGVsc2UgLT4gYXJnCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBtb3YoczE6IFN0cmluZywgczI6IFN0cmluZykgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgd2hlbiAodmFsIGFyZyA9IGFyZ3MuZmlyc3RPck51bGwoKSkgewogICAgICAgIG51bGwgLT4gImNhbGMvbWluaS5jYWwiCiAgICAgICAgZWxzZSAtPiBhcmcKICAgIH0K</text>
+        <text encoding="base64">ICAgIG9wZXJhdG9yIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIiIiZm10OiBgJWRcbmAsIDAiIiIpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkRvbmUiKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vb3BlcmF0b3IgZnVuIFN0cmluZ0J1aWxkZXIucGx1c0Fzc2lnbihzOiBTdHJpbmcpID0gCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzYi4KICAgIH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHdoZW4gKHRoaXMpIHsKICAgICAgICBQbHVzICAtPiAiYWRkICAiCiAgICAgICAgTWludXMgLT4gInN1YiAgIgogICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHdoZW4gKHRoaXMpIHsKICAgICAgICBNdWx0IC0+ICJtdWwgICIKICAgICAgICBEaXYgIC0+ICJkaXYgICIKICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIHdoZW4gKHZhbCBhcmcgPSBhcmdzLmZpcnN0T3JOdWxsKCkpIHsKICAgICAgICBudWxsIC0+IAogICAgICAgIGVsc2UgLT4gYXJnCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciAoaSBpbiAxIHVudGlsIGZhY3RvcnMuc2l6ZSkgewogICAgfQo=</text>
+        <text encoding="base64">ICAgIAogICAgd2hlbiAodmFsIGFyZyA9IGFyZ3MuZmlyc3RPck51bGwoKSkgewogICAgICAgIG51bGwgLT4gImNhbGMvbWluaS5jYWwiCiAgICAgICAgZWxzZSAtPiBhcmcKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>

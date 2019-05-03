@@ -3,22 +3,36 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/keyboard.c" timestamp="1556896395141">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.c" timestamp="1556896537241">
+        <mark key="'" line="606" column="11" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro/src/test/kotlin/HelloWorld.kt" timestamp="1556468316238">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/memory.h" timestamp="1556897518253" />
       <file name="/fragment.java" timestamp="1556467938989">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/keyboard.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.c" />
+      <jump line="606" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.c" />
+    </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">CiAgICBSdW50aW1lLmdldFJ1bnRpbWUoKS5leGVjKCJnaXQgc3RhdHVzIikK</text>
       </register>
       <register name="&quot;" type="2">
         <text encoding="base64">CiAgICBSdW50aW1lLmdldFJ1bnRpbWUoKS5leGVjKCJnaXQgc3RhdHVzIikK</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
       </register>
       <register name="-" type="4">
         <text>nsm HeiDag</text>
@@ -30,7 +44,12 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>sp</entry>
+        <entry>qa</entry>
+        <entry>q</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -40,6 +59,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

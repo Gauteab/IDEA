@@ -33,12 +33,12 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" timestamp="1556873010826">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="9" column="58" />
-        <mark key="." line="9" column="58" />
-        <mark key="^" line="9" column="58" />
+      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" timestamp="1556874282051">
+        <mark key="'" line="8" column="16" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="9" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspProgram.kt" timestamp="1556551684660">
         <mark key="[" line="11" column="0" />
@@ -76,6 +76,18 @@
         <mark key="." line="10" column="13" />
         <mark key="^" line="10" column="13" />
       </file>
+      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/PersonKt.kt" timestamp="1556874735000">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/Person.java" timestamp="1556874729939">
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="22" column="2" />
+        <mark key="^" line="22" column="2" />
+        <mark key="." line="22" column="2" />
+      </file>
       <file name="$USER_HOME$/work/Calculeese/.gitignore" timestamp="1556632093769">
         <mark key="[" line="28" column="5" />
         <mark key="]" line="28" column="4" />
@@ -99,6 +111,11 @@
         <mark key="]" line="14" column="46" />
         <mark key="." line="14" column="46" />
         <mark key="^" line="14" column="46" />
+      </file>
+      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/PersonTest.kt" timestamp="1556874458563">
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="12" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspAndTest.kt" timestamp="1556570274465">
         <mark key="[" line="8" column="0" />
@@ -349,6 +366,12 @@
       <file name="/Dummy.txt" timestamp="1556790267978">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/Spørsmål.txt" timestamp="1556875099426">
+        <mark key="[" line="3" column="104" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/runtime/RuntimeValue.kt" timestamp="1556568763042">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -367,12 +390,12 @@
         <mark key="^" line="26" column="5" />
         <mark key="." line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" timestamp="1556873152147">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="6" column="52" />
-        <mark key="]" line="6" column="61" />
-        <mark key="^" line="6" column="61" />
-        <mark key="." line="6" column="61" />
+      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" timestamp="1556873521860">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="2" />
+        <mark key="^" line="2" column="2" />
+        <mark key="." line="2" column="2" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/runtime/RuntimeDictValue.kt" timestamp="1556571083227">
         <mark key="[" line="29" column="12" />
@@ -392,7 +415,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="49" />
       </file>
-      <file name="/fragment.java" timestamp="1556737098814">
+      <file name="/fragment.java" timestamp="1556874626462">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -423,55 +446,56 @@
       <jump line="18" column="0" filename="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" />
       <jump line="18" column="0" filename="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" />
       <jump line="0" column="0" filename="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" />
+      <jump line="8" column="16" filename="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LSBOdWxsIHNhZmV0eQo=</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
-        <text>b(</text>
+        <text>newC</text>
       </register>
       <register name="0" type="4">
-        <text>(a?.g() ?: b.h())</text>
+        <text>int id, String name, int age</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oZihwMSkpCg==</text>
+        <text encoding="base64">LSBOdWxsIHNhZmV0eQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGF0YSBjbGFzcyBQb2ludCh2YWwgeDogSW50LCB2YWwgeTogIEludCkKCmZ1biBmKGE6IFBvaW50PykgPSBhPy5nKCkgPzogYS5oKCkKCmZ1biBQb2ludC5nKCkgPSB4ICsgeQoKZnVuIFBvaW50Py5oKCkgPSAodGhpcz8ueCA/OiAwKSAqICh0aGlzPy55ID86IDApCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYmplY3RzCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXN1bHQgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBzMSA9ICJoZWkiCiAgICB2YWwgczI6IFN0cmluZz8gPSBudWxsCiAgICBwcmludGxuKGYoczEpICsgZihzMikpCg==</text>
+        <text encoding="base64">ICAgICAgICAvKgogICAqIENyZWF0ZXMgYSBuZXcgUGVyc29uIG9iamVjdCB3aXRoIGEgdW5pcXVlIElEIGFuZCB1cGRhdGVzIHRoZSBwb3B1bGF0aW9uCiAgICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuIGYoczogU3RyaW5nPykgPSBzPy50b1VwcGVyQ2FzZSgpID86ICIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBlcXVhbHMoT2JqZWN0IG90aGVyKSB7CiAgICBpZiAoIShvdGhlciBpbnN0YW5jZW9mIFVzZXIpKSB7CiAgICAgIHJldHVybiBmYWxzZTsgCiAgICB9CgogICAgcmV0dXJuIGlkID09IG90aGVyLmlkICYmIG5hbWUuZXF1YWxzKG90aGVyLm5hbWUpOwogIH0K</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBlcXVhbHMobzogQW55Pyk6IEJvb2xlYW4gewogICAgICAgIGlmICh0aGlzID09PSBvKSByZXR1cm4gdHJ1ZQogICAgICAgIGlmIChvICFpcyBQZXJzb25LdCkgcmV0dXJuIGZhbHNlCiAgICAgICAgdmFsIHBlcnNvbiA9IG8gYXMgUGVyc29uS3Q/CiAgICAgICAgcmV0dXJuIGlkID09IHBlcnNvbiEhLmlkICYmCiAgICAgICAgICAgICAgICBhZ2UgPT0gcGVyc29uLmFnZSAmJgogICAgICAgICAgICAgICAgbmFtZSA9PSBwZXJzb24ubmFtZQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBoYXNoQ29kZSgpOiBJbnQgewogICAgICAgIHJldHVybiBPYmplY3RzLmhhc2goaWQsIG5hbWUsIGFnZSkKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEucGFyc2VyLkV4cHIK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuc2Nhbm5lci5Ub2tlbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>b(</last-search>
+      <last-search>newC</last-search>
       <last-offset />
-      <last-pattern>b(</last-pattern>
+      <last-pattern>newC</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -481,6 +505,7 @@
         <entry>=</entry>
         <entry>\.kind</entry>
         <entry>b(</entry>
+        <entry>newC</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>

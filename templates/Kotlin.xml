@@ -1,0 +1,14 @@
+<templateSet group="Kotlin">
+  <template name="instr2" value="fun $INSTR$(s1: String, s2: String) = +&quot;$INSTR$ $s1, $s2&quot;" description="Two String Params" toReformat="false" toShortenFQNames="true">
+    <variable name="INSTR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="instr1" value="fun $INSTR$(s: String) = +&quot;$INSTR$ $s&quot;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="INSTR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -12,6 +12,8 @@
         <added pattern="kotlin.collections.fold(initial,operation)" />
         <added pattern="main.Person(name,age)" />
         <added pattern="time(name,f)" />
+        <added pattern="kotlin.collections.drop(n)" />
+        <added pattern="Point(x,y)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_SUSPENDING_CALL" value="true" />

@@ -3,61 +3,518 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/keyboard.c" timestamp="1556896395141">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/runtime/RuntimeFunc.kt" timestamp="1556570297197">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+        <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.c" timestamp="1556898411369">
-        <mark key="'" line="798" column="0" />
+      <file name="$USER_HOME$/work/Calculeese/src/calcula/parser/Parse.kt" timestamp="1556742013376">
+        <mark key="[" line="69" column="13" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Mikkro/src/test/kotlin/HelloWorld.kt" timestamp="1556468316238">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/literals/AspStringLiteral.kt" timestamp="1556552066898">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="11" column="41" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/memory.h" timestamp="1556897518253" />
-      <file name="/fragment.java" timestamp="1556467938989">
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/scanner/TokenKind.kt" timestamp="1556568227862">
+        <mark key="[" line="71" column="14" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="75" column="29" />
+      </file>
+      <file name="$USER_HOME$/work/Calculeese/calc/mini.cal" timestamp="1556742382718">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" timestamp="1556874282051">
+        <mark key="'" line="8" column="16" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="9" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspProgram.kt" timestamp="1556551684660">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspFactorOpr.kt" timestamp="1556552655360">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="11" column="19" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspReturnStmt.kt" timestamp="1556551809957">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspComparison.kt" timestamp="1556552439422">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="52" />
+      </file>
+      <file name="$USER_HOME$/work/Calculeese/src/Main.kt" timestamp="1556619317526">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspName.kt" timestamp="1556552821348">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/PersonKt.kt" timestamp="1556874735000">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/Person.java" timestamp="1556874729939">
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="22" column="2" />
+        <mark key="^" line="22" column="2" />
+        <mark key="." line="22" column="2" />
+      </file>
+      <file name="$USER_HOME$/work/Calculeese/.gitignore" timestamp="1556632093769">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="28" column="4" />
+        <mark key="^" line="28" column="4" />
+        <mark key="." line="28" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Asm.kt" timestamp="1556803405964">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="16" column="45" />
+        <mark key="." line="16" column="45" />
+        <mark key="^" line="16" column="45" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspSubscription.kt" timestamp="1556553037060">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="12" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspExpr.kt" timestamp="1556552522164">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="46" />
+        <mark key="." line="14" column="46" />
+        <mark key="^" line="14" column="46" />
+      </file>
+      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/PersonTest.kt" timestamp="1556874458563">
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspAndTest.kt" timestamp="1556570274465">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="34" />
+      </file>
+      <file name="$USER_HOME$/work/Calculeese/META-INF/MANIFEST.MF" timestamp="1556744085067">
+        <mark key="[" line="3" column="12" />
+      </file>
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/scanner/Scanner.java" timestamp="1556619763751">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/work/Calculeese/src/test/ScannerTest.kt" timestamp="1556622875031">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+        <mark key="^" line="6" column="33" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspInnerExpr.kt" timestamp="1556538213594">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="9" />
+        <mark key="." line="24" column="9" />
+        <mark key="^" line="24" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/literals/AspListDisplay.kt" timestamp="1556552063591">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="17" column="53" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspSuite.kt" timestamp="1556551916092">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="15" column="34" />
+      </file>
+      <file name="/fragment.kt" timestamp="1556731461491">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspName.kt" timestamp="1556538108915">
+        <mark key="[" line="24" column="62" />
+        <mark key="]" line="24" column="63" />
+        <mark key="." line="24" column="63" />
+        <mark key="^" line="24" column="63" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspTermOpr.kt" timestamp="1556553144904">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="11" column="16" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspPrimarySuffix.kt" timestamp="1556552997201">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="55" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspAssignment.kt" timestamp="1556557939200">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="14" column="52" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspNotTest.kt" timestamp="1556538257235">
+        <mark key="[" line="25" column="62" />
+        <mark key="]" line="25" column="104" />
+        <mark key="^" line="25" column="104" />
+        <mark key="." line="25" column="104" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/literals/AspBooleanLiteral.kt" timestamp="1556552046635">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="12" column="22" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/main/Main.kt" timestamp="1556541711154">
+        <mark key="[" line="148" column="5" />
+        <mark key="]" line="148" column="7" />
+        <mark key="." line="148" column="7" />
+        <mark key="^" line="148" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/Calcula/src/calcula/Main.kt" timestamp="1556803235528">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspNotTest.kt" timestamp="1556552220472">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" timestamp="1556791883706">
+        <mark key="[" line="40" column="19" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro/src/main/kotlin/com/example/compiler/backend/MkValue.kt" timestamp="1556469107590">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/literals/AspFloatLiteral.kt" timestamp="1556552051937">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="11" column="20" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/parser/Expr.kt" timestamp="1556732708856">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="72" column="29" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="20" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/scanner/Scanner.kt" timestamp="1556621342258">
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="34" column="17" />
+        <mark key="." line="34" column="17" />
+        <mark key="^" line="40" column="36" />
+      </file>
+      <file name="$USER_HOME$/work/Calculeese/src/calcula/compiler/Compile.kt" timestamp="1556741922730">
+        <mark key="[" line="31" column="12" />
+        <mark key="]" line="31" column="12" />
+        <mark key="." line="31" column="12" />
+        <mark key="^" line="31" column="12" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspWhileStmt.kt" timestamp="1556552009246">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspSubscription.kt" timestamp="1556538438460">
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="25" column="37" />
+        <mark key="^" line="25" column="37" />
+        <mark key="." line="25" column="37" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspComparison.kt" timestamp="1556537485701">
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="27" column="7" />
+        <mark key="." line="27" column="7" />
+        <mark key="^" line="27" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspExprStmt.kt" timestamp="1556551387146">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" timestamp="1556731224009">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="50" column="8" />
+        <mark key="]" line="50" column="27" />
+        <mark key="." line="50" column="27" />
+        <mark key="^" line="50" column="27" />
+      </file>
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/Main.kt" timestamp="1556731937783">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="29" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/Calcula/calc/mini.cal" timestamp="1556788372194">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/Scanner.kt" timestamp="1556622446106">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspIfStmt.kt" timestamp="1556551624680">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="15" column="39" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspStmt.kt" timestamp="1556551855549">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/ScannerTest.kt" timestamp="1556623142045">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspCompOpr.kt" timestamp="1556552460048">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspPassStmt.kt" timestamp="1556538263591">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="8" />
+        <mark key="." line="24" column="8" />
+        <mark key="^" line="24" column="13" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspFactorPrefix.kt" timestamp="1556552691926">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="11" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspFloatLiteral.kt" timestamp="1556537952655">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="23" column="8" />
+        <mark key="." line="23" column="8" />
+        <mark key="^" line="23" column="9" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspInnerExpr.kt" timestamp="1556552735918">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+      </file>
+      <file name="$USER_HOME$/work/Calculeese/src/calculeese/scanner/Token.kt" timestamp="1556620393321">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="5" column="37" />
+        <mark key="." line="5" column="37" />
+        <mark key="^" line="5" column="37" />
+      </file>
+      <file name="$USER_HOME$/work/Calculeese/src/calcula/Main.kt" timestamp="1556742458438">
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+        <mark key="^" line="25" column="23" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1556790267978">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/Spørsmål.txt" timestamp="1556875099426">
+        <mark key="[" line="3" column="104" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/runtime/RuntimeValue.kt" timestamp="1556568763042">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="126" column="61" />
+        <mark key="." line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/scanner/Scanner.kt" timestamp="1556567686902">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/.gitignore" timestamp="1556563741681">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="5" />
+        <mark key="^" line="26" column="5" />
+        <mark key="." line="26" column="5" />
+      </file>
+      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" timestamp="1556873521860">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="2" />
+        <mark key="^" line="2" column="2" />
+        <mark key="." line="2" column="2" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/runtime/RuntimeDictValue.kt" timestamp="1556571083227">
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="12" />
+        <mark key="^" line="30" column="15" />
+        <mark key="." line="29" column="12" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/runtime/RuntimeBoolValue.kt" timestamp="1556572486601">
+        <mark key="[" line="44" column="81" />
+        <mark key="]" line="44" column="78" />
+        <mark key="." line="44" column="78" />
+        <mark key="^" line="44" column="78" />
+      </file>
+      <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspFuncDef.kt" timestamp="1556551542200">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="49" />
+      </file>
+      <file name="/fragment.java" timestamp="1556874626462">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/keyboard.c" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.c" />
-      <jump line="606" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.c" />
-      <jump line="798" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.c" />
+      <jump line="56" column="0" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspSyntax.kt" />
+      <jump line="15" column="75" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspForStmt.kt" />
+      <jump line="10" column="31" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspArguments.kt" />
+      <jump line="11" column="22" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspFactor.kt" />
+      <jump line="12" column="18" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspFactor.kt" />
+      <jump line="15" column="19" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspPrimary.kt" />
+      <jump line="13" column="18" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspTerm.kt" />
+      <jump line="11" column="33" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspTerm.kt" />
+      <jump line="18" column="39" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspTerm.kt" />
+      <jump line="22" column="39" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspSyntax.kt" />
+      <jump line="28" column="28" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspSyntax.kt" />
+      <jump line="17" column="29" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspAtom.kt" />
+      <jump line="6" column="4" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/scanner/Token.kt" />
+      <jump line="22" column="25" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" />
+      <jump line="9" column="0" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" />
+      <jump line="58" column="4" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" />
+      <jump line="62" column="0" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" />
+      <jump line="24" column="0" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/parser/Expr.kt" />
+      <jump line="26" column="0" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/parser/Expr.kt" />
+      <jump line="23" column="38" filename="$USER_HOME$/work/Calculeese/src/calcula/parser/Expr.kt" />
+      <jump line="21" column="22" filename="$USER_HOME$/work/Calculeese/src/calcula/compiler/Compile.kt" />
+      <jump line="5" column="18" filename="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" />
+      <jump line="8" column="1" filename="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" />
+      <jump line="18" column="0" filename="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" />
+      <jump line="18" column="0" filename="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" />
+      <jump line="8" column="16" filename="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICBSdW50aW1lLmdldFJ1bnRpbWUoKS5leGVjKCJnaXQgc3RhdHVzIikK</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBSdW50aW1lLmdldFJ1bnRpbWUoKS5leGVjKCJnaXQgc3RhdHVzIikK</text>
-      </register>
-      <register name=":" type="4">
-        <text>q</text>
+        <text encoding="base64">LSBOdWxsIHNhZmV0eQo=</text>
       </register>
       <register name="-" type="4">
-        <text>nsm HeiDag</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
-        <text>create_p</text>
+        <text>newC</text>
+      </register>
+      <register name="0" type="4">
+        <text>int id, String name, int age</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">LSBOdWxsIHNhZmV0eQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYmplY3RzCgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvKgogICAqIENyZWF0ZXMgYSBuZXcgUGVyc29uIG9iamVjdCB3aXRoIGEgdW5pcXVlIElEIGFuZCB1cGRhdGVzIHRoZSBwb3B1bGF0aW9uCiAgICovCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBlcXVhbHMobzogQW55Pyk6IEJvb2xlYW4gewogICAgICAgIGlmICh0aGlzID09PSBvKSByZXR1cm4gdHJ1ZQogICAgICAgIGlmIChvICFpcyBQZXJzb25LdCkgcmV0dXJuIGZhbHNlCiAgICAgICAgdmFsIHBlcnNvbiA9IG8gYXMgUGVyc29uS3Q/CiAgICAgICAgcmV0dXJuIGlkID09IHBlcnNvbiEhLmlkICYmCiAgICAgICAgICAgICAgICBhZ2UgPT0gcGVyc29uLmFnZSAmJgogICAgICAgICAgICAgICAgbmFtZSA9PSBwZXJzb24ubmFtZQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBoYXNoQ29kZSgpOiBJbnQgewogICAgICAgIHJldHVybiBPYmplY3RzLmhhc2goaWQsIG5hbWUsIGFnZSkKICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>create_p</last-search>
+      <last-search>newC</last-search>
       <last-offset />
-      <last-pattern>create_p</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>newC</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>create_p</entry>
+        <entry>skip</entry>
+        <entry>=</entry>
+        <entry>\.kind</entry>
+        <entry>b(</entry>
+        <entry>newC</entry>
       </history-search>
       <history-cmd>
+        <entry>actionlist</entry>
+        <entry>source ~/.ideavim</entry>
+        <entry>w</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>sp</entry>
-        <entry>qa</entry>
+        <entry>vs</entry>
         <entry>q</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -69,8 +526,41 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

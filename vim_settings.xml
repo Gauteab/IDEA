@@ -6,8 +6,8 @@
       <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/keyboard.c" timestamp="1556896395141">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.c" timestamp="1556896537241">
-        <mark key="'" line="606" column="11" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.c" timestamp="1556898411369">
+        <mark key="'" line="798" column="0" />
       </file>
       <file name="$USER_HOME$/work/Mikkro/src/test/kotlin/HelloWorld.kt" timestamp="1556468316238">
         <mark key="[" line="36" column="0" />
@@ -23,6 +23,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/keyboard.c" />
       <jump line="0" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.c" />
       <jump line="606" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.c" />
+      <jump line="798" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.c" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -37,13 +38,21 @@
       <register name="-" type="4">
         <text>nsm HeiDag</text>
       </register>
+      <register name="/" type="4">
+        <text>create_p</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>create_p</last-search>
+      <last-offset />
+      <last-pattern>create_p</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>create_p</entry>
+      </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
         <entry>sp</entry>
@@ -60,7 +69,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>

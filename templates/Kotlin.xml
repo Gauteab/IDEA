@@ -5,7 +5,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="instr1" value="fun $INSTR$(s: String) = +&quot;$INSTR$ $s&quot;" toReformat="false" toShortenFQNames="true">
+  <template name="instr1" value="fun $INSTR$(s: String) = +&quot;$INSTR$ $s&quot;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="INSTR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />

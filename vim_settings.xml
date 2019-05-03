@@ -33,7 +33,8 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" timestamp="1556871827980">
+      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" timestamp="1556873010826">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="9" column="58" />
         <mark key="." line="9" column="58" />
@@ -366,6 +367,13 @@
         <mark key="^" line="26" column="5" />
         <mark key="." line="26" column="5" />
       </file>
+      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" timestamp="1556873152147">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="6" column="52" />
+        <mark key="]" line="6" column="61" />
+        <mark key="^" line="6" column="61" />
+        <mark key="." line="6" column="61" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/runtime/RuntimeDictValue.kt" timestamp="1556571083227">
         <mark key="[" line="29" column="12" />
         <mark key="]" line="29" column="12" />
@@ -410,55 +418,60 @@
       <jump line="26" column="0" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/parser/Expr.kt" />
       <jump line="23" column="38" filename="$USER_HOME$/work/Calculeese/src/calcula/parser/Expr.kt" />
       <jump line="21" column="22" filename="$USER_HOME$/work/Calculeese/src/calcula/compiler/Compile.kt" />
+      <jump line="5" column="18" filename="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" />
+      <jump line="8" column="1" filename="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" />
+      <jump line="18" column="0" filename="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" />
+      <jump line="18" column="0" filename="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBlcXVhbHMoT2JqZWN0IG90aGVyKSB7CiAgICBpZiAoIShvdGhlciBpbnN0YW5jZW9mIFVzZXIpKSB7CiAgICAgIHJldHVybiBmYWxzZTsgCiAgICB9CgogICAgcmV0dXJuIGlkID09IG90aGVyLmlkICYmIG5hbWUuZXF1YWxzKG90aGVyLm5hbWUpOwogIH0K</text>
+      <register name="&quot;" type="4">
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>\.kind</text>
+        <text>b(</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBzID0gU2Nhbm5lcihmaWxlbmFtZSkKICAgIHZhbCBlOiBFeHByID0gcGFyc2VUZXJtKHMpCg==</text>
+      <register name="0" type="4">
+        <text>(a?.g() ?: b.h())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBlcXVhbHMoT2JqZWN0IG90aGVyKSB7CiAgICBpZiAoIShvdGhlciBpbnN0YW5jZW9mIFVzZXIpKSB7CiAgICAgIHJldHVybiBmYWxzZTsgCiAgICB9CgogICAgcmV0dXJuIGlkID09IG90aGVyLmlkICYmIG5hbWUuZXF1YWxzKG90aGVyLm5hbWUpOwogIH0K</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZihwMSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEucGFyc2VyLkV4cHIK</text>
+        <text encoding="base64">ZGF0YSBjbGFzcyBQb2ludCh2YWwgeDogSW50LCB2YWwgeTogIEludCkKCmZ1biBmKGE6IFBvaW50PykgPSBhPy5nKCkgPzogYS5oKCkKCmZ1biBQb2ludC5nKCkgPSB4ICsgeQoKZnVuIFBvaW50Py5oKCkgPSAodGhpcz8ueCA/OiAwKSAqICh0aGlzPy55ID86IDApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuc2Nhbm5lci5Ub2tlbgo=</text>
+        <text encoding="base64">ICAgIHZhbCByZXN1bHQgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1biBpbXVsKHMxOiBTdHJpbmcsIHMyOiBTdHJpbmcpID0gKyIiCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1biBtb3YoczE6IFN0cmluZywgczI6IFN0cmluZykgPSAK</text>
+        <text encoding="base64">ICAgIHZhbCBzMSA9ICJoZWkiCiAgICB2YWwgczI6IFN0cmluZz8gPSBudWxsCiAgICBwcmludGxuKGYoczEpICsgZihzMikpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9wZXJhdG9yIAo=</text>
+        <text encoding="base64">ZnVuIGYoczogU3RyaW5nPykgPSBzPy50b1VwcGVyQ2FzZSgpID86ICIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBlcXVhbHMoT2JqZWN0IG90aGVyKSB7CiAgICBpZiAoIShvdGhlciBpbnN0YW5jZW9mIFVzZXIpKSB7CiAgICAgIHJldHVybiBmYWxzZTsgCiAgICB9CgogICAgcmV0dXJuIGlkID09IG90aGVyLmlkICYmIG5hbWUuZXF1YWxzKG90aGVyLm5hbWUpOwogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vb3BlcmF0b3IgZnVuIFN0cmluZ0J1aWxkZXIucGx1c0Fzc2lnbihzOiBTdHJpbmcpID0gCg==</text>
+        <text encoding="base64">aW1wb3J0IGNhbGN1bGEucGFyc2VyLkV4cHIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzYi4KICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuc2Nhbm5lci5Ub2tlbgo=</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>\.kind</last-search>
+      <last-search>b(</last-search>
       <last-offset />
-      <last-pattern>\.kind</last-pattern>
+      <last-pattern>b(</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -467,6 +480,7 @@
         <entry>skip</entry>
         <entry>=</entry>
         <entry>\.kind</entry>
+        <entry>b(</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>

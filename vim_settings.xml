@@ -210,11 +210,12 @@
         <mark key="." line="148" column="7" />
         <mark key="^" line="148" column="7" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/Main.kt" timestamp="1556803235528">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="17" />
-        <mark key="." line="10" column="17" />
-        <mark key="^" line="10" column="17" />
+      <file name="$USER_HOME$/work/Calcula/src/calcula/Main.kt" timestamp="1557004861266">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+        <mark key="^" line="9" column="16" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspNotTest.kt" timestamp="1556552220472">
         <mark key="[" line="15" column="0" />
@@ -298,7 +299,7 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/calc/mini.cal" timestamp="1556788372194">
+      <file name="$USER_HOME$/work/Calcula/calc/mini.cal" timestamp="1557004809156">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -326,6 +327,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" timestamp="1557004910075">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="23" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspCompOpr.kt" timestamp="1556552460048">
         <mark key="[" line="10" column="17" />
@@ -460,46 +467,48 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" />
       <jump line="8" column="16" filename="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" />
       <jump line="528" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.c" />
+      <jump line="34" column="21" filename="$USER_HOME$/work/Calcula/src/calcula/Main.kt" />
+      <jump line="46" column="0" filename="$USER_HOME$/work/Calcula/src/calcula/Main.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuc2Nhbm5lci5Ub2tlbgo=</text>
+      <register name="&quot;" type="4">
+        <text>faciwtrlse</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>faciwtrlse</text>
       </register>
       <register name="/" type="4">
         <text>newC</text>
       </register>
       <register name="0" type="4">
-        <text>int id, String name, int age</text>
+        <text>T::class.simpleName</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuc2Nhbm5lci5Ub2tlbgo=</text>
+        <text encoding="base64">dmFyIExPRyA9IGZhbHNlCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBOdWxsIHNhZmV0eQo=</text>
+        <text encoding="base64">ICAgIG51bGwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYmplY3RzCgo=</text>
+        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuc2Nhbm5lci5Ub2tlbgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBOdWxsIHNhZmV0eQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvKgogICAqIENyZWF0ZXMgYSBuZXcgUGVyc29uIG9iamVjdCB3aXRoIGEgdW5pcXVlIElEIGFuZCB1cGRhdGVzIHRoZSBwb3B1bGF0aW9uCiAgICovCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYmplY3RzCgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBlcXVhbHMobzogQW55Pyk6IEJvb2xlYW4gewogICAgICAgIGlmICh0aGlzID09PSBvKSByZXR1cm4gdHJ1ZQogICAgICAgIGlmIChvICFpcyBQZXJzb25LdCkgcmV0dXJuIGZhbHNlCiAgICAgICAgdmFsIHBlcnNvbiA9IG8gYXMgUGVyc29uS3Q/CiAgICAgICAgcmV0dXJuIGlkID09IHBlcnNvbiEhLmlkICYmCiAgICAgICAgICAgICAgICBhZ2UgPT0gcGVyc29uLmFnZSAmJgogICAgICAgICAgICAgICAgbmFtZSA9PSBwZXJzb24ubmFtZQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBoYXNoQ29kZSgpOiBJbnQgewogICAgICAgIHJldHVybiBPYmplY3RzLmhhc2goaWQsIG5hbWUsIGFnZSkKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
@@ -574,6 +583,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

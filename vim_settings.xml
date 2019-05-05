@@ -100,8 +100,11 @@
         <mark key="." line="16" column="45" />
         <mark key="^" line="16" column="45" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/memory.c" timestamp="1556965041252">
-        <mark key="[" line="88" column="1" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/memory.c" timestamp="1557056118912">
+        <mark key="[" line="82" column="4" />
+        <mark key="]" line="82" column="1" />
+        <mark key="." line="82" column="1" />
+        <mark key="^" line="82" column="1" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspSubscription.kt" timestamp="1556553037060">
         <mark key="[" line="14" column="0" />
@@ -215,6 +218,7 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+        <mark key="^" line="10" column="17" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspNotTest.kt" timestamp="1556552220472">
         <mark key="[" line="15" column="0" />
@@ -249,6 +253,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="20" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/CMakeLists.txt" timestamp="1557055845921">
+        <mark key="[" line="3" column="26" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/scanner/Scanner.kt" timestamp="1556621342258">
         <mark key="[" line="34" column="17" />
@@ -467,7 +474,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxpc3RPZjxTdHJpbmc+KCkuZHJvcCgzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -479,31 +486,31 @@
         <text>T::class.simpleName</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxpc3RPZjxTdHJpbmc+KCkuZHJvcCgzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHJhaXQgeCB7CiAgICAKfQo=</text>
+        <text encoding="base64">c3RhdGljIHVpbnQzMl90ICpjcmVhdGVfcGFnZV9kaXJlY3RvcnkoKSB7cmV0dXJuIDA7fQpzdGF0aWMgdWludDMyX3QgKmNyZWF0ZV9wYWdlX3RhYmxlKCkge3JldHVybiAwO30Kc3RhdGljIHVpbnQzMl90ICpjcmVhdGVfcGFnZSgpIHtyZXR1cm4gMDt9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIExPRyA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIHVpbnQzMl90ICpkaXJlY3RvcnkgPSBremFsbG9jXwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVpbnQzMl90ICpkaXJlY3RvcnkgPQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG51bGwK</text>
+        <text encoding="base64">ICAgIGxpc3RPZjxTdHJpbmc+KCkuZHJvcCgzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuc2Nhbm5lci5Ub2tlbgo=</text>
+        <text encoding="base64">dHJhaXQgeCB7CiAgICAKfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIExPRyA9IGZhbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSBOdWxsIHNhZmV0eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYmplY3RzCgo=</text>
+        <text encoding="base64">ICAgIG51bGwK</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
@@ -581,6 +588,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

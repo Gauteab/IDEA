@@ -100,8 +100,11 @@
         <mark key="." line="16" column="45" />
         <mark key="^" line="16" column="45" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/memory.c" timestamp="1556965041252">
-        <mark key="[" line="88" column="1" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/memory.c" timestamp="1557055511841">
+        <mark key="[" line="85" column="1" />
+        <mark key="]" line="80" column="50" />
+        <mark key="^" line="80" column="50" />
+        <mark key="." line="80" column="50" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspSubscription.kt" timestamp="1556553037060">
         <mark key="[" line="14" column="0" />
@@ -409,7 +412,6 @@
         <mark key="^" line="30" column="15" />
         <mark key="." line="29" column="12" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/tlb.S" timestamp="1556961091858" />
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/runtime/RuntimeBoolValue.kt" timestamp="1556572486601">
         <mark key="[" line="44" column="81" />
         <mark key="]" line="44" column="78" />
@@ -457,44 +459,44 @@
       <jump line="528" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LSBOdWxsIHNhZmV0eQo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>newC</text>
       </register>
-      <register name="0" type="4">
-        <text>int id, String name, int age</text>
+      <register name="0" type="2">
+        <text encoding="base64">c3RhdGljIHVpbnQzMl90ICpjcmVhdGVfcGFnZV90YWJsZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBOdWxsIHNhZmV0eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYmplY3RzCgo=</text>
+        <text encoding="base64">LSBOdWxsIHNhZmV0eQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYmplY3RzCgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvKgogICAqIENyZWF0ZXMgYSBuZXcgUGVyc29uIG9iamVjdCB3aXRoIGEgdW5pcXVlIElEIGFuZCB1cGRhdGVzIHRoZSBwb3B1bGF0aW9uCiAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKgogICAqIENyZWF0ZXMgYSBuZXcgUGVyc29uIG9iamVjdCB3aXRoIGEgdW5pcXVlIElEIGFuZCB1cGRhdGVzIHRoZSBwb3B1bGF0aW9uCiAgICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBlcXVhbHMobzogQW55Pyk6IEJvb2xlYW4gewogICAgICAgIGlmICh0aGlzID09PSBvKSByZXR1cm4gdHJ1ZQogICAgICAgIGlmIChvICFpcyBQZXJzb25LdCkgcmV0dXJuIGZhbHNlCiAgICAgICAgdmFsIHBlcnNvbiA9IG8gYXMgUGVyc29uS3Q/CiAgICAgICAgcmV0dXJuIGlkID09IHBlcnNvbiEhLmlkICYmCiAgICAgICAgICAgICAgICBhZ2UgPT0gcGVyc29uLmFnZSAmJgogICAgICAgICAgICAgICAgbmFtZSA9PSBwZXJzb24ubmFtZQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBoYXNoQ29kZSgpOiBJbnQgewogICAgICAgIHJldHVybiBPYmplY3RzLmhhc2goaWQsIG5hbWUsIGFnZSkKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBlcXVhbHMobzogQW55Pyk6IEJvb2xlYW4gewogICAgICAgIGlmICh0aGlzID09PSBvKSByZXR1cm4gdHJ1ZQogICAgICAgIGlmIChvICFpcyBQZXJzb25LdCkgcmV0dXJuIGZhbHNlCiAgICAgICAgdmFsIHBlcnNvbiA9IG8gYXMgUGVyc29uS3Q/CiAgICAgICAgcmV0dXJuIGlkID09IHBlcnNvbiEhLmlkICYmCiAgICAgICAgICAgICAgICBhZ2UgPT0gcGVyc29uLmFnZSAmJgogICAgICAgICAgICAgICAgbmFtZSA9PSBwZXJzb24ubmFtZQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBoYXNoQ29kZSgpOiBJbnQgewogICAgICAgIHJldHVybiBPYmplY3RzLmhhc2goaWQsIG5hbWUsIGFnZSkKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>

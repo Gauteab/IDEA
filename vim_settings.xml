@@ -225,10 +225,12 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" timestamp="1557064086941">
-        <mark key="[" line="51" column="23" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" timestamp="1557065236626">
+        <mark key="'" line="4" column="27" />
+        <mark key="[" line="56" column="1" />
+        <mark key="]" line="55" column="8" />
+        <mark key="." line="55" column="8" />
+        <mark key="^" line="55" column="8" />
       </file>
       <file name="$USER_HOME$/work/Mikkro/src/main/kotlin/com/example/compiler/backend/MkValue.kt" timestamp="1556469107590">
         <mark key="[" line="13" column="1" />
@@ -301,8 +303,8 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/calc/mini.cal" timestamp="1557004809156">
-        <mark key="[" line="0" column="9" />
+      <file name="$USER_HOME$/work/Calcula/calc/mini.cal" timestamp="1557065330626">
+        <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -469,13 +471,14 @@
       <jump line="15" column="17" filename="$USER_HOME$/work/Calcula/src/calcula/scanner/Token.kt" />
       <jump line="9" column="0" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" />
       <jump line="50" column="3" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" />
+      <jump line="4" column="27" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>trimIndent</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>trimIndent</text>
       </register>
       <register name="/" type="4">
         <text>newC</text>

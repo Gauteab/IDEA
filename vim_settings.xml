@@ -33,6 +33,12 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/scanner/Scanner.kt" timestamp="1557133819913">
+        <mark key="[" line="38" column="32" />
+        <mark key="]" line="40" column="32" />
+        <mark key="^" line="40" column="32" />
+        <mark key="." line="40" column="32" />
+      </file>
       <file name="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" timestamp="1556874282051">
         <mark key="'" line="8" column="16" />
         <mark key="[" line="34" column="0" />
@@ -349,12 +355,12 @@
         <mark key="^" line="14" column="47" />
         <mark key="." line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" timestamp="1557130295706">
+      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" timestamp="1557137452414">
         <mark key="'" line="24" column="29" />
-        <mark key="[" line="75" column="23" />
-        <mark key="]" line="75" column="14" />
-        <mark key="^" line="75" column="14" />
-        <mark key="." line="75" column="14" />
+        <mark key="[" line="66" column="10" />
+        <mark key="]" line="66" column="17" />
+        <mark key="^" line="66" column="17" />
+        <mark key="." line="66" column="17" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspCompOpr.kt" timestamp="1556552460048">
         <mark key="[" line="10" column="17" />

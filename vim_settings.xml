@@ -106,12 +106,12 @@
         <mark key="^" line="28" column="4" />
         <mark key="." line="28" column="4" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Asm.kt" timestamp="1557096327186">
+      <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Asm.kt" timestamp="1557153860381">
         <mark key="'" line="4" column="4" />
-        <mark key="[" line="21" column="47" />
-        <mark key="]" line="8" column="42" />
-        <mark key="." line="8" column="42" />
-        <mark key="^" line="8" column="42" />
+        <mark key="[" line="15" column="41" />
+        <mark key="]" line="15" column="42" />
+        <mark key="." line="15" column="42" />
+        <mark key="^" line="15" column="42" />
       </file>
       <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/memory.c" timestamp="1556965041252">
         <mark key="[" line="88" column="1" />
@@ -250,12 +250,12 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" timestamp="1557131864342">
-        <mark key="'" line="67" column="15" />
-        <mark key="[" line="47" column="47" />
-        <mark key="]" line="47" column="49" />
-        <mark key="." line="47" column="49" />
-        <mark key="^" line="47" column="49" />
+      <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" timestamp="1557153799621">
+        <mark key="'" line="70" column="15" />
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="29" column="9" />
+        <mark key="." line="29" column="9" />
+        <mark key="^" line="29" column="9" />
       </file>
       <file name="$USER_HOME$/work/Mikkro/src/main/kotlin/com/example/compiler/backend/MkValue.kt" timestamp="1556469107590">
         <mark key="[" line="13" column="1" />
@@ -325,11 +325,11 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/calc/mini.cal" timestamp="1557132578630">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+      <file name="$USER_HOME$/work/Calcula/calc/mini.cal" timestamp="1557153958708">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/Scanner.kt" timestamp="1556622446106">
         <mark key="[" line="5" column="30" />
@@ -565,10 +565,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmICh0ICFpcyBUb2tlbi5JbnRMaXQpIGV4cAo=</text>
+        <text encoding="base64">ICAgIGZ1biBpZGl2KHMxOiBTdHJpbmcsIHMyOiBTdHJpbmcpID0gKyIgIGlkaXYgJHMxLCAkczIiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>nextToken()</text>
+        <text>else</text>
       </register>
       <register name="/" type="4">
         <text>\(s\)</text>
@@ -577,34 +577,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICc9JyAgLT4gRXEgICAgICB0byAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICh0ICFpcyBUb2tlbi5JbnRMaXQpIGV4cAo=</text>
+        <text encoding="base64">ICAgIGZ1biBpZGl2KHMxOiBTdHJpbmcsIHMyOiBTdHJpbmcpID0gKyIgIGlkaXYgJHMxLCAkczIiCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGZ1biBpZGl2KHM6IFN0cmluZyk6IEFzbSB7CgogICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmICh0ICFpcyBUb2tlbi5JbnRMaXQpIGV4cAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGNhbGN1bGEuQXN0Cg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text>TODO()
 TODO()
 TODO()
 TODO()</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIGlzIEludEV4cHIgICAgLT4gVE9ETygpCiAgICBpcyBCb29sRXhwciAgIC0+IFRPRE8oKQogICAgaXMgSW5uZXJFeHByICAtPiBUT0RPKCk=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlICAgICAgIC0+IFRPRE8oKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFRPRE8oKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuQXN0Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuRXhwci4qCmltcG9ydCBjYWxjdWxhLkV4cHIuQXRvbS5JbnRFeHByCg==</text>
+        <text encoding="base64">ICAgIFRPRE8oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>

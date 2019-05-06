@@ -15,6 +15,7 @@
         <mark key="^" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.h" timestamp="1557148640957" />
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/literals/AspStringLiteral.kt" timestamp="1556552066898">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -245,8 +246,8 @@
         <mark key="^" line="11" column="20" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.c" timestamp="1556963588653">
-        <mark key="'" line="528" column="0" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.c" timestamp="1557148295467">
+        <mark key="'" line="657" column="0" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/parser/Expr.kt" timestamp="1556732708856">
         <mark key="'" line="32" column="0" />
@@ -472,6 +473,9 @@
       <jump line="528" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.c" />
       <jump line="34" column="21" filename="$USER_HOME$/work/Calcula/src/calcula/Main.kt" />
       <jump line="46" column="0" filename="$USER_HOME$/work/Calcula/src/calcula/Main.kt" />
+      <jump line="157" column="27" filename="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.c" />
+      <jump line="590" column="3" filename="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.c" />
+      <jump line="657" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -481,7 +485,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>newC</text>
+        <text>create_p</text>
       </register>
       <register name="0" type="4">
         <text>T::class.simpleName</text>
@@ -518,9 +522,9 @@
       </register>
     </registers>
     <search>
-      <last-search>newC</last-search>
+      <last-search>create_p</last-search>
       <last-offset />
-      <last-pattern>newC</last-pattern>
+      <last-pattern>create_p</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -531,6 +535,7 @@
         <entry>\.kind</entry>
         <entry>b(</entry>
         <entry>newC</entry>
+        <entry>create_p</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>

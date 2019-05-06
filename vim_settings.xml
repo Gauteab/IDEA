@@ -244,11 +244,12 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" timestamp="1557126841624">
-        <mark key="'" line="56" column="15" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" timestamp="1557131167074">
+        <mark key="'" line="68" column="15" />
+        <mark key="[" line="40" column="21" />
+        <mark key="]" line="40" column="21" />
+        <mark key="." line="40" column="21" />
+        <mark key="^" line="40" column="21" />
       </file>
       <file name="$USER_HOME$/work/Mikkro/src/main/kotlin/com/example/compiler/backend/MkValue.kt" timestamp="1556469107590">
         <mark key="[" line="13" column="1" />
@@ -318,7 +319,7 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/calc/mini.cal" timestamp="1557126871183">
+      <file name="$USER_HOME$/work/Calcula/calc/mini.cal" timestamp="1557131177325">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -348,12 +349,12 @@
         <mark key="^" line="14" column="47" />
         <mark key="." line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" timestamp="1557126808137">
-        <mark key="'" line="22" column="29" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="16" column="39" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" timestamp="1557130295706">
+        <mark key="'" line="24" column="29" />
+        <mark key="[" line="75" column="23" />
+        <mark key="]" line="75" column="14" />
+        <mark key="^" line="75" column="14" />
+        <mark key="." line="75" column="14" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspCompOpr.kt" timestamp="1556552460048">
         <mark key="[" line="10" column="17" />
@@ -555,11 +556,14 @@
       <jump line="23" column="29" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuQXN0Cg==</text>
+      <register name="&quot;" type="8">
+        <text>TODO()
+TODO()
+TODO()
+TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>TODO()</text>
       </register>
       <register name="/" type="4">
         <text>\(s\)</text>
@@ -567,32 +571,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICc9JyAgLT4gRXEgICAgICB0byAxCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuQXN0Cg==</text>
+      <register name="1" type="8">
+        <text>TODO()
+TODO()
+TODO()
+TODO()</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuRXhwci4qCmltcG9ydCBjYWxjdWxhLkV4cHIuQXRvbS5JbnRFeHByCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGlzIEludEV4cHIgICAgLT4gVE9ETygpCiAgICBpcyBCb29sRXhwciAgIC0+IFRPRE8oKQogICAgaXMgSW5uZXJFeHByICAtPiBUT0RPKCk=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuQXN0LkV4cHIK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuQXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlICAgICAgIC0+IFRPRE8oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuRXhwcgo=</text>
+        <text encoding="base64">ICAgIFRPRE8oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuQXN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VhbGVkIGNsYXNzIEV4cHIgewoKICAgIGRhdGEgY2xhc3MgQ29tcGFyaXNvbih2YWwgdGVybXM6IExpc3Q8VGVybT4sIHZhbCBvcHJzOiBMaXN0PENvbXBPcHI+KSAgICA6IEV4cHIoKQogICAgZGF0YSBjbGFzcyBUZXJtKHZhbCBmYWN0b3JzOiBMaXN0PEZhY3Rvcj4sIHZhbCBvcHJzOiBMaXN0PFRlcm1PcHI+KSA6IEV4cHIoKQogICAgZGF0YSBjbGFzcyBGYWN0b3IodmFsIGF0b21zOiBMaXN0PEF0b20+LCB2YWwgb3ByczogTGlzdDxGYWN0b3JPcHI+KSA6IEV4cHIoKQoKICAgIHNlYWxlZCBjbGFzcyBBdG9tIDogRXhwcigpIHsKICAgICAgICBkYXRhIGNsYXNzIEludEV4cHIodmFsIHZhbHVlOiBJbnQpICAgICAgOiBBdG9tKCkKICAgICAgICBkYXRhIGNsYXNzIEJvb2xFeHByKHZhbCB2YWx1ZTogQm9vbGVhbikgOiBBdG9tKCkKICAgICAgICBkYXRhIGNsYXNzIElubmVyRXhwcih2YWwgZXhwcjogRXhwcikgICAgOiBBdG9tKCkKICAgIH0KfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuRXhwci4qCmltcG9ydCBjYWxjdWxhLkV4cHIuQXRvbS5JbnRFeHByCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuQXN0LkV4cHIK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ewoKICAgIGRhdGEgY2xhc3MgQ29tcGFyaXNvbih2YWwgdGVybXM6IExpc3Q8VGVybT4sIHZhbCBvcHJzOiBMaXN0PENvbXBPcHI+KSAgICA6IEV4cHIoKQogICAgZGF0YSBjbGFzcyBUZXJtKHZhbCBmYWN0b3JzOiBMaXN0PEZhY3Rvcj4sIHZhbCBvcHJzOiBMaXN0PFRlcm1PcHI+KSA6IEV4cHIoKQogICAgZGF0YSBjbGFzcyBGYWN0b3IodmFsIGF0b21zOiBMaXN0PEF0b20+LCB2YWwgb3ByczogTGlzdDxGYWN0b3JPcHI+KSA6IEV4cHIoKQoKICAgIHNlYWxlZCBjbGFzcyBBdG9tIDogRXhwcigpIHsKICAgICAgICBkYXRhIGNsYXNzIEludEV4cHIodmFsIHZhbHVlOiBJbnQpICAgICAgOiBBdG9tKCkKICAgICAgICBkYXRhIGNsYXNzIEJvb2xFeHByKHZhbCB2YWx1ZTogQm9vbGVhbikgOiBBdG9tKCkKICAgICAgICBkYXRhIGNsYXNzIElubmVyRXhwcih2YWwgZXhwcjogRXhwcikgICAgOiBBdG9tKCkKICAgIH0KfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuQXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>

@@ -355,12 +355,11 @@
         <mark key="^" line="14" column="47" />
         <mark key="." line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" timestamp="1557137452414">
+      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" timestamp="1557152008394">
         <mark key="'" line="24" column="29" />
-        <mark key="[" line="66" column="10" />
-        <mark key="]" line="66" column="17" />
-        <mark key="^" line="66" column="17" />
-        <mark key="." line="66" column="17" />
+        <mark key="[" line="74" column="23" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspCompOpr.kt" timestamp="1556552460048">
         <mark key="[" line="10" column="17" />
@@ -563,10 +562,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuQXN0Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0ICFpcyBUb2tlbi5JbnRMaXQpIGV4cAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Any</text>
+        <text>nextToken()</text>
       </register>
       <register name="/" type="4">
         <text>\(s\)</text>
@@ -575,34 +574,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICc9JyAgLT4gRXEgICAgICB0byAxCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGlmICh0ICFpcyBUb2tlbi5JbnRMaXQpIGV4cAo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGNhbGN1bGEuQXN0Cg==</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text>TODO()
 TODO()
 TODO()
 TODO()</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgIGlzIEludEV4cHIgICAgLT4gVE9ETygpCiAgICBpcyBCb29sRXhwciAgIC0+IFRPRE8oKQogICAgaXMgSW5uZXJFeHByICAtPiBUT0RPKCk=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlICAgICAgIC0+IFRPRE8oKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIFRPRE8oKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNhbGN1bGEuQXN0Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuRXhwci4qCmltcG9ydCBjYWxjdWxhLkV4cHIuQXRvbS5JbnRFeHByCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuQXN0LkV4cHIK</text>
+        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuRXhwci4qCmltcG9ydCBjYWxjdWxhLkV4cHIuQXRvbS5JbnRFeHByCg==</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>

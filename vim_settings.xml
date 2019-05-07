@@ -131,12 +131,12 @@
       <file name="/New Kotlin Property Initializer.txt.ft" timestamp="1557069335800">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" timestamp="1557252572249">
-        <mark key="'" line="28" column="43" />
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="13" column="4" />
-        <mark key="^" line="21" column="12" />
-        <mark key="." line="13" column="4" />
+      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" timestamp="1557254318591">
+        <mark key="'" line="27" column="13" />
+        <mark key="[" line="27" column="48" />
+        <mark key="]" line="27" column="49" />
+        <mark key="^" line="27" column="49" />
+        <mark key="." line="27" column="49" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspAndTest.kt" timestamp="1556570274465">
         <mark key="[" line="8" column="0" />
@@ -332,8 +332,8 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/calc/mini.cal" timestamp="1557252127556">
-        <mark key="[" line="0" column="2" />
+      <file name="$USER_HOME$/work/Calcula/calc/mini.cal" timestamp="1557253818167">
+        <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="3" />
@@ -575,55 +575,56 @@
       <jump line="16" column="17" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" />
       <jump line="49" column="2" filename="$USER_HOME$/work/Calcula/src/calcula/Main.kt" />
+      <jump line="27" column="13" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvL3ByaW50bG4oY3VyVG9rZW4oKTo6Y2xhc3MuamF2YSkKCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>return e</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>Bin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuICh2YWwgdG9rZW4gPSBuZXh0VG9rZW4oKSkgewogICAgICAgICAgICBpcyBGYWN0b3JPcHIgLT4gdG9rZW4KICAgICAgICAgICAgZWxzZSAgICAgICAgIC0+IGV4cGVjdGVkRXJyb3IoInsqLCAvfSIsIHRva2VuKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGZ1biBmYWN0b3IoKSA9IGJpbkV4cHIoOjphdG9tLCA6OmZhY3Rvck9wciwgRmFjdG9yT3ByOjpjbGFzcy5qYXZhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKG5leHRUb2tlbigpIGlzIFQpCg==</text>
+        <text encoding="base64">ICAgICAgICAvL3ByaW50bG4oY3VyVG9rZW4oKTo6Y2xhc3MuamF2YSkKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGN1clRva2VuKCk6OmNsYXNzKQogICAgICAgIHByaW50bG4oY2xhenopCiAgICAgICAgcHJpbnRsbihjbGF6ei5pc0luc3RhbmNlKGN1clRva2VuKCkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuY29tcGlsZXIuQXNtCmltcG9ydCBjYWxjdWxhLmNvbXBpbGVyLmNvbXBpbGUK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlzIEJvb2xFeHByICAtPiBjb21waWxlKGFzbSkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEucGFyc2VyLnBhcnNlRXhwcgo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuIChjdXJUb2tlbigpLmphdmFDbGFzcykgewogICAgICAgICAgICBjbGF6ejo6Y2xhc3MgLT4gCiAgICAgICAgICAgIGVsc2UgLT4gZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KDYgLSAyKSAvIDIK</text>
+        <text encoding="base64">ICAgICAgICBjdXJUb2tlbigpOjpjbGFzcy5pc0luc3RhbmNlKGNsYXp6KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+        <text encoding="base64">a3l5cAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlcihmaWxlbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICBUOjpjbGFzcy5qYXZhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKG5leHRUb2tlbigpIGlzIFQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>Bin</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>Bin</last-pattern>
       <last-replace>()</last-replace>
       <last-substitute>\(s\)</last-substitute>
       <last-dir>1</last-dir>
@@ -642,6 +643,7 @@
         <entry>\(s\)</entry>
         <entry>sc.</entry>
         <entry>log</entry>
+        <entry>Bin</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>

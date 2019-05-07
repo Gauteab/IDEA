@@ -131,12 +131,12 @@
       <file name="/New Kotlin Property Initializer.txt.ft" timestamp="1557069335800">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" timestamp="1557252136881">
+      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" timestamp="1557252572249">
         <mark key="'" line="28" column="43" />
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="8" />
-        <mark key="^" line="32" column="26" />
-        <mark key="." line="17" column="8" />
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="13" column="4" />
+        <mark key="^" line="21" column="12" />
+        <mark key="." line="13" column="4" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspAndTest.kt" timestamp="1556570274465">
         <mark key="[" line="8" column="0" />
@@ -578,10 +578,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>factor()</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>factor()</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -590,31 +590,31 @@
         <text encoding="base64">ICAgICAgICB3aGVuICh2YWwgdG9rZW4gPSBuZXh0VG9rZW4oKSkgewogICAgICAgICAgICBpcyBGYWN0b3JPcHIgLT4gdG9rZW4KICAgICAgICAgICAgZWxzZSAgICAgICAgIC0+IGV4cGVjdGVkRXJyb3IoInsqLCAvfSIsIHRva2VuKQogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKG5leHRUb2tlbigpIGlzIFQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuY29tcGlsZXIuQXNtCmltcG9ydCBjYWxjdWxhLmNvbXBpbGVyLmNvbXBpbGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlzIEJvb2xFeHByICAtPiBjb21waWxlKGFzbSkK</text>
+        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuY29tcGlsZXIuQXNtCmltcG9ydCBjYWxjdWxhLmNvbXBpbGVyLmNvbXBpbGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEucGFyc2VyLnBhcnNlRXhwcgo=</text>
+        <text encoding="base64">ICAgIGlzIEJvb2xFeHByICAtPiBjb21waWxlKGFzbSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KDYgLSAyKSAvIDIK</text>
+        <text encoding="base64">aW1wb3J0IGNhbGN1bGEucGFyc2VyLnBhcnNlRXhwcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+        <text encoding="base64">KDYgLSAyKSAvIDIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlcihmaWxlbmFtZSkK</text>
+        <text encoding="base64">ICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlcihmaWxlbmFtZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY3VyVG9rZW4oKSBpcyBGYWN0b3JPcHIpCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

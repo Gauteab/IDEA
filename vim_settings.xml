@@ -131,6 +131,12 @@
       <file name="/New Kotlin Property Initializer.txt.ft" timestamp="1557069335800">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" timestamp="1557245972719">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="22" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspAndTest.kt" timestamp="1556570274465">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -228,7 +234,7 @@
         <mark key="^" line="21" column="27" />
         <mark key="." line="22" column="16" />
       </file>
-      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1557069327473">
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1557245980157">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/main/Main.kt" timestamp="1556541711154">
@@ -349,11 +355,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/Ast.kt" timestamp="1557126719073">
-        <mark key="[" line="9" column="76" />
-        <mark key="]" line="14" column="47" />
-        <mark key="^" line="14" column="47" />
-        <mark key="." line="14" column="47" />
+      <file name="$USER_HOME$/work/Calcula/src/calcula/Ast.kt" timestamp="1557245609807">
+        <mark key="[" line="8" column="69" />
+        <mark key="]" line="8" column="77" />
+        <mark key="." line="8" column="77" />
+        <mark key="^" line="8" column="77" />
       </file>
       <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" timestamp="1557152008394">
         <mark key="'" line="24" column="29" />
@@ -379,7 +385,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="11" column="21" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1557069301690">
+      <file name="/HTML File.txt.ft" timestamp="1557245979817">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspFloatLiteral.kt" timestamp="1556537952655">
@@ -565,10 +571,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZ1biBpZGl2KHMxOiBTdHJpbmcsIHMyOiBTdHJpbmcpID0gKyIgIGlkaXYgJHMxLCAkczIiCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuICh2YWwgdG9rZW4gPSBzYy5uZXh0VG9rZW4oKSkgewogICAgICAgICAgICBpcyBJbnRMaXQgLT4gSW50RXhwcih0b2tlbi52YWx1ZSkKICAgICAgICAgICAgZWxzZSAgICAgIC0+IAogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>else</text>
+        <text>token.value</text>
       </register>
       <register name="/" type="4">
         <text>\(s\)</text>
@@ -577,37 +583,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICc9JyAgLT4gRXEgICAgICB0byAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1biBpZGl2KHMxOiBTdHJpbmcsIHMyOiBTdHJpbmcpID0gKyIgIGlkaXYgJHMxLCAkczIiCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuICh2YWwgdG9rZW4gPSBzYy5uZXh0VG9rZW4oKSkgewogICAgICAgICAgICBpcyBJbnRMaXQgLT4gSW50RXhwcih0b2tlbi52YWx1ZSkKICAgICAgICAgICAgZWxzZSAgICAgIC0+IAogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZ1biBpZGl2KHM6IFN0cmluZyk6IEFzbSB7CgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2MuY3VyVG9rZW4oKSAhaXMgSW50TGl0KSBwYXJzZUVycm9yKCIiKQogICAgICAgIEludEV4cHIoc2MubmV4dFRva2VuKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICh0ICFpcyBUb2tlbi5JbnRMaXQpIGV4cAo=</text>
+        <text encoding="base64">aW1wb3J0IGNhbGN1bGEucGFyc2VyLnNjYW5uZXIuVG9rZW4uKgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuQXN0Cg==</text>
+        <text encoding="base64">LyogICAgc2VhbGVkIGNsYXNzIEV4cHIgOiBBc3QoKSB7CgogICAgICAgIGRhdGEgY2xhc3MgQ29tcGFyaXNvbih2YWwgdGVybXM6IExpc3Q8VGVybT4sIHZhbCBvcHJzOiBMaXN0PENvbXBPcHI+KSA6IEV4cHIoKQogICAgICAgIGRhdGEgY2xhc3MgVGVybSh2YWwgZmFjdG9yczogTGlzdDxGYWN0b3I+LCB2YWwgb3ByczogTGlzdDxUZXJtT3ByPikgICA6IEV4cHIoKQogICAgICAgIGRhdGEgY2xhc3MgRmFjdG9yKHZhbCBhdG9tczogTGlzdDxBdG9tPiwgdmFsIG9wcnM6IExpc3Q8RmFjdG9yT3ByPikgICA6IEV4cHIoKQoqLwo=</text>
       </register>
-      <register name="5" type="8">
-        <text>TODO()
-TODO()
-TODO()
-TODO()</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSBjbGFzcyBCb29sRXhwcih2YWwgdmFsdWU6IEJvb2xlYW4pIDogQXRvbSgpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGlzIEludEV4cHIgICAgLT4gVE9ETygpCiAgICBpcyBCb29sRXhwciAgIC0+IFRPRE8oKQogICAgaXMgSW5uZXJFeHByICAtPiBUT0RPKCk=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWFsZWQgY2xhc3MgQXRvbSA6IEV4cHIoKSB7CiAgICAgICAgICAgIGRhdGEgY2xhc3MgSW50RXhwcih2YWwgdmFsdWU6IEludCkgICAgICA6IEF0b20oKQogICAgICAgICAgICBkYXRhIGNsYXNzIEJvb2xFeHByKHZhbCB2YWx1ZTogQm9vbGVhbikgOiBBdG9tKCkKICAgICAgICAgICAgZGF0YSBjbGFzcyBJbm5lckV4cHIodmFsIGV4cHI6IEV4cHIpICAgIDogQXRvbSgpCiAgICAgICAgfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlICAgICAgIC0+IFRPRE8oKQo=</text>
+        <text encoding="base64">ICAgIHNlYWxlZCBjbGFzcyBFeHByIDogQXN0KCkgewogICAgICAgICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRPRE8oKQo=</text>
+        <text encoding="base64">ICAgIGZ1biBpZGl2KHMxOiBTdHJpbmcsIHMyOiBTdHJpbmcpID0gKyIgIGlkaXYgJHMxLCAkczIiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -639,9 +642,9 @@ TODO()</text>
         <entry encoding="base64">dnMg</entry>
         <entry>souece ~/.deavimrc</entry>
         <entry>%s/\(s\)/()/g</entry>
-        <entry>vs</entry>
         <entry>q</entry>
         <entry>qa</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />

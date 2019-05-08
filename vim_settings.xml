@@ -33,8 +33,8 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/scanner/Scanner.kt" timestamp="1557314205803">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/scanner/Scanner.kt" timestamp="1557322314149">
+        <mark key="[" line="29" column="17" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
@@ -258,12 +258,12 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" timestamp="1557321197019">
+      <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" timestamp="1557322540011">
         <mark key="'" line="14" column="9" />
-        <mark key="[" line="25" column="17" />
-        <mark key="]" line="25" column="17" />
-        <mark key="." line="25" column="17" />
-        <mark key="^" line="24" column="24" />
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="37" column="25" />
+        <mark key="." line="37" column="25" />
+        <mark key="^" line="37" column="25" />
       </file>
       <file name="$USER_HOME$/work/Mikkro/src/main/kotlin/com/example/compiler/backend/MkValue.kt" timestamp="1556469107590">
         <mark key="[" line="13" column="1" />
@@ -598,7 +598,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">MiArIC0tITEgPSAhMAo=</text>
+        <text encoding="base64">ICAgICAgICAvL05vdCAgIC0+IFRPRE86IEltcGxlbWVudCB1bmFyeSBvcGVyYXRvcnMK</text>
       </register>
       <register name="-" type="4">
         <text>TODO()</text>
@@ -610,31 +610,31 @@
         <text encoding="base64">aW1wb3J0IGNhbGN1bGEuRXhwci4qCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MiArIC0tITEgPSAhMAo=</text>
+        <text encoding="base64">ICAgICAgICAvL05vdCAgIC0+IFRPRE86IEltcGxlbWVudCB1bmFyeSBvcGVyYXRvcnMK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">MiArIC0tITEgPSAhMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ci8vIFRPRE8gbmpkbm9kZQo=</text>
+        <text encoding="base64">MiArIC0tITEgPSAhMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBQbHVzIC0+IFRPRE8oKQo=</text>
+        <text encoding="base64">Ci8vIFRPRE8gbmpkbm9kZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBFb2YgLT4gVE9ETygpCiAgICAgICAgTmV3bGluZSAtPiBUT0RPKCkK</text>
+        <text encoding="base64">ICAgICAgICBQbHVzIC0+IFRPRE8oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMZWZ0UGFyIC0+IFRPRE8oKQogICAgICAgIFJpZ2h0UGFyIC0+IFRPRE8oKQo=</text>
+        <text encoding="base64">ICAgICAgICBFb2YgLT4gVE9ETygpCiAgICAgICAgTmV3bGluZSAtPiBUT0RPKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNdWx0IC0+IFRPRE8oKQogICAgICAgIERpdiAtPiBUT0RPKCkKICAgICAgICBFcSAtPiBUT0RPKCkKICAgICAgICBMdCAtPiBUT0RPKCkKICAgICAgICBHdCAtPiBUT0RPKCkKICAgICAgICBBbmQgLT4gVE9ETygpCiAgICAgICAgT3IgLT4gVE9ETygpCg==</text>
+        <text encoding="base64">ICAgICAgICBMZWZ0UGFyIC0+IFRPRE8oKQogICAgICAgIFJpZ2h0UGFyIC0+IFRPRE8oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpcyBJbnRMaXQgLT4gVE9ETygpCg==</text>
+        <text encoding="base64">ICAgICAgICBNdWx0IC0+IFRPRE8oKQogICAgICAgIERpdiAtPiBUT0RPKCkKICAgICAgICBFcSAtPiBUT0RPKCkKICAgICAgICBMdCAtPiBUT0RPKCkKICAgICAgICBHdCAtPiBUT0RPKCkKICAgICAgICBBbmQgLT4gVE9ETygpCiAgICAgICAgT3IgLT4gVE9ETygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChwLm9wciA9PSBudWxsKSByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICBpcyBJbnRMaXQgLT4gVE9ETygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

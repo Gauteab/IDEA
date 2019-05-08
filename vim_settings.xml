@@ -33,10 +33,11 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/scanner/Scanner.kt" timestamp="1557322314149">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/scanner/Scanner.kt" timestamp="1557323544250">
+        <mark key="[" line="35" column="38" />
+        <mark key="]" line="35" column="38" />
+        <mark key="." line="35" column="38" />
+        <mark key="^" line="35" column="38" />
       </file>
       <file name="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" timestamp="1556874282051">
         <mark key="'" line="8" column="16" />
@@ -133,8 +134,8 @@
       <file name="/New Kotlin Property Initializer.txt.ft" timestamp="1557069335800">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" timestamp="1557319588557">
-        <mark key="[" line="2" column="19" />
+      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" timestamp="1557323867403">
+        <mark key="[" line="49" column="23" />
         <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
@@ -258,12 +259,12 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" timestamp="1557322540011">
+      <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" timestamp="1557323812674">
         <mark key="'" line="14" column="9" />
-        <mark key="[" line="36" column="26" />
-        <mark key="]" line="37" column="25" />
-        <mark key="." line="37" column="25" />
-        <mark key="^" line="37" column="25" />
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="16" column="28" />
+        <mark key="." line="16" column="28" />
+        <mark key="^" line="16" column="28" />
       </file>
       <file name="$USER_HOME$/work/Mikkro/src/main/kotlin/com/example/compiler/backend/MkValue.kt" timestamp="1556469107590">
         <mark key="[" line="13" column="1" />
@@ -333,8 +334,8 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/calc/mini.cal" timestamp="1557321427979">
-        <mark key="[" line="0" column="11" />
+      <file name="$USER_HOME$/work/Calcula/calc/mini.cal" timestamp="1557323706964">
+        <mark key="[" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/Scanner.kt" timestamp="1556622446106">
         <mark key="[" line="5" column="30" />
@@ -450,12 +451,12 @@
         <mark key="^" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/Expr.kt" timestamp="1557126693993">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="12" column="29" />
-        <mark key="^" line="12" column="29" />
-        <mark key="." line="12" column="29" />
+      <file name="$USER_HOME$/work/Calcula/src/calcula/Expr.kt" timestamp="1557323686736">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="28" column="57" />
+        <mark key="]" line="28" column="55" />
+        <mark key="^" line="28" column="55" />
+        <mark key="." line="28" column="55" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/runtime/RuntimeDictValue.kt" timestamp="1556571083227">
         <mark key="[" line="29" column="12" />
@@ -597,17 +598,17 @@
       <jump line="5" column="7" filename="$USER_HOME$/work/Calcula/src/calcula/Ast.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL05vdCAgIC0+IFRPRE86IEltcGxlbWVudCB1bmFyeSBvcGVyYXRvcnMK</text>
+      <register name="&quot;" type="4">
+        <text>Int</text>
       </register>
       <register name="-" type="4">
-        <text>TODO()</text>
+        <text>Int</text>
       </register>
       <register name="/" type="4">
         <text>As</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuRXhwci4qCg==</text>
+        <text encoding="base64">ICAgIGRhdGEgY2xhc3MgSW50RXhwcih2YWwgdmFsdWU6IEludCkgOiBFeHByKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvL05vdCAgIC0+IFRPRE86IEltcGxlbWVudCB1bmFyeSBvcGVyYXRvcnMK</text>

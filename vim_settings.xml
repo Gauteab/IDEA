@@ -108,11 +108,12 @@
         <mark key="^" line="28" column="4" />
         <mark key="." line="28" column="4" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Asm.kt" timestamp="1557309897201">
+      <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Asm.kt" timestamp="1557321151643">
         <mark key="'" line="4" column="4" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="33" />
+        <mark key="." line="19" column="33" />
+        <mark key="^" line="19" column="33" />
       </file>
       <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/memory.c" timestamp="1556965041252">
         <mark key="[" line="88" column="1" />
@@ -244,12 +245,12 @@
         <mark key="." line="148" column="7" />
         <mark key="^" line="148" column="7" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/Main.kt" timestamp="1557317362157">
+      <file name="$USER_HOME$/work/Calcula/src/calcula/Main.kt" timestamp="1557321226074">
         <mark key="'" line="10" column="4" />
-        <mark key="[" line="14" column="36" />
-        <mark key="]" line="14" column="11" />
-        <mark key="." line="14" column="11" />
-        <mark key="^" line="14" column="11" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspNotTest.kt" timestamp="1556552220472">
         <mark key="[" line="15" column="0" />
@@ -257,12 +258,12 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" timestamp="1557319613905">
+      <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" timestamp="1557321197019">
         <mark key="'" line="14" column="9" />
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="2" column="15" />
-        <mark key="." line="2" column="15" />
-        <mark key="^" line="3" column="14" />
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
+        <mark key="^" line="24" column="24" />
       </file>
       <file name="$USER_HOME$/work/Mikkro/src/main/kotlin/com/example/compiler/backend/MkValue.kt" timestamp="1556469107590">
         <mark key="[" line="13" column="1" />
@@ -331,6 +332,9 @@
         <mark key="]" line="14" column="29" />
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/Calcula/calc/mini.cal" timestamp="1557321427979">
+        <mark key="[" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/Scanner.kt" timestamp="1556622446106">
         <mark key="[" line="5" column="30" />
@@ -593,12 +597,11 @@
       <jump line="5" column="7" filename="$USER_HOME$/work/Calcula/src/calcula/Ast.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>Ast.
-Ast.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">MiArIC0tITEgPSAhMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>TODO()</text>
       </register>
       <register name="/" type="4">
         <text>As</text>
@@ -606,34 +609,32 @@ Ast.</text>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNhbGN1bGEuRXhwci4qCg==</text>
       </register>
-      <register name="1" type="8">
-        <text>Ast.
-Ast.</text>
+      <register name="1" type="2">
+        <text encoding="base64">MiArIC0tITEgPSAhMAo=</text>
       </register>
-      <register name="2" type="8">
-        <text>A
-A</text>
+      <register name="2" type="2">
+        <text encoding="base64">MiArIC0tITEgPSAhMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEuQXN0LkV4cHIK</text>
+        <text encoding="base64">Ci8vIFRPRE8gbmpkbm9kZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIFByaW50cyB0aGUgQVNUIHRvIHRoZSBjb25zb2xlCiAqLwpmdW4gcHJpbnQoKSA9IHByaW50VHJlZSh0aGlzLCAwKQpwcml2YXRlIGZ1biBwcmludFRyZWUoYXN0OiBBc3QsIGluZGVudDogSW50LCBwcmU6IEJvb2xlYW4gPSB0cnVlKSB7CiAgICBpZiAocHJlKSB7CiAgICAgICAgcHJpbnQoIiAgIi5yZXBlYXQoaW5kZW50KSkKICAgICAgICBwcmludCgiXHUyNTAyIikKICAgICAgICBwcmludCgiXHUyNTAwIi5yZXBlYXQoMikpCiAgICAgICAgcHJpbnQoIiAiKQogICAgfQogICAgcmV0dXJuIHdoZW4gKGFzdCkgewogICAgICAgIGlzIEludEV4cHIgLT4gcHJpbnRsbihhc3QudmFsdWUpCiAgICAgICAgaXMgQmluRXhwIC0+IHsKICAgICAgICAgICAgcHJpbnRsbihhc3Qub3ByKQogICAgICAgICAgICBwcmludFRyZWUoYXN0LmxlZnQsIGluZGVudCsxKQogICAgICAgICAgICBwcmludFRyZWUoYXN0LnJpZ2h0LCBpbmRlbnQrMSkKICAgICAgICB9CiAgICAgICAgaXMgUHJpbWFyeSAtPiB7CiAgICAgICAgICAgIGlmIChhc3Qub3ByICE9IG51bGwpIHByaW50KGFzdC5vcHIpCiAgICAgICAgICAgIHByaW50VHJlZShhc3QuZSwgaW5kZW50LCBmYWxzZSkKCiAgICAgICAgfQogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBQbHVzIC0+IFRPRE8oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQoK</text>
+        <text encoding="base64">ICAgICAgICBFb2YgLT4gVE9ETygpCiAgICAgICAgTmV3bGluZSAtPiBUT0RPKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VhbGVkIGNsYXNzIEFzdCB7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBMZWZ0UGFyIC0+IFRPRE8oKQogICAgICAgIFJpZ2h0UGFyIC0+IFRPRE8oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuIFNjYW5uZXIuYXN0KCk6IEFzdAoK</text>
+        <text encoding="base64">ICAgICAgICBNdWx0IC0+IFRPRE8oKQogICAgICAgIERpdiAtPiBUT0RPKCkKICAgICAgICBFcSAtPiBUT0RPKCkKICAgICAgICBMdCAtPiBUT0RPKCkKICAgICAgICBHdCAtPiBUT0RPKCkKICAgICAgICBBbmQgLT4gVE9ETygpCiAgICAgICAgT3IgLT4gVE9ETygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBlID0gb3IoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpcyBJbnRMaXQgLT4gVE9ETygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAucHJpbnQoKQo=</text>
+        <text encoding="base64">ICAgIGlmIChwLm9wciA9PSBudWxsKSByZXR1cm4K</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

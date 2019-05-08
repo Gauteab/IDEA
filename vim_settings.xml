@@ -133,11 +133,11 @@
       <file name="/New Kotlin Property Initializer.txt.ft" timestamp="1557069335800">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" timestamp="1557305167672">
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="29" column="31" />
-        <mark key="^" line="29" column="31" />
-        <mark key="." line="29" column="31" />
+      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" timestamp="1557307089130">
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="14" />
+        <mark key="." line="37" column="14" />
+        <mark key="^" line="37" column="14" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspAndTest.kt" timestamp="1556570274465">
         <mark key="[" line="8" column="0" />
@@ -591,10 +591,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZSA9IGYoKQogICAgICAgIGlmICghaXNWYWxpZE9wZXJhdG9yKGN1clRva2VuKCkpKSB7IHJldHVybiBlIH0KICAgICAgICB2YWwgb3ByID0gb3ByKGlzVmFsaWRPcGVyYXRvcikKICAgICAgICB2YWwgYiA9IGJpbkV4cHIoZiwgaXNWYWxpZE9wZXJhdG9yKQogICAgICAgIHJldHVybiBCaW5FeHAoYiwgb3ByLCBlKQogICAgICAgIC8vcmV0dXJuIEJpbkV4cChlLCBvcHIoaXNWYWxpZE9wZXJhdG9yKSwgYmluRXhwcihmLCBpc1ZhbGlkT3BlcmF0b3IpKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>wh</text>
@@ -602,32 +602,32 @@
       <register name="0" type="4">
         <text encoding="base64">aXNWYWxpZE9wZXJhdG9yOiAoVG9rZW4pIC0+IEJvb2xlYW4p</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIFNjYW5uZXIoZmlsZW5hbWUpLnBhcnNlRXhwcigpLmNvbXBpbGUodGhpcykK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICB2YWwgZSA9IGYoKQogICAgICAgIGlmICghaXNWYWxpZE9wZXJhdG9yKGN1clRva2VuKCkpKSB7IHJldHVybiBlIH0KICAgICAgICB2YWwgb3ByID0gb3ByKGlzVmFsaWRPcGVyYXRvcikKICAgICAgICB2YWwgYiA9IGJpbkV4cHIoZiwgaXNWYWxpZE9wZXJhdG9yKQogICAgICAgIHJldHVybiBCaW5FeHAoYiwgb3ByLCBlKQogICAgICAgIC8vcmV0dXJuIEJpbkV4cChlLCBvcHIoaXNWYWxpZE9wZXJhdG9yKSwgYmluRXhwcihmLCBpc1ZhbGlkT3BlcmF0b3IpKQ==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdoZW4gKG9wcikgewogICAgICAgIFBsdXMgIC0+IEFzbTo6YWRkCiAgICAgICAgTWludXMgLT4gQXNtOjpzdWIKICAgICAgICBNdWx0ICAtPiBBc206OmltdWwKICAgICAgICBEaXYgICAtPiBBc206OmlkaXYKLyogICAgICAgIEVxICAgIC0+IEFzbTo6CiAgICAgICAgTHQgICAgLT4gQXNtOjoKICAgICAgICBHdCAgICAtPiBBc206OiovCiAgICAgICAgQW5kICAgLT4gQXNtOjphbmQKICAgICAgICBPciAgICAtPiBBc206Om9yCiAgICAgICAgLy9Ob3QgICAtPiBBc206OgogICAgICAgIGVsc2UgIC0+IFRPRE8oKQogICAgfShhc20sICJyYXgiLCAicmN4IikK</text>
+        <text encoding="base64">ICAgICAgICBlcy56aXAob3MpLmFzUmV2ZXJzZWQoKS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzbTo6Y21kKCkK</text>
+        <text encoding="base64">ICAgIFNjYW5uZXIoZmlsZW5hbWUpLnBhcnNlRXhwcigpLmNvbXBpbGUodGhpcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1biB0ZXJtKCkgICAgICAgPSBiaW5FeHByKDo6ZmFjdG9yKSB7IGl0IGlzIFRlcm1PcHIgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1biBmYWN0b3IoKSAgICAgPSBiaW5FeHByKDo6YXRvbSkgICB7IGl0IGlzIEZhY3Rvck9wciB9Cg==</text>
+        <text encoding="base64">ICAgIHdoZW4gKG9wcikgewogICAgICAgIFBsdXMgIC0+IEFzbTo6YWRkCiAgICAgICAgTWludXMgLT4gQXNtOjpzdWIKICAgICAgICBNdWx0ICAtPiBBc206OmltdWwKICAgICAgICBEaXYgICAtPiBBc206OmlkaXYKLyogICAgICAgIEVxICAgIC0+IEFzbTo6CiAgICAgICAgTHQgICAgLT4gQXNtOjoKICAgICAgICBHdCAgICAtPiBBc206OiovCiAgICAgICAgQW5kICAgLT4gQXNtOjphbmQKICAgICAgICBPciAgICAtPiBBc206Om9yCiAgICAgICAgLy9Ob3QgICAtPiBBc206OgogICAgICAgIGVsc2UgIC0+IFRPRE8oKQogICAgfShhc20sICJyYXgiLCAicmN4IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1biBjb21wKCkgICAgICAgPSBiaW5FeHByKDo6dGVybSkgICB7IGl0IGlzIENvbXBPcHIgICB9Cg==</text>
+        <text encoding="base64">ICAgIGFzbTo6Y21kKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBjb21wKCkgICAgICAgPSBiaW5FeHByKDo6dGVybSkgICB7IGl0IGlzIENvbXBPcHIgICB9Cg==</text>
+        <text encoding="base64">ICAgIGZ1biB0ZXJtKCkgICAgICAgPSBiaW5FeHByKDo6ZmFjdG9yKSB7IGl0IGlzIFRlcm1PcHIgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1biBjb21wKCkgICAgICAgPSBiaW5FeHByKDo6dGVybSkgICB7IGl0IGlzIENvbXBPcHIgICB9Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBmYWN0b3IoKSAgICAgPSBiaW5FeHByKDo6YXRvbSkgICB7IGl0IGlzIEZhY3Rvck9wciB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>

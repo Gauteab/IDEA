@@ -132,11 +132,11 @@
       <file name="/New Kotlin Property Initializer.txt.ft" timestamp="1557069335800">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" timestamp="1557315961625">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="37" column="29" />
-        <mark key="^" line="37" column="29" />
-        <mark key="." line="37" column="29" />
+      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" timestamp="1557316507833">
+        <mark key="[" line="40" column="24" />
+        <mark key="]" line="40" column="24" />
+        <mark key="." line="40" column="24" />
+        <mark key="^" line="40" column="23" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspAndTest.kt" timestamp="1556570274465">
         <mark key="[" line="8" column="0" />
@@ -244,12 +244,12 @@
         <mark key="." line="148" column="7" />
         <mark key="^" line="148" column="7" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/Main.kt" timestamp="1557315897394">
+      <file name="$USER_HOME$/work/Calcula/src/calcula/Main.kt" timestamp="1557317362157">
         <mark key="'" line="10" column="4" />
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="10" column="5" />
-        <mark key="." line="10" column="5" />
-        <mark key="^" line="10" column="5" />
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="14" column="11" />
+        <mark key="." line="14" column="11" />
+        <mark key="^" line="14" column="11" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspNotTest.kt" timestamp="1556552220472">
         <mark key="[" line="15" column="0" />
@@ -257,12 +257,12 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" timestamp="1557314427713">
+      <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" timestamp="1557316751278">
         <mark key="'" line="14" column="9" />
-        <mark key="[" line="5" column="0" />
+        <mark key="[" line="16" column="42" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-        <mark key="^" line="42" column="18" />
+        <mark key="^" line="43" column="18" />
       </file>
       <file name="$USER_HOME$/work/Mikkro/src/main/kotlin/com/example/compiler/backend/MkValue.kt" timestamp="1556469107590">
         <mark key="[" line="13" column="1" />
@@ -332,6 +332,9 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/work/Calcula/calc/mini.cal" timestamp="1557316774940">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/Scanner.kt" timestamp="1556622446106">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="5" column="18" />
@@ -350,11 +353,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/Ast.kt" timestamp="1557316127026">
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="11" column="29" />
-        <mark key="." line="11" column="29" />
-        <mark key="^" line="11" column="29" />
+      <file name="$USER_HOME$/work/Calcula/src/calcula/Ast.kt" timestamp="1557316849933">
+        <mark key="[" line="34" column="29" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" timestamp="1557260503618">
         <mark key="'" line="0" column="0" />
@@ -593,11 +595,11 @@
       <jump line="10" column="4" filename="$USER_HOME$/work/Calcula/src/calcula/Main.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>j</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAucHJpbnQoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>atom</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
@@ -606,31 +608,31 @@
         <text encoding="base64">ICAgICAgICAgICAgRXEgICAgLT4gY21wKCJyY3giLCAicmF4IikuZmxhZ0ludG9SYXgoNikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAucHJpbnQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEucGFyc2VyLlBhcnNlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIFNjYW5uZXIoZmlsZW5hbWUpCiAgICAuZXhwcigpCiAgICAucHJpbnQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgUGFyc2VyKHZhbCBzYzogU2Nhbm5lcikgewoKICAgIGNvbnN0cnVjdG9yKGZpbGVuYW1lOiBTdHJpbmcpIDogdGhpcyhTY2FubmVyKGZpbGVuYW1lKSkKCiAgICBwcml2YXRlIGZ1biBjdXJUb2tlbigpICA9IHNjLmN1clRva2VuKCkKICAgIHByaXZhdGUgZnVuIG5leHRUb2tlbigpID0gc2MubmV4dFRva2VuKCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">MiArIDQgPCAzICogMyA9IDAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0UGFyc2VyKGZpbGVuYW1lKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiICAiLnJlcGVhdChpbmRlbnQpKQogICAgICAgIHByaW50KCJcdTI1MDIiKQogICAgICAgIHByaW50KCJcdTI1MDAiLnJlcGVhdCgyKSkKICAgICAgICBwcmludCgiICIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlc3RQYXJzZXIoZmlsZW5hbWUpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ub3JnLmFwYWNoZS54cGF0aC5pbnRlcm5hbC5vcGVyYXRpb25zLkJvb2wK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEucGFyc2VyLnNjYW5uZXIuVG9rZW4uQ29tcE9wci4qCmltcG9ydCBjYWxjdWxhLnBhcnNlci5zY2FubmVyLlRva2VuLkZhY3Rvck9wci4qCmltcG9ydCBjYWxjdWxhLnBhcnNlci5zY2FubmVyLlRva2VuLlRlcm1PcHIuKgo=</text>
+        <text encoding="base64">ICAgIHZhbCBlID0gZXhwcigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNhbGN1bGEucGFyc2VyLnNjYW5uZXIuVG9rZW4uQ29tcE9wci4qCmltcG9ydCBjYWxjdWxhLnBhcnNlci5zY2FubmVyLlRva2VuLkZhY3Rvck9wci4qCmltcG9ydCBjYWxjdWxhLnBhcnNlci5zY2FubmVyLlRva2VuLlRlcm1PcHIuKgo=</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

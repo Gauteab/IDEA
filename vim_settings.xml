@@ -132,6 +132,12 @@
       <file name="/New Kotlin Property Initializer.txt.ft" timestamp="1557069335800">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" timestamp="1557315961625">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="37" column="29" />
+        <mark key="^" line="37" column="29" />
+        <mark key="." line="37" column="29" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspAndTest.kt" timestamp="1556570274465">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -238,10 +244,12 @@
         <mark key="." line="148" column="7" />
         <mark key="^" line="148" column="7" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/Main.kt" timestamp="1557314960367">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
+      <file name="$USER_HOME$/work/Calcula/src/calcula/Main.kt" timestamp="1557315897394">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="10" column="5" />
+        <mark key="." line="10" column="5" />
+        <mark key="^" line="10" column="5" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspNotTest.kt" timestamp="1556552220472">
         <mark key="[" line="15" column="0" />
@@ -342,11 +350,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/Ast.kt" timestamp="1557314452731">
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="10" column="29" />
-        <mark key="." line="10" column="29" />
-        <mark key="^" line="10" column="29" />
+      <file name="$USER_HOME$/work/Calcula/src/calcula/Ast.kt" timestamp="1557316127026">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+        <mark key="^" line="11" column="29" />
       </file>
       <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" timestamp="1557260503618">
         <mark key="'" line="0" column="0" />
@@ -404,7 +412,7 @@
         <mark key="." line="25" column="23" />
         <mark key="^" line="25" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557313860948">
+      <file name="/Dummy.txt" timestamp="1557315911556">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/uio/in2000/eksamen/src/Spørsmål.txt" timestamp="1556875099426">
@@ -483,9 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="22" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspFactor.kt" />
-      <jump line="12" column="18" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspFactor.kt" />
-      <jump line="15" column="19" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspPrimary.kt" />
       <jump line="13" column="18" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspTerm.kt" />
       <jump line="11" column="33" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspTerm.kt" />
       <jump line="18" column="39" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspTerm.kt" />
@@ -508,7 +513,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" />
       <jump line="8" column="16" filename="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" />
       <jump line="528" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/kernel.c" />
-      <jump line="34" column="21" filename="$USER_HOME$/work/Calcula/src/calcula/Main.kt" />
       <jump line="46" column="0" filename="$USER_HOME$/work/Calcula/src/calcula/Main.kt" />
       <jump line="15" column="17" filename="$USER_HOME$/work/Calcula/src/calcula/scanner/Token.kt" />
       <jump line="9" column="0" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" />
@@ -583,16 +587,20 @@
       <jump line="62" column="0" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" />
       <jump line="71" column="0" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" />
       <jump line="76" column="0" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" />
+      <jump line="34" column="0" filename="$USER_HOME$/work/Calcula/src/calcula/Main.kt" />
+      <jump line="18" column="4" filename="$USER_HOME$/work/Calcula/src/calcula/Main.kt" />
+      <jump line="13" column="4" filename="$USER_HOME$/work/Calcula/src/calcula/Main.kt" />
+      <jump line="10" column="4" filename="$USER_HOME$/work/Calcula/src/calcula/Main.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>er</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">ZnVuIA==</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRXEgICAgLT4gY21wKCJyY3giLCAicmF4IikuZmxhZ0ludG9SYXgoNikK</text>
@@ -625,16 +633,16 @@
         <text encoding="base64">aW1wb3J0IGNhbGN1bGEucGFyc2VyLnNjYW5uZXIuVG9rZW4uQ29tcE9wci4qCmltcG9ydCBjYWxjdWxhLnBhcnNlci5zY2FubmVyLlRva2VuLkZhY3Rvck9wci4qCmltcG9ydCBjYWxjdWxhLnBhcnNlci5zY2FubmVyLlRva2VuLlRlcm1PcHIuKgo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">ZnVuIA==</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern encoding="base64">ZnVuIA==</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace>()</last-replace>
       <last-substitute>\(s\)</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -655,6 +663,7 @@
         <entry>IntE</entry>
         <entry>wh</entry>
         <entry encoding="base64">ZnVuIA==</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
@@ -665,8 +674,8 @@
         <entry>%s/\(s\)/()/g</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>q</entry>
-        <entry>vs</entry>
         <entry>qa</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />

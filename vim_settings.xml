@@ -230,10 +230,11 @@
       <file name="/New Kotlin Secondary Constructor Body.txt.ft" timestamp="1557069336382">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/in2000/untitled/src/HvaSkjer.kt" timestamp="1557750916606">
-        <mark key="]" line="8" column="28" />
-        <mark key="^" line="8" column="28" />
-        <mark key="." line="8" column="28" />
+      <file name="$USER_HOME$/work/uio/in2000/untitled/src/HvaSkjer.kt" timestamp="1557752263602">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="11" column="23" />
       </file>
       <file name="$USER_HOME$/work/Calcula/src/calcula/scanner/Token.kt" timestamp="1557095346842">
         <mark key="'" line="15" column="17" />
@@ -449,12 +450,12 @@
         <mark key="^" line="26" column="5" />
         <mark key="." line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" timestamp="1556873521860">
+      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" timestamp="1557752385798">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="2" />
-        <mark key="^" line="2" column="2" />
-        <mark key="." line="2" column="2" />
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="11" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="9" column="11" />
       </file>
       <file name="$USER_HOME$/work/Calcula/src/calcula/Expr.kt" timestamp="1557323686736">
         <mark key="'" line="15" column="0" />
@@ -603,8 +604,8 @@
       <jump line="5" column="7" filename="$USER_HOME$/work/Calcula/src/calcula/Ast.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>length</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>length</text>
@@ -616,31 +617,31 @@
         <text encoding="base64">ICAgIGRhdGEgY2xhc3MgSW50RXhwcih2YWwgdmFsdWU6IEludCkgOiBFeHByKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL05vdCAgIC0+IFRPRE86IEltcGxlbWVudCB1bmFyeSBvcGVyYXRvcnMK</text>
+        <text encoding="base64">CmZ1biBQb2ludC5mKCkgPSB4ICogeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MiArIC0tITEgPSAhMAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MiArIC0tITEgPSAhMAo=</text>
+        <text encoding="base64">ICAgICAgICAvL05vdCAgIC0+IFRPRE86IEltcGxlbWVudCB1bmFyeSBvcGVyYXRvcnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ci8vIFRPRE8gbmpkbm9kZQo=</text>
+        <text encoding="base64">MiArIC0tITEgPSAhMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQbHVzIC0+IFRPRE8oKQo=</text>
+        <text encoding="base64">MiArIC0tITEgPSAhMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBFb2YgLT4gVE9ETygpCiAgICAgICAgTmV3bGluZSAtPiBUT0RPKCkK</text>
+        <text encoding="base64">Ci8vIFRPRE8gbmpkbm9kZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMZWZ0UGFyIC0+IFRPRE8oKQogICAgICAgIFJpZ2h0UGFyIC0+IFRPRE8oKQo=</text>
+        <text encoding="base64">ICAgICAgICBQbHVzIC0+IFRPRE8oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNdWx0IC0+IFRPRE8oKQogICAgICAgIERpdiAtPiBUT0RPKCkKICAgICAgICBFcSAtPiBUT0RPKCkKICAgICAgICBMdCAtPiBUT0RPKCkKICAgICAgICBHdCAtPiBUT0RPKCkKICAgICAgICBBbmQgLT4gVE9ETygpCiAgICAgICAgT3IgLT4gVE9ETygpCg==</text>
+        <text encoding="base64">ICAgICAgICBFb2YgLT4gVE9ETygpCiAgICAgICAgTmV3bGluZSAtPiBUT0RPKCkK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

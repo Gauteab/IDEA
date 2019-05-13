@@ -76,6 +76,7 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
+      <file name="$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Sequences.kt" timestamp="1557785223398" />
       <file name="$USER_HOME$/work/Calcula/src/calcula/scanner/Scanner.kt" timestamp="1557095299283">
         <mark key="[" line="45" column="24" />
         <mark key="]" line="46" column="25" />
@@ -490,11 +491,11 @@
         <mark key="." line="2" column="43" />
         <mark key="^" line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/work/uio/in2000/untitled/src/SortOdds.kt" timestamp="1557772308573">
-        <mark key="[" line="8" column="51" />
-        <mark key="]" line="8" column="50" />
-        <mark key="^" line="8" column="50" />
-        <mark key="." line="8" column="50" />
+      <file name="$USER_HOME$/work/uio/in2000/untitled/src/SortOdds.kt" timestamp="1557785264140">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="5" />
+        <mark key="." line="18" column="5" />
+        <mark key="^" line="18" column="5" />
       </file>
       <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Expr.kt" timestamp="1557096006807">
         <mark key="[" line="7" column="66" />
@@ -618,44 +619,44 @@
       <jump line="0" column="2" filename="$USER_HOME$/work/uio/in2000/eksamen/src/Person.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogIEBwYXJhbSB1cmwK</text>
+      <register name="&quot;" type="4">
+        <text>asSequence</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>asSequence</text>
       </register>
       <register name="/" type="4">
         <text>As</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqICBAcGFyYW0gdXJsIFRoZSBlbmRwb2ludCBmb3IgdGhlIEhUVFAgR0VUIHJlcXVlc3QK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oeHMub2Rkc1NvcnRlZDEoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogIEBwYXJhbSB1cmwK</text>
+        <text encoding="base64">ZnVuIEludC5pc09kZCgpID0gdGhpcyAlIDIgIT0gMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqICBTdGFydCBhIHRocmVhZCB0aGUgCg==</text>
+        <text encoding="base64">ZnVuIEludC5pc09kZCgpID0gdGhpcyAlIDIgIT0gMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuIG1haW4oKSB7CiAgICB2YWwgam9iID0gdGhyCn0K</text>
+        <text encoding="base64">ICAgIHhzLm1hcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGF0YSBjbGFzcyAKCg==</text>
+        <text encoding="base64">ICAgIHhzLnN0cmVhbSgpLmZpbHRlciB7aXQgJSAyID09IDB9LnNvcnRlZCgpLml0ZXJhdG9yKCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmZ1biBQb2ludC5mKCkgPSB4ICogeQo=</text>
+        <text encoding="base64">dmFsIHhzID0gbGlzdE9mKDEsIDQsIDYsIDksIDcsIDMsIDIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL05vdCAgIC0+IFRPRE86IEltcGxlbWVudCB1bmFyeSBvcGVyYXRvcnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MiArIC0tITEgPSAhMAo=</text>
+        <text encoding="base64">ZnVuIEludC5pc0V2ZW4oKSA9IHRoaXMgJSAyID09IDAKCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
@@ -751,6 +752,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

@@ -266,6 +266,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/SortOdds.kt" timestamp="1557831368482" />
       <file name="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" timestamp="1557323812674">
         <mark key="'" line="14" column="9" />
         <mark key="[" line="15" column="28" />
@@ -292,12 +293,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer2.kt" timestamp="1557830441107">
+      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer2.kt" timestamp="1557830462830">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="20" column="20" />
-        <mark key="^" line="17" column="29" />
-        <mark key="." line="20" column="20" />
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="22" />
+        <mark key="^" line="20" column="22" />
+        <mark key="." line="20" column="22" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/scanner/Scanner.kt" timestamp="1556621342258">
         <mark key="[" line="34" column="17" />
@@ -407,11 +408,6 @@
       </file>
       <file name="/HTML File.txt.ft" timestamp="1557245979817">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/Calcula/calc/test.cal" timestamp="1557304936358">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspFloatLiteral.kt" timestamp="1556537952655">
         <mark key="[" line="23" column="8" />

@@ -76,7 +76,6 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Sequences.kt" timestamp="1557785223398" />
       <file name="$USER_HOME$/work/Calcula/src/calcula/scanner/Scanner.kt" timestamp="1557095299283">
         <mark key="[" line="45" column="24" />
         <mark key="]" line="46" column="25" />
@@ -293,6 +292,13 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="20" column="4" />
       </file>
+      <file name="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer2.kt" timestamp="1557830441107">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="20" column="20" />
+        <mark key="^" line="17" column="29" />
+        <mark key="." line="20" column="20" />
+      </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/scanner/Scanner.kt" timestamp="1556621342258">
         <mark key="[" line="34" column="17" />
         <mark key="]" line="34" column="17" />
@@ -460,11 +466,7 @@
         <mark key="." line="26" column="5" />
       </file>
       <file name="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" timestamp="1557752385798">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="9" column="11" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="9" column="11" />
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/Calcula/src/calcula/Expr.kt" timestamp="1557323686736">
         <mark key="'" line="15" column="0" />
@@ -517,7 +519,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="28" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspSyntax.kt" />
       <jump line="17" column="29" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspAtom.kt" />
       <jump line="6" column="4" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/scanner/Token.kt" />
       <jump line="22" column="25" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" />
@@ -617,16 +618,17 @@
       <jump line="5" column="7" filename="$USER_HOME$/work/Calcula/src/calcula/Ast.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/work/uio/in2000/eksamen/src/Spørsmål.txt" />
       <jump line="0" column="2" filename="$USER_HOME$/work/uio/in2000/eksamen/src/Person.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer2.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>asSequence</text>
+        <text>4, 7</text>
       </register>
       <register name="-" type="4">
-        <text>asSequence</text>
+        <text>4, 7</text>
       </register>
       <register name="/" type="4">
-        <text>As</text>
+        <text>4,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50bG4oeHMub2Rkc1NvcnRlZDEoKSkK</text>
@@ -663,9 +665,9 @@
       </register>
     </registers>
     <search>
-      <last-search>As</last-search>
+      <last-search>4,</last-search>
       <last-offset />
-      <last-pattern>As</last-pattern>
+      <last-pattern>4,</last-pattern>
       <last-replace>()</last-replace>
       <last-substitute>\(s\)</last-substitute>
       <last-dir>1</last-dir>
@@ -691,6 +693,7 @@
         <entry encoding="base64">ZnVuIA==</entry>
         <entry>test</entry>
         <entry>As</entry>
+        <entry>4,</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>

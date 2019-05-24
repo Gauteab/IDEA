@@ -429,11 +429,12 @@
         <mark key="." line="1" column="1" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/untitled/src/main.rs" timestamp="1558728819352">
-        <mark key="[" line="26" column="1" />
-        <mark key="]" line="25" column="15" />
-        <mark key="." line="25" column="15" />
-        <mark key="^" line="25" column="15" />
+      <file name="$USER_HOME$/CLionProjects/untitled/src/main.rs" timestamp="1558730512471">
+        <mark key="'" line="45" column="13" />
+        <mark key="[" line="42" column="61" />
+        <mark key="]" line="42" column="61" />
+        <mark key="^" line="42" column="61" />
+        <mark key="." line="42" column="61" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/runtime/RuntimeValue.kt" timestamp="1556568763042">
         <mark key="[" line="76" column="0" />
@@ -507,8 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspSyntax.kt" />
-      <jump line="15" column="75" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspForStmt.kt" />
       <jump line="10" column="31" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspArguments.kt" />
       <jump line="11" column="22" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspFactor.kt" />
       <jump line="12" column="18" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspFactor.kt" />
@@ -604,58 +603,63 @@
       <jump line="19" column="19" filename="$USER_HOME$/CLionProjects/untitled/src/main.rs" />
       <jump line="3" column="26" filename="$USER_HOME$/CLionProjects/untitled/src/main.rs" />
       <jump line="29" column="46" filename="$USER_HOME$/CLionProjects/untitled/src/main.rs" />
+      <jump line="33" column="52" filename="$USER_HOME$/CLionProjects/untitled/src/main.rs" />
+      <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/untitled/src/main.rs" />
+      <jump line="55" column="13" filename="$USER_HOME$/CLionProjects/untitled/src/main.rs" />
+      <jump line="5" column="13" filename="$USER_HOME$/CLionProjects/untitled/src/main.rs" />
+      <jump line="45" column="13" filename="$USER_HOME$/CLionProjects/untitled/src/main.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgYnl0ZXMubmUK</text>
+      <register name="&quot;" type="4">
+        <text>char</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>char</text>
       </register>
       <register name="/" type="4">
-        <text>cha</text>
+        <text>Le</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aXNWYWxpZE9wZXJhdG9yOiAoVG9rZW4pIC0+IEJvb2xlYW4p</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJygnID0+IFRva2VuOjpMZWZ0UGFyLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgYnl0ZXMubmUK</text>
+        <text encoding="base64">dXNlIGNyYXRlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTb21lKFRva2VuOjpFb0YpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciB4IGluIGZpbGUuYnl0ZXMoKSB7CiAgICAgICAgbGV0IGMgPSB4PyBhcyBjaGFyOwoKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHRva2VuOiBUb2tlbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIGMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9rZW46IFRva2VuOjpFb0YK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpZ25vcmUuY29udGFpbnMoJmMpIHsgY29udGludWU7IH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYiA9IGlmIGxldCBPayhieXRlKSA9IGJ5dGVzLm5leHQoKSB7IGJ5dGUgfSBlbHNlIHsgY29udGludWUgfSBhcyBjaGFyOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL2xldCBjID0gaWYgbGV0IFNvbWUoT2soYnl0ZSkpID0gYnl0ZXMubmV4dCgpIHsgYnl0ZSB9IGVsc2UgeyByZXR1cm4gTm9uZSB9IGFzIGNoYXI7CiAgICAgICAgbGV0IGMgPSBtYXRjaCBzZWxmLmJ5dGVzLm5leHQoKSB7CiAgICAgICAgICAgIE5vbmUgICAgICAgICA9PiByZXR1cm4gTm9uZSwKICAgICAgICAgICAgU29tZShFcnIoZSkpID0+IHBhbmljIShlKSwKICAgICAgICAgICAgU29tZShPayhiKSkgID0+IGIgYXMgY2hhcgoKICAgICAgICB9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBsaW5lcyA9IGZpbGUubGluZXMoKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYiA9IGlmIGxldCBPayhfKSA9IGJ5dGVzLm5leHQoKSB7IHggfSBlbHNlIHsgY29udGludWUgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgIF8gPT4ge30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYiA9IGJ5dGVzLm5leHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYyA9IHNlbGYuYnl0ZXMubmV4dCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>cha</last-search>
+      <last-search>Le</last-search>
       <last-offset />
-      <last-pattern>cha</last-pattern>
+      <last-pattern>Le</last-pattern>
       <last-replace>()</last-replace>
       <last-substitute>\(s\)</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -677,6 +681,7 @@
         <entry>Fi</entry>
         <entry>Set</entry>
         <entry>cha</entry>
+        <entry>Le</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>

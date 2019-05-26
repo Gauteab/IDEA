@@ -339,8 +339,8 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/untitled/main.clj" timestamp="1558726356025">
-        <mark key="[" line="1" column="16" />
+      <file name="$USER_HOME$/CLionProjects/untitled/main.clj" timestamp="1558731099307">
+        <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
@@ -429,12 +429,12 @@
         <mark key="." line="1" column="1" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/untitled/src/main.rs" timestamp="1558730512471">
-        <mark key="'" line="45" column="13" />
-        <mark key="[" line="42" column="61" />
-        <mark key="]" line="42" column="61" />
-        <mark key="^" line="42" column="61" />
-        <mark key="." line="42" column="61" />
+      <file name="$USER_HOME$/CLionProjects/untitled/src/main.rs" timestamp="1558781558952">
+        <mark key="'" line="33" column="15" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="46" column="14" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/runtime/RuntimeValue.kt" timestamp="1556568763042">
         <mark key="[" line="76" column="0" />
@@ -508,7 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="31" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspArguments.kt" />
       <jump line="11" column="22" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspFactor.kt" />
       <jump line="12" column="18" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspFactor.kt" />
       <jump line="15" column="19" filename="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspPrimary.kt" />
@@ -608,55 +607,56 @@
       <jump line="55" column="13" filename="$USER_HOME$/CLionProjects/untitled/src/main.rs" />
       <jump line="5" column="13" filename="$USER_HOME$/CLionProjects/untitled/src/main.rs" />
       <jump line="45" column="13" filename="$USER_HOME$/CLionProjects/untitled/src/main.rs" />
+      <jump line="32" column="15" filename="$USER_HOME$/CLionProjects/untitled/src/main.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>char</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIGNyYXRlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>char</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Le</text>
+        <text>byte</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJygnID0+IFRva2VuOjpMZWZ0UGFyLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnl0ZXM6IEJ1ZlJlYWRlcjo6bmV3KEZpbGU6Om9wZW4oZmlsZW5hbWUpLmV4cGVjdCgiRmFpbGVkIHRvIG9wZW4gZmlsZSIpKS5ieXRlcygpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNlIGNyYXRlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTb21lKFRva2VuOjpFb0YpCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgY2hhcnMgPSBsaW5lcy5uZXh0KCkuaXRlcigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRva2VuOiBUb2tlbgo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbXV0IGJ1ZmZlciA9IFN0cmluZzo6bmV3KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9rZW46IFRva2VuOjpFb0YK</text>
+        <text encoding="base64">ICAgICAgICByZWFkZXIucmVhZF90b19zdHJpbmcoJm11dCBidWZmZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcnM6IGJ1ZmZlci5jaGFycygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL2xldCBjID0gaWYgbGV0IFNvbWUoT2soYnl0ZSkpID0gYnl0ZXMubmV4dCgpIHsgYnl0ZSB9IGVsc2UgeyByZXR1cm4gTm9uZSB9IGFzIGNoYXI7CiAgICAgICAgbGV0IGMgPSBtYXRjaCBzZWxmLmJ5dGVzLm5leHQoKSB7CiAgICAgICAgICAgIE5vbmUgICAgICAgICA9PiByZXR1cm4gTm9uZSwKICAgICAgICAgICAgU29tZShFcnIoZSkpID0+IHBhbmljIShlKSwKICAgICAgICAgICAgU29tZShPayhiKSkgID0+IGIgYXMgY2hhcgoKICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYyA9IHNlbGYuYnl0ZXMubmV4dCgpLm1hcCh8cnwgci51bndyYXAoKSBhcyBjaGFyKT87CiAgICAgICAgU29tZShtYXRjaCBjIHsKICAgICAgICAgICAgJygnID0+IFRva2VuOjpMZWZ0UGFyLAogICAgICAgICAgICAnKScgPT4gVG9rZW46OlJpZ2h0UGFyLAogICAgICAgICAgICAnMCcgLi4uICc5JyA9PiB7CiAgICAgICAgICAgICAgICBzZWxmLmJ5dGVzLgoKICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLy9Ub2tlbjo6TnVtKGMudG9fZGlnaXQoMTApLnVud3JhcCgpIGFzIGY2NCksCiAgICAgICAgICAgIF8gPT4gVG9rZW46OkVvRiwKICAgICAgICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIGJ5dGVzOiBCeXRlczxCdWZSZWFkZXI8RmlsZT4+LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIF8gPT4ge30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnl0ZXM6IEJ1ZlJlYWRlcjo6bmV3KEZpbGU6Om9wZW4oZmlsZW5hbWUpLmV4cGVjdCgiRmFpbGVkIHRvIG9wZW4gZmlsZSIpKS5ieXRlcygpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYyA9IHNlbGYuYnl0ZXMubmV4dCgpCg==</text>
+        <text encoding="base64">ICAgIGxldCBieXRlcyA9IEJ1ZlJlYWRlcjo6bmV3KEZpbGU6Om9wZW4oZmlsZW5hbWUpLmV4cGVjdCgiRmFpbGVkIHRvIG9wZW4gZmlsZSIpKTsKICAgIGJ5dGVzLnJlYQo=</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>Le</last-search>
+      <last-search>byte</last-search>
       <last-offset />
-      <last-pattern>Le</last-pattern>
+      <last-pattern>byte</last-pattern>
       <last-replace>()</last-replace>
       <last-substitute>\(s\)</last-substitute>
       <last-dir>1</last-dir>
@@ -682,6 +682,7 @@
         <entry>Set</entry>
         <entry>cha</entry>
         <entry>Le</entry>
+        <entry>byte</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>

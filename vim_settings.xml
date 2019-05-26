@@ -316,10 +316,12 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1558876530304">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1558878077518">
+        <mark key="'" line="26" column="30" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="46" column="3" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -541,8 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" />
-      <jump line="24" column="0" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/parser/Expr.kt" />
       <jump line="26" column="0" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/parser/Expr.kt" />
       <jump line="23" column="38" filename="$USER_HOME$/work/Calculeese/src/calcula/parser/Expr.kt" />
       <jump line="21" column="22" filename="$USER_HOME$/work/Calculeese/src/calcula/compiler/Compile.kt" />
@@ -641,55 +641,57 @@
       <jump line="49" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/kernel.c" />
       <jump line="35" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/kernel.c" />
       <jump line="96" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell.c" />
+      <jump line="25" column="40" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="26" column="30" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICh1bnNpZ25lZCBpbnQpbG9hZGVyX3RocmVhZCwgICAgLyogTG9hZHMgc2hlbGwgKi8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>asSequence</text>
+        <text>block_num</text>
       </register>
       <register name="/" type="4">
-        <text>load</text>
+        <text>sblo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50bG4oeHMub2Rkc1NvcnRlZDEoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICh1bnNpZ25lZCBpbnQpbG9hZGVyX3RocmVhZCwgICAgLyogTG9hZHMgc2hlbGwgKi8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuIEludC5pc09kZCgpID0gdGhpcyAlIDIgIT0gMAo=</text>
+        <text encoding="base64">ICAgIGJsb2NrX2luaXQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuIEludC5pc09kZCgpID0gdGhpcyAlIDIgIT0gMAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHhzLm1hcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHhzLnN0cmVhbSgpLmZpbHRlciB7aXQgJSAyID09IDB9LnNvcnRlZCgpLml0ZXJhdG9yKCkK</text>
+        <text encoding="base64">ICAgIGludCBibG9ja19udW0gPSBvc19zaXplICsgMTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICh1bnNpZ25lZCBpbnQpbG9hZGVyX3RocmVhZCwgICAgLyogTG9hZHMgc2hlbGwgKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFsIHhzID0gbGlzdE9mKDEsIDQsIDYsIDksIDcsIDMsIDIpCg==</text>
+        <text encoding="base64">ZnVuIEludC5pc09kZCgpID0gdGhpcyAlIDIgIT0gMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuIEludC5pc09kZCgpID0gdGhpcyAlIDIgIT0gMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHhzLm1hcAo=</text>
       </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>load</last-search>
+      <last-search>sblo</last-search>
       <last-offset />
-      <last-pattern>load</last-pattern>
+      <last-pattern>sblo</last-pattern>
       <last-replace>()</last-replace>
       <last-substitute>\(s\)</last-substitute>
       <last-dir>1</last-dir>
@@ -697,7 +699,6 @@
     </search>
     <history>
       <history-search>
-        <entry>=</entry>
         <entry>\.kind</entry>
         <entry>b(</entry>
         <entry>newC</entry>
@@ -717,6 +718,7 @@
         <entry>byte</entry>
         <entry>static</entry>
         <entry>load</entry>
+        <entry>sblo</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
@@ -726,9 +728,9 @@
         <entry>souece ~/.deavimrc</entry>
         <entry>%s/\(s\)/()/g</entry>
         <entry>q</entry>
+        <entry>source ~/.ideavimrc</entry>
         <entry>qa</entry>
         <entry>vs</entry>
-        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -138,6 +138,9 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="11" column="16" />
       </file>
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell.c" timestamp="1558876965329">
+        <mark key="'" line="96" column="0" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspNotTest.kt" timestamp="1556538257235">
         <mark key="[" line="25" column="62" />
         <mark key="]" line="25" column="104" />
@@ -190,6 +193,7 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/inode.h" timestamp="1558876887118" />
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspCompOpr.kt" timestamp="1556552460048">
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="15" />
@@ -204,11 +208,6 @@
       </file>
       <file name="/HTML File.txt.ft" timestamp="1557245979817">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/Calcula/calc/test.cal" timestamp="1557304936358">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspInnerExpr.kt" timestamp="1556552735918">
         <mark key="[" line="9" column="4" />
@@ -251,11 +250,6 @@
         <mark key="]" line="29" column="12" />
         <mark key="^" line="30" column="15" />
         <mark key="." line="29" column="12" />
-      </file>
-      <file name="$USER_HOME$/work/Calcula/x.asm" timestamp="1557125804118">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/work/Calcula/src/calcula/parser/scanner/Token.kt" timestamp="1557314838546">
         <mark key="[" line="29" column="35" />
@@ -318,10 +312,11 @@
       <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/memory.c" timestamp="1556965041252">
         <mark key="[" line="88" column="1" />
       </file>
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.h" timestamp="1558876139235" />
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1558875029959">
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1558876530304">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -546,7 +541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="4" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" />
       <jump line="62" column="0" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Scanner.kt" />
       <jump line="24" column="0" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/parser/Expr.kt" />
       <jump line="26" column="0" filename="$USER_HOME$/work/Calculeese/src/calculeese/main/parser/Expr.kt" />
@@ -646,6 +640,7 @@
       <jump line="50" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/kernel.c" />
       <jump line="49" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/kernel.c" />
       <jump line="35" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/kernel.c" />
+      <jump line="96" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -655,7 +650,7 @@
         <text>asSequence</text>
       </register>
       <register name="/" type="4">
-        <text>static</text>
+        <text>load</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50bG4oeHMub2Rkc1NvcnRlZDEoKSkK</text>
@@ -692,17 +687,16 @@
       </register>
     </registers>
     <search>
-      <last-search>static</last-search>
+      <last-search>load</last-search>
       <last-offset />
-      <last-pattern>static</last-pattern>
+      <last-pattern>load</last-pattern>
       <last-replace>()</last-replace>
       <last-substitute>\(s\)</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>skip</entry>
         <entry>=</entry>
         <entry>\.kind</entry>
         <entry>b(</entry>
@@ -722,6 +716,7 @@
         <entry>Le</entry>
         <entry>byte</entry>
         <entry>static</entry>
+        <entry>load</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>

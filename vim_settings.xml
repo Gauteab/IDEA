@@ -76,12 +76,14 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Sequences.kt" timestamp="1557785223398" />
       <file name="$USER_HOME$/work/Calcula/src/calcula/scanner/Scanner.kt" timestamp="1557095299283">
         <mark key="[" line="45" column="24" />
         <mark key="]" line="46" column="25" />
         <mark key="^" line="46" column="25" />
         <mark key="." line="46" column="25" />
+      </file>
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/CMakeLists.txt" timestamp="1558873042441">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspName.kt" timestamp="1556552821348">
         <mark key="[" line="9" column="31" />
@@ -137,10 +139,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" timestamp="1557324894264">
+        <mark key="'" line="36" column="37" />
         <mark key="[" line="14" column="73" />
         <mark key="]" line="14" column="95" />
-        <mark key="^" line="14" column="72" />
         <mark key="." line="14" column="73" />
+        <mark key="^" line="14" column="72" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspAndTest.kt" timestamp="1556570274465">
         <mark key="[" line="8" column="0" />
@@ -350,6 +353,15 @@
       </file>
       <file name="$USER_HOME$/work/Calcula/calc/mini.cal" timestamp="1557323706964">
         <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/untitled/main.clj" timestamp="1558731099307">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/Scanner.kt" timestamp="1556622446106">
         <mark key="[" line="5" column="30" />
@@ -374,12 +386,7 @@
         <mark key="[" line="14" column="26" />
         <mark key="]" line="14" column="26" />
         <mark key="." line="14" column="26" />
-      </file>
-      <file name="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" timestamp="1557260503618">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+        <mark key="^" line="18" column="11" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspCompOpr.kt" timestamp="1556552460048">
         <mark key="[" line="10" column="17" />
@@ -401,11 +408,6 @@
       </file>
       <file name="/HTML File.txt.ft" timestamp="1557245979817">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/Calcula/calc/test.cal" timestamp="1557304936358">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspFloatLiteral.kt" timestamp="1556537952655">
         <mark key="[" line="23" column="8" />
@@ -440,6 +442,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/untitled/src/main.rs" timestamp="1558781558952">
+        <mark key="'" line="33" column="15" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="46" column="14" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/runtime/RuntimeValue.kt" timestamp="1556568763042">
         <mark key="[" line="76" column="0" />
@@ -687,10 +696,11 @@
         <entry>Bin</entry>
         <entry>,</entry>
         <entry>IntE</entry>
-        <entry>wh</entry>
-        <entry encoding="base64">ZnVuIA==</entry>
-        <entry>test</entry>
-        <entry>As</entry>
+        <entry>Fi</entry>
+        <entry>Set</entry>
+        <entry>cha</entry>
+        <entry>Le</entry>
+        <entry>byte</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
@@ -701,8 +711,8 @@
         <entry>%s/\(s\)/()/g</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>q</entry>
-        <entry>qa</entry>
         <entry>vs</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />

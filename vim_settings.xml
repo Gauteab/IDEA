@@ -205,6 +205,11 @@
       <file name="/HTML File.txt.ft" timestamp="1557245979817">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/Calcula/calc/test.cal" timestamp="1557304936358">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspInnerExpr.kt" timestamp="1556552735918">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="10" column="19" />
@@ -246,6 +251,11 @@
         <mark key="]" line="29" column="12" />
         <mark key="^" line="30" column="15" />
         <mark key="." line="29" column="12" />
+      </file>
+      <file name="$USER_HOME$/work/Calcula/x.asm" timestamp="1557125804118">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/work/Calcula/src/calcula/parser/scanner/Token.kt" timestamp="1557314838546">
         <mark key="[" line="29" column="35" />
@@ -310,6 +320,11 @@
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1558875029959">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -525,6 +540,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/block.c" timestamp="1558875708100" />
       <file name="/fragment.java" timestamp="1557313860972">
         <mark key="[" line="0" column="0" />
       </file>
@@ -672,7 +688,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
@@ -714,10 +730,10 @@
         <entry encoding="base64">dnMg</entry>
         <entry>souece ~/.deavimrc</entry>
         <entry>%s/\(s\)/()/g</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>q</entry>
-        <entry>vs</entry>
         <entry>qa</entry>
+        <entry>vs</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -770,6 +786,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

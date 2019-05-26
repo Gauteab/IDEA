@@ -181,8 +181,8 @@
         <mark key="." line="30" column="54" />
         <mark key="^" line="30" column="54" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/untitled/main.clj" timestamp="1558731099307">
-        <mark key="[" line="1" column="8" />
+      <file name="$USER_HOME$/CLionProjects/untitled/main.clj" timestamp="1558891443606">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
@@ -507,12 +507,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/untitled/src/main.rs" timestamp="1558781558952">
-        <mark key="'" line="33" column="15" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="46" column="14" />
+      <file name="$USER_HOME$/CLionProjects/untitled/src/main.rs" timestamp="1558891636435">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="49" column="53" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" timestamp="1557752385798">
         <mark key="'" line="21" column="0" />
@@ -546,7 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="18" filename="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" />
       <jump line="8" column="1" filename="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" />
       <jump line="18" column="0" filename="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" />
       <jump line="18" column="0" filename="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" />
@@ -646,13 +645,14 @@
       <jump line="75" column="7" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="18" column="3" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="35" column="21" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell_sim.c" />
+      <jump line="29" column="0" filename="$USER_HOME$/CLionProjects/untitled/src/main.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>superblock</text>
+        <text>Token::EoF</text>
       </register>
       <register name="/" type="4">
         <text>ls</text>
@@ -661,31 +661,31 @@
         <text encoding="base64">ICAgIHByaW50bG4oeHMub2Rkc1NvcnRlZDEoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFdyaXRlIHplcm8gdG8gaW5vZGUgc3BhY2UgYW5kIGJpdG1hcAoK</text>
+        <text encoding="base64">LyogICAgbG9vcCB7CiAgICAgICAgbGV0IGMgPSBpZiBsZXQgU29tZShPayhieXRlKSkgPSBieXRlcy5uZXh0KCkgeyBieXRlIH0gZWxzZSB7IGJyZWFrIH0gYXMgY2hhcjsKICAgICAgICBpZiBpZ25vcmUuY29udGFpbnMoJmMpIHsgY29udGludWU7IH0KICAgICAgICBwcmludGxuISgiezo/fSIsIGMpOwogICAgfSovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGcK</text>
+        <text encoding="base64">ICAgIGxldCBzID0gU3RyaW5nOjpuZXcoKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2RlZmluZSAK</text>
+        <text encoding="base64">ICAgIGxldCBpZ25vcmU6IEhhc2hTZXQ8Y2hhcj4gPSB2ZWMhKCdcbicsICcgJywgJ1x0JykuaW50b19pdGVyKCkuY29sbGVjdCgpOwoK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiM=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBsZXQgVG9rZW46OkVvRiA9IHRva2VuIHsgY29udGludWU7IH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIHRva2VuKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3RhdGljIHN0cnVjdCBkaXNrX3N1cGVyYmxvY2sgc2Jsb2NrX2Rpc2s7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNoYXJzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJsb2NrLT5kX3N1cGVyID0gc2Jsb2NrX2Rpc2s7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cnVjdCBkaXNrX3N1cGVyYmxvY2sgKnNibG9ja19kaXNrLAo=</text>
+        <text encoding="base64">dXNlIHN0ZDo6Y29sbGVjdGlvbnM6OnZlY19kZXF1ZTo6SXRlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

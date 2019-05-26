@@ -316,12 +316,12 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1558880760216">
-        <mark key="'" line="75" column="7" />
-        <mark key="[" line="72" column="4" />
-        <mark key="]" line="75" column="7" />
-        <mark key="." line="75" column="7" />
-        <mark key="^" line="75" column="7" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1558881711692">
+        <mark key="'" line="18" column="3" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="76" column="3" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -494,6 +494,9 @@
         <mark key="^" line="23" column="9" />
       </file>
       <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/createimage.c" timestamp="1558874177433" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell_sim.c" timestamp="1558881406334">
+        <mark key="'" line="35" column="21" />
+      </file>
       <file name="/Dummy.txt" timestamp="1557315911556">
         <mark key="[" line="0" column="0" />
       </file>
@@ -543,8 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="38" filename="$USER_HOME$/work/Calculeese/src/calcula/parser/Expr.kt" />
-      <jump line="21" column="22" filename="$USER_HOME$/work/Calculeese/src/calcula/compiler/Compile.kt" />
       <jump line="5" column="18" filename="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" />
       <jump line="8" column="1" filename="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" />
       <jump line="18" column="0" filename="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" />
@@ -643,61 +644,57 @@
       <jump line="25" column="40" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="26" column="30" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="75" column="7" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="18" column="3" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="35" column="21" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell_sim.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JnNibG9ja19tZW0uZF9zdXBlcg==</text>
+        <text>superblock</text>
       </register>
       <register name="/" type="4">
-        <text>sblo</text>
+        <text>ls</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50bG4oeHMub2Rkc1NvcnRlZDEoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3RhdGljIHN0cnVjdCBkaXNrX3N1cGVyYmxvY2sgc2Jsb2NrX2Rpc2s7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFdyaXRlIHplcm8gdG8gaW5vZGUgc3BhY2UgYW5kIGJpdG1hcAoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJsb2NrLT5kX3N1cGVyID0gc2Jsb2NrX2Rpc2s7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cnVjdCBkaXNrX3N1cGVyYmxvY2sgKnNibG9ja19kaXNrLAo=</text>
+        <text encoding="base64">I2RlZmluZSAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="5" type="4">
+        <text encoding="base64">CiM=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">c3RhdGljIHN0cnVjdCBkaXNrX3N1cGVyYmxvY2sgc2Jsb2NrX2Rpc2s7Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text>.
-.
-.
-.</text>
-      </register>
-      <register name="7" type="8">
-        <text>sblock_mem
-sblock_mem
-sblock_mem
-sblock_mem</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJsb2NrLT5kX3N1cGVyID0gc2Jsb2NrX2Rpc2s7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNibG9ja19tZW0uZF9zdXBlciA9IHNibG9ja19kaXNrOwogICAgc2Jsb2NrX21lbS5pYm1hcCAgID0gaW5vZGVfYm1hcDsKICAgIHNibG9ja19tZW0uZGJtYXAgICA9IGRibGtfYm1hcDsKICAgIHNibG9ja19tZW0uZGlydHkgICA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cnVjdCBkaXNrX3N1cGVyYmxvY2sgKnNibG9ja19kaXNrLAo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>sblo</last-search>
+      <last-search>ls</last-search>
       <last-offset />
-      <last-pattern>sblo</last-pattern>
+      <last-pattern>ls</last-pattern>
       <last-replace>()</last-replace>
       <last-substitute>\(s\)</last-substitute>
       <last-dir>1</last-dir>
@@ -705,7 +702,6 @@ sblock_mem</text>
     </search>
     <history>
       <history-search>
-        <entry>\.kind</entry>
         <entry>b(</entry>
         <entry>newC</entry>
         <entry>()</entry>
@@ -725,6 +721,7 @@ sblock_mem</text>
         <entry>static</entry>
         <entry>load</entry>
         <entry>sblo</entry>
+        <entry>ls</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>

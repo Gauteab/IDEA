@@ -327,8 +327,8 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1558968263583">
-        <mark key="'" line="163" column="0" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1558971630217">
+        <mark key="'" line="304" column="0" />
         <mark key="[" line="88" column="24" />
         <mark key="]" line="88" column="23" />
         <mark key="^" line="88" column="23" />
@@ -557,8 +557,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="21" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" />
-      <jump line="34" column="29" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" />
       <jump line="35" column="26" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" />
       <jump line="39" column="27" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" />
       <jump line="40" column="20" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" />
@@ -657,6 +655,8 @@
       <jump line="140" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="86" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/syslib.c" />
       <jump line="91" column="13" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/kernel.c" />
+      <jump line="31" column="38" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="304" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -666,7 +666,7 @@
         <text>filename</text>
       </register>
       <register name="/" type="4">
-        <text>cwd</text>
+        <text>seek</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qIEZpbmQgaW5vZGUgbnVtYmVyIGZvciB0aGUgZ2l2ZW4gcGF0aCAqLwogICAgaW5vZGVfdCBpbm9kZSA9IG5hbWUyaW5vZGUoZmlsZW5hbWUpOwoKICAgIGlmIChpbm9kZSA8IDAgLyogbm8gaW5vZGUgZm91bmQgKi8pIHsKICAgICAgcmV0dXJuIC0xOwogICAgfQoKICAgIHJldHVybiAwOwoK</text>
@@ -703,17 +703,16 @@
       </register>
     </registers>
     <search>
-      <last-search>cwd</last-search>
+      <last-search>seek</last-search>
       <last-offset />
-      <last-pattern>cwd</last-pattern>
+      <last-pattern>seek</last-pattern>
       <last-replace>()</last-replace>
       <last-substitute>\(s\)</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>s: Scanner</entry>
         <entry>\(s\)</entry>
         <entry>sc.</entry>
         <entry>log</entry>
@@ -733,6 +732,7 @@
         <entry>Set</entry>
         <entry>pcb</entry>
         <entry>cwd</entry>
+        <entry>seek</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>

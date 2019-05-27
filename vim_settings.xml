@@ -251,6 +251,9 @@
         <mark key="^" line="30" column="15" />
         <mark key="." line="29" column="12" />
       </file>
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/block_sim.c" timestamp="1558954268215">
+        <mark key="'" line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/work/Calcula/src/calcula/parser/scanner/Token.kt" timestamp="1557314838546">
         <mark key="[" line="29" column="35" />
         <mark key="]" line="2" column="43" />
@@ -312,7 +315,7 @@
       <file name="$USER_HOME$/work/uio/michagu_gauteab/P5/solution/memory.c" timestamp="1556965041252">
         <mark key="[" line="88" column="1" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.h" timestamp="1558883266003" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.h" timestamp="1558954766216" />
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
@@ -546,7 +549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/work/uio/in2000/eksamen/src/HvaSkjer.kt" />
       <jump line="18" column="0" filename="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" />
       <jump line="0" column="0" filename="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" />
       <jump line="8" column="16" filename="$USER_HOME$/work/uio/in2000/eksamen/src/pojo.java" />
@@ -646,6 +648,7 @@
       <jump line="35" column="21" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell_sim.c" />
       <jump line="29" column="0" filename="$USER_HOME$/CLionProjects/untitled/src/main.rs" />
       <jump line="47" column="3" filename="$USER_HOME$/CLionProjects/untitled/src/main.rs" />
+      <jump line="29" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/block_sim.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

@@ -40,6 +40,9 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="9" />
       </file>
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/syslib.c" timestamp="1558970847099">
+        <mark key="'" line="86" column="4" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspProgram.kt" timestamp="1556551684660">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -147,8 +150,8 @@
         <mark key="^" line="25" column="104" />
         <mark key="." line="25" column="104" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/kernel.c" timestamp="1558874532904">
-        <mark key="'" line="35" column="0" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/kernel.c" timestamp="1558970852897">
+        <mark key="'" line="91" column="13" />
       </file>
       <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/kernel.h" timestamp="1558960510057">
         <mark key="'" line="56" column="17" />
@@ -554,8 +557,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" />
-      <jump line="28" column="24" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" />
       <jump line="32" column="21" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" />
       <jump line="34" column="29" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" />
       <jump line="35" column="26" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" />
@@ -654,6 +655,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/kernel.h" />
       <jump line="56" column="17" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/kernel.h" />
       <jump line="140" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="86" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/syslib.c" />
+      <jump line="91" column="13" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/kernel.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

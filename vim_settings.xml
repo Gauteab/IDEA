@@ -150,7 +150,7 @@
       <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/kernel.c" timestamp="1558874532904">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/kernel.h" timestamp="1558958717756">
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/kernel.h" timestamp="1558959061152">
         <mark key="'" line="56" column="17" />
       </file>
       <file name="$USER_HOME$/work/Mikkro/src/main/kotlin/com/example/compiler/backend/MkValue.kt" timestamp="1556469107590">
@@ -324,11 +324,12 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1558958700710">
-        <mark key="'" line="127" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1558959799085">
+        <mark key="'" line="151" column="0" />
+        <mark key="[" line="89" column="4" />
+        <mark key="]" line="92" column="11" />
+        <mark key="." line="92" column="11" />
+        <mark key="^" line="92" column="11" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -553,7 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="4" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Asm.kt" />
       <jump line="78" column="0" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" />
       <jump line="28" column="24" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" />
       <jump line="32" column="21" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" />
@@ -653,55 +653,56 @@
       <jump line="128" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="0" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/kernel.h" />
       <jump line="56" column="17" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/kernel.h" />
+      <jump line="140" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3RhdGljIHN0cnVjdCBmZF9lbnRyeSAgICAgICBmZF9lbnRyaWVzW01BWF9PUEVOX0ZJTEVTXTsK</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
       <register name="-" type="4">
-        <text>and magic number</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>pcb</text>
+        <text>cwd</text>
       </register>
-      <register name="0" type="4">
-        <text>(Token::NoToken, State::Default)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8qIEZpbmQgaW5vZGUgbnVtYmVyIGZvciB0aGUgZ2l2ZW4gcGF0aCAqLwogICAgCiAgICBpZiAoMSAvKiBubyBpbm9kZSBmb3VuZCAqLykgewogICAgICByZXR1cm4gLTE7CiAgICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c3RhdGljIHN0cnVjdCBmZF9lbnRyeSAgICAgICBmZF9lbnRyaWVzW01BWF9PUEVOX0ZJTEVTXTsK</text>
+      <register name="1" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvLyBXcml0ZSB6ZXJvIHRvIGlub2RlIHNwYWNlIGFuZCBiaXRtYXAK</text>
+        <text encoding="base64">c3RhdGljIHN0cnVjdCBmZF9lbnRyeSAgICAgICBmZF9lbnRyaWVzW01BWF9PUEVOX0ZJTEVTXTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAvLyBDcmVhdGUgYnVmZmVyIHdpdGggc3VwZXJibG9jayBhbmQgbWFnaWMgbnVtYmVyCg==</text>
+        <text encoding="base64">CiAgICAvLyBXcml0ZSB6ZXJvIHRvIGlub2RlIHNwYWNlIGFuZCBiaXRtYXAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIENyZWF0ZSBzdXBlcmJsb2NrCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludCBmc19zdGFydCA9IG9zX3NpemUgKyAxOwoK</text>
+        <text encoding="base64">CiAgICAvLyBDcmVhdGUgYnVmZmVyIHdpdGggc3VwZXJibG9jayBhbmQgbWFnaWMgbnVtYmVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9rZW4gPSB0Owo=</text>
+        <text encoding="base64">ICAgIC8vIENyZWF0ZSBzdXBlcmJsb2NrCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbXV0IHRva2VuID0gVG9rZW46Ok5vVG9rZW47Cg==</text>
+        <text encoding="base64">ICAgIGludCBmc19zdGFydCA9IG9zX3NpemUgKyAxOwoK</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
-      <last-search>pcb</last-search>
+      <last-search>cwd</last-search>
       <last-offset />
-      <last-pattern>pcb</last-pattern>
+      <last-pattern>cwd</last-pattern>
       <last-replace>()</last-replace>
       <last-substitute>\(s\)</last-substitute>
       <last-dir>1</last-dir>
@@ -709,7 +710,6 @@
     </search>
     <history>
       <history-search>
-        <entry>parse</entry>
         <entry>s: Scanner</entry>
         <entry>\(s\)</entry>
         <entry>sc.</entry>
@@ -729,6 +729,7 @@
         <entry>link</entry>
         <entry>Set</entry>
         <entry>pcb</entry>
+        <entry>cwd</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
@@ -739,9 +740,9 @@
         <entry>%s/\(s\)/()/g</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>vs</entry>
-        <entry>sp</entry>
         <entry>q</entry>
         <entry>qa</entry>
+        <entry>sp</entry>
       </history-cmd>
       <history-expr />
       <history-input />

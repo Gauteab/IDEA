@@ -326,8 +326,8 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559144485874">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559156576535">
+        <mark key="'" line="113" column="0" />
         <mark key="[" line="63" column="39" />
         <mark key="]" line="65" column="24" />
         <mark key="." line="65" column="24" />
@@ -554,7 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="19" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" />
       <jump line="62" column="22" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" />
       <jump line="65" column="22" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" />
       <jump line="66" column="19" filename="$USER_HOME$/work/Calcula/src/calcula/compiler/Compile.kt" />
@@ -654,6 +653,7 @@
       <jump line="21" column="33" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="321" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="1" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="113" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

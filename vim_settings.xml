@@ -326,11 +326,12 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559141652683">
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559143378018">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="3" column="17" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -505,7 +506,7 @@
       <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell_sim.c" timestamp="1558881406334">
         <mark key="'" line="35" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557315911556">
+      <file name="/Dummy.txt" timestamp="1559142918019">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/uio/in2000/eksamen/src/Spørsmål.txt" timestamp="1557756597068">
@@ -656,10 +657,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyogICAgLy8gU2V0IHN1cGVyYmxvY2sgbWVtZWJlcnMKICAgIHN0cnVjdCBkaXNrX3N1cGVyYmxvY2sgKnNibG9ja19kaXNrID0gKHN0cnVjdCBkaXNrX3N1cGVyYmxvY2sgKikgJmJ1ZmZlcjsKICAgIHNibG9ja19kaXNrLT5uaW5vZGVzICAgICAgPSAxOwogICAgc2Jsb2NrX2Rpc2stPm5kYXRhX2Jsa3MgICA9IDE7CiAgICBzYmxvY2tfZGlzay0+cm9vdF9pbm9kZSAgID0gMDsKICAgIHNibG9ja19kaXNrLT5tYXhfZmlsZXNpemUgPSAxOyovCgo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPHN0ZGlvLmg+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>load_disk_superblock</text>
+        <text>rsprintf(&quot;yikes&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
@@ -668,31 +669,31 @@
         <text encoding="base64">ICAgIGJ6ZXJvKChjaGFyICopICZpbm9kZV90YWJsZSwgSU5PREVfVEFCTEVfRU5UUklFUyAqIHNpemVvZihzdHJ1Y3QgbWVtX2lub2RlKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyogICAgLy8gU2V0IHN1cGVyYmxvY2sgbWVtZWJlcnMKICAgIHN0cnVjdCBkaXNrX3N1cGVyYmxvY2sgKnNibG9ja19kaXNrID0gKHN0cnVjdCBkaXNrX3N1cGVyYmxvY2sgKikgJmJ1ZmZlcjsKICAgIHNibG9ja19kaXNrLT5uaW5vZGVzICAgICAgPSAxOwogICAgc2Jsb2NrX2Rpc2stPm5kYXRhX2Jsa3MgICA9IDE7CiAgICBzYmxvY2tfZGlzay0+cm9vdF9pbm9kZSAgID0gMDsKICAgIHNibG9ja19kaXNrLT5tYXhfZmlsZXNpemUgPSAxOyovCgo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPHN0ZGlvLmg+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAvLyBDbGVhciBidWZmZXIK</text>
+        <text encoding="base64">ICAgIHJzcHJpbnRmKCJ5aWtlcyIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvLyBDb3B5IAo=</text>
+        <text encoding="base64">ICAgIHJzcHJpbnRmKCJ5aWtlcyIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIENyZWF0ZSBidWZmZXIgZm9yIHN1cGVyYmxvY2sKICAgIGNoYXIgYnVmZmVyW0JMT0NLX1NJWkVdOwoKICAgIC8vIENsZWFyIGJ1ZmZlcgogICAgYnplcm8oYnVmZmVyLCBzaXplb2YoYnVmZmVyKSk7CiAgICAKICAgIC8vIENvcHkgCiAgICBiY29weSgoY2hhciAqKSAmc2Jsb2NrX21lbS5kX3N1cGVyLCBidWZmZXIsIHNpemVvZihzdHJ1Y3QgZGlza19zdXBlcmJsb2NrKSk7CiAgICAKICAgIC8vIFNldCBtYWdpYyBudW1iZXIKICAgICooKGludCAqKSAoYnVmZmVyICsgQkxPQ0tfU0laRSAtIDQpKSA9IDB4Q0FGRUJBQkU7CgogICAgLy8gV3JpdGUgYnVmZmVyIHRvIGRpc2sKICAgIGJsb2NrX3dyaXRlKEZTX0RJU0tfU1RBUlQsIGJ1ZmZlcik7Cg==</text>
+        <text encoding="base64">ICAgIEFTU0VSVChyICE9IDAsICJmc19ta2RpciBmYWlsZWQiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIEluaXQgc3VwZXJibG9jayBpbiBtZW1vcnkKICAgIG1lbV9zdXBlcmJsb2NrX2luaXQoKTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1lbV9zdXBlcmJsb2NrX2luaXQoJnNibG9ja19tZW0sIDApOwogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LyogICAgLy8gU2V0IHN1cGVyYmxvY2sgbWVtZWJlcnMKICAgIHN0cnVjdCBkaXNrX3N1cGVyYmxvY2sgKnNibG9ja19kaXNrID0gKHN0cnVjdCBkaXNrX3N1cGVyYmxvY2sgKikgJmJ1ZmZlcjsKICAgIHNibG9ja19kaXNrLT5uaW5vZGVzICAgICAgPSAxOwogICAgc2Jsb2NrX2Rpc2stPm5kYXRhX2Jsa3MgICA9IDE7CiAgICBzYmxvY2tfZGlzay0+cm9vdF9pbm9kZSAgID0gMDsKICAgIHNibG9ja19kaXNrLT5tYXhfZmlsZXNpemUgPSAxOyovCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJsb2NrX3JlYWQoRlNfRElTS19TVEFSVCwgc2Jsb2NrX21lbS5kX3N1cGVyKTsKICAgIHJldHVybjsK</text>
+        <text encoding="base64">CiAgICAvLyBDbGVhciBidWZmZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJsb2NrX3JlYWQoRlNfRElTS19TVEFSVCk7Cg==</text>
+        <text encoding="base64">CiAgICAvLyBDb3B5IAo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>

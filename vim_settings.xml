@@ -326,12 +326,13 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559236724341">
-        <mark key="'" line="229" column="0" />
-        <mark key="[" line="240" column="0" />
-        <mark key="m" line="344" column="0" />
-        <mark key="]" line="240" column="0" />
-        <mark key="." line="240" column="0" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559238043840">
+        <mark key="'" line="106" column="4" />
+        <mark key="[" line="282" column="29" />
+        <mark key="m" line="335" column="0" />
+        <mark key="]" line="282" column="30" />
+        <mark key="." line="282" column="30" />
+        <mark key="^" line="282" column="30" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -506,8 +507,8 @@
         <mark key="." line="23" column="8" />
         <mark key="^" line="23" column="9" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell_sim.c" timestamp="1558881406334">
-        <mark key="'" line="35" column="21" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell_sim.c" timestamp="1559238474439">
+        <mark key="'" line="291" column="14" />
       </file>
       <file name="/Dummy.txt" timestamp="1559229050084">
         <mark key="[" line="0" column="0" />
@@ -557,19 +558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="29" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" />
-      <jump line="30" column="13" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" />
-      <jump line="15" column="30" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" />
-      <jump line="28" column="43" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" />
-      <jump line="16" column="17" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" />
-      <jump line="49" column="2" filename="$USER_HOME$/work/Calcula/src/calcula/Main.kt" />
-      <jump line="27" column="13" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" />
-      <jump line="44" column="0" filename="$USER_HOME$/work/Calcula/src/calcula/Main.kt" />
-      <jump line="63" column="17" filename="$USER_HOME$/work/Calcula/src/calcula/Main.kt" />
-      <jump line="34" column="37" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" />
-      <jump line="35" column="39" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" />
-      <jump line="36" column="37" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" />
       <jump line="37" column="37" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" />
       <jump line="16" column="0" filename="$USER_HOME$/work/Calcula/src/calcula/Main.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/work/Calcula/src/calcula/Main.kt" />
@@ -603,7 +591,6 @@
       <jump line="35" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/kernel.c" />
       <jump line="96" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell.c" />
       <jump line="25" column="40" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="75" column="7" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="18" column="3" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="35" column="21" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell_sim.c" />
       <jump line="29" column="0" filename="$USER_HOME$/CLionProjects/untitled/src/main.rs" />
@@ -640,7 +627,6 @@
       <jump line="39" column="27" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="110" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="98" column="1" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="109" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="178" column="13" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="182" column="20" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="179" column="17" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
@@ -657,55 +643,70 @@
       <jump line="241" column="52" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="200" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="230" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="243" column="31" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="141" column="52" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="126" column="25" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="231" column="31" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="267" column="9" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="316" column="32" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="342" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="75" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="125" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="265" column="31" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="107" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="108" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="109" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="106" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="291" column="14" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell_sim.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vcHJpbnRmKCJzaXplOiAlZFxuIiwgc2l6ZSk7Cg==</text>
+        <text encoding="base64">ICAgIHN0cnVjdCAgZGlza19pbm9kZSBpbm9kZSA9IHswfTsK</text>
       </register>
       <register name="-" type="4">
         <text>size</text>
       </register>
       <register name="/" type="4">
-        <text>open:</text>
+        <text>bzero</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGN1cnJlbnRfcnVubmluZy0+ZmlsZWRlc1tmZF0uaWR4ID0gaW5vZGVfaW5kZXg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vcHJpbnRmKCJzaXplOiAlZFxuIiwgc2l6ZSk7Cg==</text>
+        <text encoding="base64">ICAgIHN0cnVjdCAgZGlza19pbm9kZSBpbm9kZSA9IHswfTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50Zigib3BlbjogJXNcbiIsIGZpbGVuYW1lKTsK</text>
+        <text encoding="base64">ICAgIGJ6ZXJvKGJ1ZmZlciwgc2l6ZW9mKGJ1ZmZlcikpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJsb2NrX3JlYWRfcGFydChpbm8yYmxrKGlub2RlLT5pbm9kZV9udW0pLCAwLCBzaXplb2Yoc2l6ZW9mKHN0cnVjdCBkaXNrX2lub2RlKSksIGJ1ZmZlcik7Cg==</text>
+        <text encoding="base64">ICAgIGJ6ZXJvKGJ1ZmZlciwgc2l6ZW9mKGJ1ZmZlcikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ6ZXJvKGlub2RlX2J1ZmZlciwgc2l6ZW9mKGlub2RlX2J1ZmZlcikpOwogICAgYnplcm8oZGF0YV9idWZmZXIsIHNpemVvZihkYXRhX2J1ZmZlcikpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKSB7ICB9Cg==</text>
+        <text encoding="base64">CiAgICBiemVybygoY2hhciAqKSAmaW5vZGUsIHNpemVvZihpbm9kZSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRyeS0+bW9kZSA9IE1PREVfVU5VU0VEOwo=</text>
+        <text encoding="base64">ICAgIGJ6ZXJvKGJ1ZmZlciwgc2l6ZW9mKGJ1ZmZlcikpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ6ZXJvKGJ1ZmZlciwgc2l6ZW9mKGJ1ZmZlcikpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChpbm9kZS5kaXJ0eSA9PSBUUlVFKSB7IHdyaXRlX2lub2RlIH0K</text>
+        <text encoding="base64">I2RlZmluZSBESVJFTlRfUEVSX0JMT0NLIChCTE9DS19TSVpFIC8gc2l6ZW9mKHN0cnVjdCBkaXJlbnQpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vcHJpbnRmKCJzaXplOiAlZFxuIiwgc2l6ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source .ideavimrc</text>
       </register>
     </registers>
     <search>
-      <last-search>open:</last-search>
+      <last-search>bzero</last-search>
       <last-offset />
-      <last-pattern>open:</last-pattern>
+      <last-pattern>bzero</last-pattern>
       <last-replace>()</last-replace>
       <last-substitute>\(s\)</last-substitute>
       <last-dir>1</last-dir>
@@ -713,7 +714,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sblo</entry>
         <entry>ls</entry>
         <entry>Opt</entry>
         <entry>link</entry>
@@ -727,12 +727,13 @@
         <entry>mkdir</entry>
         <entry>inoide.</entry>
         <entry>inode</entry>
-        <entry>dirent</entry>
         <entry>cur</entry>
         <entry encoding="base64">KCA=</entry>
         <entry>fs_read</entry>
         <entry>read</entry>
         <entry>open:</entry>
+        <entry>dirent</entry>
+        <entry>bzero</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>

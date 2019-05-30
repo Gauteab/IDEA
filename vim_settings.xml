@@ -326,13 +326,13 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559209019397">
-        <mark key="'" line="180" column="13" />
-        <mark key="[" line="195" column="11" />
-        <mark key="m" line="265" column="0" />
-        <mark key="]" line="195" column="26" />
-        <mark key="." line="195" column="26" />
-        <mark key="^" line="195" column="26" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559211960648">
+        <mark key="'" line="179" column="17" />
+        <mark key="[" line="175" column="1" />
+        <mark key="m" line="276" column="0" />
+        <mark key="]" line="186" column="65" />
+        <mark key="." line="186" column="65" />
+        <mark key="^" line="186" column="65" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -510,7 +510,7 @@
       <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell_sim.c" timestamp="1558881406334">
         <mark key="'" line="35" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559206229208">
+      <file name="/Dummy.txt" timestamp="1559211062268">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/uio/in2000/eksamen/src/Spørsmål.txt" timestamp="1557756597068">
@@ -558,8 +558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="28" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" />
-      <jump line="94" column="4" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" />
       <jump line="7" column="22" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" />
       <jump line="9" column="28" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" />
       <jump line="20" column="25" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" />
@@ -658,46 +656,48 @@
       <jump line="98" column="1" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="109" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="178" column="13" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="182" column="20" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="179" column="17" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>dblk_bmap</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>dblk_bmap</text>
       </register>
       <register name="/" type="4">
         <text>inode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJjb3B5KGZuYW1lLCBkaXJbMF0ubmFtZSwgc2l6ZW9mKGZuYW1lKSk7Cg==</text>
+        <text encoding="base64">ICAgIGludCBlbnRyeSA9IGdldF9mcmVlX2VudHJ5KCh1bnNpZ25lZCBjaGFyICopICZkYmxrX2JtYXApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNoYXIgYnVmZmVyW0JMT0NLX1NJWkVdOwo=</text>
+        <text encoding="base64">ICAgIGJ6ZXJvKGJ1ZmZlciwgc2l6ZW9mKGJ1ZmZlcikpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNoYXIgZGF0YV9idWZmZXJbQkxPQ0tfU0laRV07Cg==</text>
+        <text encoding="base64">ICAgIHN0cnVjdCAgZGlyZW50ICAgICAqZGlyID0gKHN0cnVjdCBkaXJlbnQgKikgYnVmZmVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3RhdGljIHZvaQo=</text>
+        <text encoding="base64">ICAgIHN0cnVjdCAgZGlza19pbm9kZSBpbm9kZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwcmludGYoIiVkXG4iLCBlbnRyeSArIEZTX0RBVEFfU1RBUlQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZuYW1lWzBdID0gJy4nOwo=</text>
+        <text encoding="base64">ICAgIGRpciA9IChzdHJ1Y3QgZGlyZW50ICopIGJ1ZmZlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZuYW1lWzFdID0gJy4nOwo=</text>
+        <text encoding="base64">ICAgIGNoYXIgZm5hbWVbTUFYX0ZJTEVOQU1FX0xFTl0gPSAiLiI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGlub2RlLnR5cGUgPSBJTlRZUEVfRElSOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJsb2NrX3dyaXRlX3koZW50cnksIGRpcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRpclsxXS5uYW1lID0gIi4iOwo=</text>
+        <text encoding="base64">ICAgIHN0cnVjdCBkaXJlbnQgKmRpcjsK</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
@@ -709,7 +709,7 @@
       <last-pattern>inode</last-pattern>
       <last-replace>()</last-replace>
       <last-substitute>\(s\)</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>

@@ -326,13 +326,13 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559215439388">
-        <mark key="'" line="221" column="37" />
-        <mark key="[" line="222" column="28" />
-        <mark key="m" line="278" column="0" />
-        <mark key="]" line="222" column="47" />
-        <mark key="." line="222" column="47" />
-        <mark key="^" line="222" column="47" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559217043683">
+        <mark key="'" line="224" column="37" />
+        <mark key="[" line="249" column="8" />
+        <mark key="m" line="302" column="0" />
+        <mark key="]" line="252" column="46" />
+        <mark key="." line="252" column="46" />
+        <mark key="^" line="252" column="46" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -443,7 +443,7 @@
         <mark key="." line="34" column="17" />
         <mark key="^" line="40" column="36" />
       </file>
-      <file name="/fragment.c" timestamp="1559215452098">
+      <file name="/fragment.c" timestamp="1559215456911">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspSubscription.kt" timestamp="1556538438460">
@@ -661,10 +661,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFkZF9kaXJlY3RvcnlfZW50cnkoKQo=</text>
+        <text encoding="base64">ICAgIGJjb3B5KGRpcm5hbWUsICZlbnRyaWVzW2ldLm5hbWUsICkK</text>
       </register>
       <register name="-" type="4">
-        <text>0;//TODO</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>dirent</text>
@@ -673,31 +673,31 @@
         <text>static int create_directory(char *dirname)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFkZF9kaXJlY3RvcnlfZW50cnkoKQo=</text>
+        <text encoding="base64">ICAgIGJjb3B5KGRpcm5hbWUsICZlbnRyaWVzW2ldLm5hbWUsICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlub2RlX3QgcGFyZW50Owo=</text>
+        <text encoding="base64">ICAgIGVudHJpZXNbaV0uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVfZGVmYXVsdF9kaXJfZW50cmllcyhlbnRyeSwgaW5vZGVfbnVtLCBpbm9kZV9udW0pOwo=</text>
+        <text encoding="base64">ICAgIGRhdGFfYnVmZmVyW10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV9kZWZhdWx0X2Rpcl9lbnRyaWVzKGVudHJ5LCBpbm9kZV9udW0pOwo=</text>
+        <text encoding="base64">ICAgIGlub2RlW2Rpcl9lbnRyaWVzICsgMV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRpclswXS5pbm9kZSA9IGRpclsxXS5pbm9kZSA9IGlub2RlX251bTsK</text>
+        <text encoding="base64">ICAgIGludCBpID0gZGlyX2VudHJpZXMgLyBESVJFTlRfUEVSX0JMT0NLOwogICAgYmxrbnVtX3QgYmxvY2sgPSBpbm9kZS0+ZGlyZWN0WzBdOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJjb3B5KGZpbGVuYW1lLCBkaXJbMF0ubmFtZSwgc2l6ZW9mKGZpbGVuYW1lKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmKHNhbWVfc3RyaW5nKGRpcm5hbWUsICIvIikpIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgIGlub2RlLT5kaXJlY3RbMF0gPSBudW07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">ICAgIGFkZF9kaXJlY3RvcnlfZW50cnkoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>

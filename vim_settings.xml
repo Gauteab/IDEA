@@ -326,13 +326,13 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559221137044">
-        <mark key="'" line="235" column="37" />
-        <mark key="[" line="222" column="49" />
-        <mark key="m" line="313" column="0" />
-        <mark key="]" line="222" column="49" />
-        <mark key="." line="222" column="49" />
-        <mark key="^" line="79" column="21" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559222792724">
+        <mark key="'" line="246" column="41" />
+        <mark key="[" line="261" column="0" />
+        <mark key="m" line="312" column="0" />
+        <mark key="]" line="261" column="0" />
+        <mark key="." line="261" column="0" />
+        <mark key="^" line="260" column="36" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -558,7 +558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="22" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" />
       <jump line="36" column="25" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" />
       <jump line="43" column="24" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" />
       <jump line="54" column="27" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parse.kt" />
@@ -658,13 +657,14 @@
       <jump line="194" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="30" column="42" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="221" column="37" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="246" column="41" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGludCBqOwogICAgZm9yIChqID0gMDsgZGlybmFtZVtqXTsgaisrKSB7CiAgICAgICAgZW50cmllc1tpXS5uYW1lW2pdID0gZGlybmFtZVtqXTsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text encoding="base64">QkxPQ0tfU0laRSA=</text>
       </register>
       <register name="/" type="4">
         <text>dirent</text>
@@ -673,31 +673,31 @@
         <text>static int create_directory(char *dirname)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJjb3B5KGRpcm5hbWUsICZlbnRyaWVzW2ldLm5hbWUsICkK</text>
+        <text encoding="base64">ICAgIGludCBqOwogICAgZm9yIChqID0gMDsgZGlybmFtZVtqXTsgaisrKSB7CiAgICAgICAgZW50cmllc1tpXS5uYW1lW2pdID0gZGlybmFtZVtqXTsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVudHJpZXNbaV0uCg==</text>
+        <text encoding="base64">ICAgIGJjb3B5KGRpcm5hbWUsICZlbnRyaWVzW2ldLm5hbWUsICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRhdGFfYnVmZmVyW10K</text>
+        <text encoding="base64">ICAgIGVudHJpZXNbaV0uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRhdGFfYnVmZmVyW10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlub2RlW2Rpcl9lbnRyaWVzICsgMV0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGludCBpID0gZGlyX2VudHJpZXMgLyBESVJFTlRfUEVSX0JMT0NLOwogICAgYmxrbnVtX3QgYmxvY2sgPSBpbm9kZS0+ZGlyZWN0WzBdOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlub2RlW2Rpcl9lbnRyaWVzICsgMV0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGludCBpID0gZGlyX2VudHJpZXMgLyBESVJFTlRfUEVSX0JMT0NLOwogICAgYmxrbnVtX3QgYmxvY2sgPSBpbm9kZS0+ZGlyZWN0WzBdOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlub2RlLT5kaXJlY3RbMF0gPSBudW07Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFkZF9kaXJlY3RvcnlfZW50cnkoKQo=</text>
+        <text encoding="base64">ICAgIGlub2RlLT5kaXJlY3RbMF0gPSBudW07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
@@ -802,6 +802,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

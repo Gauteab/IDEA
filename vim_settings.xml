@@ -326,13 +326,13 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559220049515">
-        <mark key="'" line="224" column="37" />
-        <mark key="[" line="249" column="8" />
-        <mark key="m" line="302" column="0" />
-        <mark key="]" line="252" column="46" />
-        <mark key="." line="252" column="46" />
-        <mark key="^" line="252" column="46" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559221137044">
+        <mark key="'" line="235" column="37" />
+        <mark key="[" line="222" column="49" />
+        <mark key="m" line="313" column="0" />
+        <mark key="]" line="222" column="49" />
+        <mark key="." line="222" column="49" />
+        <mark key="^" line="79" column="21" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -660,11 +660,11 @@
       <jump line="221" column="37" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJjb3B5KGRpcm5hbWUsICZlbnRyaWVzW2ldLm5hbWUsICkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
         <text>dirent</text>

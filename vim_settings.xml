@@ -326,13 +326,13 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559205009574">
-        <mark key="'" line="109" column="11" />
-        <mark key="[" line="96" column="0" />
-        <mark key="m" line="258" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="^" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559209019397">
+        <mark key="'" line="180" column="13" />
+        <mark key="[" line="195" column="11" />
+        <mark key="m" line="265" column="0" />
+        <mark key="]" line="195" column="26" />
+        <mark key="." line="195" column="26" />
+        <mark key="^" line="195" column="26" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -443,6 +443,9 @@
         <mark key="." line="34" column="17" />
         <mark key="^" line="40" column="36" />
       </file>
+      <file name="/fragment.c" timestamp="1559206229191">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspSubscription.kt" timestamp="1556538438460">
         <mark key="[" line="25" column="39" />
         <mark key="]" line="25" column="37" />
@@ -507,7 +510,7 @@
       <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell_sim.c" timestamp="1558881406334">
         <mark key="'" line="35" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559142918019">
+      <file name="/Dummy.txt" timestamp="1559206229208">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/uio/in2000/eksamen/src/Spørsmål.txt" timestamp="1557756597068">
@@ -647,7 +650,6 @@
       <jump line="79" column="10" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="86" column="19" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="71" column="22" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="178" column="12" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="177" column="40" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="181" column="8" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="184" column="16" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
@@ -655,55 +657,56 @@
       <jump line="110" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="98" column="1" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="109" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="178" column="13" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>= &quot;..&quot;;</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>= &quot;..&quot;;</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>mkdir</text>
+        <text>inode</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJjb3B5KGZuYW1lLCBkaXJbMF0ubmFtZSwgc2l6ZW9mKGZuYW1lKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRpclsxXS5uYW1lID0gIi4iOwo=</text>
+        <text encoding="base64">ICAgIGNoYXIgYnVmZmVyW0JMT0NLX1NJWkVdOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRpclswXS5uYW1lID0gOwo=</text>
+        <text encoding="base64">ICAgIGNoYXIgZGF0YV9idWZmZXJbQkxPQ0tfU0laRV07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNoYXIgYnVmZmVyW0JMT0NLX1NJWkVdOwogICAgYnplcm8oYnVmZmVyLCBzaXplb2YoYnVmZmVyKSk7Cg==</text>
+        <text encoding="base64">c3RhdGljIHZvaQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludCBlbnRyeTIgPSBnZXRfZnJlZV9lbnRyeSgodW5zaWduZWQgY2hhciAqKSAmZGJsa19ibWFwKTsK</text>
+        <text encoding="base64">CiAgICBwcmludGYoIiVkXG4iLCBlbnRyeSArIEZTX0RBVEFfU1RBUlQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlub2RlLmRpcnR5ID0gMDsKICAgIGlub2RlLm9wZW5fY291bnQgPSAwOwogICAgaW5vZGUuaW5vZGVfbnVtID0gMDsKICAgIGlub2RlLnBvcyA9IDA7CiAgICBpbm9kZS5kX2lub2RlLnR5cGUgPSBJTlRZUEVfRElSOwo=</text>
+        <text encoding="base64">ICAgIGZuYW1lWzBdID0gJy4nOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN0ZGlvLmg+Cg==</text>
+        <text encoding="base64">ICAgIGZuYW1lWzFdID0gJy4nOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJzcHJpbnRmKCJ5aWtlcyIpOwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJzcHJpbnRmKCJ5aWtlcyIpOwo=</text>
+        <text encoding="base64">ICAgIGJsb2NrX3dyaXRlX3koZW50cnksIGRpcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFTU0VSVChyICE9IDAsICJmc19ta2RpciBmYWlsZWQiKTsK</text>
+        <text encoding="base64">ICAgIGRpclsxXS5uYW1lID0gIi4iOwo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
-      <last-search>mkdir</last-search>
+      <last-search>inode</last-search>
       <last-offset />
-      <last-pattern>mkdir</last-pattern>
+      <last-pattern>inode</last-pattern>
       <last-replace>()</last-replace>
       <last-substitute>\(s\)</last-substitute>
       <last-dir>1</last-dir>
@@ -711,8 +714,6 @@
     </search>
     <history>
       <history-search>
-        <entry>,</entry>
-        <entry>IntE</entry>
         <entry>Fi</entry>
         <entry>cha</entry>
         <entry>Le</entry>
@@ -731,6 +732,8 @@
         <entry>os_</entry>
         <entry>init</entry>
         <entry>mkdir</entry>
+        <entry>inoide.</entry>
+        <entry>inode</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>

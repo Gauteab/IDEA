@@ -326,13 +326,13 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559224481846">
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559226214299">
         <mark key="'" line="247" column="41" />
-        <mark key="[" line="263" column="36" />
+        <mark key="[" line="440" column="31" />
         <mark key="m" line="313" column="0" />
-        <mark key="]" line="257" column="81" />
-        <mark key="." line="257" column="81" />
-        <mark key="^" line="257" column="81" />
+        <mark key="]" line="440" column="22" />
+        <mark key="." line="440" column="22" />
+        <mark key="^" line="440" column="22" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -660,44 +660,44 @@
       <jump line="246" column="41" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>current_inode</text>
       </register>
       <register name="/" type="4">
         <text>dirent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJ6ZXJvKGJ1ZmZlciwgc2l6ZW9mKGJ1ZmZlcikpOwogICAgCg==</text>
+        <text encoding="base64">ICAgIGlub2RlX3Qgcm9vdCA9IHNibG9ja19tZW0uZF9zdXBlci5yb290X2lub2RlOyAvLyBUT0RPOiBtYWtlIGl0IHdvcmsgZm9yIG5vbiByb290Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlub2RlX3QgY3VycmVudF9pbm9kZSA9IGN1cnJlbnRfcnVubmluZy0+Y3dkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vcHJpbnRmKCIlZCAlZCAlZFxuIiwgaW5vZGUtPnNpemUsIGksIGlub2RlLT5kaXJlY3RbMF0pOwo=</text>
+        <text encoding="base64">ICAgIC8vaW5vZGVfdCByb290ID0gc2Jsb2NrX21lbS5kX3N1cGVyLnJvb3RfaW5vZGU7IC8vIFRPRE86IG1ha2UgaXQgd29yayBmb3Igbm9uIHJvb3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlub2RlX3Qgcm9vdCA9IHNibG9ja19tZW0uZF9zdXBlci5yb290X2lub2RlOyAvLyBUT0RPOiBtYWtlIGl0IHdvcmsgZm9yIG5vbiByb290CiAgICBjb25zdCBpbnQgSU5PREVfQkxPQ0sgPSByb290ICsgRlNfSU5PREVfU1RBUlQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNoYXIgZGF0YV9idWZmZXJbQkxPQ0tfU0laRV07Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGludCBJTk9ERV9CTE9DSyA9IHJvb3QgKyBGU19JTk9ERV9TVEFSVDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGludCBqOwogICAgZm9yIChqID0gMDsgZGlybmFtZVtqXTsgaisrKSB7CiAgICAgICAgZW50cmllc1tpXS5uYW1lW2pdID0gZGlybmFtZVtqXTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJjb3B5KGRpcm5hbWUsICZlbnRyaWVzW2ldLm5hbWUsICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVudHJpZXNbaV0uCg==</text>
+        <text encoding="base64">ICAgIC8vcHJpbnRmKCIlZCAlZCAlZFxuIiwgaW5vZGUtPnNpemUsIGksIGlub2RlLT5kaXJlY3RbMF0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRhdGFfYnVmZmVyW10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

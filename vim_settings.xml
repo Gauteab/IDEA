@@ -326,13 +326,13 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559211960648">
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559213405601">
         <mark key="'" line="179" column="17" />
-        <mark key="[" line="175" column="1" />
+        <mark key="[" line="111" column="11" />
         <mark key="m" line="276" column="0" />
-        <mark key="]" line="186" column="65" />
-        <mark key="." line="186" column="65" />
-        <mark key="^" line="186" column="65" />
+        <mark key="]" line="111" column="29" />
+        <mark key="." line="111" column="29" />
+        <mark key="^" line="111" column="29" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -661,10 +661,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dblk_bmap</text>
+        <text>fs_mkdir</text>
       </register>
       <register name="-" type="4">
-        <text>dblk_bmap</text>
+        <text>fs_mkdir</text>
       </register>
       <register name="/" type="4">
         <text>inode</text>
@@ -673,31 +673,31 @@
         <text encoding="base64">ICAgIGludCBlbnRyeSA9IGdldF9mcmVlX2VudHJ5KCh1bnNpZ25lZCBjaGFyICopICZkYmxrX2JtYXApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJ6ZXJvKGJ1ZmZlciwgc2l6ZW9mKGJ1ZmZlcikpOwo=</text>
+        <text encoding="base64">ICAgIGludCBpbm9kZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0cnVjdCAgZGlyZW50ICAgICAqZGlyID0gKHN0cnVjdCBkaXJlbnQgKikgYnVmZmVyOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0cnVjdCAgZGlza19pbm9kZSBpbm9kZTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChzYW1lX3N0cmluZyhkaXJuYW1lLCAiLyIpKSB7IHJldHVybiAtMTsgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRpciA9IChzdHJ1Y3QgZGlyZW50ICopIGJ1ZmZlcjsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNoYXIgZm5hbWVbTUFYX0ZJTEVOQU1FX0xFTl0gPSAiLiI7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGlub2RlLnR5cGUgPSBJTlRZUEVfRElSOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNoYXIgICAgYnVmZmVyW0JMT0NLX1NJWkVdOwogICAgaW5vZGVfdCBpbm9kZV9udW07CiAgICBpbnQgICAgIGVudHJ5OwogICAgc3RydWN0ICBkaXNrX2lub2RlIGlub2RlOwoKICAgIGlmIChzYW1lX3N0cmluZyhkaXJuYW1lLCAiLyIpKSB7IHJldHVybiAtMTsgfQoKICAgIGJ6ZXJvKGJ1ZmZlciwgc2l6ZW9mKGJ1ZmZlcikpOwogICAgYnplcm8oKGNoYXIgKikgJmlub2RlLCBzaXplb2YoaW5vZGUpKTsKCiAgICAvLyBHZXQgYml0bWFwIGVudHJpZXMKICAgIGlub2RlX251bSA9IGdldF9mcmVlX2VudHJ5KCh1bnNpZ25lZCBjaGFyICopICZzYmxvY2tfbWVtLmlibWFwKTsKICAgIGVudHJ5ICAgICA9IGdldF9mcmVlX2VudHJ5KCh1bnNpZ25lZCBjaGFyICopICZzYmxvY2tfbWVtLmRibWFwKTsKCiAgICAvLyBJbml0IGRpcmVjdG9yeQogICAgaW5vZGUudHlwZSA9IElOVFlQRV9ESVI7CiAgICBpbm9kZS5kaXJlY3RbMF0gPSBlbnRyeTsKICAgIGlub2RlLnNpemUgPSBzaXplb2Yoc3RydWN0IGRpcmVudCkgKiAyOwoKICAgIGJjb3B5KChjb25zdCBjaGFyICopICZpbm9kZSwgYnVmZmVyLCBzaXplb2YoaW5vZGUpKTsKICAgIGJsb2NrX3dyaXRlKGlub2RlX251bSArIEZTX0lOT0RFX1NUQVJULCBidWZmZXIpOwoKICAgIGNyZWF0ZV9kZWZhdWx0X2Rpcl9lbnRyaWVzKGVudHJ5LCBpbm9kZV9udW0pOwoKICAgIHJldHVybiBpbm9kZV9udW07Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0gCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmIChyID49IDApIHsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0cnVjdCBkaXJlbnQgKmRpcjsK</text>
+        <text encoding="base64">ICAgIC8vaWYgKHIgIT0gMCkgeyBwcmludGYoInlpa2VzIik7IH0K</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>

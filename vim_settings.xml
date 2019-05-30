@@ -326,13 +326,13 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559238043840">
-        <mark key="'" line="106" column="4" />
-        <mark key="[" line="282" column="29" />
-        <mark key="m" line="335" column="0" />
-        <mark key="]" line="282" column="30" />
-        <mark key="." line="282" column="30" />
-        <mark key="^" line="282" column="30" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559239578343">
+        <mark key="'" line="501" column="15" />
+        <mark key="[" line="146" column="1" />
+        <mark key="m" line="336" column="0" />
+        <mark key="]" line="283" column="30" />
+        <mark key="." line="283" column="30" />
+        <mark key="^" line="283" column="30" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -558,7 +558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="37" filename="$USER_HOME$/work/Calcula/src/calcula/parser/Parser.kt" />
       <jump line="16" column="0" filename="$USER_HOME$/work/Calcula/src/calcula/Main.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/work/Calcula/src/calcula/Main.kt" />
       <jump line="23" column="11" filename="$USER_HOME$/work/Calcula/src/calcula/Main.kt" />
@@ -658,6 +657,7 @@
       <jump line="109" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="106" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="291" column="14" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell_sim.c" />
+      <jump line="500" column="15" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

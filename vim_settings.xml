@@ -326,13 +326,13 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559229771341">
-        <mark key="'" line="157" column="50" />
-        <mark key="[" line="158" column="100" />
-        <mark key="m" line="313" column="0" />
-        <mark key="]" line="159" column="25" />
-        <mark key="." line="159" column="25" />
-        <mark key="^" line="159" column="25" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559231997974">
+        <mark key="'" line="159" column="50" />
+        <mark key="[" line="219" column="24" />
+        <mark key="m" line="325" column="0" />
+        <mark key="]" line="219" column="24" />
+        <mark key="." line="219" column="24" />
+        <mark key="^" line="219" column="31" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -443,7 +443,7 @@
         <mark key="." line="34" column="17" />
         <mark key="^" line="40" column="36" />
       </file>
-      <file name="/fragment.c" timestamp="1559229775608">
+      <file name="/fragment.c" timestamp="1559231898675">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/AspSubscription.kt" timestamp="1556538438460">
@@ -661,43 +661,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Jmlub2RlX3RhYmxlW2lub2RlX2luZGV4XQ==</text>
+        <text>mem_inode</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jmlub2RlX3RhYmxlW2lub2RlX2luZGV4XQ==</text>
+        <text>mem_inode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">KCA=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlub2RlX3Qgcm9vdCA9IHNibG9ja19tZW0uZF9zdXBlci5yb290X2lub2RlOyAvLyBUT0RPOiBtYWtlIGl0IHdvcmsgZm9yIG5vbiByb290Cg==</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRfcnVubmluZy0+ZmlsZWRlc1tmZF0uaWR4ID0gaW5vZGVfaW5kZXg7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNoYXIgZGF0YV9idWZmZXJbQkxPQ0tfU0laRV07CiAgICBibG9ja19yZWFkKGlkeDJibGsoaW5vZGUtPmRpcmVjdFswXSksIGRhdGFfYnVmZmVyKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKSB7ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoYmxrbnVtX3QpLTE7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbnRyeS0+bW9kZSA9IE1PREVfVU5VU0VEOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAtMTsKICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIChpbm9kZS5kaXJ0eSA9PSBUUlVFKSB7IHdyaXRlX2lub2RlIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlub2RlX3QgY3VycmVudF9pbm9kZSA9IGN1cnJlbnRfcnVubmluZy0+Y3dkOwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vaW5vZGVfdCByb290ID0gc2Jsb2NrX21lbS5kX3N1cGVyLnJvb3RfaW5vZGU7IC8vIFRPRE86IG1ha2UgaXQgd29yayBmb3Igbm9uIHJvb3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlub2RlX3Qgcm9vdCA9IHNibG9ja19tZW0uZF9zdXBlci5yb290X2lub2RlOyAvLyBUT0RPOiBtYWtlIGl0IHdvcmsgZm9yIG5vbiByb290CiAgICBjb25zdCBpbnQgSU5PREVfQkxPQ0sgPSByb290ICsgRlNfSU5PREVfU1RBUlQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source .ideavimrc</text>

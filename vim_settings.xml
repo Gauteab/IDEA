@@ -326,13 +326,12 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559239578343">
-        <mark key="'" line="501" column="15" />
-        <mark key="[" line="146" column="1" />
-        <mark key="m" line="336" column="0" />
-        <mark key="]" line="283" column="30" />
-        <mark key="." line="283" column="30" />
-        <mark key="^" line="283" column="30" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559242156994">
+        <mark key="'" line="500" column="15" />
+        <mark key="[" line="147" column="0" />
+        <mark key="m" line="335" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -661,7 +660,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0cnVjdCAgZGlza19pbm9kZSBpbm9kZSA9IHswfTsK</text>
+        <text encoding="base64">ICAgIHByaW50Zigib3BlbmluZzogJXNcbiIsIGZpbGVuYW1lKTsK</text>
       </register>
       <register name="-" type="4">
         <text>size</text>
@@ -673,31 +672,31 @@
         <text encoding="base64">ICAgIGN1cnJlbnRfcnVubmluZy0+ZmlsZWRlc1tmZF0uaWR4ID0gaW5vZGVfaW5kZXg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0cnVjdCAgZGlza19pbm9kZSBpbm9kZSA9IHswfTsK</text>
+        <text encoding="base64">ICAgIHByaW50Zigib3BlbmluZzogJXNcbiIsIGZpbGVuYW1lKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJ6ZXJvKGJ1ZmZlciwgc2l6ZW9mKGJ1ZmZlcikpOwo=</text>
+        <text encoding="base64">ICAgIHN0cnVjdCAgZGlza19pbm9kZSBpbm9kZSA9IHswfTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGJ6ZXJvKGJ1ZmZlciwgc2l6ZW9mKGJ1ZmZlcikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJ6ZXJvKGlub2RlX2J1ZmZlciwgc2l6ZW9mKGlub2RlX2J1ZmZlcikpOwogICAgYnplcm8oZGF0YV9idWZmZXIsIHNpemVvZihkYXRhX2J1ZmZlcikpOwo=</text>
+        <text encoding="base64">ICAgIGJ6ZXJvKGJ1ZmZlciwgc2l6ZW9mKGJ1ZmZlcikpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBiemVybygoY2hhciAqKSAmaW5vZGUsIHNpemVvZihpbm9kZSkpOwo=</text>
+        <text encoding="base64">ICAgIGJ6ZXJvKGlub2RlX2J1ZmZlciwgc2l6ZW9mKGlub2RlX2J1ZmZlcikpOwogICAgYnplcm8oZGF0YV9idWZmZXIsIHNpemVvZihkYXRhX2J1ZmZlcikpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJ6ZXJvKGJ1ZmZlciwgc2l6ZW9mKGJ1ZmZlcikpOwo=</text>
+        <text encoding="base64">CiAgICBiemVybygoY2hhciAqKSAmaW5vZGUsIHNpemVvZihpbm9kZSkpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGJ6ZXJvKGJ1ZmZlciwgc2l6ZW9mKGJ1ZmZlcikpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2RlZmluZSBESVJFTlRfUEVSX0JMT0NLIChCTE9DS19TSVpFIC8gc2l6ZW9mKHN0cnVjdCBkaXJlbnQpKQo=</text>
+        <text encoding="base64">ICAgIGJ6ZXJvKGJ1ZmZlciwgc2l6ZW9mKGJ1ZmZlcikpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vcHJpbnRmKCJzaXplOiAlZFxuIiwgc2l6ZSk7Cg==</text>
+        <text encoding="base64">I2RlZmluZSBESVJFTlRfUEVSX0JMT0NLIChCTE9DS19TSVpFIC8gc2l6ZW9mKHN0cnVjdCBkaXJlbnQpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>source .ideavimrc</text>

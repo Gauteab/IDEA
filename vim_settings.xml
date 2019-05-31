@@ -326,13 +326,13 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559313563401">
-        <mark key="'" line="632" column="18" />
-        <mark key="[" line="121" column="22" />
-        <mark key="m" line="214" column="0" />
-        <mark key="]" line="121" column="20" />
-        <mark key="." line="121" column="20" />
-        <mark key="^" line="121" column="20" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559314966589">
+        <mark key="'" line="635" column="5" />
+        <mark key="[" line="523" column="14" />
+        <mark key="m" line="212" column="0" />
+        <mark key="]" line="523" column="36" />
+        <mark key="^" line="523" column="36" />
+        <mark key="." line="523" column="36" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -560,8 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="30" column="42" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="246" column="41" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="795" column="14" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/kernel.c" />
       <jump line="164" column="3" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
@@ -660,13 +658,15 @@
       <jump line="637" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="635" column="1" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="632" column="18" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="183" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="638" column="5" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/* no inode found */</text>
+        <text>struct mem_inode *inode</text>
       </register>
       <register name="-" type="4">
-        <text>/* no inode found */</text>
+        <text>struct mem_inode *inode</text>
       </register>
       <register name="/" type="4">
         <text>printf</text>
@@ -675,34 +675,34 @@
         <text encoding="base64">ICAgIGlmICgoaW5vZGVfaW5kZXggPSBhdmFpbGFibGVfaW5vZGVfbWVtX2luZGV4KCkpIDwgMCkgeyByZXR1cm4gLTE7IH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBlbHNlOgo=</text>
+        <text encoding="base64">ICAgIAogICAgc3RydWN0IG1lbV9pbm9kZSAqY3dkX2lub2RlID0gZnNfb3Blbl9oZWxwZXIoY3VycmVudF9ydW5uaW5nLT5jd2QpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlYWRfaW5vZGUoY3VycmVudF9ydW5uaW5nLT5jd2QsICZjd2RfaW5vZGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0cnVjdCBtZW1faW5vZGUgKmlub2RlOwo=</text>
+        <text encoding="base64">ICAgIHN0cnVjdCBkaXNrX2lub2RlIGN3ZF9pbm9kZSA9IHswfTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlub2RlID0gJmlub2RlX3RhYmxlW2lub2RlX2luZGV4XTsK</text>
+        <text encoding="base64">ICAgIHJlYWRfaW5vZGUoaW5vZGVfbnVtLCAmaW5vZGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpbm9kZTsK</text>
+        <text encoding="base64">ICAgIGlub2RlX3QgaW5vZGVfbnVtID0gbmFtZTJpbm9kZShuYW1lKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0cnVjdCBkaXNrX2lub2RlIGlub2RlID0gezB9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlYWRfaW5vZGUoaW5vZGVfbnVtLCAmaW5vZGUtPmRfaW5vZGUpOwogICAgaW5vZGVfbWVtX2luaXQoaW5vZGUsIGlub2RlX251bSk7Cg==</text>
+        <text encoding="base64">ICAgIGlub2RlX3QgaW5vZGVfbnVtID0gbmFtZTJpbm9kZShwYXRoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlub2RlLT5vcGVuX2NvdW50Kys7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgc3RydWN0IG1lbV9pbm9kZSAqaW5vZGUgPSBmc19vcGVuX2hlbHBlcihuYSkK</text>
       </register>
       <register name=":" type="4">
-        <text>source .ideavimrc</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -746,11 +746,11 @@
         <entry>%s/\(s\)/()/g</entry>
         <entry>vs</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>q</entry>
         <entry>wa</entry>
-        <entry>qa</entry>
         <entry>sp</entry>
         <entry>source .ideavimrc</entry>
+        <entry>qa</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />

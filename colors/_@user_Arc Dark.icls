@@ -4,7 +4,7 @@
     <property name="created">2019-04-28T20:14:41</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.4.0.18</property>
-    <property name="modified">2019-04-28T20:18:31</property>
+    <property name="modified">2019-05-31T17:02:10</property>
     <property name="originalScheme">Arc Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
@@ -26,11 +26,14 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="8f9d6a" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="8f9d6a" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="9b859d" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="5f5a60" />
     <option name="FILESTATUS_SWITCHED" value="9b859d" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
@@ -84,7 +87,7 @@
         <option name="FOREGROUND" value="f9ee98" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="APACHE_CONFIG.ARG_LEXEM">
       <value>
         <option name="FOREGROUND" value="8f9d6a" />
@@ -464,7 +467,7 @@
         <option name="FOREGROUND" value="f36e3a" />
       </value>
     </option>
-    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="Class" baseAttributes="" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="f9ee98" />
@@ -812,7 +815,6 @@
         <option name="FOREGROUND" value="cda869" />
       </value>
     </option>
-    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
     <option name="HAML_CLASS">
       <value>
         <option name="FOREGROUND" value="47bc9b" />
@@ -1024,7 +1026,6 @@
         <option name="FOREGROUND" value="a7dbd8" />
       </value>
     </option>
-    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -1048,7 +1049,6 @@
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
     </option>
-    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
         <option name="EFFECT_TYPE" value="1" />
@@ -1059,7 +1059,6 @@
         <option name="FOREGROUND" value="cda869" />
       </value>
     </option>
-    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
       <value />
     </option>
@@ -1072,7 +1071,6 @@
     <option name="KOTLIN_SMART_CONSTANT">
       <value />
     </option>
-    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="KOTLIN_VARIABLE_AS_FUNCTION">
       <value>
         <option name="FOREGROUND" value="7587a6" />
@@ -1132,7 +1130,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="908b25" />
@@ -2188,10 +2185,10 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
-    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.KEY" baseAttributes="" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
@@ -2584,8 +2581,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
-    <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
+    <option name="Static method access" baseAttributes="" />
     <option name="TAPESTRY_COMPONENT_TAG">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
@@ -2637,7 +2633,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="VELOCITY_KEYWORD">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />

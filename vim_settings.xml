@@ -326,13 +326,13 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559498223561">
-        <mark key="'" line="216" column="0" />
-        <mark key="[" line="242" column="8" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559504363591">
+        <mark key="'" line="574" column="48" />
+        <mark key="[" line="573" column="37" />
         <mark key="m" line="225" column="0" />
-        <mark key="]" line="243" column="7" />
-        <mark key="^" line="243" column="7" />
-        <mark key="." line="243" column="7" />
+        <mark key="]" line="573" column="50" />
+        <mark key="." line="573" column="50" />
+        <mark key="^" line="573" column="50" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -560,13 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="14" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell_sim.c" />
-      <jump line="500" column="15" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="540" column="8" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="109" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="106" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="107" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="221" column="15" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="219" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="187" column="27" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="178" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
@@ -660,55 +653,62 @@
       <jump line="289" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell_sim.c" />
       <jump line="336" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="216" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="279" column="30" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="269" column="7" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="500" column="10" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="59" column="10" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="34" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="573" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="574" column="48" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHJldHVybiBGU0VfRElSSVNGSUxFOyA=</text>
+        <text>HALF_BLOCK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJldHVybiBGU0VfRElSSVNGSUxFOyA=</text>
+        <text>HALF_BLOCK</text>
       </register>
       <register name="/" type="4">
-        <text>chdir</text>
+        <text>HAL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICgtLWlub2RlLT5kX2lub2RlLm5saW5rcyA8PSAwKSB7CiAgICAgICAgZnJlZV9iaXRtYXBfZW50cnkoaW5vZGUtPmlub2RlX251bSwgc2Jsb2NrX21lbS5pYm1hcCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGJsb2NrX3JlYWRfcGFydChGU19CSVRNQVBfU1RBUlQsIDAsIEJMT0NLX1NJWkUvMiwgc2Jsb2NrX21lbS5pYm1hcCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlub2RlX3QgaW5vZGVfbnVtID0gbmFtZTJpbm9kZShwYXRoKTsKICAgIGlmIChpbm9kZV9udW0gPCAwKSB7IHJldHVybiAtMTsgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGludCBIQUxGX0JMT0NLID0gQkxPQ0tfU0laRSAvIDI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChpbm9kZS4pCg==</text>
+        <text encoding="base64">ICAgIGVsc2UgICAgICAgICAgICAgICAgICAgICAgICAgeyBpbm9kZS5wfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByOwo=</text>
+        <text encoding="base64">ICAgIGJ1ZmZlcltCTE9DS19TSVpFLTRdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludCByID0gcmVtb3ZlX2Rpcl9lbnRyeShwYXRoKTsKICAgIGZzX2Nsb3NlX2hlbHBlcihpbm9kZSk7Cg==</text>
+        <text encoding="base64">c3RhdGljIHZvaWQgd3JpdGVfaW5vZGVfbWVtKHN0cnVjdCBtZW1faW5vZGUgKmlub2RlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGludCByID0gcmVtb3ZlX2Rpcl9lbnRyeShsaW5rbmFtZSk7CiAgICBpZiAoLS1pbm9kZS0+ZF9pbm9kZS5ubGlua3MgPD0gMCkgewogICAgICAgIGZyZWVfYml0bWFwX2VudHJ5KGlub2RlLT5pbm9kZV9udW0sIHNibG9ja19tZW0uaWJtYXApOwogICAgfQogICAgZnNfY2xvc2VfaGVscGVyKGlub2RlKTsKICAgIHJldHVybiByOwo=</text>
+        <text encoding="base64">CnN0YXRpYyBpbmxpbmUgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICgxIC8qIGZpbGVzeXN0ZW0gbm90IGV4aXN0cyAqLykgewogICAgfSBlbHNlIHsKICAgIH0KCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJhdmFpbGFibGU6ICVkXG4iLCBpKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2FkX2ZpbGVzeXN0ZW0oKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>chdir</last-search>
+      <last-search>HAL</last-search>
       <last-offset />
-      <last-pattern>chdir</last-pattern>
+      <last-pattern>HAL</last-pattern>
       <last-replace>()</last-replace>
       <last-substitute>\(s\)</last-substitute>
       <last-dir>1</last-dir>
@@ -716,8 +716,6 @@
     </search>
     <history>
       <history-search>
-        <entry>name2inode</entry>
-        <entry>stat</entry>
         <entry>fs_sta</entry>
         <entry>dirn</entry>
         <entry>link</entry>
@@ -736,6 +734,8 @@
         <entry>fs_open</entry>
         <entry>rm</entry>
         <entry>chdir</entry>
+        <entry>ret</entry>
+        <entry>HAL</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>

@@ -326,12 +326,13 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559481686026">
-        <mark key="'" line="597" column="16" />
-        <mark key="[" line="127" column="8" />
-        <mark key="m" line="220" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559484978757">
+        <mark key="'" line="590" column="30" />
+        <mark key="[" line="212" column="16" />
+        <mark key="m" line="225" column="0" />
+        <mark key="]" line="212" column="16" />
+        <mark key="." line="212" column="16" />
+        <mark key="^" line="212" column="29" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -506,8 +507,8 @@
         <mark key="." line="23" column="8" />
         <mark key="^" line="23" column="9" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell_sim.c" timestamp="1559300726109">
-        <mark key="'" line="305" column="0" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell_sim.c" timestamp="1559484024203">
+        <mark key="'" line="289" column="4" />
         <mark key="[" line="377" column="0" />
         <mark key="]" line="379" column="46" />
       </file>
@@ -559,8 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="342" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="125" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="265" column="31" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="108" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="291" column="14" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell_sim.c" />
@@ -659,46 +658,48 @@
       <jump line="155" column="16" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="591" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="598" column="16" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="584" column="30" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="289" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell_sim.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTlVMTDsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW5vMmJsayhpbm9kZS0+aW5vZGVfbnVtKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text encoding="base64">aW5vMmJsayhpbm9kZS0+aW5vZGVfbnVtKQ==</text>
       </register>
       <register name="/" type="4">
         <text>fs_open</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3RhdGljIGludCBjcmVhdGVfaW5vZGUoc3RydWN0IG1lbV9pbm9kZSAqaW5vZGUsIHNob3J0IHR5cGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRfZGlyZWN0b3J5X2VudHJ5KGRpcm5hbWUsIGlub2RlX251bSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTlVMTDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vIExvYWQgaW5vZGVfbnVtIGludG8gbWVtb3J5IChpbm9kZV90YWJsZSkKICAgIGlmICgoaW5vZGUgPSBmc19vcGVuX2hlbHBlcihpbm9kZV9udW0sIG1vZGUpKSA9PSBOVUxMKSB7IHJldHVybiAtMTsgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbm9kZV90IGlub2RlX251bSA9IG5hbWUyaW5vZGUoZmlsZW5hbWUpOwogICAgICAgIGlmIChpbm9kZV9udW0gPCAwKSB7Cg==</text>
+        <text encoding="base64">CiAgICBpZiAoaW5vZGVfbnVtIDwgMCkgewogICAgICAgIC8vIElmIHRoZSBtb2RlIGlzIENSRUFULCBjcmVhdGUgdGhlIGlub2RlX251bQogICAgICAgIHByaW50Zigibm8gaW5vZGUgZm91bmRcbiIpOwogICAgICAgIGlmICgobW9kZSAmIE1PREVfQ1JFQVRfQklUKSA9PSAwKSB7IHJldHVybiAtMTsgfQogICAgICAgIHJldHVybiBjcmVhdGVfaW5vZGUoJmlub2RlX3RhYmxlW2F2YWlsYWJsZV9pbm9kZV9tZW1faW5kZXgoKV0sIElOVFlQRV9GSUxFKTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlub2RlX3QgaW5vZGVfbnVtID0gbmFtZTJpbm9kZShmaWxlbmFtZSk7CiAgICBpZiAoaW5vZGVfbnVtIDwgMCkgewogICAgICAgIGlmICgobW9kZSAmIE1PREVfQ1JFQVQpID09IDApIHsgcmV0dXJuIC0xOyB9CiAgICAgICAgY3JlYXRlX2lub2RlKCZpbm9kZV90YWJsZVthdmFpbGFibGVfaW5vZGVfbWVtX2luZGV4KCldLCBJTlRZUEVfRklMRSk7CiAgICAgICAgcmV0dXJuIDA7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gLTE7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoImluZGV4OiAlZFxuIiwgeCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbm9kZV9udW0gPSBnZXRfZnJlZV9lbnRyeShzYmxvY2tfbWVtLmlibWFwKTsKICAgICAgICBpbm9kZV9tZW1faW5pdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJhdmFpbGFibGU6ICVkXG4iLCBpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIEdldCBiaXRtYXAgZW50cmllcwo=</text>
+        <text encoding="base64">ICAgIGNyZWF0ZV9pbm9kZShpbm9kZSkKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlub2RlX251bSA9IGdldF9mcmVlX2VudHJ5KCh1bnNpZ25lZCBjaGFyICopIHNibG9ja19tZW0uaWJtYXApOwogICAgZW50cnkgICAgID0gZ2V0X2ZyZWVfZW50cnkoKHVuc2lnbmVkIGNoYXIgKikgc2Jsb2NrX21lbS5kYm1hcCk7CgogICAgLy8gSW5pdCBkaXJlY3RvcnkKICAgIGlub2RlLnR5cGUgPSBJTlRZUEVfRElSOwogICAgaW5vZGUuZGlyZWN0WzBdID0gZW50cnk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

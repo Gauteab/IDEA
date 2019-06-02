@@ -326,13 +326,13 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559493563990">
-        <mark key="'" line="590" column="30" />
-        <mark key="[" line="145" column="24" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559498223561">
+        <mark key="'" line="216" column="0" />
+        <mark key="[" line="242" column="8" />
         <mark key="m" line="225" column="0" />
-        <mark key="]" line="512" column="0" />
-        <mark key="." line="514" column="53" />
-        <mark key="^" line="132" column="26" />
+        <mark key="]" line="243" column="7" />
+        <mark key="^" line="243" column="7" />
+        <mark key="." line="243" column="7" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -560,8 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="265" column="31" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="108" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="291" column="14" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell_sim.c" />
       <jump line="500" column="15" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="540" column="8" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
@@ -660,63 +658,64 @@
       <jump line="598" column="16" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="584" column="30" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="289" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell_sim.c" />
+      <jump line="336" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="216" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHJldHVybiBGU0VfRElSSVNGSUxFOyA=</text>
       </register>
       <register name="-" type="4">
-        <text>// Load inode_num into memory (inode_table)</text>
+        <text encoding="base64">IHJldHVybiBGU0VfRElSSVNGSUxFOyA=</text>
       </register>
       <register name="/" type="4">
-        <text>fs_open</text>
+        <text>chdir</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGludCByID0gcm0ocGF0aCk7CiAgICBmc19jbG9zZV9oZWxwZXIoaW5vZGUpOwogICAgcmV0dXJuIHI7Cg==</text>
+        <text encoding="base64">ICAgIGlmICgtLWlub2RlLT5kX2lub2RlLm5saW5rcyA8PSAwKSB7CiAgICAgICAgZnJlZV9iaXRtYXBfZW50cnkoaW5vZGUtPmlub2RlX251bSwgc2Jsb2NrX21lbS5pYm1hcCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlub2RlX3QgaW5vZGVfbnVtID0gbmFtZTJpbm9kZShwYXRoKTsKICAgIGlmIChpbm9kZV9udW0gPCAwKSB7IHJldHVybiAtMTsgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpbm9kZS4pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJhdmFpbGFibGU6ICVkXG4iLCBpKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiByOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIhISEiKTsK</text>
+        <text encoding="base64">ICAgIGludCByID0gcmVtb3ZlX2Rpcl9lbnRyeShwYXRoKTsKICAgIGZzX2Nsb3NlX2hlbHBlcihpbm9kZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGludCByID0gcmVtb3ZlX2Rpcl9lbnRyeShsaW5rbmFtZSk7CiAgICBpZiAoLS1pbm9kZS0+ZF9pbm9kZS5ubGlua3MgPD0gMCkgewogICAgICAgIGZyZWVfYml0bWFwX2VudHJ5KGlub2RlLT5pbm9kZV9udW0sIHNibG9ja19tZW0uaWJtYXApOwogICAgfQogICAgZnNfY2xvc2VfaGVscGVyKGlub2RlKTsKICAgIHJldHVybiByOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlub2RlX3QgaW5vZGVfbnVtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJhdmFpbGFibGU6ICVkXG4iLCBpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>fs_open</last-search>
+      <last-search>chdir</last-search>
       <last-offset />
-      <last-pattern>fs_open</last-pattern>
+      <last-pattern>chdir</last-pattern>
       <last-replace>()</last-replace>
       <last-substitute>\(s\)</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>open</entry>
         <entry>name2inode</entry>
         <entry>stat</entry>
         <entry>fs_sta</entry>
@@ -730,12 +729,13 @@
         <entry>write</entry>
         <entry>printf</entry>
         <entry>mkdir</entry>
-        <entry>rm</entry>
         <entry>idx:</entry>
         <entry>path</entry>
         <entry>file</entry>
         <entry>fs_open_helper</entry>
         <entry>fs_open</entry>
+        <entry>rm</entry>
+        <entry>chdir</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
@@ -748,8 +748,8 @@
         <entry>wa</entry>
         <entry>sp</entry>
         <entry>source .ideavimrc</entry>
-        <entry>qa</entry>
         <entry>q</entry>
+        <entry>qa</entry>
         <entry>vs</entry>
       </history-cmd>
       <history-expr />

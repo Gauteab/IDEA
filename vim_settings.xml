@@ -326,13 +326,13 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559504363591">
-        <mark key="'" line="574" column="48" />
-        <mark key="[" line="573" column="37" />
-        <mark key="m" line="225" column="0" />
-        <mark key="]" line="573" column="50" />
-        <mark key="." line="573" column="50" />
-        <mark key="^" line="573" column="50" />
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559549747399">
+        <mark key="'" line="579" column="48" />
+        <mark key="[" line="653" column="4" />
+        <mark key="m" line="230" column="0" />
+        <mark key="]" line="653" column="4" />
+        <mark key="^" line="666" column="4" />
+        <mark key="." line="653" column="4" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -663,43 +663,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>HALF_BLOCK</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>HALF_BLOCK</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>HAL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJsb2NrX3JlYWRfcGFydChGU19CSVRNQVBfU1RBUlQsIDAsIEJMT0NLX1NJWkUvMiwgc2Jsb2NrX21lbS5pYm1hcCk7Cg==</text>
+        <text encoding="base64">ICAgIGFkZF9kaXJlY3RvcnlfZW50cnkoIi4iLCBpbm9kZS0+aW5vZGVfbnVtKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGludCBIQUxGX0JMT0NLID0gQkxPQ0tfU0laRSAvIDI7Cg==</text>
+        <text encoding="base64">ICAgIHN0cnVjdCAgZGlza19pbm9kZSBpbm9kZSAgID0gezB9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2UgICAgICAgICAgICAgICAgICAgICAgICAgeyBpbm9kZS5wfQo=</text>
+        <text encoding="base64">ICAgIGludCAgICAgZW50cnk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJ1ZmZlcltCTE9DS19TSVpFLTRdCg==</text>
+        <text encoding="base64">CiAgICAvLyBHZXQgYml0bWFwIGVudHJpZXMKLyogICAgaW5vZGVfbnVtID0gZ2V0X2ZyZWVfZW50cnkoKHVuc2lnbmVkIGNoYXIgKikgc2Jsb2NrX21lbS5pYm1hcCk7CiAgICBlbnRyeSAgICAgPSBnZXRfZnJlZV9lbnRyeSgodW5zaWduZWQgY2hhciAqKSBzYmxvY2tfbWVtLmRibWFwKTsKCiAgICAvLyBJbml0IGRpcmVjdG9yeQogICAgaW5vZGUudHlwZSA9IElOVFlQRV9ESVI7CiAgICBpbm9kZS5kaXJlY3RbMF0gPSBlbnRyeTsKICAgIGlub2RlLnNpemUgPSBzaXplb2Yoc3RydWN0IGRpcmVudCkgKiAyOyovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3RhdGljIHZvaWQgd3JpdGVfaW5vZGVfbWVtKHN0cnVjdCBtZW1faW5vZGUgKmlub2RlKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGludCBIQUxGX0JMT0NLID0gQkxPQ0tfU0laRSAvIDI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgIGVsc2UgICAgICAgICAgICAgICAgICAgICAgICAgeyBpbm9kZS5wfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CnN0YXRpYyBpbmxpbmUgCg==</text>
+        <text encoding="base64">ICAgIGJ1ZmZlcltCTE9DS19TSVpFLTRdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICgxIC8qIGZpbGVzeXN0ZW0gbm90IGV4aXN0cyAqLykgewogICAgfSBlbHNlIHsKICAgIH0KCg==</text>
+        <text encoding="base64">c3RhdGljIHZvaWQgd3JpdGVfaW5vZGVfbWVtKHN0cnVjdCBtZW1faW5vZGUgKmlub2RlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkX2ZpbGVzeXN0ZW0oKTsK</text>
+        <text encoding="base64">CnN0YXRpYyBpbmxpbmUgCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

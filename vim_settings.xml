@@ -326,15 +326,15 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559564434674">
+      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559567575001">
         <mark key="e" line="220" column="17" />
-        <mark key="'" line="125" column="4" />
+        <mark key="'" line="97" column="21" />
         <mark key="i" line="220" column="17" />
-        <mark key="[" line="278" column="49" />
+        <mark key="[" line="475" column="27" />
         <mark key="m" line="241" column="0" />
-        <mark key="]" line="519" column="0" />
-        <mark key="." line="519" column="0" />
-        <mark key="^" line="519" column="0" />
+        <mark key="]" line="477" column="3" />
+        <mark key="." line="477" column="3" />
+        <mark key="^" line="477" column="3" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -562,7 +562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="413" column="7" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="394" column="12" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="392" column="18" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
@@ -662,10 +661,11 @@
       <jump line="140" column="27" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="109" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="125" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="97" column="21" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZzX2Nsb3NlX2hlbHBlcihpbm9kZSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>size</text>
@@ -677,31 +677,31 @@
         <text encoding="base64">c3RhdGljIGludCBmc19jbG9zZV9oZWxwZXIoc3RydWN0IG1lbV9pbm9kZSAqaW5vZGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGRpcm5hbWUgYWxyZWFkeSBleGlzdHMKICAgIC8vaWYgKG5hbWUyaW5vZGUobmFtZSkgPCAwKSByZXR1cm47Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">c3RhdGljIHN0cnVjdCBtZW1faW5vZGUgKm5ld19pbm9kZShzaG9ydCB0eXBlKQp7CiAgICByZXR1cm4gY3JlYXRlX2lub2RlKCZpbm9kZV90YWJsZVthdmFpbGFibGVfaW5vZGVfbWVtX2luZGV4KCldLCB0eXBlKTsKfQoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">c3RhdGljIGludCBjcmVhdGVfZGlyZWN0b3J5KGNoYXIgKmRpcm5hbWUpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNyZQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGZzX2Nsb3NlX2hlbHBlcihpbm9kZSk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0cnVjdCBtZW1faW5vZGUgKmN3ZCA9IGZzX29wZW5faGVscGVyKGN1cnJlbnRfcnVubmluZy0+Y3dkKTsKCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIGRpcm5hbWUgYWxyZWFkeSBleGlzdHMKICAgIC8vaWYgKG5hbWUyaW5vZGUobmFtZSkgPCAwKSByZXR1cm47Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">c3RhdGljIHN0cnVjdCBtZW1faW5vZGUgKm5ld19pbm9kZShzaG9ydCB0eXBlKQp7CiAgICByZXR1cm4gY3JlYXRlX2lub2RlKCZpbm9kZV90YWJsZVthdmFpbGFibGVfaW5vZGVfbWVtX2luZGV4KCldLCB0eXBlKTsKfQoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">c3RhdGljIGludCBjcmVhdGVfZGlyZWN0b3J5KGNoYXIgKmRpcm5hbWUpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNyZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGZzX2Nsb3NlX2hlbHBlcihpbm9kZSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHN0cnVjdCBtZW1faW5vZGUgKmN3ZCA9IGZzX29wZW5faGVscGVyKGN1cnJlbnRfcnVubmluZy0+Y3dkKTsKCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlub2RlX3QgcGFyZW50OwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

@@ -326,16 +326,6 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1557069325345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559576959912">
-        <mark key="e" line="230" column="17" />
-        <mark key="'" line="346" column="46" />
-        <mark key="i" line="230" column="17" />
-        <mark key="[" line="348" column="25" />
-        <mark key="m" line="260" column="0" />
-        <mark key="]" line="363" column="7" />
-        <mark key="." line="363" column="45" />
-        <mark key="^" line="363" column="7" />
-      </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
         <mark key="]" line="10" column="23" />
@@ -562,32 +552,12 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="16" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="615" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="157" column="6" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="166" column="6" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="56" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="311" column="24" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="609" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="604" column="6" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="554" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="60" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="292" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="612" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="613" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="62" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="210" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="551" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="400" column="24" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/shell.c" />
-      <jump line="476" column="24" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="637" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="632" column="18" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="183" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="638" column="5" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="546" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="507" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="61" column="49" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="523" column="14" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="240" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="251" column="22" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="530" column="37" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
@@ -615,7 +585,6 @@
       <jump line="603" column="43" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="619" column="57" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="484" column="21" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="49" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="199" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="208" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="211" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
@@ -645,7 +614,6 @@
       <jump line="31" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="185" column="25" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="38" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="636" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="342" column="55" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="315" column="55" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="140" column="27" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
@@ -662,65 +630,84 @@
       <jump line="70" column="67" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="180" column="59" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="346" column="46" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="636" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="2" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="63" column="64" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="516" column="1" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="509" column="14" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="49" column="67" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="653" column="12" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="648" column="54" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="639" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="384" column="12" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="354" column="12" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="519" column="3" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="375" column="36" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="364" column="36" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="345" column="36" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="310" column="36" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="300" column="8" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="164" column="16" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="45" column="15" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="523" column="15" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="481" column="10" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="557" column="32" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KSkg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50ZigiISEiKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KSkg</text>
+        <text>linkname</text>
       </register>
       <register name="/" type="4">
-        <text>unlink</text>
+        <text>iremo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChpbm9kZSA9PSBOVUxMICkgeyByZXR1cm4gRlNFX05PVEVYSVNUOyB9Cg==</text>
+        <text encoding="base64">ICAgIGlub2RlX3QgcGFyZW50OwogICAgc3RydWN0IG1lbV9pbm9kZSAqaW5vZGUgPSBpb3BlbihuYW1lMmlub2RlKGxpbmtuYW1lLCAmcGFyZW50KSk7CiAgICBzdHJ1Y3QgbWVtX2lub2RlICpwYXJlbiA9IGlvcGVuKHBhcmVudCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlub2RlX3QgaW5vZGVfbnVtID0gCg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiISEiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChpbm9kZV9udW0gPCAwKSB7IHJldHVybiBGU0VfTk9URVhJU1Q7IH0K</text>
+        <text encoding="base64">ICAgIGlmIChwYXJlbnRfbnVtICE9IE5VTEwpIHsgKnBhcmVudF9udW0gPSBpbm9kZS0+aW5vZGVfbnVtOyB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpY2xvc2UoaW5vZGUpOwo=</text>
+        <text encoding="base64">ICAgIHByaW50ZigiISEiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigicGFyZW50OiAlZFxuIiwgcGFyZW50LT5pbm9kZV9udW0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcmVlX2JpdG1hcF9lbnRyeShpbm9kZS0+ZF9pbm9kZS5kaXJlY3RbMF0sIHNibG9ja19tZW0uZGJtYXApOwo=</text>
+        <text encoding="base64">ICAgIHByaW50ZigicGFyZW50OiAlZFxuIiwgcGFyZW50LT5pbm9kZV9udW0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiByZW1vdmUgYWxsIGxpbmtzCg==</text>
+        <text encoding="base64">ICAgIHN0cnVjdCBtZW1faW5vZGUgKmlub2RlID0gaW9wZW4obmFtZTJpbm9kZShwYXRoLCBOVUxMKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIiEhIik7Cg==</text>
+        <text encoding="base64">ICAgIHN0cnVjdCBtZW1faW5vZGUgKnBhcmVudCA9IGlvcGVuKGN1cnJlbnRfcnVubmluZy0+Y3dkKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByOwo=</text>
+        <text encoding="base64">c3RhdGljIGlub2RlX3QgbmFtZTJpbm9kZShjaGFyICpuYW1lKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGludCByID0gcmVtb3ZlX2Rpcl9lbnRyeShpbm9kZSwgbmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgIGljbG9zZShpbm9kZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>unlink</last-search>
+      <last-search>iremo</last-search>
       <last-offset />
-      <last-pattern>unlink</last-pattern>
+      <last-pattern>iremo</last-pattern>
       <last-replace>()</last-replace>
       <last-substitute>\(s\)</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>file</entry>
-        <entry>fs_open_helper</entry>
-        <entry>fs_open</entry>
         <entry>rm</entry>
         <entry>chdir</entry>
         <entry>ret</entry>
@@ -736,8 +723,11 @@
         <entry>root</entry>
         <entry>new_i</entry>
         <entry>DIR</entry>
-        <entry>iremo</entry>
         <entry>unlink</entry>
+        <entry>iremove</entry>
+        <entry>remove</entry>
+        <entry>name2inode</entry>
+        <entry>iremo</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>

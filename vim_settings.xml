@@ -259,6 +259,9 @@
       <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/block_sim.c" timestamp="1558954268215">
         <mark key="'" line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/work/uio/in2000/prosjekter/Gruppe03/Gruppe03/Code/app/src/main/java/com/example/in2000_project/view/MainActivity.kt" timestamp="1559728587948">
+        <mark key="'" line="321" column="0" />
+      </file>
       <file name="$USER_HOME$/work/Calcula/src/calcula/parser/scanner/Token.kt" timestamp="1557314838546">
         <mark key="[" line="29" column="35" />
         <mark key="]" line="2" column="43" />
@@ -329,9 +332,10 @@
       <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" timestamp="1559588201070">
         <mark key="'" line="99" column="64" />
         <mark key="[" line="141" column="53" />
+        <mark key="m" line="212" column="0" />
         <mark key="]" line="507" column="43" />
-        <mark key="." line="507" column="43" />
         <mark key="^" line="99" column="64" />
+        <mark key="." line="507" column="43" />
       </file>
       <file name="$USER_HOME$/work/Calculeese/src/calculeese/main/scanner/Token.kt" timestamp="1556631827162">
         <mark key="[" line="10" column="23" />
@@ -565,7 +569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="284" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="295" column="4" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="304" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
@@ -665,6 +668,7 @@
       <jump line="97" column="56" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="33" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="99" column="64" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
+      <jump line="321" column="0" filename="$USER_HOME$/work/uio/in2000/prosjekter/Gruppe03/Gruppe03/Code/app/src/main/java/com/example/in2000_project/view/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -721,26 +725,26 @@
     </search>
     <history>
       <history-search>
-        <entry>new_i</entry>
-        <entry>DIR</entry>
-        <entry>unlink</entry>
+        <entry>open:</entry>
+        <entry>dirent</entry>
+        <entry>bzero</entry>
+        <entry>open</entry>
+        <entry>fs_open</entry>
         <entry>name2inode</entry>
-        <entry>remove</entry>
-        <entry>iremo</entry>
-        <entry>iremove</entry>
-        <entry>irem</entry>
+        <entry>stat</entry>
+        <entry>fs_sta</entry>
+        <entry>dirn</entry>
+        <entry>link</entry>
+        <entry>disk_inode</entry>
+        <entry>entr</entry>
+        <entry>fs_</entry>
+        <entry>write_inode</entry>
+        <entry>unlink</entry>
+        <entry>write</entry>
         <entry>printf</entry>
-        <entry>shift</entry>
-        <entry>iclode</entry>
-        <entry>iclose</entry>
-        <entry>iread</entry>
-        <entry>iseek</entry>
-        <entry>iwrite</entry>
-        <entry>rmdir</entry>
-        <entry>na</entry>
-        <entry>inode</entry>
-        <entry>index_of</entry>
-        <entry>CAFE</entry>
+        <entry>mkdir</entry>
+        <entry>rm</entry>
+        <entry>idx:</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
@@ -753,9 +757,9 @@
         <entry>wa</entry>
         <entry>sp</entry>
         <entry>source .ideavimrc</entry>
+        <entry>qa</entry>
         <entry>q</entry>
         <entry>vs</entry>
-        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />

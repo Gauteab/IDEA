@@ -4,6 +4,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl alt j" />
   </action>
+  <action id="EditBreakpoint" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <mouse-shortcut keystroke="button5" />
@@ -12,4 +13,8 @@
   <action id="Git.Commit.And.Push.Executor" />
   <action id="Hg.Commit.And.Push.Executor" />
   <action id="SurroundWithLiveTemplate" />
+  <action id="ViewBreakpoints" />
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="shift ctrl f8" />
+  </action>
 </keymap>

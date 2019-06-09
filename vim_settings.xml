@@ -181,7 +181,12 @@
         <mark key="." line="50" column="27" />
         <mark key="^" line="50" column="27" />
       </file>
-      <file name="$USER_HOME$/moro/cursive_test/src/cursive_test/core.clj" timestamp="1560091540566" />
+      <file name="$USER_HOME$/moro/cursive_test/src/cursive_test/core.clj" timestamp="1560091863561">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="13" />
+        <mark key="^" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+      </file>
       <file name="$USER_HOME$/work/uio/in2000/untitled/src/Threads.kt" timestamp="1557754670897">
         <mark key="[" line="42" column="1" />
         <mark key="]" line="30" column="54" />
@@ -499,11 +504,11 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="/REPL.clj" timestamp="1560091536141">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+      <file name="/REPL.clj" timestamp="1560091779675">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspFactorPrefix.kt" timestamp="1556552691926">
         <mark key="[" line="13" column="0" />

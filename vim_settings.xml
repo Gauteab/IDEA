@@ -181,11 +181,12 @@
         <mark key="." line="50" column="27" />
         <mark key="^" line="50" column="27" />
       </file>
-      <file name="$USER_HOME$/moro/cursive_test/src/cursive_test/core.clj" timestamp="1560104655986">
-        <mark key="'" line="10" column="38" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/moro/cursive_test/src/cursive_test/core.clj" timestamp="1560167918633">
+        <mark key="'" line="20" column="21" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="24" column="36" />
+        <mark key="^" line="26" column="15" />
       </file>
       <file name="$USER_HOME$/work/uio/in2000/untitled/src/Threads.kt" timestamp="1557754670897">
         <mark key="[" line="42" column="1" />
@@ -307,11 +308,11 @@
       <file name="/Kotlin Console" timestamp="1557260764654">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/in2000/untitled/src/Test.kt" timestamp="1560166132049">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="0" column="37" />
-        <mark key="." line="0" column="37" />
-        <mark key="^" line="0" column="37" />
+      <file name="$USER_HOME$/work/uio/in2000/untitled/src/Test.kt" timestamp="1560168266418">
+        <mark key="'" line="5" column="23" />
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/work/uio/in2000/eksamen/src/PersonKt.kt" timestamp="1556874735000">
         <mark key="[" line="6" column="8" />
@@ -510,11 +511,12 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="/REPL.clj" timestamp="1560103549190">
+      <file name="/REPL.clj" timestamp="1560167404918">
         <mark key="k" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspFactorPrefix.kt" timestamp="1556552691926">
         <mark key="[" line="13" column="0" />
@@ -587,8 +589,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="304" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="576" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="617" column="33" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="242" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="221" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
@@ -687,63 +687,64 @@
       <jump line="321" column="0" filename="$USER_HOME$/work/uio/in2000/prosjekter/Gruppe03/Gruppe03/Code/app/src/main/java/com/example/in2000_project/view/MainActivity.kt" />
       <jump line="17" column="46" filename="$USER_HOME$/moro/cursive_test/src/cursive_test/core.clj" />
       <jump line="12" column="38" filename="$USER_HOME$/moro/cursive_test/src/cursive_test/core.clj" />
+      <jump line="20" column="21" filename="$USER_HOME$/moro/cursive_test/src/cursive_test/core.clj" />
+      <jump line="5" column="23" filename="$USER_HOME$/work/uio/in2000/untitled/src/Test.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBsID0gbGlzdE9mPFN0cmluZz4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAubWFwIHsgaXQuZmlyc3QgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>max</text>
+        <text encoding="base64">Zmlyc3Qg</text>
       </register>
       <register name="/" type="4">
-        <text>pre</text>
+        <text>map</text>
       </register>
       <register name="0" type="4">
         <text>(pred [x] (or (= 0 (mod x 3) (= 0 (mod x 5)))))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBsID0gbGlzdE9mPFN0cmluZz4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAubWFwIHsgaXQuZmlyc3QgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGwuYWRkKDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAuc3VtKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">CmZ1biBtYWluKCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KHByKQoK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KHJhbmdlIDEgMTApCgo=</text>
+        <text encoding="base64">ZGF0YSBjbGFzcyBIZWkodmFsIG5hbWU6IFN0cmluLCB5OiBJbnQpIHsKICAgIHZhbCB4OiBJbnQgPSAxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KHByaW50bG4gKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oSGVpKCJKb2huIikpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KGRlZm4gcHJlZCBbeF0gKG9yICg9IDAgKG1vZCB4IDMpICg9IDAgKG1vZCB4IDUpKSkpKQoob3IgKD0gMCAobW9kIDYgMykpICg9IDAgKG1vZCA2IDUpKSkK</text>
+        <text encoding="base64">KGRvYyB0YWtlLXdoaWxlICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAobGV0Zm4gWyhwcmVkIFt4XSAob3IgKD0gMCAobW9kIHggMykgKD0gMCAobW9kIHggNSkpKSkpXQo=</text>
+        <text encoding="base64">ICAgICAgICh0YWtlIGNhcCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgKHJlZHVjZSArKQo=</text>
+        <text encoding="base64">KGRlZiBmaWIgKQoK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>pre</last-search>
+      <last-search>map</last-search>
       <last-offset />
-      <last-pattern>pre</last-pattern>
+      <last-pattern>map</last-pattern>
       <last-replace>()</last-replace>
       <last-substitute>\(s\)</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>bzero</entry>
         <entry>open</entry>
         <entry>fs_open</entry>
         <entry>name2inode</entry>
@@ -763,6 +764,7 @@
         <entry>idx:</entry>
         <entry>y</entry>
         <entry>pre</entry>
+        <entry>map</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>

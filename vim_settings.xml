@@ -181,12 +181,11 @@
         <mark key="." line="50" column="27" />
         <mark key="^" line="50" column="27" />
       </file>
-      <file name="$USER_HOME$/moro/cursive_test/src/cursive_test/core.clj" timestamp="1560104108851">
+      <file name="$USER_HOME$/moro/cursive_test/src/cursive_test/core.clj" timestamp="1560104655986">
         <mark key="'" line="10" column="38" />
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="10" />
-        <mark key="." line="21" column="10" />
-        <mark key="^" line="21" column="10" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/work/uio/in2000/untitled/src/Threads.kt" timestamp="1557754670897">
         <mark key="[" line="42" column="1" />
@@ -307,6 +306,12 @@
       </file>
       <file name="/Kotlin Console" timestamp="1557260764654">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/uio/in2000/untitled/src/Test.kt" timestamp="1560166132049">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+        <mark key="^" line="0" column="37" />
       </file>
       <file name="$USER_HOME$/work/uio/in2000/eksamen/src/PersonKt.kt" timestamp="1556874735000">
         <mark key="[" line="6" column="8" />
@@ -684,8 +689,8 @@
       <jump line="12" column="38" filename="$USER_HOME$/moro/cursive_test/src/cursive_test/core.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>max</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCBsID0gbGlzdE9mPFN0cmluZz4oKQo=</text>
       </register>
       <register name="-" type="4">
         <text>max</text>
@@ -697,34 +702,34 @@
         <text>(pred [x] (or (= 0 (mod x 3) (= 0 (mod x 5)))))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KHJhbmdlIDEgMTApCgo=</text>
+        <text encoding="base64">ICAgIHZhbCBsID0gbGlzdE9mPFN0cmluZz4oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KHByaW50bG4gKQo=</text>
+        <text encoding="base64">ICAgIGwuYWRkKDEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KGRlZm4gcHJlZCBbeF0gKG9yICg9IDAgKG1vZCB4IDMpICg9IDAgKG1vZCB4IDUpKSkpKQoob3IgKD0gMCAobW9kIDYgMykpICg9IDAgKG1vZCA2IDUpKSkK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAobGV0Zm4gWyhwcmVkIFt4XSAob3IgKD0gMCAobW9kIHggMykgKD0gMCAobW9kIHggNSkpKSkpXQo=</text>
+        <text encoding="base64">KHByKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgKHJlZHVjZSArKQo=</text>
+        <text encoding="base64">KHJhbmdlIDEgMTApCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAobGV0Zm4gWyhwcmVkIFt4XSAob3IgKD0gMCAoJSB4IDMpICg9IDAgKCUgeCA1KSkpKSldCiAgKC0+PiAocmFuZ2UgMSAxMCkKICAgICAgIChmaWx0ZXIgcHJlZCkKICAgICAgICkpCg==</text>
+        <text encoding="base64">KHByaW50bG4gKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAoLT4+IChyYW5nZSAxIDEwKQogICAgICAgKGZpbHRlciBwcmVkKQogICAgICAgKSkK</text>
+        <text encoding="base64">KGRlZm4gcHJlZCBbeF0gKG9yICg9IDAgKG1vZCB4IDMpICg9IDAgKG1vZCB4IDUpKSkpKQoob3IgKD0gMCAobW9kIDYgMykpICg9IDAgKG1vZCA2IDUpKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAobGV0Zm4gWyhwcmVkIFt4XSAob3IgKD0gMCAobW9kIHggMykgKD0gMCAobW9kIHggNSkpKSkpXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAoLT4+IChyYW5nZSAxIDEwKQogICAgICAgKGZpbHRlciBwcmVkKQogICAgICAgCiAgICAgICApKQo=</text>
+        <text encoding="base64">ICAgICAgICAgKHJlZHVjZSArKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -771,8 +776,8 @@
         <entry>sp</entry>
         <entry>source .ideavimrc</entry>
         <entry>qa</entry>
-        <entry>q</entry>
         <entry>vs</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -271,12 +271,12 @@
       <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/block_sim.c" timestamp="1558954268215">
         <mark key="'" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/moro/cursive_test/src/euler/core.clj" timestamp="1560170450472">
+      <file name="$USER_HOME$/moro/cursive_test/src/euler/core.clj" timestamp="1560172010234">
         <mark key="'" line="13" column="45" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="13" column="67" />
+        <mark key="[" line="4" column="42" />
+        <mark key="]" line="4" column="48" />
+        <mark key="." line="4" column="48" />
+        <mark key="^" line="4" column="48" />
       </file>
       <file name="$USER_HOME$/work/uio/in2000/prosjekter/Gruppe03/Gruppe03/Code/app/src/main/java/com/example/in2000_project/view/MainActivity.kt" timestamp="1559728587948">
         <mark key="'" line="321" column="0" />
@@ -523,13 +523,6 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="/REPL.clj" timestamp="1560167404918">
-        <mark key="k" line="0" column="0" />
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspFactorPrefix.kt" timestamp="1556552691926">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -709,11 +702,11 @@
       <jump line="13" column="45" filename="$USER_HOME$/moro/cursive_test/src/euler/core.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KGRvYyBsYXp5LXNlcSkK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2VxIA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
@@ -722,31 +715,31 @@
         <text encoding="base64">ICAiRXVsZXIgUHJvamVjdCBQcm9ibGVtIDEiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KGRvYyBsYXp5LXNlcSkK</text>
+        <text encoding="base64">ICAobGV0Zm4gWyhwcmVkIFt4XSAobWFwICMobW9kICUgMykgWzMgNV0pXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGRvYyArKQo=</text>
+        <text encoding="base64">ICAgICAgIChtYXAgZmlyc3QpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KGRlZm4gc3FlIFt4c10KICAoLT4+IHhzCiAgICAoZmlsdGVyIGV2ZW4/KQogICAgKG1hcCAjKCogJSAlKSkKICAgIChyZWR1Y2UgKykpKQoK</text>
+        <text encoding="base64">ICAgICAgIChpdGVyYXRlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KGRvYyBjbG9qdXJlLmNvbnRyaWIpCg==</text>
+        <text encoding="base64">KGRvYyBsYXp5LXNlcSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KHRha2Utd2hpbGUgIyg+IDEwICUpIChyYW5nZSAxMDApKQo=</text>
+        <text encoding="base64">KGRvYyArKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KGVwMSAxMCkK</text>
+        <text encoding="base64">KGRlZm4gc3FlIFt4c10KICAoLT4+IHhzCiAgICAoZmlsdGVyIGV2ZW4/KQogICAgKG1hcCAjKCogJSAlKSkKICAgIChyZWR1Y2UgKykpKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KGRlZm4gZXAxXzIgW251bV0KICAoLT4+IChyYW5nZSBudW0pCiAgICAgICAoZmlsdGVyICMobW9kICUgMykpCiAgICAgICApKQoK</text>
+        <text encoding="base64">KGRvYyBjbG9qdXJlLmNvbnRyaWIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAubWFwIHsgaXQuZmlyc3QgfQo=</text>
+        <text encoding="base64">KHRha2Utd2hpbGUgIyg+IDEwICUpIChyYW5nZSAxMDApKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuc3VtKCkK</text>
+        <text encoding="base64">KGVwMSAxMCkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -859,6 +852,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed BACK_SLASH</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

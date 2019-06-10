@@ -271,12 +271,11 @@
       <file name="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/block_sim.c" timestamp="1558954268215">
         <mark key="'" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/moro/cursive_test/src/euler/core.clj" timestamp="1560172010234">
-        <mark key="'" line="13" column="45" />
-        <mark key="[" line="4" column="42" />
-        <mark key="]" line="4" column="48" />
-        <mark key="." line="4" column="48" />
-        <mark key="^" line="4" column="48" />
+      <file name="$USER_HOME$/moro/cursive_test/src/euler/core.clj" timestamp="1560173932172">
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="24" column="28" />
+        <mark key="^" line="24" column="28" />
+        <mark key="." line="24" column="28" />
       </file>
       <file name="$USER_HOME$/work/uio/in2000/prosjekter/Gruppe03/Gruppe03/Code/app/src/main/java/com/example/in2000_project/view/MainActivity.kt" timestamp="1559728587948">
         <mark key="'" line="321" column="0" />
@@ -320,11 +319,12 @@
       <file name="/Kotlin Console" timestamp="1557260764654">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/in2000/untitled/src/Test.kt" timestamp="1560168266418">
-        <mark key="'" line="5" column="23" />
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/work/uio/in2000/untitled/src/Test.kt" timestamp="1560174375286">
+        <mark key="'" line="1" column="23" />
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/work/uio/in2000/eksamen/src/PersonKt.kt" timestamp="1556874735000">
         <mark key="[" line="6" column="8" />
@@ -600,8 +600,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="688" column="46" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="657" column="30" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="39" column="31" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="50" column="87" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
@@ -700,13 +698,15 @@
       <jump line="5" column="23" filename="$USER_HOME$/work/uio/in2000/untitled/src/Test.kt" />
       <jump line="15" column="0" filename="$USER_HOME$/moro/cursive_test/src/cursive_test/core.clj" />
       <jump line="13" column="45" filename="$USER_HOME$/moro/cursive_test/src/euler/core.clj" />
+      <jump line="4" column="23" filename="$USER_HOME$/moro/cursive_test/src/euler/core.clj" />
+      <jump line="22" column="41" filename="$USER_HOME$/moro/cursive_test/src/euler/core.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnVuIG1haW4oKSB7CiAgICBwcmludGxuKGVwMig0XzAwMF8wMDApKQp9Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>e1</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
@@ -715,31 +715,31 @@
         <text encoding="base64">ICAiRXVsZXIgUHJvamVjdCBQcm9ibGVtIDEiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAobGV0Zm4gWyhwcmVkIFt4XSAobWFwICMobW9kICUgMykgWzMgNV0pXQo=</text>
+        <text encoding="base64">ZnVuIG1haW4oKSB7CiAgICBwcmludGxuKGVwMig0XzAwMF8wMDApKQp9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIChtYXAgZmlyc3QpCg==</text>
+        <text encoding="base64">KHByaW50bG4gIlByb2JsZW0gMjoiIChlMiA0MDAwMDAwKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIChpdGVyYXRlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KGRvYyBsYXp5LXNlcSkK</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KGRvYyArKQo=</text>
+        <text encoding="base64">KGRlZm4gZiBbeF0KICAoc29tZSB6ZXJvPyAobWFwIChwYXJ0aWFsIG1vZCB4KSBbMyA1XSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KGRlZm4gc3FlIFt4c10KICAoLT4+IHhzCiAgICAoZmlsdGVyIGV2ZW4/KQogICAgKG1hcCAjKCogJSAlKSkKICAgIChyZWR1Y2UgKykpKQoK</text>
+        <text encoding="base64">KHByaW50bG4gIlByb2JsZW0gMToiIChlMSAxMDAwKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KGRvYyBjbG9qdXJlLmNvbnRyaWIpCg==</text>
+        <text encoding="base64">ICAobGV0Zm4gWyhwcmVkIFt4XSAobWFwICMobW9kICUgMykgWzMgNV0pXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KHRha2Utd2hpbGUgIyg+IDEwICUpIChyYW5nZSAxMDApKQo=</text>
+        <text encoding="base64">ICAgICAgIChtYXAgZmlyc3QpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KGVwMSAxMCkK</text>
+        <text encoding="base64">ICAgICAgIChpdGVyYXRlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

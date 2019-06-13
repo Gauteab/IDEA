@@ -452,12 +452,17 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/moro/euler/src/euler/core.clj" timestamp="1560441690159">
-        <mark key="'" line="47" column="71" />
-        <mark key="[" line="66" column="9" />
-        <mark key="]" line="63" column="16" />
-        <mark key="." line="63" column="16" />
-        <mark key="^" line="63" column="16" />
+      <file name="$USER_HOME$/moro/euler/src/euler/core.clj" timestamp="1560443025698">
+        <mark key="[" line="44" column="7" />
+        <mark key="]" line="44" column="8" />
+        <mark key="." line="44" column="8" />
+        <mark key="^" line="44" column="12" />
+      </file>
+      <file name="/REPL.clj" timestamp="1560443599658">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspFactorPrefix.kt" timestamp="1556552691926">
         <mark key="[" line="13" column="0" />
@@ -508,7 +513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="36" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="631" column="25" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="146" column="40" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="672" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
@@ -608,13 +612,14 @@
       <jump line="51" column="11" filename="$USER_HOME$/moro/euler/src/euler/core.clj" />
       <jump line="56" column="16" filename="$USER_HOME$/moro/euler/src/euler/core.clj" />
       <jump line="50" column="71" filename="$USER_HOME$/moro/euler/src/euler/core.clj" />
+      <jump line="39" column="8" filename="$USER_HOME$/moro/euler/src/euler/core.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">KGRlZm4gcHJpbWU/IFtudW1dCiAgKGNvbmQKICAgICg9IDIgbnVtKSAgIHRydWUKICAgIChldmVuPyBudW0pIGZhbHNlCiAgICA6ZWxzZSAobG9vcCBbeCAzXQogICAgICAgICAgICAoY29uZAogICAgICAgICAgICAgICg8PSBudW0geCkgdHJ1ZQogICAgICAgICAgICAgICh6ZXJvPyAgICAgKG1vZCBudW0geCkpIGZhbHNlCiAgICAgICAgICAgICAgOmVsc2UgICAgICAocmVjdXIgKCsgMiB4KSkpKSkpCgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpbWVzICYgcmVzdA==</text>
+        <text>filter</text>
       </register>
       <register name="/" type="4">
         <text>tak</text>
@@ -623,31 +628,31 @@
         <text encoding="base64">KHRha2Utd2hpbGUgIyg+PSB0YXJnZXQgJSkgKGl0ZXJhdGUgIygrICUgMikgMykp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">KGRlZm4gcHJpbWU/IFtudW1dCiAgKGNvbmQKICAgICg9IDIgbnVtKSAgIHRydWUKICAgIChldmVuPyBudW0pIGZhbHNlCiAgICA6ZWxzZSAobG9vcCBbeCAzXQogICAgICAgICAgICAoY29uZAogICAgICAgICAgICAgICg8PSBudW0geCkgdHJ1ZQogICAgICAgICAgICAgICh6ZXJvPyAgICAgKG1vZCBudW0geCkpIGZhbHNlCiAgICAgICAgICAgICAgOmVsc2UgICAgICAocmVjdXIgKCsgMiB4KSkpKSkpCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAoKQo=</text>
+        <text encoding="base64">KGRlZm4gZTMgW251bV0KICAiUHJvamVjdCBFdWxlciBQcm9ibGVtIDMiCiAgKGxvb3AgW3ggKE1hdGgvcm91bmQgKE1hdGgvc3FydCBudW0pKV0KICAgIChjb25kCiAgICAgICh6ZXJvPyBudW0pIG51bQogICAgICAoYW5kCiAgICAgICAgKHByaW1lPyB4KQogICAgICAgICh6ZXJvPyAobW9kIG51bSB4KSkpIHgKICAgICAgOmVsc2UgKHJlY3VyIChkZWMgeCkpKSkpCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBbW3ByaW1lICYgY2FuZGlkYXRlc10gcmVzdWx0XSAKICAoaWYKICAgIChuaWw/IGNhbmRpZGF0ZXMpIChjb25qIHJlc3VsdCBwcmltZSkKICAgIChsYXp5LXNlcSAoY29uaiAoZmlsdGVyLXByaW1lcyBjYW5kaWRhdGVzIHByaW1lKSBwcmltZSkpKSkKCg==</text>
+        <text encoding="base64">KGRlZm4gZmlsdGVyLXByaW1lcyBbW2NhbmRpZGF0ZSAmIGNhbmRpZGF0ZXNdIHByaW1lXQogIChjb25kCiAgICAoZGl2aXNpYmxlPyBjYW5kaWRhdGUgcHJpbWUpIChmaWx0ZXItcHJpbWVzIGNhbmRpZGF0ZXMgcHJpbWUpCiAgICAobmlsPyBjYW5kaWRhdGVzKSBuaWwKICAgIDplbHNlIChsYXp5LXNlcSAoY29ucyBjYW5kaWRhdGUgKGZpbHRlci1wcmltZXMgY2FuZGlkYXRlcyBwcmltZSkpKSkpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KGRlZm4gZmFjdG9yIFtudW1dCiAgKGxvb3AgW3ByaW1lcyAoc2lldmUgbnVtKV0KICAgIChpZiAoZGl2aXNpYmxlIG51bSAoZmlyc3QgcHJpbWVzKSkKICAgICAgKGZpcnN0IHByaW1lcykKICAgICAgKHJlY3VyIChyZXN0IHByaW1lcykpCiAgICAgICkKICAgICkKICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KGRlZm4gc2lldmUgW3RhcmdldF0KICAobG9vcCBbW3ByaW1lICYgY2FuZGlkYXRlc10gKG9kZHMtdXAtdG8gdGFyZ2V0KSAsIHJlc3VsdCAnKCldCiAgICAobGV0IFtjYW5kaWRhdGVzIChkaXBmaWx0ZXItcHJpbWVzIGNhbmRpZGF0ZXMgcHJpbWUpXQogICAgICAoaWYgKG5pbD8gY2FuZGlkYXRlcykKICAgICAgICByZXN1bHQKICAgICAgICAocmVjdXIgY2FuZGlkYXRlcyAoY29uaiByZXN1bHQgcHJpbWUpKSkpKSkK</text>
+        <text encoding="base64">ICAgIChuaWw/IHJlc3QpIG5pbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KGxhc3QgKHNpZXZlIDYwMDg1MTQ3NTE0MykpCg==</text>
+        <text encoding="base64">ICAocHJpbnRsbiB0YXJnZXQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KHNpZXZlIDExKQo=</text>
+        <text encoding="base64">KGRlZm4gb2Rkcy11cC10byBbdGFyZ2V0XSAodGFrZS13aGlsZSAjKD49ICgrIDIgdGFyZ2V0KSAlKSAoaXRlcmF0ZSAjKCsgJSAyKSAzKSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KGZhY3RvciAyODEpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -764,6 +769,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

@@ -452,15 +452,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/moro/euler/src/euler/core.clj" timestamp="1560439099889">
+      <file name="$USER_HOME$/moro/euler/src/euler/core.clj" timestamp="1560440525904">
         <mark key="'" line="47" column="71" />
-        <mark key="[" line="47" column="75" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="61" column="0" />
-      </file>
-      <file name="/REPL.clj" timestamp="1560429823473">
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="47" column="43" />
+        <mark key="]" line="47" column="43" />
+        <mark key="." line="47" column="43" />
+        <mark key="^" line="47" column="48" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspFactorPrefix.kt" timestamp="1556552691926">
         <mark key="[" line="13" column="0" />
@@ -614,10 +611,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>divisible</text>
+        <text>target</text>
       </register>
       <register name="-" type="4">
-        <text>divisible</text>
+        <text>target</text>
       </register>
       <register name="/" type="4">
         <text>tak</text>
@@ -626,31 +623,31 @@
         <text encoding="base64">KHRha2Utd2hpbGUgIyg+PSB0YXJnZXQgJSkgKGl0ZXJhdGUgIygrICUgMikgMykp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KGxhc3QgKHNpZXZlIDYwMDg1MTQ3NTE0MykpCg==</text>
+        <text encoding="base64">ICAoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KHNpZXZlIDExKQo=</text>
+        <text encoding="base64">ICBbW3ByaW1lICYgY2FuZGlkYXRlc10gcmVzdWx0XSAKICAoaWYKICAgIChuaWw/IGNhbmRpZGF0ZXMpIChjb25qIHJlc3VsdCBwcmltZSkKICAgIChsYXp5LXNlcSAoY29uaiAoZmlsdGVyLXByaW1lcyBjYW5kaWRhdGVzIHByaW1lKSBwcmltZSkpKSkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KGZhY3RvciAyODEpCg==</text>
+        <text encoding="base64">KGRlZm4gZmFjdG9yIFtudW1dCiAgKGxvb3AgW3ByaW1lcyAoc2lldmUgbnVtKV0KICAgIChpZiAoZGl2aXNpYmxlIG51bSAoZmlyc3QgcHJpbWVzKSkKICAgICAgKGZpcnN0IHByaW1lcykKICAgICAgKHJlY3VyIChyZXN0IHByaW1lcykpCiAgICAgICkKICAgICkKICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGRlZm4gc2lldmUgW3RhcmdldF0KICAobG9vcCBbW3ByaW1lICYgY2FuZGlkYXRlc10gKG9kZHMtdXAtdG8gdGFyZ2V0KSAsIHJlc3VsdCAnKCldCiAgICAobGV0IFtjYW5kaWRhdGVzIChkaXBmaWx0ZXItcHJpbWVzIGNhbmRpZGF0ZXMgcHJpbWUpXQogICAgICAoaWYgKG5pbD8gY2FuZGlkYXRlcykKICAgICAgICByZXN1bHQKICAgICAgICAocmVjdXIgY2FuZGlkYXRlcyAoY29uaiByZXN1bHQgcHJpbWUpKSkpKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KGRlZm4gZmFjdG9yIFtudW1dCiAgKGZpbHRlciAjKHplcm8/IChtb2QgbnVtICUpKSAoY29uaiAoc2lldmUgbnVtKSAyKSkpCg==</text>
+        <text encoding="base64">KGxhc3QgKHNpZXZlIDYwMDg1MTQ3NTE0MykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgKGlmICg9IG4gdGFyZ2V0KQogICAgICAgIHByaW1lcwogICAgICAgIChyZWN1ciAocmVzdCBwcmltZXMpIChjb25zIChmaWx0ZXIgIyhub3QgKHplcm8/IChtb2QgJSBuKSkpKSBwcmltZXMpKSkpKSkK</text>
+        <text encoding="base64">KHNpZXZlIDExKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">KGZhY3RvciAyODEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAobG9vcCBbcHJpbWVzIChzaWV2ZSBudW0pLCB0YXJnZXQgbnVtXQogICAgKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CigpCg==</text>
+        <text encoding="base64">KGRlZm4gZmFjdG9yIFtudW1dCiAgKGZpbHRlciAjKHplcm8/IChtb2QgbnVtICUpKSAoY29uaiAoc2lldmUgbnVtKSAyKSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

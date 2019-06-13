@@ -522,11 +522,14 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/moro/euler/src/euler/core.clj" timestamp="1560426510310">
-        <mark key="[" line="55" column="8" />
-        <mark key="]" line="55" column="76" />
-        <mark key="." line="55" column="76" />
-        <mark key="^" line="55" column="76" />
+      <file name="$USER_HOME$/moro/euler/src/euler/core.clj" timestamp="1560429808378">
+        <mark key="'" line="56" column="16" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+      </file>
+      <file name="/REPL.clj" timestamp="1560429823473">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspFactorPrefix.kt" timestamp="1556552691926">
         <mark key="[" line="13" column="0" />
@@ -605,7 +608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="652" column="12" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="151" column="36" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="631" column="25" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="146" column="40" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
@@ -705,13 +707,14 @@
       <jump line="54" column="1" filename="$USER_HOME$/moro/euler/src/euler/core.clj" />
       <jump line="53" column="48" filename="$USER_HOME$/moro/euler/src/euler/core.clj" />
       <jump line="51" column="11" filename="$USER_HOME$/moro/euler/src/euler/core.clj" />
+      <jump line="56" column="16" filename="$USER_HOME$/moro/euler/src/euler/core.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">MiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KGxhc3QgKHNpZXZlIDYwMDg1MTQ3NTE0MykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MiA=</text>
+        <text>(first primes)</text>
       </register>
       <register name="/" type="4">
         <text>true</text>
@@ -720,31 +723,31 @@
         <text>filter #(or (= 3 %) (zero? (mod % 3))) primes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">KGxhc3QgKHNpZXZlIDYwMDg1MTQ3NTE0MykpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAobG9vcCBbcHJpbWVzIChzaWV2ZSBudW0pLCB0YXJnZXQgbnVtXQogICAgKCkK</text>
+        <text encoding="base64">KHNpZXZlIDExKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CigpCg==</text>
+        <text encoding="base64">KGZhY3RvciAyODEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KGZpbHRlciAjKHplcm8/IChtb2QgKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KGRlZiBwcmltZXMgKHBhcnRpYWwgKHRha2Utd2hpbGUgKHBhcnRpYWwgPiAxMzE5NSkgKGl0ZXJhdGUgKHBhcnRpYWwgKyAyKSAzKSkpKQooZGVmIGYgKGZpbHRlciAjKG9yICg9IDMgJSkgKHplcm8/IChtb2QgJSAzKSkpIHByaW1lcykgKQo=</text>
+        <text encoding="base64">KGRlZm4gZmFjdG9yIFtudW1dCiAgKGZpbHRlciAjKHplcm8/IChtb2QgbnVtICUpKSAoY29uaiAoc2lldmUgbnVtKSAyKSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KHNpZXZlIDIwKQo=</text>
+        <text encoding="base64">ICAgICAgKGlmICg9IG4gdGFyZ2V0KQogICAgICAgIHByaW1lcwogICAgICAgIChyZWN1ciAocmVzdCBwcmltZXMpIChjb25zIChmaWx0ZXIgIyhub3QgKHplcm8/IChtb2QgJSBuKSkpKSBwcmltZXMpKSkpKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIChwcmludGxuIHByaW1lcykK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cih0YWtlIDEwIGYpCg==</text>
+        <text encoding="base64">ICAobG9vcCBbcHJpbWVzIChzaWV2ZSBudW0pLCB0YXJnZXQgbnVtXQogICAgKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KHNpZXZlIDExKQo=</text>
+        <text encoding="base64">CigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

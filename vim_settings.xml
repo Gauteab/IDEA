@@ -318,12 +318,12 @@
       <file name="/Kotlin Console" timestamp="1557260764654">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/uio/in2000/untitled/src/Test.kt" timestamp="1560176672576">
+      <file name="$USER_HOME$/work/uio/in2000/untitled/src/Test.kt" timestamp="1560420625143">
         <mark key="'" line="1" column="23" />
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="21" />
-        <mark key="." line="22" column="21" />
-        <mark key="^" line="22" column="21" />
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="9" column="20" />
       </file>
       <file name="$USER_HOME$/work/uio/in2000/eksamen/src/PersonKt.kt" timestamp="1556874735000">
         <mark key="[" line="6" column="8" />
@@ -701,11 +701,11 @@
       <jump line="22" column="41" filename="$USER_HOME$/moro/cursive_test/src/euler/core.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuIG1haW4oKSB7CiAgICBwcmludGxuKGVwMig0XzAwMF8wMDApKQp9Cgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGl0LnNlY29uZCB0byBpdC5maXJzdCArIGl0LnNlY29uZCA=</text>
       </register>
       <register name="-" type="4">
-        <text>e1</text>
+        <text encoding="base64">IGl0LnNlY29uZCB0byBpdC5maXJzdCArIGl0LnNlY29uZCA=</text>
       </register>
       <register name="/" type="4">
         <text>map</text>

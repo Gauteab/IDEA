@@ -522,6 +522,19 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="18" column="11" />
       </file>
+      <file name="$USER_HOME$/moro/euler/src/euler/core.clj" timestamp="1560422230135">
+        <mark key="'" line="40" column="20" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="38" column="36" />
+        <mark key="." line="38" column="36" />
+        <mark key="^" line="38" column="36" />
+      </file>
+      <file name="/REPL.clj" timestamp="1560422148846">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/Mikkro_v2/src/no/uio/ifi/asp/parser/expr/AspFactorPrefix.kt" timestamp="1556552691926">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -599,9 +612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="657" column="30" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="39" column="31" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
-      <jump line="50" column="87" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="641" column="11" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="37" column="64" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
       <jump line="528" column="0" filename="$USER_HOME$/work/uio/michagu_gauteab/P6/solution/fs.c" />
@@ -699,55 +709,58 @@
       <jump line="13" column="45" filename="$USER_HOME$/moro/cursive_test/src/euler/core.clj" />
       <jump line="4" column="23" filename="$USER_HOME$/moro/cursive_test/src/euler/core.clj" />
       <jump line="22" column="41" filename="$USER_HOME$/moro/cursive_test/src/euler/core.clj" />
+      <jump line="33" column="17" filename="$USER_HOME$/moro/euler/src/euler/core.clj" />
+      <jump line="20" column="8" filename="$USER_HOME$/moro/euler/src/euler/core.clj" />
+      <jump line="40" column="20" filename="$USER_HOME$/moro/euler/src/euler/core.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGl0LnNlY29uZCB0byBpdC5maXJzdCArIGl0LnNlY29uZCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KGRlZm4gcHJpbWU/IFtudW1dCiAgKGNvbmQKICAgICg9IDIgbnVtKSAgIHRydWUKICAgIChldmVuPyBudW0pIGZhbHNlCiAgICA6ZWxzZSAobG9vcCBbeCAzXQogICAgICAgICAgICAoY29uZAogICAgICAgICAgICAgICg8PSBudW0geCkgdHJ1ZQogICAgICAgICAgICAgICh6ZXJvPyAgICAgKG1vZCBudW0geCkpIGZhbHNlCiAgICAgICAgICAgICAgOmVsc2UgICAgICAocmVjdXIgKCsgMiB4KSkpKSkpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGl0LnNlY29uZCB0byBpdC5maXJzdCArIGl0LnNlY29uZCA=</text>
       </register>
       <register name="/" type="4">
-        <text>map</text>
+        <text>true</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAiRXVsZXIgUHJvamVjdCBQcm9ibGVtIDEiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuIG1haW4oKSB7CiAgICBwcmludGxuKGVwMig0XzAwMF8wMDApKQp9Cgo=</text>
+        <text encoding="base64">KGRlZm4gcHJpbWU/IFtudW1dCiAgKGNvbmQKICAgICg9IDIgbnVtKSAgIHRydWUKICAgIChldmVuPyBudW0pIGZhbHNlCiAgICA6ZWxzZSAobG9vcCBbeCAzXQogICAgICAgICAgICAoY29uZAogICAgICAgICAgICAgICg8PSBudW0geCkgdHJ1ZQogICAgICAgICAgICAgICh6ZXJvPyAgICAgKG1vZCBudW0geCkpIGZhbHNlCiAgICAgICAgICAgICAgOmVsc2UgICAgICAocmVjdXIgKCsgMiB4KSkpKSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KHByaW50bG4gIlByb2JsZW0gMjoiIChlMiA0MDAwMDAwKSkK</text>
+        <text encoding="base64">ICAgIChpZiAoemVybz8gKG1vZCBudW0gMykpCiAgICAgIGZhbHNlCiAgICAgIChyZWN1ciAoKyB4IDIpKSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAobG9vcCBbeCAzXQogICAgKGlmICh6ZXJvPyAobW9kIG51bSAzKSkgCiAgICAgIGZhbHNlCiAgICAgIChyZWN1ciAoKyB4IDIpKSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">ZnVuIG1haW4oKSB7CiAgICBwcmludGxuKGVwMig0XzAwMF8wMDApKQp9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KGRlZm4gZiBbeF0KICAoc29tZSB6ZXJvPyAobWFwIChwYXJ0aWFsIG1vZCB4KSBbMyA1XSkpCg==</text>
+        <text encoding="base64">KHByaW50bG4gIlByb2JsZW0gMjoiIChlMiA0MDAwMDAwKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KHByaW50bG4gIlByb2JsZW0gMToiIChlMSAxMDAwKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAobGV0Zm4gWyhwcmVkIFt4XSAobWFwICMobW9kICUgMykgWzMgNV0pXQo=</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIChtYXAgZmlyc3QpCg==</text>
+        <text encoding="base64">KGRlZm4gZiBbeF0KICAoc29tZSB6ZXJvPyAobWFwIChwYXJ0aWFsIG1vZCB4KSBbMyA1XSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIChpdGVyYXRlKQo=</text>
+        <text encoding="base64">KHByaW50bG4gIlByb2JsZW0gMToiIChlMSAxMDAwKSkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>map</last-search>
+      <last-search>true</last-search>
       <last-offset />
-      <last-pattern>map</last-pattern>
+      <last-pattern>true</last-pattern>
       <last-replace>()</last-replace>
       <last-substitute>\(s\)</last-substitute>
       <last-dir>1</last-dir>
@@ -755,7 +768,6 @@
     </search>
     <history>
       <history-search>
-        <entry>open</entry>
         <entry>fs_open</entry>
         <entry>name2inode</entry>
         <entry>stat</entry>
@@ -775,6 +787,7 @@
         <entry>y</entry>
         <entry>pre</entry>
         <entry>map</entry>
+        <entry>true</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>

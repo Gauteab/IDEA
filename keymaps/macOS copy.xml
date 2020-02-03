@@ -2,59 +2,13 @@
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
-  <action id="ActivateJupyterToolWindow">
-    <keyboard-shortcut first-keystroke="meta alt j" />
-  </action>
   <action id="ActivateStructureToolWindow" />
-  <action id="ChangesView.Move" />
-  <action id="CommentByBlockComment">
-    <keyboard-shortcut first-keystroke="meta alt slash" />
-    <keyboard-shortcut first-keystroke="shift ctrl slash" />
-    <keyboard-shortcut first-keystroke="shift meta slash" />
-    <keyboard-shortcut first-keystroke="shift meta divide" />
-    <keyboard-shortcut first-keystroke="shift meta divide" />
-  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta 7" />
-  </action>
-  <action id="EditorCutLineEnd" />
-  <action id="EditorIncreaseFontSize">
-    <keyboard-shortcut first-keystroke="meta add" />
-  </action>
-  <action id="ExpandAll">
-    <keyboard-shortcut first-keystroke="meta equals" />
-  </action>
-  <action id="ExpandExpandableComponent">
-    <keyboard-shortcut first-keystroke="shift enter" />
-    <keyboard-shortcut first-keystroke="meta equals" />
-  </action>
-  <action id="ExpandRegion">
-    <keyboard-shortcut first-keystroke="meta equals" />
-  </action>
-  <action id="ExternalSystem.ExpandAll">
-    <keyboard-shortcut first-keystroke="meta equals" />
-  </action>
-  <action id="GotoAction" />
-  <action id="Images.Editor.ZoomIn">
-    <keyboard-shortcut first-keystroke="meta equals" />
-  </action>
-  <action id="JupyterSelectCellAboveAction">
-    <keyboard-shortcut first-keystroke="ctrl up" />
-    <keyboard-shortcut first-keystroke="ctrl k" />
-  </action>
-  <action id="JupyterSelectCellBelowAction">
-    <keyboard-shortcut first-keystroke="ctrl down" />
-    <keyboard-shortcut first-keystroke="ctrl j" />
-  </action>
-  <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="f1" />
-    <mouse-shortcut keystroke="control button2" />
   </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
-  <action id="SurroundWithLiveTemplate" />
-  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>

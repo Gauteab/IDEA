@@ -1,6 +1,7 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
+    <keyboard-shortcut first-keystroke="ctrl meta g" />
   </action>
   <action id="ActivateStructureToolWindow" />
   <action id="CommentByLineComment">
@@ -13,6 +14,7 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
+  <action id="SelectAllOccurrences" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>

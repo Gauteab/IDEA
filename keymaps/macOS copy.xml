@@ -7,9 +7,34 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
+  <action id="DSM.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="ExternalSystem.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta a" />
     <keyboard-shortcut first-keystroke="ctrl meta alt a" />
+  </action>
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="Maven.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta equals" />
   </action>
   <action id="MethodDown" />
   <action id="MethodUp" />

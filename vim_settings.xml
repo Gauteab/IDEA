@@ -170,7 +170,8 @@
         <mark key="." line="184" column="0" />
         <mark key="^" line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/uio/master/playground/src/Main.elm" timestamp="1587810335663">
+      <file name="$USER_HOME$/uio/master/playground/src/Main.elm" timestamp="1587810743662">
+        <mark key="'" line="66" column="0" />
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
@@ -209,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="16" filename="$USER_HOME$/monads/src/Main.elm" />
       <jump line="166" column="67" filename="$USER_HOME$/monads/src/Main.elm" />
       <jump line="226" column="5" filename="$USER_HOME$/monads/src/Main.elm" />
       <jump line="7" column="4" filename="$USER_HOME$/uio/in4060/assignment4/family.ttl" />
@@ -309,6 +309,7 @@
       <jump line="17" column="0" filename="$USER_HOME$/uio/master/playground/src/Main.elm" />
       <jump line="61" column="4" filename="$USER_HOME$/uio/master/playground/src/Main.elm" />
       <jump line="50" column="0" filename="$USER_HOME$/uio/master/playground/src/Main.elm" />
+      <jump line="66" column="0" filename="$USER_HOME$/uio/master/playground/src/Main.elm" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">

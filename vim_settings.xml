@@ -4,6 +4,56 @@
       <key-repeat enabled="true" />
     </editor>
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>A</entry>
+        <entry>a2</entry>
+        <entry>--</entry>
+        <entry>fa</entry>
+        <entry>e)</entry>
+        <entry>Ap</entry>
+        <entry>app</entry>
+        <entry>map2</entry>
+        <entry>J</entry>
+        <entry>un</entry>
+        <entry encoding="base64">YSA=</entry>
+        <entry>h</entry>
+        <entry>la</entry>
+        <entry encoding="base64">XDxyb3dcPg==</entry>
+        <entry encoding="base64">XDxjb2x1bW5cPg==</entry>
+        <entry encoding="base64">XDxhbGlnblRvcFw+</entry>
+        <entry>v</entry>
+        <entry encoding="base64">ZiA=</entry>
+        <entry encoding="base64">XDxFbGVtZW50XD4=</entry>
+        <entry>tree</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set commentary</entry>
+        <entry>set easymotion</entry>
+        <entry>actionlist</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry encoding="base64">JzwsJz5zL3hzZC9mYW0vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2ZhbS9yZGYvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2ZhbS9mb2FmL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2ZhbS9zaW0vZw==</entry>
+        <entry encoding="base64">JzwsJz5zLywvXHIvZw==</entry>
+        <entry>ALEToggle</entry>
+        <entry encoding="base64">JzwsJz5zL2YvdA==</entry>
+        <entry>e family.ttl</entry>
+        <entry>e family</entry>
+        <entry>e O</entry>
+        <entry>e oblig4</entry>
+        <entry>e oblig4.md</entry>
+        <entry>qa</entry>
+        <entry>vs</entry>
+        <entry encoding="base64">JzwsJz5zL3RyZWUvbm9kZQ==</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -52,6 +102,300 @@
         <text>ctrl pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/uio/in4060/assignment2/src/Simpsons.java" timestamp="1582660988286">
+        <mark key="'" line="0" column="1" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1578043512464">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/uio/AccessibleEditor/src/Main.elm" timestamp="1579500922917">
+        <mark key="'" line="531" column="1" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/uio/in4060/assignment4/src/Oblig4.java" timestamp="1582911874028">
+        <mark key="'" line="32" column="14" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="53" />
+        <mark key="." line="38" column="7" />
+        <mark key="^" line="38" column="7" />
+      </file>
+      <file name="$USER_HOME$/monads/src/State.elm" timestamp="1587456414548">
+        <mark key="'" line="3" column="5" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/uio/elm-compiler/compiler/src/AST/Source.hs" timestamp="1583473591955">
+        <mark key="'" line="188" column="2" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="124" column="0" />
+      </file>
+      <file name="$USER_HOME$/uio/master/playground/src/Test.elm" timestamp="1587749834709">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/uio/in4060/assignment4/src/simpsons.ttl" timestamp="1582910282520">
+        <mark key="'" line="67" column="38" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/optics-exercises/app/Main.hs" timestamp="1583822344531">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/AccessibleEditor/tests/VerifyExamples/Main.elm" timestamp="1578122072906">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/monads/src/Main.elm" timestamp="1587644697025">
+        <mark key="'" line="52" column="23" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="." line="184" column="0" />
+        <mark key="^" line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/uio/master/playground/src/Main.elm" timestamp="1587810335663">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/AccessibleEditor/src/Main.elm" timestamp="1579413583625">
+        <mark key="'" line="230" column="12" />
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="232" column="0" />
+        <mark key="." line="232" column="0" />
+      </file>
+      <file name="$USER_HOME$/uio/in4060/assignment4/family.ttl" timestamp="1582911227677">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="64" column="15" />
+        <mark key="]" line="64" column="15" />
+        <mark key="." line="64" column="17" />
+        <mark key="^" line="45" column="25" />
+      </file>
+      <file name="/Elm Fragment (Main.elm:1822).elm" timestamp="1578042904602">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/uio/in4060/assignment4/query.rq" timestamp="1582906865460">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="35" />
+        <mark key="." line="11" column="35" />
+        <mark key="^" line="9" column="13" />
+      </file>
+      <file name="$USER_HOME$/AccessibleEditor/tests/Tests.elm" timestamp="1578895461602">
+        <mark key="'" line="29" column="70" />
+        <mark key="[" line="32" column="52" />
+        <mark key="]" line="32" column="52" />
+        <mark key="^" line="32" column="53" />
+        <mark key="." line="32" column="52" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="172" column="16" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="166" column="67" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="226" column="5" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="7" column="4" filename="$USER_HOME$/uio/in4060/assignment4/family.ttl" />
+      <jump line="4" column="1" filename="$USER_HOME$/uio/in4060/assignment4/family.ttl" />
+      <jump line="49" column="0" filename="$USER_HOME$/uio/in4060/assignment4/family.ttl" />
+      <jump line="78" column="4" filename="$USER_HOME$/uio/in4060/assignment4/family.ttl" />
+      <jump line="0" column="0" filename="$USER_HOME$/uio/in4060/assignment4/family.ttl" />
+      <jump line="11" column="29" filename="$USER_HOME$/uio/in4060/assignment4/src/Oblig4.java" />
+      <jump line="26" column="14" filename="$USER_HOME$/uio/in4060/assignment4/src/Oblig4.java" />
+      <jump line="6" column="6" filename="$USER_HOME$/uio/in4060/assignment4/src/simpsons.ttl" />
+      <jump line="28" column="35" filename="$USER_HOME$/uio/in4060/assignment4/family.ttl" />
+      <jump line="62" column="38" filename="$USER_HOME$/uio/in4060/assignment4/family.ttl" />
+      <jump line="72" column="4" filename="$USER_HOME$/uio/in4060/assignment4/family.ttl" />
+      <jump line="23" column="4" filename="$USER_HOME$/uio/in4060/assignment4/family.ttl" />
+      <jump line="32" column="27" filename="$USER_HOME$/uio/in4060/assignment4/family.ttl" />
+      <jump line="43" column="27" filename="$USER_HOME$/uio/in4060/assignment4/family.ttl" />
+      <jump line="9" column="4" filename="$USER_HOME$/uio/in4060/assignment4/query.rq" />
+      <jump line="11" column="9" filename="$USER_HOME$/uio/in4060/assignment4/query.rq" />
+      <jump line="44" column="28" filename="$USER_HOME$/uio/in4060/assignment4/family.ttl" />
+      <jump line="67" column="38" filename="$USER_HOME$/uio/in4060/assignment4/src/simpsons.ttl" />
+      <jump line="59" column="0" filename="$USER_HOME$/uio/in4060/assignment4/family.ttl" />
+      <jump line="52" column="7" filename="$USER_HOME$/uio/elm-compiler/compiler/src/AST/Source.hs" />
+      <jump line="54" column="29" filename="$USER_HOME$/uio/elm-compiler/compiler/src/AST/Source.hs" />
+      <jump line="188" column="2" filename="$USER_HOME$/uio/elm-compiler/compiler/src/AST/Source.hs" />
+      <jump line="211" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="207" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="139" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="124" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="128" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="72" column="2" filename="$USER_HOME$/monads/src/State.elm" />
+      <jump line="0" column="0" filename="$USER_HOME$/monads/src/State.elm" />
+      <jump line="1" column="1" filename="$USER_HOME$/monads/src/State.elm" />
+      <jump line="3" column="5" filename="$USER_HOME$/monads/src/State.elm" />
+      <jump line="59" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="97" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="117" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="132" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="147" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="182" column="7" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="215" column="43" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="126" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="131" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="224" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="213" column="6" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="179" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="154" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="231" column="19" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="127" column="14" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="110" column="14" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="157" column="4" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="191" column="2" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="192" column="2" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="203" column="11" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="142" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="144" column="19" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="240" column="23" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="151" column="8" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="209" column="11" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="129" column="7" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="143" column="9" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="134" column="8" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="140" column="11" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="233" column="61" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="120" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="125" column="16" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="123" column="38" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="243" column="6" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="263" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="275" column="4" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="145" column="4" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="0" column="24" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="169" column="28" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="168" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="190" column="4" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="171" column="5" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="102" column="2" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="103" column="2" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="236" column="16" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="237" column="26" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="238" column="26" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="69" column="8" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="64" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="62" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="61" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="57" column="0" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="65" column="32" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="119" column="10" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="50" column="23" filename="$USER_HOME$/monads/src/Main.elm" />
+      <jump line="21" column="0" filename="$USER_HOME$/uio/master/playground/src/Main.elm" />
+      <jump line="35" column="28" filename="$USER_HOME$/uio/master/playground/src/Main.elm" />
+      <jump line="38" column="12" filename="$USER_HOME$/uio/master/playground/src/Main.elm" />
+      <jump line="40" column="18" filename="$USER_HOME$/uio/master/playground/src/Main.elm" />
+      <jump line="51" column="24" filename="$USER_HOME$/uio/master/playground/src/Main.elm" />
+      <jump line="52" column="41" filename="$USER_HOME$/uio/master/playground/src/Main.elm" />
+      <jump line="44" column="41" filename="$USER_HOME$/uio/master/playground/src/Main.elm" />
+      <jump line="32" column="0" filename="$USER_HOME$/uio/master/playground/src/Main.elm" />
+      <jump line="17" column="0" filename="$USER_HOME$/uio/master/playground/src/Main.elm" />
+      <jump line="61" column="4" filename="$USER_HOME$/uio/master/playground/src/Main.elm" />
+      <jump line="50" column="0" filename="$USER_HOME$/uio/master/playground/src/Main.elm" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dHlwZSBNb2RlCiAgICA9IE5vcm1hbAo=</text>
+      </register>
+      <register name="b" type="4">
+        <keys>
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="i" type="4">
+        <text />
+      </register>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAsIHN1YnNjcmlwdGlvbnMgPSBceCAtPiBCcm93c2VyLkV2ZW50cy5vbktleURvd24gKCkK</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IG9uS2V5RG93biAoSnNvbi5EZWNvZGUubWFwIEhhbmRsZUtleWJvYXJkRXZlbnQgZGVjb2RlS2V5Ym9hcmRFdmVudCk=</text>
+      </register>
+      <register name="/" type="4">
+        <text>tree</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">bWFpbiA=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAsIHN1YnNjcmlwdGlvbnMgPSBceCAtPiBCcm93c2VyLkV2ZW50cy5vbktleURvd24gKCkK</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="97" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="101" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEpzb24K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">eCA9CiAgICAxCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">bWFpbiA6IE1zZwptYWluID0KICAgIHsgdmlldyA9IHZpZXcsIHVwZGF0ZSA9IHVwZGF0ZSwgaW5pdCA9IGluaXQgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEVsZW1lbnQubGF5b3V0IFtdIDx8CiAgICAgICAgcmVuZGVyIChaaXBwZXIucm9vdCB6IHw+IFppcHBlci50cmVlKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">fDhnCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">bWFwTGFzdCBnIGxpc3QgPQogICAgY2FzZSBsaXN0IG9mCiAgICAgICAgW10gLT4KICAgICAgICAgICAgW10KCiAgICAgICAgWyB4IF0gLT4KICAgICAgICAgICAgWyBnIHggXQoKICAgICAgICB4IDo6IHhzIC0+CiAgICAgICAgICAgIHggOjogbWFwTGFzdCBnIHhzCg==</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ZWwgWyBdICh0ZXh0ICIoIiksIGxhYmVsIF0KICAgICAgICAgICAgICAgICwgY29sdW1uIFtdIDx8IG1hcExhc3QgKFx2IC0+IHJvdyBbXSBbIHYsIGVsIFsgYWxpZ25Cb3R0b20gXSAodGV4dCAiKSIpIF0pIGNoaWxkcmVuCiAgICAgICAgICAgICAgICBdCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZyA6IFRyZWUgU3RyaW5nIC0+IFN0cmluZwpnIHYgPQogICAgVHJlZS5sYWJlbCB2CgoK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>tree</last-search>
+      <last-offset />
+      <last-pattern>tree</last-pattern>
+      <last-replace>node</last-replace>
+      <last-substitute>tree</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />

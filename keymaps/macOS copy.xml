@@ -13,6 +13,9 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
+  <action id="Elm.NewFile">
+    <keyboard-shortcut first-keystroke="meta n" second-keystroke="e" />
+  </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
@@ -26,6 +29,10 @@
   <action id="ExternalSystem.ExpandAll">
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
+  <action id="FileChooser.NewFolder" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta a" />
     <keyboard-shortcut first-keystroke="ctrl meta alt a" />
@@ -38,6 +45,9 @@
   </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
